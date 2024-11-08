@@ -1,0 +1,521 @@
+[
+    {
+        "id": 1850550854366924926,
+        "created_at": "2024-10-27T14:51:19+00:00",
+        "text": "„Prawo i Sprawiedliwość” i „Razem” - te nazwy partii wymyślił ktoś obdarzony nieprzeciętnym poczuciem humoru. Czarnego.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 1914,
+            "reply_count": 3194,
+            "like_count": 14338,
+            "quote_count": 395,
+            "bookmark_count": 220,
+            "impression_count": 1392585
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": null,
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1850280995955617867,
+        "created_at": "2024-10-26T20:59:00+00:00",
+        "text": "Lewandowski MVP kapitalnego El Clásico. To jeden z najlepszych występów polskiego piłkarza. Fajna chwila oddechu od polityki.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 476,
+            "reply_count": 1293,
+            "like_count": 10399,
+            "quote_count": 60,
+            "bookmark_count": 74,
+            "impression_count": 519425
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": null,
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1850176590728094081,
+        "created_at": "2024-10-26T14:04:08+00:00",
+        "text": "Wspólna strategia Koalicji 15X na wybory prezydenckie musi być zbudowana na trzech fundamentach: partie wystawiają najlepszych kandydatów, nie atakujemy swoich w I turze, wszyscy popieramy (jednoznacznie!) tego, kto przejdzie do II tury. Wygrać utrzymując jedność - to nasz cel.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 1739,
+            "reply_count": 1989,
+            "like_count": 10167,
+            "quote_count": 238,
+            "bookmark_count": 97,
+            "impression_count": 631709
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": null,
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1797204839715188815,
+        "created_at": "2024-06-02T09:53:18+00:00",
+        "text": "4 czerwca na Placu Zamkowym w Warszawie i 9 czerwca przy urnach w całej Polsce pokażmy, że nam wciąż bardzo zależy. Na Polsce, na Europie, na uczciwej demokracji i rozliczeniu zła. Mi zależy, bardziej nie może. Przyjdźcie i przekonajcie wątpiących, słabnących i kombinujących.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 1796,
+            "reply_count": 2405,
+            "like_count": 8840,
+            "quote_count": 177,
+            "bookmark_count": 36,
+            "impression_count": 497455
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": null,
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1796932319300747562,
+        "created_at": "2024-06-01T15:50:24+00:00",
+        "text": "RT @PremierRP: Witamy @lewy_official w #BajkowyOgrodKPRM! ⚽️\n\nTo idealne zakończenie #DzienDziecka w KPRM ❤️ Dziękujemy, że byliście tutaj…",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 356,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "733773741813960704",
+                    "name": "Robert Lewandowski"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Business Taxonomy",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "1557697289971322880",
+                    "name": "Sports & Fitness Business",
+                    "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+                }
+            },
+            {
+                "domain": {
+                    "id": "60",
+                    "name": "Athlete",
+                    "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                },
+                "entity": {
+                    "id": "733773741813960704",
+                    "name": "Robert Lewandowski"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "733756536430809088",
+                    "name": "Soccer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "733773741813960704",
+                    "name": "Robert Lewandowski"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847900493514891265",
+                    "name": "Sports",
+                    "description": "Sports"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 39,
+                    "end": 56,
+                    "tag": "BajkowyOgrodKPRM"
+                },
+                {
+                    "start": 85,
+                    "end": 98,
+                    "tag": "DzienDziecka"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "PremierRP",
+                    "id": "57626153"
+                },
+                {
+                    "start": 22,
+                    "end": 36,
+                    "username": "lewy_official",
+                    "id": "2330223926"
+                }
+            ]
+        },
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+            
