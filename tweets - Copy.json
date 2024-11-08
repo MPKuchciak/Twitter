@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1721613967498387886,
+        "created_at": "2023-11-06T19:42:10+00:00",
+        "text": "Ich już nie ma. https://t.co/PWfyzKkZyA",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 2341,
+            "reply_count": 1716,
+            "like_count": 12439,
+            "quote_count": 249,
+            "bookmark_count": 69,
+            "impression_count": 609559
+        }
+    },
+    {
+        "id": 1720892929512988968,
+        "created_at": "2023-11-04T19:57:01+00:00",
+        "text": "Nie dzwoń już więcej, Mateusz. Mamy komplet ministrów.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 3759,
+            "reply_count": 3438,
+            "like_count": 37986,
+            "quote_count": 544,
+            "bookmark_count": 169,
+            "impression_count": 1647648
+        }
+    },
+    {
+        "id": 1719378456910221417,
+        "created_at": "2023-10-31T15:39:03+00:00",
+        "text": "Meldunek od serca. https://t.co/Lrrk7T3KAC",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 2660,
+            "reply_count": 2375,
+            "like_count": 12099,
+            "quote_count": 336,
+            "bookmark_count": 59,
+            "impression_count": 1173415
+        }
+    }
+]

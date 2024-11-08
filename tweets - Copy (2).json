@@ -1,0 +1,907 @@
+[
+    {
+        "id": 1721613967498387886,
+        "created_at": "2023-11-06T19:42:10+00:00",
+        "text": "Ich już nie ma. https://t.co/PWfyzKkZyA",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 2341,
+            "reply_count": 1716,
+            "like_count": 12439,
+            "quote_count": 249,
+            "bookmark_count": 69,
+            "impression_count": 609559
+        }
+    },
+    {
+        "id": 1720892929512988968,
+        "created_at": "2023-11-04T19:57:01+00:00",
+        "text": "Nie dzwoń już więcej, Mateusz. Mamy komplet ministrów.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 3759,
+            "reply_count": 3438,
+            "like_count": 37986,
+            "quote_count": 544,
+            "bookmark_count": 169,
+            "impression_count": 1647648
+        }
+    },
+    {
+        "id": 1719378456910221417,
+        "created_at": "2023-10-31T15:39:03+00:00",
+        "text": "Meldunek od serca. https://t.co/Lrrk7T3KAC",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 2660,
+            "reply_count": 2375,
+            "like_count": 12099,
+            "quote_count": 336,
+            "bookmark_count": 59,
+            "impression_count": 1173415
+        }
+    },
+    {
+        "id": 1854099489596071949,
+        "created_at": "2024-11-06T09:52:20+00:00",
+        "text": "Congratulations to @realDonaldTrump on winning the election. I look forward to our cooperation for the good of the American and Polish nations🇵🇱🇺🇸",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 1000,
+            "reply_count": 4285,
+            "like_count": 15983,
+            "quote_count": 372,
+            "bookmark_count": 305,
+            "impression_count": 1134358
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Real world events. "
+                },
+                "entity": {
+                    "id": "1665772587467653121",
+                    "name": "2024 US Presidential Election",
+                    "description": "2024 US Presidential Election"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Real world events. "
+                },
+                "entity": {
+                    "id": "1849514207546355712",
+                    "name": "2024 US Election Day"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1291447199595782144",
+                    "name": "United States politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1665772587467653121",
+                    "name": "2024 US Presidential Election",
+                    "description": "2024 US Presidential Election"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "start": 19,
+                    "end": 35,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ]
+        },
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "en",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1853195011413696932,
+        "created_at": "2024-11-03T21:58:16+00:00",
+        "text": "Mimo agresywnej i masywnej ingerencji Rosji w mołdawskie wybory prezydenckie Maia Sandu najprawdopodobniej pokonała faworyta Moskwy. Miejmy nadzieję, że ten trend utrzyma się przez najbliższe dni i miesiące także w innych krajach.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 1476,
+            "reply_count": 1330,
+            "like_count": 11797,
+            "quote_count": 69,
+            "bookmark_count": 64,
+            "impression_count": 415429
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": null,
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1852701257267318972,
+        "created_at": "2024-11-02T13:16:15+00:00",
+        "text": "Harris or Trump? Some claim that the future of Europe depends on the American elections, while it depends first and foremost on us. On condition Europe finally grows up and believes in its own strength. Whatever the outcome, the era of geopolitical outsourcing is over.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 5555,
+            "reply_count": 2442,
+            "like_count": 29662,
+            "quote_count": 830,
+            "bookmark_count": 744,
+            "impression_count": 2154079
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Real world events. "
+                },
+                "entity": {
+                    "id": "1665772587467653121",
+                    "name": "2024 US Presidential Election",
+                    "description": "2024 US Presidential Election"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "45th US President, Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1291447199595782144",
+                    "name": "United States politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1665772587467653121",
+                    "name": "2024 US Presidential Election",
+                    "description": "2024 US Presidential Election"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            },
+            {
+                "domain": {
+                    "id": "29",
+                    "name": "Events [Entity Service]",
+                    "description": "Real world events. "
+                },
+                "entity": {
+                    "id": "1836137739353292800",
+                    "name": "2024 US Election",
+                    "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n"
+                }
+            }
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 5,
+                    "probability": 0.8933,
+                    "type": "Person",
+                    "normalized_text": "Harris"
+                },
+                {
+                    "start": 10,
+                    "end": 14,
+                    "probability": 0.9776,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 47,
+                    "end": 52,
+                    "probability": 0.9605,
+                    "type": "Place",
+                    "normalized_text": "Europe"
+                },
+                {
+                    "start": 145,
+                    "end": 150,
+                    "probability": 0.9654,
+                    "type": "Place",
+                    "normalized_text": "Europe"
+                }
+            ]
+        },
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "en",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1852083177797374230,
+        "created_at": "2024-10-31T20:20:14+00:00",
+        "text": "Budowa Tarczy Wschód ruszyła! Pierwsze roboty przy granicy z Rosją. https://t.co/2B6glKESx7",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 1171,
+            "reply_count": 2135,
+            "like_count": 9934,
+            "quote_count": 198,
+            "bookmark_count": 130,
+            "impression_count": 941552
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/2B6glKESx7",
+                    "expanded_url": "https://x.com/donaldtusk/status/1852083177797374230/photo/1",
+                    "display_url": "pic.x.com/2B6glKESx7",
+                    "media_key": "3_1852083170096652289"
+                }
+            ]
+        },
+        "in_reply_to_user_id": null,
+        "attachments": {
+            "media_keys": [
+                "3_1852083170096652289"
+            ]
+        },
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1852030995685376313,
+        "created_at": "2024-10-31T16:52:53+00:00",
+        "text": "Do premiera Morawieckiego zaczyna właśnie docierać, co znaczy „Red is bad”. I dla kogo.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 1835,
+            "reply_count": 2234,
+            "like_count": 12094,
+            "quote_count": 151,
+            "bookmark_count": 81,
+            "impression_count": 543383
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": null,
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1851571875505135943,
+        "created_at": "2024-10-30T10:28:30+00:00",
+        "text": "Bądźcie, proszę, wyrozumiali wobec Pana Prezydenta i jego dziwnych, agresywnych wypowiedzi. Wy też na jego miejscu bylibyście coraz bardziej zdenerwowani.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 2351,
+            "reply_count": 3574,
+            "like_count": 16324,
+            "quote_count": 275,
+            "bookmark_count": 128,
+            "impression_count": 800821
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": null,
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    },
+    {
+        "id": 1851180801804660960,
+        "created_at": "2024-10-29T08:34:31+00:00",
+        "text": "KO dzisiaj w dwóch badaniach (CBOS i United Surveys) u zdecydowanych wyborców osiągnęła 37 proc. Wiem, to tylko sondaże i jutro mogą być inne, ale mam dziś taką trochę chłopięcą satysfakcję, kiedy wyobrażam sobie miny ekspertów od sufitu Tuska (max 20%). Zaraz mi minie, obiecuję.",
+        "author_id": 375146901,
+        "public_metrics": {
+            "retweet_count": 1457,
+            "reply_count": 2334,
+            "like_count": 10445,
+            "quote_count": 138,
+            "bookmark_count": 77,
+            "impression_count": 614337
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847091557232664576",
+                    "name": "Donald Tusk",
+                    "description": "Donald Tusk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "847878884917886977",
+                    "name": "Politics",
+                    "description": "Politics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "131",
+                    "name": "Unified Twitter Taxonomy",
+                    "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                    "id": "1070032753834438656",
+                    "name": "Political figures",
+                    "description": "Politician"
+                }
+            }
+        ],
+        "entities": null,
+        "in_reply_to_user_id": null,
+        "attachments": null,
+        "geo": null,
+        "lang": "pl",
+        "source": null,
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": null
+    }
+]
