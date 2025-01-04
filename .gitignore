@@ -1,0 +1,5 @@
+# Ignore all .json files 
+*.json 
+ 
+# Ignore the NEW folder and all its contents 
+NEW/ 
