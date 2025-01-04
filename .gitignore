@@ -1,17 +1,5 @@
-# Ignore Jupyter Notebook files
-*.ipynb
+# Ignore all .json files
+*.json
 
-# Ignore Python cache files
-__pycache__/
-*.py[cod]
-
-# Ignore virtual environments
-venv/
-.env/
-
-# Ignore log files
-*.log
-
-# Ignore OS-specific files
-.DS_Store
-Thumbs.db
+# Ignore the NEW folder and all its contents
+NEW/
