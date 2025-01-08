@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1873801087863709831",
+    "author_id": "897947522",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1873793926634885589"
+      }
+    ],
+    "edit_history_tweet_ids": [
+      "1873801087863709831"
+    ],
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-12-30 19:39:27+00:00"
+    },
+    "created_at": "2024-12-30T18:39:27.000Z",
+    "text": "RT @donaldtusk: „Pieniędzy nie ma i nie będzie”. Na moje oko tyle wynika z uchwały PKW.",
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "donaldtusk",
+          "id": "375146901"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "reply_settings": "everyone",
+    "public_metrics": {
+      "retweet_count": 2398,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1873801087863709831",
+    "lang": "pl",
+    "category": "Retweet"
+  },
+  {
+    "id": "1873736331580592560",
+    "author_id": "897947522",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1873733607120142403"
+      }
+    ],
+    "edit_history_tweet_ids": [
+      "1873736331580592560"
+    ],
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-12-30 15:22:08+00:00"
+    },
+    "created_at": "2024-12-30T14:22:08.000Z",
+    "text": "RT @Anna1590963: @e_wrzosek https://t.co/18wKigJJCE",
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Anna1590963",
+          "id": "1715704951177908224"
+        },
+        {
+          "start": 17,
+          "end": 27,
+          "username": "e_wrzosek",
+          "id": "713747511123566592"
+        }
+      ],
+      "urls": [
+        {
+          "start": 28,
+          "end": 51,
+          "url": "https://t.co/18wKigJJCE",
+          "expanded_url": "https://x.com/Anna1590963/status/1873733432028827711",
+          "display_url": "x.com/Anna1590963/st…"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "public_metrics": {
+      "retweet_count": 82,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1873736331580592560",
+    "lang": "qme",
+    "category": "Retweet"
+  },
+  {
+    "id": "1873711818813706280",
+    "author_id": "897947522",
+    "edit_history_tweet_ids": [
+      "1873711078133145902",
+      "1873711818813706280"
+    ],
+    "edit_controls": {
+      "edits_remaining": 4,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-30 13:41:47+00:00"
+    },
+    "created_at": "2024-12-30T12:44:44.000Z",
+    "text": "W obszernej relacji o prezydenturze Jimmy Cartera PAP \"zapomniała\" o jego wizycie w Warszawie. Może dlatego, że za czasów rządów Edwarda Gierka Polskę odwiedziło aż trzech prezydentów Stanów Zjednoczonych. Na przełomie maja i czerwca 1972 r. gościł Richard Nixon, trzy lata… https://t.co/t5b2Xifru6",
+    "possibly_sensitive": false,
+    "entities": {
+      "urls": [
+        {
+          "start": 275,
+          "end": 298,
+          "url": "https://t.co/t5b2Xifru6",
+          "expanded_url": "https://x.com/i/web/status/1873711818813706280",
+          "display_url": "x.com/i/web/status/1…"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 22,
+      "like_count": 150,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 9702
+    },
+    "conversation_id": "1873711818813706280",
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "id": "1873698495930179724",
+    "author_id": "897947522",
+    "attachments": {
+      "media_source_tweet_id": [
+        "1873511396169969808",
+        "1873511396169969808"
+      ],
+      "media_keys": [
+        "7_1873511387030319104",
+        "3_1873511387030269952"
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1873511396169969808"
+      }
+    ],
+    "edit_history_tweet_ids": [
+      "1873698495930179724"
+    ],
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-12-30 12:51:47+00:00"
+    },
+    "created_at": "2024-12-30T11:51:47.000Z",
+    "text": "RT @zawadiakau: uwaga, jest spierdolina do znalezienia https://t.co/gNFRiBYIuX",
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "zawadiakau",
+          "id": "1143406148600684544"
+        }
+      ],
+      "urls": [
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/gNFRiBYIuX",
+          "expanded_url": "https://x.com/zawadiakau/status/1873511396169969808/video/1",
+          "display_url": "pic.x.com/gNFRiBYIuX",
+          "media_key": "7_1873511387030319104"
+        },
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/gNFRiBYIuX",
+          "expanded_url": "https://x.com/zawadiakau/status/1873511396169969808/video/1",
+          "display_url": "pic.x.com/gNFRiBYIuX",
+          "media_key": "3_1873511387030269952"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696940178935808",
+          "name": "Gaming Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+        }
+      }
+    ],
+    "reply_settings": "everyone",
+    "public_metrics": {
+      "retweet_count": 1155,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1873698495930179724",
+    "lang": "pl",
+    "category": "Retweet"
+  },
+  {
+    "id": "1873696277239943429",
+    "author_id": "897947522",
+    "edit_history_tweet_ids": [
+      "1873696277239943429"
+    ],
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-30 12:42:58+00:00"
+    },
+    "created_at": "2024-12-30T11:42:58.000Z",
+    "text": "Miller z prognozą na 2025 r. https://t.co/GWBJ6m0Gmi Sądzę, że nastąpi przełom i dojdzie do zakończenia wojny na Ukrainie, a prezydent Trump otrzyma pokojową nagrodę Nobla.",
+    "possibly_sensitive": false,
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "799022225751871488",
+          "name": "Donald Trump",
+          "description": "45th US President, Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election",
+          "description": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "799022225751871488",
+          "name": "Donald Trump",
+          "description": "45th US President, Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "799022225751871488",
+          "name": "Donald Trump",
+          "description": "45th US President, Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election",
+          "description": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1836137739353292800",
+          "name": "2024 US Election",
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n"
+        }
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 29,
+          "end": 52,
+          "url": "https://t.co/GWBJ6m0Gmi",
+          "expanded_url": "https://www.fakt.pl/polityka/miller-z-prognoza-na-2025-r-zaskakujace-czego-sie-spodziewa/t83d1kx",
+          "display_url": "fakt.pl/polityka/mille…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1873692527112679424/QEY7T8pE?format=jpg&name=orig",
+              "width": 1200,
+              "height": 670
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1873692527112679424/QEY7T8pE?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Miller z prognozą na 2025 r. Optymistycznie patrzy na sytuację w Ukrainie",
+          "description": "Niewiele godzin pozostało do zakończenia 2024 r. Analitycy polityczni zachodzą w głowę, co może przynieść nowy, 2025 r. \"Fakt\" z tym...",
+          "unwound_url": "https://www.fakt.pl/polityka/miller-z-prognoza-na-2025-r-zaskakujace-czego-sie-spodziewa/t83d1kx"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 80,
+      "like_count": 168,
+      "quote_count": 6,
+      "bookmark_count": 4,
+      "impression_count": 12560
+    },
+    "conversation_id": "1873696277239943429",
+    "lang": "pl",
+    "category": "Original"
+  }
+]
