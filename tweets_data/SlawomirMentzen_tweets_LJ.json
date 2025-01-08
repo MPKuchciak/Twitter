@@ -1,0 +1,278 @@
+[
+  {
+    "in_reply_to_user_id": "3242182113",
+    "created_at": "2025-01-07T18:44:16.000Z",
+    "public_metrics": {
+      "retweet_count": 28,
+      "reply_count": 66,
+      "like_count": 2332,
+      "quote_count": 6,
+      "bookmark_count": 11,
+      "impression_count": 51968
+    },
+    "author_id": "3242182113",
+    "text": "No ludzie! Napisałem Afroamerykanami, a nie Murzynami, bo Musk jest Afroamerykaninem, a nie Murzynem :)",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-01-07 19:44:16+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1876698719753502965"
+      }
+    ],
+    "reply_settings": "everyone",
+    "conversation_id": "1876698719753502965",
+    "possibly_sensitive": false,
+    "lang": "pl",
+    "id": "1876701404145844611",
+    "edit_history_tweet_ids": [
+      "1876701404145844611"
+    ],
+    "category": "Reply"
+  },
+  {
+    "created_at": "2025-01-07T18:33:36.000Z",
+    "public_metrics": {
+      "retweet_count": 366,
+      "reply_count": 302,
+      "like_count": 5989,
+      "quote_count": 10,
+      "bookmark_count": 52,
+      "impression_count": 141194
+    },
+    "author_id": "3242182113",
+    "text": "Zuckerberg bierze przykład z Muska i chce przywrócić wolność słowa na Facebooku!\n\nTylko Polska jak zwykle sto lat za Afroamerykanami. Gdy w USA poszerzają wolność słowa, u nas rząd Tuska chce ją ograniczać swoją ustawą o mowie nienawiści!\n\nNie pozwólmy na to!",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-01-07 19:33:36+00:00"
+    },
+    "reply_settings": "everyone",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "982336316460290049",
+          "name": "Mark Zuckerberg",
+          "description": "Mark Zuckerberg"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "982336316460290049",
+          "name": "Mark Zuckerberg",
+          "description": "Mark Zuckerberg"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1091420346660470784",
+          "name": "Tech personalities",
+          "description": "Tech Professionals"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "1876698719753502965",
+    "possibly_sensitive": false,
+    "lang": "pl",
+    "id": "1876698719753502965",
+    "edit_history_tweet_ids": [
+      "1876698719753502965"
+    ],
+    "category": "Original"
+  },
+  {
+    "created_at": "2025-01-07T17:20:07.000Z",
+    "public_metrics": {
+      "retweet_count": 33,
+      "reply_count": 43,
+      "like_count": 646,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 23366
+    },
+    "author_id": "3242182113",
+    "text": "Jutro o 8:00 będę w @Radio_RMF24! https://t.co/a71oepQ2by",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2025-01-07 18:20:07+00:00"
+    },
+    "reply_settings": "everyone",
+    "entities": {
+      "urls": [
+        {
+          "start": 34,
+          "end": 57,
+          "url": "https://t.co/a71oepQ2by",
+          "expanded_url": "https://x.com/SlawomirMentzen/status/1876680227109367979/photo/1",
+          "display_url": "pic.x.com/a71oepQ2by",
+          "media_key": "3_1876680219802714112"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 20,
+          "end": 32,
+          "username": "Radio_RMF24",
+          "id": "109801012"
+        }
+      ]
+    },
+    "conversation_id": "1876680227109367979",
+    "possibly_sensitive": false,
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1876680219802714112"
+      ]
+    },
+    "id": "1876680227109367979",
+    "edit_history_tweet_ids": [
+      "1876680227109367979"
+    ],
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 37,
+          "end": 49,
+          "tag": "Mentzen2025"
+        }
+      ],
+      "urls": [
+        {
+          "start": 50,
+          "end": 73,
+          "url": "https://t.co/YlB7lk9BGS",
+          "expanded_url": "https://x.com/SlawomirMentzen/status/1876648805455585353/video/1",
+          "display_url": "pic.x.com/YlB7lk9BGS",
+          "media_key": "13_1876648601901826048"
+        }
+      ]
+    },
+    "created_at": "2025-01-07T15:15:16.000Z",
+    "public_metrics": {
+      "retweet_count": 75,
+      "reply_count": 166,
+      "like_count": 1922,
+      "quote_count": 5,
+      "bookmark_count": 44,
+      "impression_count": 127068
+    },
+    "author_id": "3242182113",
+    "text": "W tej kampanii będę w całej Polsce!\n\n#Mentzen2025 https://t.co/YlB7lk9BGS",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2025-01-07 16:15:16+00:00"
+    },
+    "reply_settings": "everyone",
+    "conversation_id": "1876648805455585353",
+    "possibly_sensitive": false,
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "13_1876648601901826048"
+      ]
+    },
+    "id": "1876648805455585353",
+    "edit_history_tweet_ids": [
+      "1876648805455585353"
+    ],
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 26,
+          "end": 38,
+          "tag": "Mentzen2025"
+        }
+      ],
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/uKvdYQia6x",
+          "expanded_url": "https://x.com/SlawomirMentzen/status/1876643496423010362/photo/1",
+          "display_url": "pic.x.com/uKvdYQia6x",
+          "media_key": "3_1876643490743926784"
+        }
+      ]
+    },
+    "created_at": "2025-01-07T14:54:10.000Z",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 44,
+      "like_count": 461,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "impression_count": 25513
+    },
+    "author_id": "3242182113",
+    "text": "Już jutro wracam na trasę #Mentzen2025!\n\nTylko w tym tygodniu odwiedzę 13 miejscowości!\n\nDo zobaczenia! https://t.co/uKvdYQia6x",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2025-01-07 15:54:10+00:00"
+    },
+    "reply_settings": "everyone",
+    "conversation_id": "1876643496423010362",
+    "possibly_sensitive": false,
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1876643490743926784"
+      ]
+    },
+    "id": "1876643496423010362",
+    "edit_history_tweet_ids": [
+      "1876643496423010362"
+    ],
+    "category": "Original"
+  }
+]
