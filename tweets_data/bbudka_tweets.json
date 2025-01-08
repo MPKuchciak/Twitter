@@ -1,0 +1,705 @@
+[
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 4,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-27 21:23:01+00:00"
+    },
+    "conversation_id": "1872740373996642610",
+    "created_at": "2024-12-27T20:24:33.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "id": "1872740373996642610",
+    "edit_history_tweet_ids": [
+      "1872739986984063099",
+      "1872740373996642610"
+    ],
+    "lang": "pl",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "907614362478690309",
+          "name": "Andrzej Duda",
+          "description": "President of Poland Andrzej Duda"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "907614362478690309",
+          "name": "Andrzej Duda",
+          "description": "President of Poland Andrzej Duda"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "907614362478690309",
+          "name": "Andrzej Duda",
+          "description": "President of Poland Andrzej Duda"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 355,
+      "reply_count": 593,
+      "like_count": 3167,
+      "quote_count": 15,
+      "bookmark_count": 12,
+      "impression_count": 131681
+    },
+    "text": "Jak widać, prezydent Duda sport rozumie dokładnie tak, jak konstytucję.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-25 08:21:18+00:00"
+    },
+    "conversation_id": "1871818484386287685",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 18,
+          "end": 32,
+          "tag": "WesołychŚwiąt"
+        },
+        {
+          "start": 33,
+          "end": 48,
+          "tag": "MerryChristmas"
+        }
+      ],
+      "urls": [
+        {
+          "start": 49,
+          "end": 72,
+          "url": "https://t.co/brettEEXUv",
+          "expanded_url": "https://x.com/bbudka/status/1871818484386287685/photo/1",
+          "display_url": "pic.x.com/brettEEXUv",
+          "media_key": "3_1871818479390642176"
+        }
+      ]
+    },
+    "created_at": "2024-12-25T07:21:18.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "id": "1871818484386287685",
+    "edit_history_tweet_ids": [
+      "1871818484386287685"
+    ],
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1871818479390642176"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847548225712119808",
+          "name": "Holidays",
+          "description": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 12,
+      "reply_count": 93,
+      "like_count": 272,
+      "quote_count": 4,
+      "bookmark_count": 1,
+      "impression_count": 9843
+    },
+    "text": "Pogodnych Świat 🎄\n#WesołychŚwiąt #MerryChristmas https://t.co/brettEEXUv",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-24 13:53:55+00:00"
+    },
+    "conversation_id": "1871539802388217943",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 91,
+          "end": 105,
+          "tag": "WesołychŚwiąt"
+        },
+        {
+          "start": 106,
+          "end": 121,
+          "tag": "MerryChristmas"
+        }
+      ],
+      "urls": [
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/GPdie7RFHc",
+          "expanded_url": "https://x.com/bbudka/status/1871539802388217943/photo/1",
+          "display_url": "pic.x.com/GPdie7RFHc",
+          "media_key": "3_1871539796868243456"
+        }
+      ]
+    },
+    "created_at": "2024-12-24T12:53:55.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "id": "1871539802388217943",
+    "edit_history_tweet_ids": [
+      "1871539802388217943"
+    ],
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1871539796868243456"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847548225712119808",
+          "name": "Holidays",
+          "description": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 19,
+      "reply_count": 103,
+      "like_count": 417,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 12594
+    },
+    "text": "Tradycji stało się zadość. Kolejne wigilijne bieganie za nami. Teraz czas na świętowanie 🎄\n#WesołychŚwiąt #MerryChristmas https://t.co/GPdie7RFHc",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-18 17:57:14+00:00"
+    },
+    "conversation_id": "1869426711106060509",
+    "entities": {
+      "urls": [
+        {
+          "start": 36,
+          "end": 59,
+          "url": "https://t.co/KyzsbLyJ6k",
+          "expanded_url": "https://x.com/bbudka/status/1869426711106060509/photo/1",
+          "display_url": "pic.x.com/KyzsbLyJ6k",
+          "media_key": "3_1869426704936026112"
+        }
+      ]
+    },
+    "created_at": "2024-12-18T16:57:14.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "id": "1869426711106060509",
+    "edit_history_tweet_ids": [
+      "1869426711106060509"
+    ],
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1869426704936026112"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 406,
+      "reply_count": 530,
+      "like_count": 2320,
+      "quote_count": 20,
+      "bookmark_count": 24,
+      "impression_count": 68106
+    },
+    "text": "Morawiecki kłamstwo ma w swoim DNA… https://t.co/KyzsbLyJ6k",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-18 12:56:10+00:00"
+    },
+    "conversation_id": "1869350944498176071",
+    "entities": {
+      "urls": [
+        {
+          "start": 45,
+          "end": 68,
+          "url": "https://t.co/ABJoPK2oUw",
+          "expanded_url": "https://twitter.com/tvp_info/status/1869000844735099333",
+          "display_url": "x.com/tvp_info/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-12-18T11:56:10.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1869000844735099333"
+      }
+    ],
+    "id": "1869350944498176071",
+    "edit_history_tweet_ids": [
+      "1869350944498176071"
+    ],
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 202,
+      "reply_count": 979,
+      "like_count": 1610,
+      "quote_count": 12,
+      "bookmark_count": 23,
+      "impression_count": 99091
+    },
+    "text": "Prawdziwa twarz Morawieckiego. Żenujący typ. https://t.co/ABJoPK2oUw",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-17 13:03:26+00:00"
+    },
+    "conversation_id": "1868990386552947174",
+    "created_at": "2024-12-17T12:03:26.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "id": "1868990386552947174",
+    "edit_history_tweet_ids": [
+      "1868990386552947174"
+    ],
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 370,
+      "reply_count": 1308,
+      "like_count": 2347,
+      "quote_count": 39,
+      "bookmark_count": 6,
+      "impression_count": 126711
+    },
+    "text": "Kolejne środki z KPO trafiły do Polski. Ponad 40 mld złotych. Konsekwentnie naprawiamy to, co zepsuli nasi poprzednicy. Tak trzymać! 🇵🇱🇪🇺",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 4,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-12 10:00:55+00:00"
+    },
+    "conversation_id": "1867133603957629047",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 77,
+          "end": 90,
+          "tag": "ToDopieroRok"
+        },
+        {
+          "start": 91,
+          "end": 114,
+          "tag": "Koalicja15Października"
+        }
+      ],
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/nD4CvEKm69",
+          "expanded_url": "https://x.com/bbudka/status/1867133603957629047/video/1",
+          "display_url": "pic.x.com/nD4CvEKm69",
+          "media_key": "13_1867132453992718336"
+        }
+      ]
+    },
+    "created_at": "2024-12-12T09:05:15.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "id": "1867133603957629047",
+    "edit_history_tweet_ids": [
+      "1867132513363128463",
+      "1867133603957629047"
+    ],
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "13_1867132453992718336"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696940178935808",
+          "name": "Gaming Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 82,
+      "reply_count": 324,
+      "like_count": 483,
+      "quote_count": 12,
+      "bookmark_count": 5,
+      "impression_count": 16574
+    },
+    "text": "Wiele udało nam się wspólnie zrobić, ale jeszcze dużo pracy przed nami. ✌️🇵🇱\n#ToDopieroRok #Koalicja15Października https://t.co/nD4CvEKm69",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-11 18:33:22+00:00"
+    },
+    "conversation_id": "1866899087947337852",
+    "created_at": "2024-12-11T17:33:22.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "id": "1866899087947337852",
+    "edit_history_tweet_ids": [
+      "1866899087947337852"
+    ],
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 311,
+      "reply_count": 450,
+      "like_count": 2178,
+      "quote_count": 20,
+      "bookmark_count": 7,
+      "impression_count": 63768
+    },
+    "text": "Jeśli coś nie jest sądem - wg wyroków ETPCz i TSUE - nie może skutecznie wydawać orzeczeń. Tyle w temacie.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-09 16:16:36+00:00"
+    },
+    "conversation_id": "1866139893476233303",
+    "created_at": "2024-12-09T15:16:36.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "id": "1866139893476233303",
+    "edit_history_tweet_ids": [
+      "1866139893476233303"
+    ],
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 412,
+      "reply_count": 588,
+      "like_count": 3375,
+      "quote_count": 20,
+      "bookmark_count": 10,
+      "impression_count": 83255
+    },
+    "text": "Rozpoczął prezydenturę od nielegalnego powołania J. Przyłębskiej na p.o. Prezesa TK, kończy - nielegalnym powołaniem wice-Ziobry. Jaki prezydent, taki trybunał.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-08 18:19:32+00:00"
+    },
+    "conversation_id": "1865808441832296456",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 10,
+          "end": 26,
+          "tag": "Trzaskowski2025"
+        }
+      ],
+      "urls": [
+        {
+          "start": 32,
+          "end": 55,
+          "url": "https://t.co/WtflfNBQYZ",
+          "expanded_url": "https://twitter.com/Platforma_org/status/1865782093306831259",
+          "display_url": "x.com/Platforma_org/…"
+        }
+      ]
+    },
+    "created_at": "2024-12-08T17:19:32.000Z",
+    "reply_settings": "everyone",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1865782093306831259"
+      }
+    ],
+    "id": "1865808441832296456",
+    "edit_history_tweet_ids": [
+      "1865808441832296456"
+    ],
+    "lang": "cs",
+    "public_metrics": {
+      "retweet_count": 144,
+      "reply_count": 175,
+      "like_count": 659,
+      "quote_count": 4,
+      "bookmark_count": 2,
+      "impression_count": 20572
+    },
+    "text": "Po prostu #Trzaskowski2025 🇵🇱✌️ https://t.co/WtflfNBQYZ",
+    "category": "Quote"
+  }
+]
