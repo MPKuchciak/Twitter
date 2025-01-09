@@ -1,0 +1,10 @@
+2025-01-09 20:35:27,692 - INFO - 
+Fetching up to 5 tweets from @Arlukowicz...
+2025-01-09 20:35:28,225 - INFO - No more tweets found.
+2025-01-09 20:35:28,225 - INFO - No tweets fetched for @Arlukowicz.
+2025-01-09 20:36:05,613 - INFO - 
+Fetching up to 5 tweets from @Arlukowicz...
+2025-01-09 20:36:06,106 - WARNING - Rate limit exceeded. Sleeping for 866 seconds.
+2025-01-09 20:41:33,659 - INFO - 
+Fetching up to 5 tweets from @Arlukowicz...
+2025-01-09 20:41:34,169 - WARNING - Rate limit exceeded. Sleeping for 538 seconds.
