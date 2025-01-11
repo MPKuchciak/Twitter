@@ -1,0 +1,4470 @@
+[
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 72,
+          "end": 95,
+          "url": "https://t.co/7DoxqSAt2B",
+          "expanded_url": "https://twitter.com/LukaszKohut/status/1813137455656100306",
+          "display_url": "x.com/LukaszKohut/st…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1813137455656100306"
+      }
+    ],
+    "text": "Ale że tak z Niemcami z AFD? Nasi “bogobojni i antyniemieccy patrioci”? https://t.co/7DoxqSAt2B",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-16 16:07:39+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1813229013583778009"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-16T15:07:39.000Z",
+    "conversation_id": "1813229013583778009",
+    "reply_settings": "everyone",
+    "id": "1813229013583778009",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "864931126132985856",
+          "name": "Vladimir Putin",
+          "description": "President of Russia Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "864931126132985856",
+          "name": "Vladimir Putin",
+          "description": "President of Russia Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "864931126132985856",
+          "name": "Vladimir Putin",
+          "description": "President of Russia Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1542094279727652864",
+          "name": "Russian political figures"
+        }
+      }
+    ],
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 137,
+      "reply_count": 76,
+      "like_count": 778,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "impression_count": 15581
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/pGNFeqKWkw",
+          "expanded_url": "https://x.com/Arlukowicz/status/1813222571770319130/video/1",
+          "display_url": "pic.x.com/pGNFeqKWkw",
+          "media_key": "7_1813222486755926016"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 152,
+          "end": 164,
+          "username": "Europarl_EN",
+          "id": "36329597"
+        }
+      ]
+    },
+    "text": "A więc ruszamy do pracy! Ten Parlament Europejski nie będzie taki sam jak poprzednie. Przed nami wyzwania bezpieczeństwa! Bezpieczeństwa całej Europy! \n@Europarl_EN https://t.co/pGNFeqKWkw",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-16 15:42:03+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1813222571770319130"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-16T14:42:03.000Z",
+    "conversation_id": "1813222571770319130",
+    "reply_settings": "everyone",
+    "id": "1813222571770319130",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "1127870700109189121",
+          "name": "European Parliament",
+          "description": "European Parliament"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1068583660914266113",
+          "name": "Government institutions",
+          "description": "Political Body"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1127870700109189121",
+          "name": "European Parliament",
+          "description": "European Parliament"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1813222486755926016"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 39,
+      "reply_count": 75,
+      "like_count": 350,
+      "quote_count": 4,
+      "bookmark_count": 0,
+      "impression_count": 13728
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/cmBZVZfJ9A",
+          "expanded_url": "https://x.com/Arlukowicz/status/1813184241624093057/photo/1",
+          "display_url": "pic.x.com/cmBZVZfJ9A",
+          "media_key": "3_1813184237161390084"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 9,
+          "end": 22,
+          "username": "EP_President",
+          "id": "818837224003289088"
+        },
+        {
+          "start": 23,
+          "end": 38,
+          "username": "RobertaMetsola",
+          "id": "55031092"
+        },
+        {
+          "start": 60,
+          "end": 72,
+          "username": "Europarl_EN",
+          "id": "36329597"
+        }
+      ]
+    },
+    "text": "Roberta! @EP_President @RobertaMetsola \nCongratulations!❤️ \n@Europarl_EN https://t.co/cmBZVZfJ9A",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-16 13:09:45+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1813184241624093057"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-16T12:09:45.000Z",
+    "conversation_id": "1813184241624093057",
+    "reply_settings": "everyone",
+    "id": "1813184241624093057",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "1127870700109189121",
+          "name": "European Parliament",
+          "description": "European Parliament"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1068583660914266113",
+          "name": "Government institutions",
+          "description": "Political Body"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1127870700109189121",
+          "name": "European Parliament",
+          "description": "European Parliament"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1813184237161390084"
+      ]
+    },
+    "lang": "ca",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 16,
+      "like_count": 238,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 5700
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 25,
+          "end": 48,
+          "url": "https://t.co/Pl56myJ4uc",
+          "expanded_url": "https://twitter.com/patrykmichalski/status/1810606473493291334",
+          "display_url": "x.com/patrykmichalsk…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1810606473493291334"
+      }
+    ],
+    "text": "Jerzy Stuhr. Serce pęka. https://t.co/Pl56myJ4uc",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-09 10:28:24+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1810606923978252719"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-09T09:28:24.000Z",
+    "conversation_id": "1810606923978252719",
+    "reply_settings": "everyone",
+    "id": "1810606923978252719",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 27,
+      "reply_count": 66,
+      "like_count": 510,
+      "quote_count": 2,
+      "bookmark_count": 4,
+      "impression_count": 13217
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/XDmAIS32j8",
+          "expanded_url": "https://x.com/Arlukowicz/status/1809609975939162450/photo/1",
+          "display_url": "pic.x.com/XDmAIS32j8",
+          "media_key": "3_1809609968967909376"
+        },
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/XDmAIS32j8",
+          "expanded_url": "https://x.com/Arlukowicz/status/1809609975939162450/photo/1",
+          "display_url": "pic.x.com/XDmAIS32j8",
+          "media_key": "3_1809609969001533440"
+        },
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/XDmAIS32j8",
+          "expanded_url": "https://x.com/Arlukowicz/status/1809609975939162450/photo/1",
+          "display_url": "pic.x.com/XDmAIS32j8",
+          "media_key": "3_1809609968997236736"
+        },
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/XDmAIS32j8",
+          "expanded_url": "https://x.com/Arlukowicz/status/1809609975939162450/photo/1",
+          "display_url": "pic.x.com/XDmAIS32j8",
+          "media_key": "3_1809609968976359424"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 72,
+          "end": 79,
+          "tag": "Police"
+        }
+      ]
+    },
+    "text": "Otwieramy sezon letni z emerytowanymi pracownikami Zakładów Chemicznych #Police🙂To już nasza wspólna coroczna tradycja!❤️ https://t.co/XDmAIS32j8",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-06 16:26:53+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1809609975939162450"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-06T15:26:53.000Z",
+    "conversation_id": "1809609975939162450",
+    "reply_settings": "everyone",
+    "id": "1809609975939162450",
+    "attachments": {
+      "media_keys": [
+        "3_1809609968967909376",
+        "3_1809609969001533440",
+        "3_1809609968997236736",
+        "3_1809609968976359424"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 8,
+      "like_count": 318,
+      "quote_count": 2,
+      "bookmark_count": 2,
+      "impression_count": 9172
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "text": "Panie pośle Romanowski. Ja bym na Pana miejscu zadzwonił do @GiertychRoman \nDać numer na priv?",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-03 18:45:45+00:00"
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 60,
+          "end": 74,
+          "username": "GiertychRoman",
+          "id": "2919694493"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1808557759681450185"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-03T17:45:45.000Z",
+    "conversation_id": "1808557759681450185",
+    "reply_settings": "everyone",
+    "id": "1808557759681450185",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 258,
+      "reply_count": 219,
+      "like_count": 3105,
+      "quote_count": 11,
+      "bookmark_count": 3,
+      "impression_count": 125035
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 18,
+          "end": 41,
+          "url": "https://t.co/44ryd8h3VY",
+          "expanded_url": "https://twitter.com/PiotrSchab25737/status/1808414281056043420",
+          "display_url": "x.com/PiotrSchab2573…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1808414281056043420"
+      }
+    ],
+    "text": "Wołajcie Husarię! https://t.co/44ryd8h3VY",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-03 09:59:46+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1808425390831960486"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-03T08:59:46.000Z",
+    "conversation_id": "1808425390831960486",
+    "reply_settings": "everyone",
+    "id": "1808425390831960486",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 130,
+      "reply_count": 248,
+      "like_count": 1841,
+      "quote_count": 6,
+      "bookmark_count": 4,
+      "impression_count": 50592
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "text": "Panie Zbyszku. Pan się nie boi. Operacja prezesowskiego kolana za miliony za Panem stoi.",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-01 19:44:58+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1807847882546204766"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-01T18:44:58.000Z",
+    "conversation_id": "1807847882546204766",
+    "reply_settings": "everyone",
+    "id": "1807847882546204766",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 115,
+      "reply_count": 94,
+      "like_count": 1435,
+      "quote_count": 3,
+      "bookmark_count": 3,
+      "impression_count": 29348
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 23,
+          "end": 46,
+          "url": "https://t.co/8rH0PzMmpU",
+          "expanded_url": "https://twitter.com/ObserwatorXY/status/1807822423510651390",
+          "display_url": "x.com/ObserwatorXY/s…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1807822423510651390"
+      }
+    ],
+    "text": "Żeby zapłacił składki. https://t.co/8rH0PzMmpU",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-01 18:47:08+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1807833328566804536"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-07-01T17:47:08.000Z",
+    "conversation_id": "1807833328566804536",
+    "reply_settings": "everyone",
+    "id": "1807833328566804536",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 21,
+      "reply_count": 18,
+      "like_count": 377,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 10488
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 187,
+          "end": 210,
+          "url": "https://t.co/xqJOM8hhI4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1807006018703868286/photo/1",
+          "display_url": "pic.x.com/xqJOM8hhI4",
+          "media_key": "3_1807006011481305092"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 175,
+          "end": 186,
+          "username": "MasarykUni",
+          "id": "344698700"
+        }
+      ]
+    },
+    "text": "Wraca! Po roku w Czechach🙂 Czechy wg Maksa. Podobne. Przyjazne. Otwarte. Świeckie. Wesołe🙂 Campus imponujący! Rok studiów na Uniwersytecie Masaryka zmienił Go trochę w Czecha🙂@MasarykUni https://t.co/xqJOM8hhI4",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-29 11:59:42+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1807006018703868286"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-29T10:59:42.000Z",
+    "conversation_id": "1807006018703868286",
+    "reply_settings": "everyone",
+    "id": "1807006018703868286",
+    "attachments": {
+      "media_keys": [
+        "3_1807006011481305092"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 11,
+      "reply_count": 41,
+      "like_count": 487,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "impression_count": 16150
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "text": "Nie znam osobiście pani Pauliny ale życzę pani Paulinie z serca, popracowania w rządzie. Szybki kurs dojrzewania. Przyda się w przyszłości. A i ławeczki będzie wybierać inne.",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-27 20:17:18+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1806406471502143824"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-27T19:17:18.000Z",
+    "conversation_id": "1806406471502143824",
+    "reply_settings": "everyone",
+    "id": "1806406471502143824",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 90,
+      "reply_count": 183,
+      "like_count": 1464,
+      "quote_count": 9,
+      "bookmark_count": 5,
+      "impression_count": 54450
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 205,
+          "end": 228,
+          "url": "https://t.co/Ih6cv6TF0q",
+          "expanded_url": "https://twitter.com/MGolbik/status/1805943903549374531",
+          "display_url": "x.com/MGolbik/status…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 6,
+          "end": 14,
+          "username": "MGolbik",
+          "id": "3823794201"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1805943903549374531"
+      }
+    ],
+    "text": "Marta @MGolbik właśnie przejmuje mój wieloletni gabinet🙂 Marta! Ostro. Dynamicznie. I do przodu! Uważaj na zakrętach bo droga kręta! I Twój nowy najbliższy Przyjaciel każdego przewodniczącego🙃 Lewy guzik🙂 https://t.co/Ih6cv6TF0q",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-26 14:35:11+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1805957986969334133"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-26T13:35:11.000Z",
+    "conversation_id": "1805957986969334133",
+    "reply_settings": "everyone",
+    "id": "1805957986969334133",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 9,
+      "like_count": 216,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4699
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 142,
+          "end": 165,
+          "url": "https://t.co/nhNiD4zG1C",
+          "expanded_url": "https://twitter.com/MedkurierPl/status/1805914696073044221",
+          "display_url": "x.com/MedkurierPl/st…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 19,
+          "end": 27,
+          "username": "MGolbik",
+          "id": "3823794201"
+        },
+        {
+          "start": 32,
+          "end": 42,
+          "username": "marek_hok",
+          "id": "3346320561"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1805914696073044221"
+      }
+    ],
+    "text": "Wielkie gratulacje @MGolbik❤️ i @marek_hok🙂\nKierujcie pracami naszej Komisji Zdrowia sprawnie i dynamicznie! I pamiętaj Marta! „Lewy guzik!”🙂 https://t.co/nhNiD4zG1C",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-26 11:57:58+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1805918421206327784"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-26T10:57:58.000Z",
+    "conversation_id": "1805918421206327784",
+    "reply_settings": "everyone",
+    "id": "1805918421206327784",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 15,
+      "reply_count": 6,
+      "like_count": 78,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 6394
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "text": "No i gratulacje @arkadiuszmazepa nasz Przyjacielu! Możesz na nas zawsze liczyć!",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-19 20:23:39+00:00"
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 16,
+          "end": 32,
+          "username": "arkadiuszmazepa",
+          "id": "1291854698"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1803508965818409400"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-19T19:23:39.000Z",
+    "conversation_id": "1803508965818409400",
+    "reply_settings": "everyone",
+    "id": "1803508965818409400",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 4,
+      "like_count": 33,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 3886
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 213,
+          "end": 236,
+          "url": "https://t.co/nOlM72hFf8",
+          "expanded_url": "https://twitter.com/sibinska/status/1803392026588635613",
+          "display_url": "x.com/sibinska/statu…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 56,
+          "end": 65,
+          "username": "sibinska",
+          "id": "182335514"
+        },
+        {
+          "start": 68,
+          "end": 83,
+          "username": "piotrowicz_iza",
+          "id": "3299480261"
+        },
+        {
+          "start": 111,
+          "end": 124,
+          "username": "marek_cebula",
+          "id": "185610749"
+        },
+        {
+          "start": 125,
+          "end": 137,
+          "username": "jablonski_m",
+          "id": "384250324"
+        },
+        {
+          "start": 140,
+          "end": 150,
+          "username": "WSlugocki",
+          "id": "857012935"
+        },
+        {
+          "start": 157,
+          "end": 169,
+          "username": "WKomarnicki",
+          "id": "2777888210"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 18,
+          "end": 27,
+          "tag": "lubuskie"
+        },
+        {
+          "start": 199,
+          "end": 210,
+          "tag": "BartekTeam"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1803392026588635613"
+      }
+    ],
+    "text": "I to jest właśnie #lubuskie❤️ Silne. Zjednoczone. Brawo @sibinska i @piotrowicz_iza 🙂\nSzacunek dla Prezydenta. @marek_cebula @jablonski_m i @WSlugocki \nNo i @WKomarnicki \nJest ekipa! Pozdrowienia od #BartekTeam❤️ https://t.co/nOlM72hFf8",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-19 19:21:45+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1803493385598079053"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-19T18:21:45.000Z",
+    "conversation_id": "1803493385598079053",
+    "reply_settings": "everyone",
+    "id": "1803493385598079053",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 5,
+      "like_count": 129,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 5065
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 64,
+          "end": 87,
+          "url": "https://t.co/Kia8MnlG5p",
+          "expanded_url": "https://x.com/Arlukowicz/status/1802013979897696674/photo/1",
+          "display_url": "pic.x.com/Kia8MnlG5p",
+          "media_key": "3_1802013969885896704"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 32,
+          "end": 42,
+          "username": "tvn24kawa",
+          "id": "3092847414"
+        },
+        {
+          "start": 45,
+          "end": 51,
+          "username": "tvn24",
+          "id": "14493047"
+        }
+      ]
+    },
+    "text": "Jutro (niedziela) o godz. 10.45 @tvn24kawa w @tvn24 \nZapraszam! https://t.co/Kia8MnlG5p",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-15 17:23:07+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1802013979897696674"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-15T16:23:07.000Z",
+    "conversation_id": "1802013979897696674",
+    "reply_settings": "everyone",
+    "id": "1802013979897696674",
+    "attachments": {
+      "media_keys": [
+        "3_1802013969885896704"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 5,
+      "like_count": 111,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "impression_count": 6134
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 133,
+          "end": 156,
+          "url": "https://t.co/bjdBEQQNmR",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801961905075994916/photo/1",
+          "display_url": "pic.x.com/bjdBEQQNmR",
+          "media_key": "3_1801961900541960195"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 23,
+          "end": 42,
+          "tag": "zachodniopomorskie"
+        },
+        {
+          "start": 47,
+          "end": 56,
+          "tag": "lubuskie"
+        }
+      ]
+    },
+    "text": "A tu już cały okręg 13🙂#zachodniopomorskie❤️ i #lubuskie❤️ Dziękujemy Wam wszystkim!❤️\nDaliśmy radę całemu PIS! \nDzięki Przyjaciele! https://t.co/bjdBEQQNmR",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-15 13:56:11+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801961905075994916"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-15T12:56:11.000Z",
+    "conversation_id": "1801961905075994916",
+    "reply_settings": "everyone",
+    "id": "1801961905075994916",
+    "attachments": {
+      "media_keys": [
+        "3_1801961900541960195"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 57,
+      "reply_count": 78,
+      "like_count": 500,
+      "quote_count": 3,
+      "bookmark_count": 2,
+      "impression_count": 12927
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "text": "Dla mnie Matecki? Policja. Prokuratura. Zarzuty i tyle. A nie jakieś kary regulaminowe. Ale może ja za radykalny jestem.",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-14 17:05:43+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801647215800176887"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-14T16:05:43.000Z",
+    "conversation_id": "1801647215800176887",
+    "reply_settings": "everyone",
+    "id": "1801647215800176887",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 299,
+      "reply_count": 529,
+      "like_count": 3278,
+      "quote_count": 22,
+      "bookmark_count": 6,
+      "impression_count": 87009
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 131,
+          "end": 154,
+          "url": "https://t.co/rC3V9Zqzwc",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801579602122334425/photo/1",
+          "display_url": "pic.x.com/rC3V9Zqzwc",
+          "media_key": "3_1801579593448431616"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 35,
+          "end": 54,
+          "tag": "zachodniopomorskie"
+        },
+        {
+          "start": 118,
+          "end": 129,
+          "tag": "BartekTeam"
+        }
+      ]
+    },
+    "text": "Dziękując Wam wszystkim!❤️ W całym #zachodniopomorskie🙂 daliśmy razem radę! Pokonaliśmy razem z Wami PIS absolutnie! \n#BartekTeam🙂 https://t.co/rC3V9Zqzwc",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-14 12:37:03+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801579602122334425"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-14T11:37:03.000Z",
+    "conversation_id": "1801579602122334425",
+    "reply_settings": "everyone",
+    "id": "1801579602122334425",
+    "attachments": {
+      "media_keys": [
+        "3_1801579593448431616"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 42,
+      "reply_count": 61,
+      "like_count": 572,
+      "quote_count": 6,
+      "bookmark_count": 2,
+      "impression_count": 12239
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 65,
+          "end": 88,
+          "url": "https://t.co/wFCdme27Zv",
+          "expanded_url": "https://twitter.com/patrykmichalski/status/1801557127233683740",
+          "display_url": "x.com/patrykmichalsk…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1801557127233683740"
+      }
+    ],
+    "text": "Każdy „patriota” wchodzi na dach Sejmu. W bogobojnym uniesieniu. https://t.co/wFCdme27Zv",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-14 11:12:08+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801558231157711279"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-14T10:12:08.000Z",
+    "conversation_id": "1801558231157711279",
+    "reply_settings": "everyone",
+    "id": "1801558231157711279",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 42,
+      "reply_count": 103,
+      "like_count": 424,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 12728
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/AZa1GnLP4N",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801541008380833995/photo/1",
+          "display_url": "pic.x.com/AZa1GnLP4N",
+          "media_key": "3_1801541002273927168"
+        }
+      ]
+    },
+    "text": "Najlepszego! Dla nowej Przewodniczącej Komisji Zdrowia❤️ Gabinet już pusty🙂 I pamiętajcie! Lewy guzik❤️ https://t.co/AZa1GnLP4N",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-14 10:03:42+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801541008380833995"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-14T09:03:42.000Z",
+    "conversation_id": "1801541008380833995",
+    "reply_settings": "everyone",
+    "id": "1801541008380833995",
+    "attachments": {
+      "media_keys": [
+        "3_1801541002273927168"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 6,
+      "like_count": 156,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 7993
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1801536135954321486"
+      }
+    ],
+    "text": "@BabczenkoEwa @Pawe32860399 Już. Pomyłka",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-06-14 09:50:07+00:00"
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "BabczenkoEwa",
+          "id": "3360659477"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "username": "Pawe32860399",
+          "id": "1413043819143221251"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1801537590119604727"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-14T08:50:07.000Z",
+    "conversation_id": "1801536135954321486",
+    "reply_settings": "everyone",
+    "id": "1801537590119604727",
+    "in_reply_to_user_id": "3360659477",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 759
+    },
+    "possibly_sensitive": false,
+    "category": "Reply"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 58,
+          "end": 81,
+          "url": "https://t.co/vBNm9XngT8",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801322489395491100/photo/1",
+          "display_url": "pic.x.com/vBNm9XngT8",
+          "media_key": "3_1801322484983025664"
+        }
+      ]
+    },
+    "text": "Tu szliśmy łeb w łeb. Ale jednak❤️ Biały Bór! Dziękujemy🙂 https://t.co/vBNm9XngT8",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 19:35:23+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801322489395491100"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T18:35:23.000Z",
+    "conversation_id": "1801322489395491100",
+    "reply_settings": "everyone",
+    "id": "1801322489395491100",
+    "attachments": {
+      "media_keys": [
+        "3_1801322484983025664"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 27,
+      "reply_count": 29,
+      "like_count": 367,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 11836
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 33,
+          "end": 56,
+          "url": "https://t.co/NAF1MK2qrn",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801320071362470098/photo/1",
+          "display_url": "pic.x.com/NAF1MK2qrn",
+          "media_key": "3_1801320065964310528"
+        }
+      ]
+    },
+    "text": "W Resku też?❤️ Dziękujemy Resko! https://t.co/NAF1MK2qrn",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 19:25:46+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801320071362470098"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T18:25:46.000Z",
+    "conversation_id": "1801320071362470098",
+    "reply_settings": "everyone",
+    "id": "1801320071362470098",
+    "attachments": {
+      "media_keys": [
+        "3_1801320065964310528"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 14,
+      "reply_count": 8,
+      "like_count": 243,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 8414
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "text": "Mastalerek nie może wykluczyć, że będzie kandydował🙂 Trwa wyścig z Kolarskim. Siewiera pobladł. A czai się Dera. Tygrysy.",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 19:08:49+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801315804568297678"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T18:08:49.000Z",
+    "conversation_id": "1801315804568297678",
+    "reply_settings": "everyone",
+    "id": "1801315804568297678",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 302,
+      "reply_count": 217,
+      "like_count": 3118,
+      "quote_count": 17,
+      "bookmark_count": 10,
+      "impression_count": 63489
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 146,
+          "end": 169,
+          "url": "https://t.co/KwQcliTm32",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801309402068107271/photo/1",
+          "display_url": "pic.x.com/KwQcliTm32",
+          "media_key": "3_1801309396602888192"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 133,
+          "end": 144,
+          "tag": "BartekTeam"
+        }
+      ]
+    },
+    "text": "Gryfino. Oddaję szacunek❤️Wszyscy mówili, że Gryfino to PIS. Ja zawsze wiedziałem, że Gryfino to zwycięstwo demokracji! Dziękujemy!❤️#BartekTeam🙂 https://t.co/KwQcliTm32",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 18:43:22+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801309402068107271"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T17:43:22.000Z",
+    "conversation_id": "1801309402068107271",
+    "reply_settings": "everyone",
+    "id": "1801309402068107271",
+    "attachments": {
+      "media_keys": [
+        "3_1801309396602888192"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 44,
+      "reply_count": 22,
+      "like_count": 371,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 8041
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 46,
+          "end": 69,
+          "url": "https://t.co/ePi003xSdu",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801298047399231565/photo/1",
+          "display_url": "pic.x.com/ePi003xSdu",
+          "media_key": "3_1801298042856906752"
+        }
+      ]
+    },
+    "text": "Stargard! Zawsze byliśmy razem! Dziękujemy!❤️ https://t.co/ePi003xSdu",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 17:58:15+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801298047399231565"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T16:58:15.000Z",
+    "conversation_id": "1801298047399231565",
+    "reply_settings": "everyone",
+    "id": "1801298047399231565",
+    "attachments": {
+      "media_keys": [
+        "3_1801298042856906752"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 9,
+      "like_count": 254,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 6505
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 35,
+          "end": 58,
+          "url": "https://t.co/WHlEo73PIj",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801290548617093539/photo/1",
+          "display_url": "pic.x.com/WHlEo73PIj",
+          "media_key": "3_1801290544598933505"
+        }
+      ]
+    },
+    "text": "Darłowo! Moje miasto❤️ Dziękujemy! https://t.co/WHlEo73PIj",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 17:28:27+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801290548617093539"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T16:28:27.000Z",
+    "conversation_id": "1801290548617093539",
+    "reply_settings": "everyone",
+    "id": "1801290548617093539",
+    "attachments": {
+      "media_keys": [
+        "3_1801290544598933505"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 25,
+      "reply_count": 9,
+      "like_count": 332,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 7066
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 68,
+          "end": 91,
+          "url": "https://t.co/6O8k7NaNl0",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801287536662265929/photo/1",
+          "display_url": "pic.x.com/6O8k7NaNl0",
+          "media_key": "3_1801287532140711936"
+        }
+      ]
+    },
+    "text": "Wiecie gdzie jest Radowo Małe? Obok Radowa Wielkiego!❤️ Dziękujemy! https://t.co/6O8k7NaNl0",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 17:16:29+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801287536662265929"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T16:16:29.000Z",
+    "conversation_id": "1801287536662265929",
+    "reply_settings": "everyone",
+    "id": "1801287536662265929",
+    "attachments": {
+      "media_keys": [
+        "3_1801287532140711936"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 15,
+      "like_count": 270,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 9274
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 22,
+          "end": 45,
+          "url": "https://t.co/iRWXC78q3X",
+          "expanded_url": "https://twitter.com/RobertBoro10/status/1801286208330346861",
+          "display_url": "x.com/RobertBoro10/s…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1801286208330346861"
+      }
+    ],
+    "text": "Nie🙂 razem z ludźmi❤️ https://t.co/iRWXC78q3X",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 17:13:22+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801286749542342888"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T16:13:22.000Z",
+    "conversation_id": "1801286749542342888",
+    "reply_settings": "everyone",
+    "id": "1801286749542342888",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 37,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3810
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 93,
+          "end": 116,
+          "url": "https://t.co/xKQ77ObL3Z",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801280002845008136/photo/1",
+          "display_url": "pic.x.com/xKQ77ObL3Z",
+          "media_key": "3_1801279997962756096"
+        }
+      ]
+    },
+    "text": "Ale nie, że tylko wielkie miasta🙂 Nowe Warpno! Szacunek❤️ Tu stoczyliśmy walkę o 216 głosów! https://t.co/xKQ77ObL3Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 16:46:33+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801280002845008136"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T15:46:33.000Z",
+    "conversation_id": "1801280002845008136",
+    "reply_settings": "everyone",
+    "id": "1801280002845008136",
+    "attachments": {
+      "media_keys": [
+        "3_1801279997962756096"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 19,
+      "reply_count": 11,
+      "like_count": 244,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 6483
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 32,
+          "end": 55,
+          "url": "https://t.co/dx7I8aeiz3",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801276055367426453/photo/1",
+          "display_url": "pic.x.com/dx7I8aeiz3",
+          "media_key": "3_1801276050317492224"
+        }
+      ]
+    },
+    "text": "Zielona Góra! Też dziękujemy!❤️ https://t.co/dx7I8aeiz3",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 16:30:52+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801276055367426453"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T15:30:52.000Z",
+    "conversation_id": "1801276055367426453",
+    "reply_settings": "everyone",
+    "id": "1801276055367426453",
+    "attachments": {
+      "media_keys": [
+        "3_1801276050317492224"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 36,
+      "reply_count": 36,
+      "like_count": 686,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 15538
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 23,
+          "end": 46,
+          "url": "https://t.co/5JhtpWMJiZ",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801264347584315618/photo/1",
+          "display_url": "pic.x.com/5JhtpWMJiZ",
+          "media_key": "3_1801264342513418240"
+        }
+      ]
+    },
+    "text": "Koszalin! Dziękujemy❤️ https://t.co/5JhtpWMJiZ",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 15:44:20+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801264347584315618"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T14:44:20.000Z",
+    "conversation_id": "1801264347584315618",
+    "reply_settings": "everyone",
+    "id": "1801264347584315618",
+    "attachments": {
+      "media_keys": [
+        "3_1801264342513418240"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 51,
+      "like_count": 564,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 12160
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 24,
+          "end": 47,
+          "url": "https://t.co/LctsVKN1r3",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801263414506860547/photo/1",
+          "display_url": "pic.x.com/LctsVKN1r3",
+          "media_key": "3_1801263409964412928"
+        }
+      ]
+    },
+    "text": "Szczecin! Dziękujemy!❤️ https://t.co/LctsVKN1r3",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 15:40:38+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801263414506860547"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T14:40:38.000Z",
+    "conversation_id": "1801263414506860547",
+    "reply_settings": "everyone",
+    "id": "1801263414506860547",
+    "attachments": {
+      "media_keys": [
+        "3_1801263409964412928"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 94,
+      "reply_count": 102,
+      "like_count": 1307,
+      "quote_count": 8,
+      "bookmark_count": 2,
+      "impression_count": 29900
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/9qmSN3WAh8",
+          "expanded_url": "https://x.com/Arlukowicz/status/1801189268284408168/photo/1",
+          "display_url": "pic.x.com/9qmSN3WAh8",
+          "media_key": "3_1801189261489655808"
+        }
+      ]
+    },
+    "text": "Dzisiaj żegnamy się z dziewczynami i chłopakami z sekretariatu Komisji Zdrowia. Razem od 17 lat🙂 Trzymajcie się dzielnie Monika, Małgosia i Kuba! Dzięki za te lata! https://t.co/9qmSN3WAh8",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-13 10:46:00+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1801189268284408168"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-13T09:46:00.000Z",
+    "conversation_id": "1801189268284408168",
+    "reply_settings": "everyone",
+    "id": "1801189268284408168",
+    "attachments": {
+      "media_keys": [
+        "3_1801189261489655808"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 33,
+      "reply_count": 3,
+      "like_count": 510,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 10186
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 138,
+          "end": 161,
+          "url": "https://t.co/PsJjyB16rJ",
+          "expanded_url": "https://twitter.com/300polityka/status/1800956242954944637",
+          "display_url": "x.com/300polityka/st…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1800956242954944637"
+      }
+    ],
+    "text": "Następny po Mastalerku🙂 Co płaci cenę za „niestartowanie”🙂 Oni tam w tej kancelarii w pełnym odlocie. Popatrzcie chłopaki na Kolarskiego. https://t.co/PsJjyB16rJ",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-12 19:43:50+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1800962230193721602"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-12T18:43:50.000Z",
+    "conversation_id": "1800962230193721602",
+    "reply_settings": "everyone",
+    "id": "1800962230193721602",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 37,
+      "reply_count": 61,
+      "like_count": 395,
+      "quote_count": 4,
+      "bookmark_count": 2,
+      "impression_count": 31412
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 105,
+          "end": 128,
+          "url": "https://t.co/9AADXbgbZq",
+          "expanded_url": "https://x.com/Arlukowicz/status/1800848109079253467/photo/1",
+          "display_url": "pic.x.com/9AADXbgbZq",
+          "media_key": "3_1800848092050120704"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 70,
+          "end": 83,
+          "username": "TakJestTVN24",
+          "id": "249109304"
+        },
+        {
+          "start": 86,
+          "end": 92,
+          "username": "tvn24",
+          "id": "14493047"
+        }
+      ]
+    },
+    "text": "O politycznych efektach wyborów do PE dzisiaj (środa) o godz. 18.00 w @TakJestTVN24 w @tvn24 \nZapraszam! https://t.co/9AADXbgbZq",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-12 12:10:22+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1800848109079253467"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-12T11:10:22.000Z",
+    "conversation_id": "1800848109079253467",
+    "reply_settings": "everyone",
+    "id": "1800848109079253467",
+    "attachments": {
+      "media_keys": [
+        "3_1800848092050120704"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 5,
+      "like_count": 109,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 6519
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 149,
+          "end": 172,
+          "url": "https://t.co/q7Ox7vYStt",
+          "expanded_url": "https://twitter.com/PiotrPytel67/status/1800083773297475823",
+          "display_url": "x.com/PiotrPytel67/s…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 7,
+          "end": 20,
+          "username": "PiotrPytel67",
+          "id": "831959219037417476"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 136,
+          "end": 147,
+          "tag": "BartekTeam"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1800083773297475823"
+      }
+    ],
+    "text": "Dzięki @PiotrPytel67 \nLubimy tę robotę🙂 A jeśli przy tym zdobywamy zaufanie ludzi to szczęście kompletne!\nPozdrawiam razem z całą ekipą #BartekTeam🙂 https://t.co/q7Ox7vYStt",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-11 14:47:41+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1800525311706357760"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-11T13:47:41.000Z",
+    "conversation_id": "1800525311706357760",
+    "reply_settings": "everyone",
+    "id": "1800525311706357760",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 36,
+      "reply_count": 2,
+      "like_count": 341,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7024
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 192,
+          "end": 215,
+          "url": "https://t.co/eq00BkSjlE",
+          "expanded_url": "https://x.com/Arlukowicz/status/1800218569290195218/photo/1",
+          "display_url": "pic.x.com/eq00BkSjlE",
+          "media_key": "3_1800218564751757312"
+        }
+      ]
+    },
+    "text": "Wybory. Wyborami. Ale ważne info mam! Pamiętacie „Chłopaków ze Słowenkowa”?🙂 Edyta żona Marka, szefa „chłopaków se Słowenkowa” została po raz kolejny sołtyską Słowenkowa!❤️\nGratulacje Edyta!🙂 https://t.co/eq00BkSjlE",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-10 18:28:48+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1800218569290195218"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-10T17:28:48.000Z",
+    "conversation_id": "1800218569290195218",
+    "reply_settings": "everyone",
+    "id": "1800218569290195218",
+    "attachments": {
+      "media_keys": [
+        "3_1800218564751757312"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 42,
+      "reply_count": 15,
+      "like_count": 568,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 6549
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 231,
+          "end": 254,
+          "url": "https://t.co/8yUi0k1BXT",
+          "expanded_url": "https://x.com/Arlukowicz/status/1800127801229820111/photo/1",
+          "display_url": "pic.x.com/8yUi0k1BXT",
+          "media_key": "3_1800127794875129857"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 218,
+          "end": 229,
+          "tag": "BartekTeam"
+        }
+      ]
+    },
+    "text": "Dziękujemy Wam wszystkim! Za każdy z 264 097 głosów❤️ To absolutny rekord! Jeszcze nigdy w naszym regionie nie było takiego wyniku! To dzięki Wam i naszej wieloletniej przyjaźni i współpracy! Dziękujemy całym zespołem #BartekTeam🙂 https://t.co/8yUi0k1BXT",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-10 12:28:07+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1800127801229820111"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-10T11:28:07.000Z",
+    "conversation_id": "1800127801229820111",
+    "reply_settings": "everyone",
+    "id": "1800127801229820111",
+    "attachments": {
+      "media_keys": [
+        "3_1800127794875129857"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 100,
+      "reply_count": 86,
+      "like_count": 1285,
+      "quote_count": 2,
+      "bookmark_count": 2,
+      "impression_count": 18166
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 15,
+          "end": 38,
+          "url": "https://t.co/1IryQ4ILLQ",
+          "expanded_url": "https://twitter.com/WiolaPaprocka/status/1799887277348335907",
+          "display_url": "x.com/WiolaPaprocka/…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799887277348335907"
+      }
+    ],
+    "text": "Wiola! Dzięki! https://t.co/1IryQ4ILLQ",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-09 23:15:03+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799928219203670097"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-09T22:15:03.000Z",
+    "conversation_id": "1799928219203670097",
+    "reply_settings": "everyone",
+    "id": "1799928219203670097",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 6,
+      "like_count": 249,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6433
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 72,
+          "end": 95,
+          "url": "https://t.co/aC9iQkvPh6",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799775074205233184/photo/1",
+          "display_url": "pic.x.com/aC9iQkvPh6",
+          "media_key": "3_1799775045838921729"
+        }
+      ]
+    },
+    "text": "Zagłosowane!🙂 Maks szczęśliwy bo pierwszy raz głosuje w wyborach do PE🙂 https://t.co/aC9iQkvPh6",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-09 13:06:30+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799775074205233184"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-09T12:06:30.000Z",
+    "conversation_id": "1799775074205233184",
+    "reply_settings": "everyone",
+    "id": "1799775074205233184",
+    "attachments": {
+      "media_keys": [
+        "3_1799775045838921729"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 115,
+      "reply_count": 58,
+      "like_count": 1730,
+      "quote_count": 2,
+      "bookmark_count": 4,
+      "impression_count": 18703
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 74,
+          "end": 97,
+          "url": "https://t.co/zGqmrlWV2C",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799733498896626059/photo/1",
+          "display_url": "pic.x.com/zGqmrlWV2C",
+          "media_key": "3_1799733458895257600"
+        },
+        {
+          "start": 74,
+          "end": 97,
+          "url": "https://t.co/zGqmrlWV2C",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799733498896626059/photo/1",
+          "display_url": "pic.x.com/zGqmrlWV2C",
+          "media_key": "3_1799733458853330945"
+        }
+      ]
+    },
+    "text": "Mama już. Pojechaliśmy wszyscy, żeby naszej Mamie i Babci było raźniej!❤️ https://t.co/zGqmrlWV2C",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-09 10:21:18+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799733498896626059"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-09T09:21:18.000Z",
+    "conversation_id": "1799733498896626059",
+    "reply_settings": "everyone",
+    "id": "1799733498896626059",
+    "attachments": {
+      "media_keys": [
+        "3_1799733458895257600",
+        "3_1799733458853330945"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 92,
+      "reply_count": 66,
+      "like_count": 1181,
+      "quote_count": 2,
+      "bookmark_count": 4,
+      "impression_count": 18268
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/h9IXOqemgD",
+          "expanded_url": "https://twitter.com/ObserwatorXY/status/1799168930914963931",
+          "display_url": "x.com/ObserwatorXY/s…"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799168930914963931"
+      }
+    ],
+    "text": "To moje ukochane zdjęcie!!! Jest w moim biurze od lat! https://t.co/h9IXOqemgD",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 20:59:32+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799169340924956781"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T19:59:32.000Z",
+    "conversation_id": "1799169340924956781",
+    "reply_settings": "everyone",
+    "id": "1799169340924956781",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 19,
+      "reply_count": 10,
+      "like_count": 176,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4129
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 151,
+          "end": 174,
+          "url": "https://t.co/7EFl5MCpil",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799167411528118779/photo/1",
+          "display_url": "pic.x.com/7EFl5MCpil",
+          "media_key": "3_1799167407312785408"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 48,
+          "end": 64,
+          "tag": "IdziemyNaWybory"
+        },
+        {
+          "start": 138,
+          "end": 149,
+          "tag": "BartekTeam"
+        }
+      ]
+    },
+    "text": "Dziękujemy Wam wszystkim!❤️ W niedzielę wszyscy #IdziemyNaWybory\nA w poniedziałek? Znowu się widzimy na ulicach!🙂 Dziękujemy za wszystko!\n#BartekTeam🙂 https://t.co/7EFl5MCpil",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 20:51:52+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799167411528118779"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T19:51:52.000Z",
+    "conversation_id": "1799167411528118779",
+    "reply_settings": "everyone",
+    "id": "1799167411528118779",
+    "attachments": {
+      "media_keys": [
+        "3_1799167407312785408"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 64,
+      "reply_count": 61,
+      "like_count": 530,
+      "quote_count": 6,
+      "bookmark_count": 1,
+      "impression_count": 16366
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 248,
+          "end": 271,
+          "url": "https://t.co/aHO8qLYnLM",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799154167858049476/video/1",
+          "display_url": "pic.x.com/aHO8qLYnLM",
+          "media_key": "7_1799154108114296832"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 217,
+          "end": 228,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 231,
+          "end": 247,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Wszystkim Wam, których spotkaliśmy w drodze! Wszystkim Wam, którzy jechaliście z nami w trasie przez ostatnie kilkanaście tygodni.  DZIĘKUJEMY! To był wspaniały czas! A my? My po prostu kochamy kampanie!🙂 Dziękujemy! #BartekTeam❤️\n#IdziemyNaWybory https://t.co/aHO8qLYnLM",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 19:59:14+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799154167858049476"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T18:59:14.000Z",
+    "conversation_id": "1799154167858049476",
+    "reply_settings": "everyone",
+    "id": "1799154167858049476",
+    "attachments": {
+      "media_keys": [
+        "7_1799154108114296832"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 118,
+      "reply_count": 130,
+      "like_count": 705,
+      "quote_count": 8,
+      "bookmark_count": 1,
+      "impression_count": 17236
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 25,
+          "end": 48,
+          "url": "https://t.co/8M3WV4rCXM",
+          "expanded_url": "https://twitter.com/LuckLukasz/status/1799146145521807691",
+          "display_url": "x.com/LuckLukasz/sta…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 8,
+          "end": 24,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799146145521807691"
+      }
+    ],
+    "text": "Dzięki!\n#IdziemyNaWybory https://t.co/8M3WV4rCXM",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 19:32:24+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799147412499603502"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T18:32:24.000Z",
+    "conversation_id": "1799147412499603502",
+    "reply_settings": "everyone",
+    "id": "1799147412499603502",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 14,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1908
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 103,
+          "end": 126,
+          "url": "https://t.co/VeqoNjCRRx",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799142485685424298/video/1",
+          "display_url": "pic.x.com/VeqoNjCRRx",
+          "media_key": "7_1799142150459863040"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 86,
+          "end": 102,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Świat się zmienił! Europa już nie będzie tą samą Europą. I dlatego wszyscy! Wszyscy! \n#IdziemyNaWybory https://t.co/VeqoNjCRRx",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 19:12:49+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799142485685424298"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T18:12:49.000Z",
+    "conversation_id": "1799142485685424298",
+    "reply_settings": "everyone",
+    "id": "1799142485685424298",
+    "attachments": {
+      "media_keys": [
+        "7_1799142150459863040"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 78,
+      "reply_count": 20,
+      "like_count": 369,
+      "quote_count": 4,
+      "bookmark_count": 0,
+      "impression_count": 11600
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 93,
+          "end": 116,
+          "url": "https://t.co/G38G4FdA4V",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799139526419554727/photo/1",
+          "display_url": "pic.x.com/G38G4FdA4V",
+          "media_key": "3_1799139513593151488"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 51,
+          "end": 62,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 76,
+          "end": 92,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Do ulotki ostatniej walczymy na ulicach!🙂 Młodzi z #BartekTeam🙂Duma z Was!🙂\n#IdziemyNaWybory https://t.co/G38G4FdA4V",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 19:01:04+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799139526419554727"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T18:01:04.000Z",
+    "conversation_id": "1799139526419554727",
+    "reply_settings": "everyone",
+    "id": "1799139526419554727",
+    "attachments": {
+      "media_keys": [
+        "3_1799139513593151488"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 14,
+      "reply_count": 3,
+      "like_count": 106,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 2226
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 50,
+          "end": 73,
+          "url": "https://t.co/TsGHx1Xtn6",
+          "expanded_url": "https://twitter.com/Monika_k71/status/1799138164654952592",
+          "display_url": "x.com/Monika_k71/sta…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 49,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799138164654952592"
+      }
+    ],
+    "text": "Wojowniczko! Ja Tobie dziękuję!🙂\n#IdziemyNaWybory https://t.co/TsGHx1Xtn6",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 18:57:51+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799138719120892407"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T17:57:51.000Z",
+    "conversation_id": "1799138719120892407",
+    "reply_settings": "everyone",
+    "id": "1799138719120892407",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 2,
+      "like_count": 22,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2003
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 227,
+          "end": 250,
+          "url": "https://t.co/sVTGPsDFbp",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799137082599690352/photo/1",
+          "display_url": "pic.x.com/sVTGPsDFbp",
+          "media_key": "3_1799137077776310272"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 196,
+          "end": 207,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 210,
+          "end": 226,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Niezniszczalna nasza Sabina❤️Wiedza i doświadczenie dla młodych. Energia dla starszych. Wzór dla dziewczyn. Dla mnie oparcie i wsparcie emocjonalne od lat. Poznajcie Sabinę. 76 lat❤️ Trzon sztabu #BartekTeam🙂!\n#IdziemyNaWybory https://t.co/sVTGPsDFbp",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 18:51:21+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799137082599690352"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T17:51:21.000Z",
+    "conversation_id": "1799137082599690352",
+    "reply_settings": "everyone",
+    "id": "1799137082599690352",
+    "attachments": {
+      "media_keys": [
+        "3_1799137077776310272"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 28,
+      "like_count": 279,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 3285
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 34,
+          "end": 57,
+          "url": "https://t.co/5WYGweytDR",
+          "expanded_url": "https://twitter.com/Monika_k71/status/1798849698792370511",
+          "display_url": "x.com/Monika_k71/sta…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 17,
+          "end": 33,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1798849698792370511"
+      }
+    ],
+    "text": "Monika! Dzięki!🙂\n#IdziemyNaWybory https://t.co/5WYGweytDR",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 18:27:41+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799131127468400976"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T17:27:41.000Z",
+    "conversation_id": "1799131127468400976",
+    "reply_settings": "everyone",
+    "id": "1799131127468400976",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 27,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2089
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 93,
+          "end": 116,
+          "url": "https://t.co/hdq5rzCXGH",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799128342249324567/photo/1",
+          "display_url": "pic.x.com/hdq5rzCXGH",
+          "media_key": "3_1799128336494379010"
+        },
+        {
+          "start": 93,
+          "end": 116,
+          "url": "https://t.co/hdq5rzCXGH",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799128342249324567/photo/1",
+          "display_url": "pic.x.com/hdq5rzCXGH",
+          "media_key": "3_1799128336502763520"
+        },
+        {
+          "start": 93,
+          "end": 116,
+          "url": "https://t.co/hdq5rzCXGH",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799128342249324567/photo/1",
+          "display_url": "pic.x.com/hdq5rzCXGH",
+          "media_key": "3_1799128336465006592"
+        },
+        {
+          "start": 93,
+          "end": 116,
+          "url": "https://t.co/hdq5rzCXGH",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799128342249324567/photo/1",
+          "display_url": "pic.x.com/hdq5rzCXGH",
+          "media_key": "3_1799128336469196800"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 29,
+          "end": 40,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 76,
+          "end": 92,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Poznajcie moich Przyjaciół z #BartekTeam🙂 Bez nich nie byłoby tej kampanii!\n#IdziemyNaWybory https://t.co/hdq5rzCXGH",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 18:16:37+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799128342249324567"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T17:16:37.000Z",
+    "conversation_id": "1799128342249324567",
+    "reply_settings": "everyone",
+    "id": "1799128342249324567",
+    "attachments": {
+      "media_keys": [
+        "3_1799128336494379010",
+        "3_1799128336502763520",
+        "3_1799128336465006592",
+        "3_1799128336469196800"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 12,
+      "like_count": 224,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3325
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 39,
+          "end": 62,
+          "url": "https://t.co/XtU2g6xWoy",
+          "expanded_url": "https://twitter.com/pomagamy/status/1799125177755902379",
+          "display_url": "x.com/pomagamy/statu…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 22,
+          "end": 38,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799125177755902379"
+      }
+    ],
+    "text": "Dzięki Panie Marku!:)\n#IdziemyNaWybory https://t.co/XtU2g6xWoy",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 18:04:59+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799125416093118484"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T17:04:59.000Z",
+    "conversation_id": "1799125416093118484",
+    "reply_settings": "everyone",
+    "id": "1799125416093118484",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 15,
+      "reply_count": 5,
+      "like_count": 90,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2735
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 33,
+          "end": 56,
+          "url": "https://t.co/NpvB9eGkec",
+          "expanded_url": "https://twitter.com/MiloszMencel/status/1799093694769062245",
+          "display_url": "x.com/MiloszMencel/s…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 16,
+          "end": 32,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799093694769062245"
+      }
+    ],
+    "text": "Miłosz! Dzięki!\n#IdziemyNaWybory https://t.co/NpvB9eGkec",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 16:09:39+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799096390418894854"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T15:09:39.000Z",
+    "conversation_id": "1799096390418894854",
+    "reply_settings": "everyone",
+    "id": "1799096390418894854",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 30,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2129
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 206,
+          "end": 229,
+          "url": "https://t.co/EZ6ZfHMZ5Q",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799094870126309381/photo/1",
+          "display_url": "pic.x.com/EZ6ZfHMZ5Q",
+          "media_key": "3_1799094861246726145"
+        },
+        {
+          "start": 206,
+          "end": 229,
+          "url": "https://t.co/EZ6ZfHMZ5Q",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799094870126309381/photo/1",
+          "display_url": "pic.x.com/EZ6ZfHMZ5Q",
+          "media_key": "3_1799094861276061696"
+        },
+        {
+          "start": 206,
+          "end": 229,
+          "url": "https://t.co/EZ6ZfHMZ5Q",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799094870126309381/photo/1",
+          "display_url": "pic.x.com/EZ6ZfHMZ5Q",
+          "media_key": "3_1799094861246742528"
+        },
+        {
+          "start": 206,
+          "end": 229,
+          "url": "https://t.co/EZ6ZfHMZ5Q",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799094870126309381/photo/1",
+          "display_url": "pic.x.com/EZ6ZfHMZ5Q",
+          "media_key": "3_1799094861271846912"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 18,
+          "end": 29,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 189,
+          "end": 205,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Taki jest właśnie #BartekTeam🙂 \nWalczymy na ulicach jak zawsze w ekipie międzypokoleniowej!\nDwa Stasie, Ala, Igor, Michał, Kuba, Maja, Sławek, Nikodem,  Marta, Pani Sabina i Pani Krysia!❤️\n#IdziemyNaWybory https://t.co/EZ6ZfHMZ5Q",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 16:03:37+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799094870126309381"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T15:03:37.000Z",
+    "conversation_id": "1799094870126309381",
+    "reply_settings": "everyone",
+    "id": "1799094870126309381",
+    "attachments": {
+      "media_keys": [
+        "3_1799094861246726145",
+        "3_1799094861276061696",
+        "3_1799094861246742528",
+        "3_1799094861271846912"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 19,
+      "reply_count": 6,
+      "like_count": 93,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1765
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/JQaQI74APX",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799086847622287578/photo/1",
+          "display_url": "pic.x.com/JQaQI74APX",
+          "media_key": "3_1799086834166706176"
+        },
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/JQaQI74APX",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799086847622287578/photo/1",
+          "display_url": "pic.x.com/JQaQI74APX",
+          "media_key": "3_1799086834183553024"
+        },
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/JQaQI74APX",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799086847622287578/photo/1",
+          "display_url": "pic.x.com/JQaQI74APX",
+          "media_key": "3_1799086834179330048"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 18,
+          "end": 29,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 127,
+          "end": 143,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Na końcówce ekipy #BartekTeam🙂 w pełnym uderzeniu! Podzielone na grupy plakatujące. Ekipy uliczne ulotkowe! Jedziemy do końca!\n#IdziemyNaWybory https://t.co/JQaQI74APX",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 15:31:44+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799086847622287578"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T14:31:44.000Z",
+    "conversation_id": "1799086847622287578",
+    "reply_settings": "everyone",
+    "id": "1799086847622287578",
+    "attachments": {
+      "media_keys": [
+        "3_1799086834166706176",
+        "3_1799086834183553024",
+        "3_1799086834179330048"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 9,
+      "reply_count": 4,
+      "like_count": 65,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 4152
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/u21wtCocWU",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799084921178444186/video/1",
+          "display_url": "pic.x.com/u21wtCocWU",
+          "media_key": "7_1799084876894752769"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 62,
+          "end": 78,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Od Przyjaciół dostałem przed chwilą!❤️ Zobaczcie jakie fajne!\n#IdziemyNaWybory https://t.co/u21wtCocWU",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 15:24:05+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799084921178444186"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T14:24:05.000Z",
+    "conversation_id": "1799084921178444186",
+    "reply_settings": "everyone",
+    "id": "1799084921178444186",
+    "attachments": {
+      "media_keys": [
+        "7_1799084876894752769"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 57,
+      "reply_count": 80,
+      "like_count": 408,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 7105
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/jRrKJEsxe8",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799078636508872897/photo/1",
+          "display_url": "pic.x.com/jRrKJEsxe8",
+          "media_key": "3_1799078623791779840"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 46,
+          "end": 62,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Krótka przerwa i wychodzimy dalej na miasto!🙂\n#IdziemyNaWybory https://t.co/jRrKJEsxe8",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 14:59:06+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799078636508872897"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T13:59:06.000Z",
+    "conversation_id": "1799078636508872897",
+    "reply_settings": "everyone",
+    "id": "1799078636508872897",
+    "attachments": {
+      "media_keys": [
+        "3_1799078623791779840"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 27,
+      "reply_count": 21,
+      "like_count": 149,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 5020
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 101,
+          "end": 124,
+          "url": "https://t.co/rxAocyw0Dg",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799013008011870402/photo/1",
+          "display_url": "pic.x.com/rxAocyw0Dg",
+          "media_key": "3_1799013001582063616"
+        },
+        {
+          "start": 101,
+          "end": 124,
+          "url": "https://t.co/rxAocyw0Dg",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799013008011870402/photo/1",
+          "display_url": "pic.x.com/rxAocyw0Dg",
+          "media_key": "3_1799013001573642240"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 84,
+          "end": 100,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Tomek. Kopalnia Kruszyw Naturalnych Lepino. Gmina Sławoborze. Też IDZIE na WYBORY👍👍\n#IdziemyNaWybory https://t.co/rxAocyw0Dg",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 10:38:19+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799013008011870402"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T09:38:19.000Z",
+    "conversation_id": "1799013008011870402",
+    "reply_settings": "everyone",
+    "id": "1799013008011870402",
+    "attachments": {
+      "media_keys": [
+        "3_1799013001582063616",
+        "3_1799013001573642240"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 11,
+      "reply_count": 3,
+      "like_count": 58,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5299
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 43,
+          "end": 66,
+          "url": "https://t.co/1MM0NrJnUR",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799007292140188120/photo/1",
+          "display_url": "pic.x.com/1MM0NrJnUR",
+          "media_key": "3_1799007265586089984"
+        },
+        {
+          "start": 43,
+          "end": 66,
+          "url": "https://t.co/1MM0NrJnUR",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799007292140188120/photo/1",
+          "display_url": "pic.x.com/1MM0NrJnUR",
+          "media_key": "3_1799007265590263809"
+        },
+        {
+          "start": 43,
+          "end": 66,
+          "url": "https://t.co/1MM0NrJnUR",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799007292140188120/photo/1",
+          "display_url": "pic.x.com/1MM0NrJnUR",
+          "media_key": "3_1799007265573494784"
+        },
+        {
+          "start": 43,
+          "end": 66,
+          "url": "https://t.co/1MM0NrJnUR",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799007292140188120/photo/1",
+          "display_url": "pic.x.com/1MM0NrJnUR",
+          "media_key": "3_1799007265569308672"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 26,
+          "end": 42,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Teraz już na Zawadzkiego!\n#IdziemyNaWybory https://t.co/1MM0NrJnUR",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 10:15:37+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799007292140188120"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T09:15:37.000Z",
+    "conversation_id": "1799007292140188120",
+    "reply_settings": "everyone",
+    "id": "1799007292140188120",
+    "attachments": {
+      "media_keys": [
+        "3_1799007265586089984",
+        "3_1799007265590263809",
+        "3_1799007265573494784",
+        "3_1799007265569308672"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 1,
+      "like_count": 44,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1530
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 25,
+          "end": 48,
+          "url": "https://t.co/xyrRgTP61t",
+          "expanded_url": "https://twitter.com/Hanna192784011/status/1799000662304510248",
+          "display_url": "x.com/Hanna192784011…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 8,
+          "end": 24,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799000662304510248"
+      }
+    ],
+    "text": "Dzięki!\n#IdziemyNaWybory https://t.co/xyrRgTP61t",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 10:11:18+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799006209053511711"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T09:11:18.000Z",
+    "conversation_id": "1799006209053511711",
+    "reply_settings": "everyone",
+    "id": "1799006209053511711",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 19,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2194
+    },
+    "possibly_sensitive": false,
+    "category": "Quote"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 64,
+          "end": 87,
+          "url": "https://t.co/RRy6syovlT",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799001884675670239/photo/1",
+          "display_url": "pic.x.com/RRy6syovlT",
+          "media_key": "3_1799001393002688512"
+        },
+        {
+          "start": 64,
+          "end": 87,
+          "url": "https://t.co/RRy6syovlT",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799001884675670239/photo/1",
+          "display_url": "pic.x.com/RRy6syovlT",
+          "media_key": "3_1799001392977498112"
+        },
+        {
+          "start": 64,
+          "end": 87,
+          "url": "https://t.co/RRy6syovlT",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799001884675670239/photo/1",
+          "display_url": "pic.x.com/RRy6syovlT",
+          "media_key": "3_1799001392981610497"
+        },
+        {
+          "start": 64,
+          "end": 87,
+          "url": "https://t.co/RRy6syovlT",
+          "expanded_url": "https://x.com/Arlukowicz/status/1799001884675670239/photo/1",
+          "display_url": "pic.x.com/RRy6syovlT",
+          "media_key": "3_1799001392960675840"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 47,
+          "end": 63,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Kolejne nasze ulubione miejsce rynek Pogodno!🙂\n#IdziemyNaWybory https://t.co/RRy6syovlT",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 09:54:07+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1799001884675670239"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T08:54:07.000Z",
+    "conversation_id": "1799001884675670239",
+    "reply_settings": "everyone",
+    "id": "1799001884675670239",
+    "attachments": {
+      "media_keys": [
+        "3_1799001393002688512",
+        "3_1799001392977498112",
+        "3_1799001392981610497",
+        "3_1799001392960675840"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 29,
+      "reply_count": 5,
+      "like_count": 103,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 2389
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 86,
+          "end": 109,
+          "url": "https://t.co/3pgicto4U4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798995604846326227/photo/1",
+          "display_url": "pic.x.com/3pgicto4U4",
+          "media_key": "3_1798995591126794240"
+        },
+        {
+          "start": 86,
+          "end": 109,
+          "url": "https://t.co/3pgicto4U4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798995604846326227/photo/1",
+          "display_url": "pic.x.com/3pgicto4U4",
+          "media_key": "3_1798995591122604032"
+        },
+        {
+          "start": 86,
+          "end": 109,
+          "url": "https://t.co/3pgicto4U4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798995604846326227/photo/1",
+          "display_url": "pic.x.com/3pgicto4U4",
+          "media_key": "3_1798995591130955777"
+        },
+        {
+          "start": 86,
+          "end": 109,
+          "url": "https://t.co/3pgicto4U4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798995604846326227/photo/1",
+          "display_url": "pic.x.com/3pgicto4U4",
+          "media_key": "3_1798995591135178752"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 14,
+          "end": 25,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 69,
+          "end": 85,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Od rana ekipą #BartekTeam🙂 na ulicach rynkach i ryneczkach!\nWszyscy!\n#IdziemyNaWybory https://t.co/3pgicto4U4",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 09:29:10+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798995604846326227"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-07T08:29:10.000Z",
+    "conversation_id": "1798995604846326227",
+    "reply_settings": "everyone",
+    "id": "1798995604846326227",
+    "attachments": {
+      "media_keys": [
+        "3_1798995591126794240",
+        "3_1798995591122604032",
+        "3_1798995591130955777",
+        "3_1798995591135178752"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 25,
+      "reply_count": 8,
+      "like_count": 113,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 3593
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 47,
+          "end": 70,
+          "url": "https://t.co/KU3IJ4gnPX",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798800138858877191/video/1",
+          "display_url": "pic.x.com/KU3IJ4gnPX",
+          "media_key": "7_1798800122979209220"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 30,
+          "end": 46,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Wycinają chłopaki🙂 Na jutro!🙂\n#IdziemyNaWybory https://t.co/KU3IJ4gnPX",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-06 20:32:27+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798800138858877191"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-06T19:32:27.000Z",
+    "conversation_id": "1798800138858877191",
+    "reply_settings": "everyone",
+    "id": "1798800138858877191",
+    "attachments": {
+      "media_keys": [
+        "7_1798800122979209220"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 14,
+      "reply_count": 4,
+      "like_count": 94,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 8009
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 207,
+          "end": 230,
+          "url": "https://t.co/hcmkHI1vtg",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798788469701136514/photo/1",
+          "display_url": "pic.x.com/hcmkHI1vtg",
+          "media_key": "3_1798788461815840768"
+        },
+        {
+          "start": 207,
+          "end": 230,
+          "url": "https://t.co/hcmkHI1vtg",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798788469701136514/photo/1",
+          "display_url": "pic.x.com/hcmkHI1vtg",
+          "media_key": "3_1798788461811675136"
+        },
+        {
+          "start": 207,
+          "end": 230,
+          "url": "https://t.co/hcmkHI1vtg",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798788469701136514/photo/1",
+          "display_url": "pic.x.com/hcmkHI1vtg",
+          "media_key": "3_1798788461807456256"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 115,
+          "end": 126,
+          "username": "donaldtusk",
+          "id": "375146901"
+        },
+        {
+          "start": 176,
+          "end": 186,
+          "username": "PremierRP",
+          "id": "57626153"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 23,
+          "end": 34,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 190,
+          "end": 206,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Nasza Hania z naszego  #BartekTeam🙂Pracuje z nami od miesięcy. Na giełdzie nosi z nami ulotki. Marzyła, żeby iść z @donaldtusk w Marszu Miliona🙂 Poszła! Teraz usiadła w fotelu @PremierRP ❤️\n#IdziemyNaWybory https://t.co/hcmkHI1vtg",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-06 19:46:05+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798788469701136514"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-06T18:46:05.000Z",
+    "conversation_id": "1798788469701136514",
+    "reply_settings": "everyone",
+    "id": "1798788469701136514",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1798788461815840768",
+        "3_1798788461811675136",
+        "3_1798788461807456256"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 36,
+      "reply_count": 22,
+      "like_count": 276,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5143
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 110,
+          "end": 133,
+          "url": "https://t.co/wlNG97grGx",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798725819671679321/photo/1",
+          "display_url": "pic.x.com/wlNG97grGx",
+          "media_key": "3_1798725810410708992"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 93,
+          "end": 109,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "No sami powiedzcie czy to nie łapie za serce?❤️ Pani Ania. Moja wychowawczyni z podstawówki🙂\n#IdziemyNaWybory https://t.co/wlNG97grGx",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-06 15:37:08+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798725819671679321"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-06T14:37:08.000Z",
+    "conversation_id": "1798725819671679321",
+    "reply_settings": "everyone",
+    "id": "1798725819671679321",
+    "attachments": {
+      "media_keys": [
+        "3_1798725810410708992"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 134,
+      "reply_count": 319,
+      "like_count": 1566,
+      "quote_count": 8,
+      "bookmark_count": 4,
+      "impression_count": 34009
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/CoIy3RW0EY",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798717878465855760/photo/1",
+          "display_url": "pic.x.com/CoIy3RW0EY",
+          "media_key": "3_1798717846450778112"
+        },
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/CoIy3RW0EY",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798717878465855760/photo/1",
+          "display_url": "pic.x.com/CoIy3RW0EY",
+          "media_key": "3_1798717846501109761"
+        },
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/CoIy3RW0EY",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798717878465855760/photo/1",
+          "display_url": "pic.x.com/CoIy3RW0EY",
+          "media_key": "3_1798717846459232257"
+        },
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/CoIy3RW0EY",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798717878465855760/photo/1",
+          "display_url": "pic.x.com/CoIy3RW0EY",
+          "media_key": "3_1798717846463385601"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 45,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 148,
+          "end": 164,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Dzisiaj w akcji wyborczej z ekipą #BartekTeam🙂 i Marią. Moją Przyjaciółką. To było dziś dla mnie bardzo ważne, że popracowaliśmy z Marysią razem!❤️\n#IdziemyNaWybory https://t.co/CoIy3RW0EY",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-06 15:05:35+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798717878465855760"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-06T14:05:35.000Z",
+    "conversation_id": "1798717878465855760",
+    "reply_settings": "everyone",
+    "id": "1798717878465855760",
+    "attachments": {
+      "media_keys": [
+        "3_1798717846450778112",
+        "3_1798717846501109761",
+        "3_1798717846459232257",
+        "3_1798717846463385601"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 3,
+      "like_count": 74,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2296
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 125,
+          "end": 148,
+          "url": "https://t.co/Dv5BneiacO",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798650863956922727/photo/1",
+          "display_url": "pic.x.com/Dv5BneiacO",
+          "media_key": "3_1798650854503055361"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 108,
+          "end": 124,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "9 czerwca wszyscy idziemy na wybory! Zadzwoń do znajomych i Przyjaciół. Obdzwoń rodzinę dalszą i bliższą!❤️\n#IdziemyNaWybory https://t.co/Dv5BneiacO",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-06 10:39:17+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798650863956922727"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-06T09:39:17.000Z",
+    "conversation_id": "1798650863956922727",
+    "reply_settings": "everyone",
+    "id": "1798650863956922727",
+    "attachments": {
+      "media_keys": [
+        "3_1798650854503055361"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 69,
+      "reply_count": 92,
+      "like_count": 332,
+      "quote_count": 8,
+      "bookmark_count": 0,
+      "impression_count": 10880
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 97,
+          "end": 120,
+          "url": "https://t.co/oWVRZQ5vdR",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798398728237109716/photo/1",
+          "display_url": "pic.x.com/oWVRZQ5vdR",
+          "media_key": "3_1798398723719905281"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 10,
+          "end": 21,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 80,
+          "end": 96,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Poznajcie #BartekTeam🙂 oddział Międzyzdroje! Małgosia i Artur❤️ Walczymy razem!\n#IdziemyNaWybory https://t.co/oWVRZQ5vdR",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 17:57:24+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798398728237109716"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T16:57:24.000Z",
+    "conversation_id": "1798398728237109716",
+    "reply_settings": "everyone",
+    "id": "1798398728237109716",
+    "attachments": {
+      "media_keys": [
+        "3_1798398723719905281"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 8,
+      "like_count": 219,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3063
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 86,
+          "end": 109,
+          "url": "https://t.co/6z5wrbNKH7",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798394600853229687/photo/1",
+          "display_url": "pic.x.com/6z5wrbNKH7",
+          "media_key": "3_1798394597162266624"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 69,
+          "end": 85,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Międzyzdroje? Czy Kołobrzeg? Oczywiście i Międzyzdroje i Kołobrzeg!🙂\n#IdziemyNaWybory https://t.co/6z5wrbNKH7",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 17:41:00+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798394600853229687"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T16:41:00.000Z",
+    "conversation_id": "1798394600853229687",
+    "reply_settings": "everyone",
+    "id": "1798394600853229687",
+    "attachments": {
+      "media_keys": [
+        "3_1798394597162266624"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 51,
+      "reply_count": 31,
+      "like_count": 404,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5009
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 111,
+          "end": 134,
+          "url": "https://t.co/0PHloYSY36",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798363645606605037/photo/1",
+          "display_url": "pic.x.com/0PHloYSY36",
+          "media_key": "3_1798363637490274304"
+        },
+        {
+          "start": 111,
+          "end": 134,
+          "url": "https://t.co/0PHloYSY36",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798363645606605037/photo/1",
+          "display_url": "pic.x.com/0PHloYSY36",
+          "media_key": "3_1798363637465096193"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 84,
+          "end": 98,
+          "username": "radioszczecin",
+          "id": "58224658"
+        }
+      ]
+    },
+    "text": "Jutro (czwartek) o naszym warszawskim wiecu o godz. 8.10 w SuperFm i o godz. 8.30 w @radioszczecin \nZapraszam! https://t.co/0PHloYSY36",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 15:37:59+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798363645606605037"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T14:37:59.000Z",
+    "conversation_id": "1798363645606605037",
+    "reply_settings": "everyone",
+    "id": "1798363645606605037",
+    "attachments": {
+      "media_keys": [
+        "3_1798363637490274304",
+        "3_1798363637465096193"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 36,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5535
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/p9B6IPP6hq",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798357965780754534/photo/1",
+          "display_url": "pic.x.com/p9B6IPP6hq",
+          "media_key": "3_1798357937896726528"
+        },
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/p9B6IPP6hq",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798357965780754534/photo/1",
+          "display_url": "pic.x.com/p9B6IPP6hq",
+          "media_key": "3_1798357937875734528"
+        },
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/p9B6IPP6hq",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798357965780754534/photo/1",
+          "display_url": "pic.x.com/p9B6IPP6hq",
+          "media_key": "3_1798357937888342016"
+        },
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/p9B6IPP6hq",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798357965780754534/photo/1",
+          "display_url": "pic.x.com/p9B6IPP6hq",
+          "media_key": "3_1798357937888362496"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 47,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 62,
+          "end": 78,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Międzyrzecz gotowy na wybory! Ekipa #BartekTeam🙂Międzyrzecz!🙂\n#IdziemyNaWybory https://t.co/p9B6IPP6hq",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 15:15:25+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798357965780754534"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T14:15:25.000Z",
+    "conversation_id": "1798357965780754534",
+    "reply_settings": "everyone",
+    "id": "1798357965780754534",
+    "attachments": {
+      "media_keys": [
+        "3_1798357937896726528",
+        "3_1798357937875734528",
+        "3_1798357937888342016",
+        "3_1798357937888362496"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 0,
+      "like_count": 71,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 2220
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 99,
+          "end": 122,
+          "url": "https://t.co/YNQijX79td",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798330318782677361/photo/1",
+          "display_url": "pic.x.com/YNQijX79td",
+          "media_key": "3_1798330305352224768"
+        },
+        {
+          "start": 99,
+          "end": 122,
+          "url": "https://t.co/YNQijX79td",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798330318782677361/photo/1",
+          "display_url": "pic.x.com/YNQijX79td",
+          "media_key": "3_1798330305381539840"
+        },
+        {
+          "start": 99,
+          "end": 122,
+          "url": "https://t.co/YNQijX79td",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798330318782677361/photo/1",
+          "display_url": "pic.x.com/YNQijX79td",
+          "media_key": "3_1798330305356468224"
+        },
+        {
+          "start": 99,
+          "end": 122,
+          "url": "https://t.co/YNQijX79td",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798330318782677361/photo/1",
+          "display_url": "pic.x.com/YNQijX79td",
+          "media_key": "3_1798330305385836545"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 6,
+          "end": 17,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 82,
+          "end": 98,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Ekipa #BartekTeam🙂 Świebodzin! Z ludźmi na ryneczku. Teraz? Kierunek Międzyrzecz!\n#IdziemyNaWybory https://t.co/YNQijX79td",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 13:25:34+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798330318782677361"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T12:25:34.000Z",
+    "conversation_id": "1798330318782677361",
+    "reply_settings": "everyone",
+    "id": "1798330318782677361",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1798330305352224768",
+        "3_1798330305381539840",
+        "3_1798330305356468224",
+        "3_1798330305385836545"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 25,
+      "reply_count": 3,
+      "like_count": 127,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5252
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 129,
+          "end": 152,
+          "url": "https://t.co/qRIlHBkXYK",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798302653962932722/photo/1",
+          "display_url": "pic.x.com/qRIlHBkXYK",
+          "media_key": "3_1798302616637579264"
+        },
+        {
+          "start": 129,
+          "end": 152,
+          "url": "https://t.co/qRIlHBkXYK",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798302653962932722/photo/1",
+          "display_url": "pic.x.com/qRIlHBkXYK",
+          "media_key": "3_1798302616520122368"
+        },
+        {
+          "start": 129,
+          "end": 152,
+          "url": "https://t.co/qRIlHBkXYK",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798302653962932722/photo/1",
+          "display_url": "pic.x.com/qRIlHBkXYK",
+          "media_key": "3_1798302616532754432"
+        },
+        {
+          "start": 129,
+          "end": 152,
+          "url": "https://t.co/qRIlHBkXYK",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798302653962932722/photo/1",
+          "display_url": "pic.x.com/qRIlHBkXYK",
+          "media_key": "3_1798302616553713664"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 17,
+          "end": 29,
+          "tag": "ZielonaGóra"
+        },
+        {
+          "start": 112,
+          "end": 128,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Studenci prawa z #ZielonaGóra🙂 Trzymajcie się dziewczyny i chłopaki! U Was zaraz sesja ale najpierw 09 czerwca…\n#IdziemyNaWybory https://t.co/qRIlHBkXYK",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 11:35:38+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798302653962932722"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T10:35:38.000Z",
+    "conversation_id": "1798302653962932722",
+    "reply_settings": "everyone",
+    "id": "1798302653962932722",
+    "attachments": {
+      "media_keys": [
+        "3_1798302616637579264",
+        "3_1798302616520122368",
+        "3_1798302616532754432",
+        "3_1798302616553713664"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 3,
+      "like_count": 93,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 4939
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 99,
+          "end": 122,
+          "url": "https://t.co/agnCmjGa25",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798283939561517402/photo/1",
+          "display_url": "pic.x.com/agnCmjGa25",
+          "media_key": "3_1798283919227318272"
+        }
+      ]
+    },
+    "text": "Panie Mirku! Szacunek! Chłopaki ze Słowenkowa nie próżnują! Aktualnie na złomowisku w Sławoborzu❤️ https://t.co/agnCmjGa25",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 10:21:16+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798283939561517402"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T09:21:16.000Z",
+    "conversation_id": "1798283939561517402",
+    "reply_settings": "everyone",
+    "id": "1798283939561517402",
+    "attachments": {
+      "media_keys": [
+        "3_1798283919227318272"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 4,
+      "like_count": 71,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2567
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/w72LchvvQ8",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798236438183772274/photo/1",
+          "display_url": "pic.x.com/w72LchvvQ8",
+          "media_key": "3_1798236432202354688"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 15,
+          "end": 26,
+          "tag": "BartekTeam"
+        },
+        {
+          "start": 38,
+          "end": 54,
+          "tag": "IdziemyNaWybory"
+        }
+      ]
+    },
+    "text": "Nowe pokolenie #BartekTeam🙂 w akcji❤️\n#IdziemyNaWybory https://t.co/w72LchvvQ8",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 07:12:31+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798236438183772274"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T06:12:31.000Z",
+    "conversation_id": "1798236438183772274",
+    "reply_settings": "everyone",
+    "id": "1798236438183772274",
+    "attachments": {
+      "media_keys": [
+        "3_1798236432202354688"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 29,
+      "reply_count": 53,
+      "like_count": 554,
+      "quote_count": 2,
+      "bookmark_count": 2,
+      "impression_count": 8212
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 114,
+          "end": 137,
+          "url": "https://t.co/QtXqMs0mp1",
+          "expanded_url": "https://x.com/Arlukowicz/status/1798221485456433533/photo/1",
+          "display_url": "pic.x.com/QtXqMs0mp1",
+          "media_key": "3_1798221480968216576"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 101,
+          "end": 113,
+          "tag": "Nabackstage"
+        }
+      ]
+    },
+    "text": "Panie Prezydencie! Może Pan usiądzie? Dziękuję! Jeszcze kilka lat postoję! I jak tu Go nie kochać?❤️\n#Nabackstage https://t.co/QtXqMs0mp1",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-05 06:13:06+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1798221485456433533"
+    ],
+    "author_id": "101561338",
+    "created_at": "2024-06-05T05:13:06.000Z",
+    "conversation_id": "1798221485456433533",
+    "reply_settings": "everyone",
+    "id": "1798221485456433533",
+    "attachments": {
+      "media_keys": [
+        "3_1798221480968216576"
+      ]
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 238,
+      "reply_count": 469,
+      "like_count": 2084,
+      "quote_count": 10,
+      "bookmark_count": 2,
+      "impression_count": 39448
+    },
+    "possibly_sensitive": false,
+    "category": "Original"
+  }
+]

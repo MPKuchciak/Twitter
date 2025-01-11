@@ -1,0 +1,4312 @@
+[
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 56,
+      "reply_count": 79,
+      "like_count": 173,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5324
+    },
+    "created_at": "2024-10-14T10:05:05.000Z",
+    "edit_history_tweet_ids": [
+      "1845767777950323175"
+    ],
+    "conversation_id": "1845767777950323175",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1845767777950323175",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-14 11:05:05+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "W tym roku, z okazji Dnia Edukacji Narodowej, życzę  nauczycielom i wychowawcom odwagi w przekazywaniu prawdy, wsparcia  rozwoju i uzdolnień uczniów i wiary, że macie wyjątkową misję do wypełnienia. \nPrzyszłość młodego pokolenia jest w Waszych rękach.\nWszystkiego najlepszego.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 433,
+      "reply_count": 428,
+      "like_count": 1348,
+      "quote_count": 15,
+      "bookmark_count": 17,
+      "impression_count": 36104
+    },
+    "created_at": "2024-09-29T06:23:35.000Z",
+    "edit_history_tweet_ids": [
+      "1840276216080744867"
+    ],
+    "conversation_id": "1840276216080744867",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1840276216080744867",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-09-29 07:23:35+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1839993451552632946"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 275,
+          "end": 298,
+          "url": "https://t.co/mxVhYuDJ5y",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1839993451552632946",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Prawdy nie da się długo ukrywać i nie potrzebujemy niemieckich żołnierzy w Polsce. Mamy bardzo dobrze zorganizowane, świetnie wyszkolone i nowocześnie wyposażone  służby, zdolne do ratowania ludzi i ich mienia w kryzysowych sytuacjach. Fynkcjonariusze PSP i OSP byli gotowi. https://t.co/mxVhYuDJ5y",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 258,
+      "reply_count": 532,
+      "like_count": 572,
+      "quote_count": 11,
+      "bookmark_count": 11,
+      "impression_count": 26571
+    },
+    "created_at": "2024-09-25T07:37:25.000Z",
+    "edit_history_tweet_ids": [
+      "1838845247238832219"
+    ],
+    "conversation_id": "1838845247238832219",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1838845247238832219",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-09-25 08:37:25+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1838838279778586759"
+      }
+    ],
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 54,
+          "end": 77,
+          "url": "https://t.co/3mkKqWJ6aF",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1838838279778586759",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Jako konstruktywna opozycja, posługujemy się faktami. https://t.co/3mkKqWJ6aF",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 115,
+      "reply_count": 498,
+      "like_count": 285,
+      "quote_count": 23,
+      "bookmark_count": 3,
+      "impression_count": 24120
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 253,
+          "end": 260,
+          "tag": "powódź"
+        },
+        {
+          "start": 261,
+          "end": 272,
+          "tag": "powodź2024"
+        }
+      ],
+      "urls": [
+        {
+          "start": 273,
+          "end": 296,
+          "url": "https://t.co/F3ChEjWt0I",
+          "expanded_url": "https://x.com/elzbietawitek/status/1835700201098453476/photo/1",
+          "display_url": "pic.x.com/F3ChEjWt0I",
+          "media_key": "3_1835700198649028608"
+        }
+      ]
+    },
+    "created_at": "2024-09-16T15:20:08.000Z",
+    "edit_history_tweet_ids": [
+      "1835700201098453476"
+    ],
+    "conversation_id": "1835700201098453476",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1835700201098453476",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-09-16 16:20:08+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1835700198649028608"
+      ]
+    },
+    "text": "Szanowni Państwo❗️  \n🔰 Rozpoczynamy zbiórkę najpotrzebniejszych rzeczy dla poszkodowanych w powodzi na Dolnym Śląsku. \n➡️ Dary można przynosić do mojego Biura Poselskiego w Jaworze, ul. Piłsudskiego 9-10, pn-pt 11:00-15:00.  \nKażda pomoc się liczy! 🤝  \n#powódź #powodź2024 https://t.co/F3ChEjWt0I",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 401,
+      "reply_count": 1106,
+      "like_count": 1412,
+      "quote_count": 41,
+      "bookmark_count": 8,
+      "impression_count": 74930
+    },
+    "created_at": "2024-08-30T14:12:30.000Z",
+    "edit_history_tweet_ids": [
+      "1829522588600603059"
+    ],
+    "conversation_id": "1829522588600603059",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1829522588600603059",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-30 15:12:30+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1829196064169353447"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/BcPYnabMar",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1829196064169353447",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Jeśli myślą, że nas zniszczą, mylą się. Są nas miliony. Razem damy radę. https://t.co/BcPYnabMar",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 125,
+      "reply_count": 155,
+      "like_count": 503,
+      "quote_count": 4,
+      "bookmark_count": 1,
+      "impression_count": 11161
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 66,
+          "end": 86,
+          "tag": "PowstańcyWarszawscy"
+        }
+      ],
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/V3xQw0HwIg",
+          "expanded_url": "https://x.com/elzbietawitek/status/1818878150035526026/photo/1",
+          "display_url": "pic.x.com/V3xQw0HwIg",
+          "media_key": "3_1818878147439308800"
+        }
+      ]
+    },
+    "created_at": "2024-08-01T05:15:18.000Z",
+    "edit_history_tweet_ids": [
+      "1818878150035526026"
+    ],
+    "conversation_id": "1818878150035526026",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1818878150035526026",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-01 06:15:18+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1818878147439308800"
+      ]
+    },
+    "text": "To było wyjątkowe pokolenie. Z  szacunkiem i podziwem patrzymy na #PowstańcyWarszawscy, którzy z Bogiem na ustach, wiarą w sercu i karabinem w dłoniach, bronili wolności, honoru Polski i  prawa do samostanowienia. Oddali Polsce najcenniejszy dar-życie.\nCześć i chwała Bohaterom! https://t.co/V3xQw0HwIg",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 73,
+      "reply_count": 116,
+      "like_count": 272,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 7873
+    },
+    "created_at": "2024-06-26T07:15:34.000Z",
+    "edit_history_tweet_ids": [
+      "1805862450127933714"
+    ],
+    "conversation_id": "1805862450127933714",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1805862450127933714",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-26 08:15:34+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1805837023476879613"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 158,
+          "end": 181,
+          "url": "https://t.co/O43Ofvx3CB",
+          "expanded_url": "https://twitter.com/KosiniakKamysz/status/1805837023476879613",
+          "display_url": "x.com/KosiniakKamysz…"
+        }
+      ]
+    },
+    "text": "Czekamy na konkrety. Oburzeni to my już jesteśmy. Natychmiast, to znaczy natychmiast, dziś, a nie w jakiejś bliżej nieokreślonej przyszłości. I co Pan zrobi? https://t.co/O43Ofvx3CB",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 568,
+      "like_count": 845,
+      "quote_count": 26,
+      "bookmark_count": 4,
+      "impression_count": 54911
+    },
+    "created_at": "2024-06-25T18:49:26.000Z",
+    "edit_history_tweet_ids": [
+      "1805674680860524957"
+    ],
+    "conversation_id": "1805674680860524957",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1805674680860524957",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-25 19:49:26+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Jakim określeniem nazwać ludzi, którzy  chcą wymazać z pamięci Polaków Rotmistrza Pileckiego, Rodzinę Ulmów i Św.Ojca Kolbe?\nNa wystawie w Muzeum II wojny światowej nie ma już dla nich miejsca, ale w naszej pamięci i w naszym sercu będą zawsze.\nNie zapomnimy o tej hańbie.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 40,
+      "reply_count": 109,
+      "like_count": 159,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 6416
+    },
+    "created_at": "2024-06-07T17:24:50.000Z",
+    "edit_history_tweet_ids": [
+      "1799130409982414991"
+    ],
+    "conversation_id": "1799130409982414991",
+    "author_id": "3159214282",
+    "lang": "zxx",
+    "id": "1799130409982414991",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 18:24:50+00:00"
+    },
+    "reply_settings": "everyone",
+    "entities": {
+      "urls": [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "https://t.co/0NxrUKZpKy",
+          "expanded_url": "https://x.com/elzbietawitek/status/1799130409982414991/video/1",
+          "display_url": "pic.x.com/0NxrUKZpKy",
+          "media_key": "7_1799130374427045888"
+        }
+      ]
+    },
+    "attachments": {
+      "media_keys": [
+        "7_1799130374427045888"
+      ]
+    },
+    "text": "https://t.co/0NxrUKZpKy",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 64,
+      "reply_count": 113,
+      "like_count": 218,
+      "quote_count": 3,
+      "bookmark_count": 2,
+      "impression_count": 8333
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 254,
+          "end": 275,
+          "tag": "PrawoiSprawiedliwość"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/rp6SezBY8Z",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1799050324214464932",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-06-07T13:22:18.000Z",
+    "edit_history_tweet_ids": [
+      "1799069374168641623"
+    ],
+    "conversation_id": "1799069374168641623",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1799069374168641623",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 14:22:18+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799050324214464932"
+      }
+    ],
+    "text": "Nie zamykajmy oczu na próby odbierania nam suwerenności, zatrzymania potrzebnych nam inwestycji rozwojowych, narzucania szkodliwych dla Polski i Polaków szaleństw oszukańczego zielonego ładu i co najważniejsze: brońmy naszego bezpieczeństwa. Głosujmy na #PrawoiSprawiedliwość. https://t.co/rp6SezBY8Z",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 12,
+      "reply_count": 63,
+      "like_count": 49,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 4725
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 80,
+          "end": 93,
+          "tag": "AnnaZalewska"
+        },
+        {
+          "start": 114,
+          "end": 135,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 261,
+          "end": 274,
+          "tag": "AnnaZalewska"
+        }
+      ],
+      "urls": [
+        {
+          "start": 275,
+          "end": 298,
+          "url": "https://t.co/WYKVpwK2Ce",
+          "expanded_url": "https://twitter.com/AnnaZalewskaMEP/status/1798704437705523461",
+          "display_url": "x.com/AnnaZalewskaME…"
+        }
+      ]
+    },
+    "created_at": "2024-06-06T14:18:28.000Z",
+    "edit_history_tweet_ids": [
+      "1798721121359192255"
+    ],
+    "conversation_id": "1798721121359192255",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1798721121359192255",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-06 15:18:28+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1798704437705523461"
+      }
+    ],
+    "text": "Ja nie ma żadnych wątpliwości i Państwa również proszę o oddanie głosu na Panią #AnnaZalewska. Jest liderem listy #PrawoiSprawiedliwość, bo lider musi być odważny, kompetentny,pracowity, aktywny, skuteczny w działaniu i lojalny wobec swojego panstwa. Taka jest #AnnaZalewska https://t.co/WYKVpwK2Ce",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 172,
+      "reply_count": 38,
+      "like_count": 394,
+      "quote_count": 4,
+      "bookmark_count": 3,
+      "impression_count": 5367
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 31,
+          "end": 49,
+          "tag": "Koalicja13grudnia"
+        },
+        {
+          "start": 254,
+          "end": 277,
+          "tag": "MuremZaPolskimMundurem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/BMJxc7j50e",
+          "expanded_url": "https://twitter.com/D_Tarczynski/status/1798695111330811956",
+          "display_url": "x.com/D_Tarczynski/s…"
+        }
+      ]
+    },
+    "created_at": "2024-06-06T13:50:19.000Z",
+    "edit_history_tweet_ids": [
+      "1798714034788975081"
+    ],
+    "conversation_id": "1798714034788975081",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1798714034788975081",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-06 14:50:19+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1798695111330811956"
+      }
+    ],
+    "text": "Ta grafika mówi wszystko. Rząd #Koalicja13grudnia okrył się hańbą, której nie da się zatrzeć. Ci żołnierze nikomu krzywdy nie zrobili, a ich zdecydowane działania skutecznie odstraszyły bandytów, napierających na naszą granicę. \nSzacunek dla  żołnierzy.\n#MuremZaPolskimMundurem https://t.co/BMJxc7j50e",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 79,
+      "reply_count": 718,
+      "like_count": 260,
+      "quote_count": 10,
+      "bookmark_count": 2,
+      "impression_count": 25460
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 131,
+          "end": 134,
+          "tag": "PE"
+        },
+        {
+          "start": 136,
+          "end": 149,
+          "tag": "AnnaZalewska"
+        },
+        {
+          "start": 166,
+          "end": 187,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 190,
+          "end": 201,
+          "tag": "DolnyŚląsk"
+        },
+        {
+          "start": 204,
+          "end": 217,
+          "tag": "Opolszczyzna"
+        }
+      ]
+    },
+    "created_at": "2024-06-03T15:31:34.000Z",
+    "edit_history_tweet_ids": [
+      "1797652353291805100"
+    ],
+    "conversation_id": "1797652353291805100",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1797652353291805100",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-03 16:31:34+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Bardzo Państwa proszę o głos na Annę Zalewską. To doświadczony, sprawdzony i odpowiedzialny polityk. Takich właśnie potrzebujemy w #PE.\n#AnnaZalewska -Nr 1 na liście #PrawoiSprawiedliwość z #DolnyŚląsk i #Opolszczyzna.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 143,
+      "reply_count": 215,
+      "like_count": 384,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "impression_count": 12654
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 215,
+          "end": 230,
+          "tag": "StrażGraniczna"
+        }
+      ],
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/9OCfpl6BkD",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1795869069238841766",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-05-29T18:57:17.000Z",
+    "edit_history_tweet_ids": [
+      "1795892183058301424"
+    ],
+    "conversation_id": "1795892183058301424",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1795892183058301424",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-29 19:57:17+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1795869069238841766"
+      }
+    ],
+    "text": "Pamiętamy, jakie obelgi kierowaliście pod adresem obrońców polskiej granicy na wschodzie. Dziś ubieracie się w szaty tych sprawiedliwych i dobrych. Cynizm w najczystszej postaci. Atakowani przez was funkcjonariusze #StrażGraniczna nadal tam służą. Ciekawe co teraz  o was myślą? https://t.co/9OCfpl6BkD",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 139,
+      "reply_count": 815,
+      "like_count": 395,
+      "quote_count": 24,
+      "bookmark_count": 4,
+      "impression_count": 49097
+    },
+    "created_at": "2024-05-28T10:17:25.000Z",
+    "edit_history_tweet_ids": [
+      "1795398968371007690"
+    ],
+    "conversation_id": "1795398968371007690",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1795398968371007690",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-28 11:17:25+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1795361741003784278"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 34,
+          "end": 57,
+          "url": "https://t.co/1f1aBeTE0C",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1795361741003784278",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Nie dajmy sobie odebrać wolności! https://t.co/1f1aBeTE0C",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 84,
+      "reply_count": 174,
+      "like_count": 243,
+      "quote_count": 5,
+      "bookmark_count": 2,
+      "impression_count": 10165
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 18,
+          "end": 25,
+          "tag": "Polski"
+        }
+      ],
+      "urls": [
+        {
+          "start": 26,
+          "end": 49,
+          "url": "https://t.co/QgyRBynNYC",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1792156887950958825",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-05-20T07:18:21.000Z",
+    "edit_history_tweet_ids": [
+      "1792454801059643691"
+    ],
+    "conversation_id": "1792454801059643691",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1792454801059643691",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-20 08:18:21+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1792156887950958825"
+      }
+    ],
+    "text": "Zawsze na TAK dla #Polski https://t.co/QgyRBynNYC",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 75,
+      "reply_count": 169,
+      "like_count": 247,
+      "quote_count": 2,
+      "bookmark_count": 3,
+      "impression_count": 10818
+    },
+    "created_at": "2024-05-14T05:57:58.000Z",
+    "edit_history_tweet_ids": [
+      "1790260244309782644"
+    ],
+    "conversation_id": "1790260244309782644",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1790260244309782644",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-14 06:57:58+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1789992861049471067"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 84,
+          "end": 107,
+          "url": "https://t.co/5zktPy1MH3",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1789992861049471067",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Każdy z nas może zatrzymać te podwyżki.  Podpisujmy się pod projektem obywatelskim. https://t.co/5zktPy1MH3",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 78,
+      "reply_count": 216,
+      "like_count": 290,
+      "quote_count": 5,
+      "bookmark_count": 0,
+      "impression_count": 17304
+    },
+    "created_at": "2024-04-05T18:44:05.000Z",
+    "edit_history_tweet_ids": [
+      "1776319917387665775"
+    ],
+    "conversation_id": "1776319917387665775",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1776319917387665775",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 19:44:05+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1776308685595140395"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 62,
+          "end": 85,
+          "url": "https://t.co/nqxbH5YmOD",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1776308685595140395",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Twój głos jest ważny. Nasza przyszłość jest w naszych rękach. https://t.co/nqxbH5YmOD",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 82,
+      "reply_count": 435,
+      "like_count": 281,
+      "quote_count": 9,
+      "bookmark_count": 0,
+      "impression_count": 14469
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 126,
+          "end": 145,
+          "tag": "LepszeŻyciePolaków"
+        },
+        {
+          "start": 146,
+          "end": 160,
+          "tag": "JesteśmyNaTak"
+        },
+        {
+          "start": 161,
+          "end": 173,
+          "tag": "BądźmyRazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 174,
+          "end": 197,
+          "url": "https://t.co/aq4ogUjuWI",
+          "expanded_url": "https://x.com/elzbietawitek/status/1776260320186548683/video/1",
+          "display_url": "pic.x.com/aq4ogUjuWI",
+          "media_key": "7_1776260245309812736"
+        }
+      ]
+    },
+    "created_at": "2024-04-05T14:47:16.000Z",
+    "edit_history_tweet_ids": [
+      "1776260320186548683"
+    ],
+    "conversation_id": "1776260320186548683",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1776260320186548683",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 15:47:16+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "7_1776260245309812736"
+      ]
+    },
+    "text": "Nie dajmy się dłużej oszukiwać. Zawalczmy o nasze samorządy. To są nasze Małe Ojczyzny. Nie bądźmy obojętni, zaangażujmy się.\n#LepszeŻyciePolaków\n#JesteśmyNaTak\n#BądźmyRazem https://t.co/aq4ogUjuWI",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 68,
+      "reply_count": 92,
+      "like_count": 200,
+      "quote_count": 3,
+      "bookmark_count": 1,
+      "impression_count": 8731
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 220,
+          "end": 236,
+          "tag": "TakdlaWrocławia"
+        },
+        {
+          "start": 237,
+          "end": 249,
+          "tag": "BądźmyRazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 250,
+          "end": 273,
+          "url": "https://t.co/lnEbgVlNO1",
+          "expanded_url": "https://twitter.com/mrozowska_k/status/1765483547626762685",
+          "display_url": "x.com/mrozowska_k/st…"
+        }
+      ]
+    },
+    "created_at": "2024-04-05T12:32:05.000Z",
+    "edit_history_tweet_ids": [
+      "1776226301810020616"
+    ],
+    "conversation_id": "1776226301810020616",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1776226301810020616",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 13:32:05+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1765483547626762685"
+      }
+    ],
+    "text": "Mamy w naszej drużynie wspaniałe kobiety. Jedną z nich jest Karolina Mrozowska. Proszę mieszkańców  Wrocławia z okręgu nr 2, żeby dali jej szansę służenia mieszkańcom przez kolejnych 5 lat. Nie zawiedziecie się Państwo.\n#TakdlaWrocławia\n#BądźmyRazem https://t.co/lnEbgVlNO1",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 36,
+      "reply_count": 77,
+      "like_count": 106,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 5782
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 2,
+          "end": 23,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 55,
+          "end": 73,
+          "tag": "SejmikDolnosląski"
+        },
+        {
+          "start": 146,
+          "end": 157,
+          "tag": "DolnyŚląsk"
+        },
+        {
+          "start": 246,
+          "end": 258,
+          "tag": "PiotrKarwan"
+        },
+        {
+          "start": 259,
+          "end": 278,
+          "tag": "LepszeŻyciePolaków"
+        }
+      ],
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/NOJIywHNoi",
+          "expanded_url": "https://twitter.com/karwan_piotr/status/1775749067911340542",
+          "display_url": "x.com/karwan_piotr/s…"
+        }
+      ]
+    },
+    "created_at": "2024-04-05T11:56:12.000Z",
+    "edit_history_tweet_ids": [
+      "1776217272266150358"
+    ],
+    "conversation_id": "1776217272266150358",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1776217272266150358",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 12:56:12+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1775749067911340542"
+      }
+    ],
+    "text": "P\n#PrawoiSprawiedliwość dotrzymuje słowa. Nasi radni w #SejmikDolnosląski zrobili dla naszego regionu wiele, ale jesteśmy ambitni, chcemy rozwoju #DolnyŚląsk i każdej miejscowości w regionie. Wybierzmy kandydatów sprawdzonych. Jednym z nich jest #PiotrKarwan\n#LepszeŻyciePolaków https://t.co/NOJIywHNoi",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 65,
+      "reply_count": 36,
+      "like_count": 149,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 4864
+    },
+    "created_at": "2024-04-05T08:34:12.000Z",
+    "edit_history_tweet_ids": [
+      "1776166436366340472"
+    ],
+    "conversation_id": "1776166436366340472",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1776166436366340472",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 09:34:12+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1776124675199750466"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 70,
+          "end": 93,
+          "url": "https://t.co/zeNmlmbCN9",
+          "expanded_url": "https://twitter.com/KilijanekA/status/1776124675199750466",
+          "display_url": "x.com/KilijanekA/sta…"
+        }
+      ]
+    },
+    "text": "To jeden z naszych kandydatów z Wrocławia. Warto na niego zagłosować. https://t.co/zeNmlmbCN9",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 42,
+      "reply_count": 143,
+      "like_count": 162,
+      "quote_count": 3,
+      "bookmark_count": 1,
+      "impression_count": 7285
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 88,
+          "end": 109,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 112,
+          "end": 120,
+          "tag": "Legnica"
+        },
+        {
+          "start": 234,
+          "end": 255,
+          "tag": "JoannaŚliwińskaŁokaj"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/n7nKswSfkn",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775958444933034381/photo/1",
+          "display_url": "pic.x.com/n7nKswSfkn",
+          "media_key": "3_1775958440654860289"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/n7nKswSfkn",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775958444933034381/photo/1",
+          "display_url": "pic.x.com/n7nKswSfkn",
+          "media_key": "3_1775958441191751680"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/n7nKswSfkn",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775958444933034381/photo/1",
+          "display_url": "pic.x.com/n7nKswSfkn",
+          "media_key": "3_1775958440642248704"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/n7nKswSfkn",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775958444933034381/photo/1",
+          "display_url": "pic.x.com/n7nKswSfkn",
+          "media_key": "3_1775958440914927617"
+        }
+      ]
+    },
+    "created_at": "2024-04-04T18:47:43.000Z",
+    "edit_history_tweet_ids": [
+      "1775958444933034381"
+    ],
+    "conversation_id": "1775958444933034381",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1775958444933034381",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-04 19:47:43+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1775958440654860289",
+        "3_1775958441191751680",
+        "3_1775958440642248704",
+        "3_1775958440914927617"
+      ]
+    },
+    "text": "Energię, entuzjazm i wolę wygranej, widać było i słychać podczas Konwencji samorządowej #PrawoiSprawiedliwość w #Legnica. Mamy wspaniałą drużynę, a na jej czele dynamiczną i świetnie zorganizowaną kandydatkę na Prezydenta tego miasta #JoannaŚliwińskaŁokaj. Postawmy na kobietę! https://t.co/n7nKswSfkn",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 107,
+      "reply_count": 463,
+      "like_count": 310,
+      "quote_count": 8,
+      "bookmark_count": 0,
+      "impression_count": 19550
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 24,
+          "end": 45,
+          "tag": "PrawoiSprawiedliwość"
+        }
+      ],
+      "urls": [
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/pCfGt1chLo",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1775781991784354148",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-04-04T08:23:49.000Z",
+    "edit_history_tweet_ids": [
+      "1775801434371477976"
+    ],
+    "conversation_id": "1775801434371477976",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1775801434371477976",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-04 09:23:49+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1775781991784354148"
+      }
+    ],
+    "text": "Warto zaufać kandydatom #PrawoiSprawiedliwość. Pokazaliśmy, że jesteśmy wiarygodni i wypełniamy nasze obietnice. Jesteśmy na TAK dla rozwoju Polski i naszych samorządów. Razem, w zgodzie i porozumieniu możemy uczynić dla naszych małych Ojczyzn wiele dobrego. Zróbmy to razem. https://t.co/pCfGt1chLo",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 47,
+      "reply_count": 195,
+      "like_count": 145,
+      "quote_count": 4,
+      "bookmark_count": 1,
+      "impression_count": 7045
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 254,
+          "end": 275,
+          "tag": "PrawoiSprawiedliwość"
+        }
+      ],
+      "urls": [
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/XqIhxlRvHf",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775528889437102487/video/1",
+          "display_url": "pic.x.com/XqIhxlRvHf",
+          "media_key": "3_1775516702517637120"
+        },
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/XqIhxlRvHf",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775528889437102487/video/1",
+          "display_url": "pic.x.com/XqIhxlRvHf",
+          "media_key": "3_1775516701720727552"
+        },
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/XqIhxlRvHf",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775528889437102487/video/1",
+          "display_url": "pic.x.com/XqIhxlRvHf",
+          "media_key": "7_1775528206092607488"
+        },
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/XqIhxlRvHf",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775528889437102487/video/1",
+          "display_url": "pic.x.com/XqIhxlRvHf",
+          "media_key": "3_1775516733010223104"
+        }
+      ]
+    },
+    "created_at": "2024-04-03T14:20:49.000Z",
+    "edit_history_tweet_ids": [
+      "1775528889437102487"
+    ],
+    "conversation_id": "1775528889437102487",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1775528889437102487",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-03 15:20:49+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1775516702517637120",
+        "3_1775516701720727552",
+        "7_1775528206092607488",
+        "3_1775516733010223104"
+      ]
+    },
+    "text": "Miasto, które powinno przyciągać turystów zabytkami i ciekawą historią zwija się, wyludnia, jest po prostu zaniedbane. Brakuje dobrego gospodarza. Jesteśmy na tak dla rozwoju Jawora i dla dobrej przyszłości  naszych mieszkańców. Zagłosujmy na kandydatów #PrawoiSprawiedliwość https://t.co/XqIhxlRvHf",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 100,
+      "reply_count": 363,
+      "like_count": 416,
+      "quote_count": 15,
+      "bookmark_count": 1,
+      "impression_count": 26697
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 44,
+          "end": 50,
+          "tag": "Jawor"
+        }
+      ],
+      "urls": [
+        {
+          "start": 51,
+          "end": 74,
+          "url": "https://t.co/ToUe9EWYln",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775514531550142674/video/1",
+          "display_url": "pic.x.com/ToUe9EWYln",
+          "media_key": "7_1775514481302335488"
+        }
+      ]
+    },
+    "created_at": "2024-04-03T13:23:46.000Z",
+    "edit_history_tweet_ids": [
+      "1775514531550142674"
+    ],
+    "conversation_id": "1775514531550142674",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1775514531550142674",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-03 14:23:46+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "7_1775514481302335488"
+      ]
+    },
+    "text": "Kolejny przystanek na kampanijnej trasie to #Jawor https://t.co/ToUe9EWYln",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 34,
+      "reply_count": 174,
+      "like_count": 115,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 5525
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 19,
+          "end": 27,
+          "tag": "Legnica"
+        },
+        {
+          "start": 77,
+          "end": 95,
+          "tag": "Koalicja13grudnia"
+        },
+        {
+          "start": 96,
+          "end": 110,
+          "tag": "Tuskodrożyzna"
+        },
+        {
+          "start": 135,
+          "end": 156,
+          "tag": "PrawoiSprawiedliwość"
+        }
+      ],
+      "urls": [
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/2umrs3ZYA6",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775471958764732426/photo/1",
+          "display_url": "pic.x.com/2umrs3ZYA6",
+          "media_key": "3_1775471955694477312"
+        },
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/2umrs3ZYA6",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775471958764732426/photo/1",
+          "display_url": "pic.x.com/2umrs3ZYA6",
+          "media_key": "3_1775471955983876097"
+        },
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/2umrs3ZYA6",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775471958764732426/photo/1",
+          "display_url": "pic.x.com/2umrs3ZYA6",
+          "media_key": "3_1775471956155899904"
+        },
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/2umrs3ZYA6",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775471958764732426/photo/1",
+          "display_url": "pic.x.com/2umrs3ZYA6",
+          "media_key": "3_1775471956277489664"
+        }
+      ]
+    },
+    "created_at": "2024-04-03T10:34:36.000Z",
+    "edit_history_tweet_ids": [
+      "1775471958764732426"
+    ],
+    "conversation_id": "1775471958764732426",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1775471958764732426",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-03 11:34:36+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1775471955694477312",
+        "3_1775471955983876097",
+        "3_1775471956155899904",
+        "3_1775471956277489664"
+      ]
+    },
+    "text": "Przed ryneczkiem w #Legnica konferencja prasowa o niespełnionych obietnicach #Koalicja13grudnia #Tuskodrożyzna a także o wiarygodności #PrawoiSprawiedliwość oraz ogromnym wsparciu dla samorządów na realizację ważnych inwestycji. Rozmawiamy z mieszkańcami. https://t.co/2umrs3ZYA6",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 34,
+      "reply_count": 130,
+      "like_count": 159,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 8509
+    },
+    "created_at": "2024-04-03T08:20:25.000Z",
+    "edit_history_tweet_ids": [
+      "1775438189433368923"
+    ],
+    "conversation_id": "1775438189433368923",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1775438189433368923",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-03 09:20:25+00:00"
+    },
+    "reply_settings": "everyone",
+    "entities": {
+      "urls": [
+        {
+          "start": 74,
+          "end": 97,
+          "url": "https://t.co/rkEKUrYOpI",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775438189433368923/photo/1",
+          "display_url": "pic.x.com/rkEKUrYOpI",
+          "media_key": "3_1775438181262872576"
+        },
+        {
+          "start": 74,
+          "end": 97,
+          "url": "https://t.co/rkEKUrYOpI",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775438189433368923/photo/1",
+          "display_url": "pic.x.com/rkEKUrYOpI",
+          "media_key": "3_1775438181699088384"
+        },
+        {
+          "start": 74,
+          "end": 97,
+          "url": "https://t.co/rkEKUrYOpI",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775438189433368923/photo/1",
+          "display_url": "pic.x.com/rkEKUrYOpI",
+          "media_key": "3_1775438181950746624"
+        }
+      ]
+    },
+    "attachments": {
+      "media_keys": [
+        "3_1775438181262872576",
+        "3_1775438181699088384",
+        "3_1775438181950746624"
+      ]
+    },
+    "text": "Spotkania z ludźmi są nieocenione. A ile ciekawych opinii można usłyszeć. https://t.co/rkEKUrYOpI",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 78,
+      "reply_count": 223,
+      "like_count": 351,
+      "quote_count": 4,
+      "bookmark_count": 3,
+      "impression_count": 24435
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 13,
+          "end": 21,
+          "tag": "Legnica"
+        }
+      ],
+      "urls": [
+        {
+          "start": 22,
+          "end": 45,
+          "url": "https://t.co/kXaaCjYOuF",
+          "expanded_url": "https://x.com/elzbietawitek/status/1775437495137628362/video/1",
+          "display_url": "pic.x.com/kXaaCjYOuF",
+          "media_key": "7_1775437469376286720"
+        }
+      ]
+    },
+    "created_at": "2024-04-03T08:17:39.000Z",
+    "edit_history_tweet_ids": [
+      "1775437495137628362"
+    ],
+    "conversation_id": "1775437495137628362",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1775437495137628362",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-03 09:17:39+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "7_1775437469376286720"
+      ]
+    },
+    "text": "Dziś od rana #Legnica https://t.co/kXaaCjYOuF",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 67,
+      "reply_count": 232,
+      "like_count": 546,
+      "quote_count": 4,
+      "bookmark_count": 1,
+      "impression_count": 16005
+    },
+    "created_at": "2024-03-30T17:09:11.000Z",
+    "edit_history_tweet_ids": [
+      "1774121708657529191"
+    ],
+    "conversation_id": "1774121708657529191",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1774121708657529191",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-30 18:09:11+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Z okazji Świąt Wielkanocnych, życzę wszystkim Państwu pokoju. Pokoju w naszych rodzinach, w naszej Ojczyźnie i na świecie. Niech Zmartwychwstały Chrystus, napełni nasze serca miłością, życzliwością i nadzieją. \nWesołego Alleluja!",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 31,
+      "reply_count": 41,
+      "like_count": 105,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 3889
+    },
+    "created_at": "2024-03-29T16:32:38.000Z",
+    "edit_history_tweet_ids": [
+      "1773750120795804061"
+    ],
+    "conversation_id": "1773750120795804061",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1773750120795804061",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-29 17:32:38+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1772657578662678767"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 54,
+          "end": 77,
+          "url": "https://t.co/5xNK6lZxq3",
+          "expanded_url": "https://twitter.com/lukaszkasztel/status/1772657578662678767",
+          "display_url": "x.com/lukaszkasztel/…"
+        }
+      ]
+    },
+    "text": "Warto o tym pamiętać. Nie dajmy się dłużej oszukiwać. https://t.co/5xNK6lZxq3",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 188,
+      "reply_count": 441,
+      "like_count": 580,
+      "quote_count": 7,
+      "bookmark_count": 12,
+      "impression_count": 26451
+    },
+    "created_at": "2024-03-29T16:31:52.000Z",
+    "edit_history_tweet_ids": [
+      "1773749931255161098"
+    ],
+    "conversation_id": "1773749931255161098",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1773749931255161098",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-29 17:31:52+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1773744358883250516"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 19,
+          "end": 42,
+          "url": "https://t.co/CILDgmadl0",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1773744358883250516",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "I to jest konkret. https://t.co/CILDgmadl0",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 153,
+      "reply_count": 512,
+      "like_count": 408,
+      "quote_count": 7,
+      "bookmark_count": 1,
+      "impression_count": 24849
+    },
+    "created_at": "2024-03-28T15:24:39.000Z",
+    "edit_history_tweet_ids": [
+      "1773370626448773545"
+    ],
+    "conversation_id": "1773370626448773545",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1773370626448773545",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-28 16:24:39+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1773263705813217767"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 33,
+          "end": 56,
+          "url": "https://t.co/fI34cXDPct",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1773263705813217767",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Tym razem nie dajmy się oszukać. https://t.co/fI34cXDPct",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 142,
+      "reply_count": 608,
+      "like_count": 435,
+      "quote_count": 16,
+      "bookmark_count": 7,
+      "impression_count": 57721
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 32,
+          "end": 50,
+          "tag": "Koalicja13grudnia"
+        }
+      ],
+      "urls": [
+        {
+          "start": 82,
+          "end": 105,
+          "url": "https://t.co/P2Fo0TiGCC",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1773034047834362342",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-03-28T05:46:56.000Z",
+    "edit_history_tweet_ids": [
+      "1773225240123855165"
+    ],
+    "conversation_id": "1773225240123855165",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1773225240123855165",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-28 06:46:56+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1773034047834362342"
+      }
+    ],
+    "text": "I to jest ten konkret, o którym #Koalicja13grudnia zapomniała powiedzieć Polakom. https://t.co/P2Fo0TiGCC",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 107,
+      "reply_count": 807,
+      "like_count": 338,
+      "quote_count": 18,
+      "bookmark_count": 4,
+      "impression_count": 41738
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 20,
+          "end": 38,
+          "tag": "Koalicja13grudnia"
+        },
+        {
+          "start": 240,
+          "end": 257,
+          "tag": "GronkiewiczWaltz"
+        },
+        {
+          "start": 259,
+          "end": 273,
+          "tag": "TuskoDrożyzna"
+        }
+      ]
+    },
+    "created_at": "2024-03-26T12:37:02.000Z",
+    "edit_history_tweet_ids": [
+      "1772603669478793298"
+    ],
+    "conversation_id": "1772603669478793298",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1772603669478793298",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-26 13:37:02+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Igrzysk,w wykonaniu #Koalicja13grudnia ciąg dalszy. Wszystko po to, żeby przykryć nieudolność w rzadzeniu, oszustwo wyborcze pod nazwą 100 konkretów i zbliżające się podwyżki cen żywności, energii i podatków. Taniej to już było, jak mówiła #GronkiewiczWaltz\n\n#TuskoDrożyzna",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 131,
+      "reply_count": 717,
+      "like_count": 398,
+      "quote_count": 16,
+      "bookmark_count": 1,
+      "impression_count": 63903
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 157,
+          "end": 175,
+          "tag": "koalicja13grudnia"
+        },
+        {
+          "start": 242,
+          "end": 256,
+          "tag": "TuskoDrożyzna"
+        }
+      ],
+      "urls": [
+        {
+          "start": 257,
+          "end": 280,
+          "url": "https://t.co/rnVYJ4TQGV",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1772191551315141000",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-03-25T16:29:05.000Z",
+    "edit_history_tweet_ids": [
+      "1772299675464274042"
+    ],
+    "conversation_id": "1772299675464274042",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1772299675464274042",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-25 17:29:05+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1772191551315141000"
+      }
+    ],
+    "text": "1 kwietnia nie będzie nam do śmiechu. To nie będzie dzień żartów znany, jako prima aprilis. Drożyzna już puka do naszych drzwi. A miało być taniej i lepiej. #koalicja13grudnia zakpiła z Polaków i to z pełną świadomością tego, co chce zrobić.\n#TuskoDrożyzna https://t.co/rnVYJ4TQGV",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 47,
+      "reply_count": 176,
+      "like_count": 156,
+      "quote_count": 5,
+      "bookmark_count": 2,
+      "impression_count": 12292
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 10,
+          "end": 31,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 150,
+          "end": 169,
+          "tag": "ŁukaszKasztelowicz"
+        },
+        {
+          "start": 194,
+          "end": 202,
+          "tag": "Wrocław"
+        },
+        {
+          "start": 261,
+          "end": 277,
+          "tag": "TakdlaWrocławia"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/Jm1K75cp57",
+          "expanded_url": "https://x.com/elzbietawitek/status/1771992029339214058/photo/1",
+          "display_url": "pic.x.com/Jm1K75cp57",
+          "media_key": "3_1771992026419990528"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/Jm1K75cp57",
+          "expanded_url": "https://x.com/elzbietawitek/status/1771992029339214058/photo/1",
+          "display_url": "pic.x.com/Jm1K75cp57",
+          "media_key": "3_1771992026579419137"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/Jm1K75cp57",
+          "expanded_url": "https://x.com/elzbietawitek/status/1771992029339214058/photo/1",
+          "display_url": "pic.x.com/Jm1K75cp57",
+          "media_key": "3_1771992026709409792"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/Jm1K75cp57",
+          "expanded_url": "https://x.com/elzbietawitek/status/1771992029339214058/photo/1",
+          "display_url": "pic.x.com/Jm1K75cp57",
+          "media_key": "3_1771992027120414720"
+        }
+      ]
+    },
+    "created_at": "2024-03-24T20:06:36.000Z",
+    "edit_history_tweet_ids": [
+      "1771992029339214058"
+    ],
+    "conversation_id": "1771992029339214058",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1771992029339214058",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-24 21:06:36+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1771992026419990528",
+        "3_1771992026579419137",
+        "3_1771992026709409792",
+        "3_1771992027120414720"
+      ]
+    },
+    "text": "Konwencja #PrawoiSprawiedliwość we Wrocławiu. Mamy ambitne plany, chcemy rozwoju, inwestycji i zamierzamy to osiągnąć. Z drużyną, której liderem jest #ŁukaszKasztelowicz, kandydat na Prezydenta #Wrocław, osiągnięcie tych celów jest realne. Jesteśmy wiarygodni.\n#TakdlaWrocławia https://t.co/Jm1K75cp57",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 158,
+      "reply_count": 921,
+      "like_count": 501,
+      "quote_count": 11,
+      "bookmark_count": 5,
+      "impression_count": 69214
+    },
+    "created_at": "2024-03-23T13:31:09.000Z",
+    "edit_history_tweet_ids": [
+      "1771530125378465943"
+    ],
+    "conversation_id": "1771530125378465943",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1771530125378465943",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-23 14:31:09+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1771513815022068204"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/JW5ageCnp7",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1771513815022068204",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Wierzyć się nie chce,  że tylu ludzi dało się na te pseudokonkrety nabrać. Jedno kłamstwo przykrywane jest kolejnym tak, żeby ludzie zapomnieli już o tym pierwszym. https://t.co/JW5ageCnp7",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 63,
+      "reply_count": 95,
+      "like_count": 181,
+      "quote_count": 3,
+      "bookmark_count": 3,
+      "impression_count": 6737
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 104,
+          "end": 125,
+          "tag": "PrawoiSprawiedliwosc"
+        },
+        {
+          "start": 151,
+          "end": 157,
+          "tag": "Jawor"
+        },
+        {
+          "start": 232,
+          "end": 243,
+          "tag": "ArturBujak"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/4TaSI0oVZk",
+          "expanded_url": "https://x.com/elzbietawitek/status/1771272099962790247/photo/1",
+          "display_url": "pic.x.com/4TaSI0oVZk",
+          "media_key": "3_1771272096892555264"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/4TaSI0oVZk",
+          "expanded_url": "https://x.com/elzbietawitek/status/1771272099962790247/photo/1",
+          "display_url": "pic.x.com/4TaSI0oVZk",
+          "media_key": "3_1771272096888340480"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/4TaSI0oVZk",
+          "expanded_url": "https://x.com/elzbietawitek/status/1771272099962790247/photo/1",
+          "display_url": "pic.x.com/4TaSI0oVZk",
+          "media_key": "3_1771272097383251968"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/4TaSI0oVZk",
+          "expanded_url": "https://x.com/elzbietawitek/status/1771272099962790247/photo/1",
+          "display_url": "pic.x.com/4TaSI0oVZk",
+          "media_key": "3_1771272097060302849"
+        }
+      ]
+    },
+    "created_at": "2024-03-22T20:25:51.000Z",
+    "edit_history_tweet_ids": [
+      "1771272099962790247"
+    ],
+    "conversation_id": "1771272099962790247",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1771272099962790247",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-22 21:25:51+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1771272096892555264",
+        "3_1771272096888340480",
+        "3_1771272097383251968",
+        "3_1771272097060302849"
+      ]
+    },
+    "text": "Energię i wolę walki o zwycięstwo w wyborach samorządowych dało się dziś odczuć na Konwencji Powiatowej #PrawoiSprawiedliwosc w moim rodzinnym mieście #Jawor. Dziękuję  zaangażowanym w jej przygotowanie, a kandydatowi na Burmistrza #ArturBujak i jego drużynie życzę zwycięstwa. https://t.co/4TaSI0oVZk",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 142,
+      "reply_count": 525,
+      "like_count": 396,
+      "quote_count": 11,
+      "bookmark_count": 3,
+      "impression_count": 32559
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 66,
+          "end": 84,
+          "tag": "koalicja13grudnia"
+        }
+      ],
+      "urls": [
+        {
+          "start": 85,
+          "end": 108,
+          "url": "https://t.co/VGh3OwHnMd",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1771095077424701950",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-03-22T11:12:19.000Z",
+    "edit_history_tweet_ids": [
+      "1771132798000365871"
+    ],
+    "conversation_id": "1771132798000365871",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1771132798000365871",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-22 12:12:19+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1771095077424701950"
+      }
+    ],
+    "text": "I doczekaliśmy się nowego znaczenia słowa wiarygodność w słowniku #koalicja13grudnia https://t.co/VGh3OwHnMd",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 79,
+      "reply_count": 109,
+      "like_count": 178,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 6130
+    },
+    "created_at": "2024-03-19T17:42:53.000Z",
+    "edit_history_tweet_ids": [
+      "1770143923152867387"
+    ],
+    "conversation_id": "1770143923152867387",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1770143923152867387",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-19 18:42:53+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1770117649432789160"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/hfQ0YdlOl5",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1770117649432789160",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Nie wolno grać bezpieczeństwem Polski i Polaków. Tymczasem.... https://t.co/hfQ0YdlOl5",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 87,
+      "reply_count": 175,
+      "like_count": 181,
+      "quote_count": 6,
+      "bookmark_count": 0,
+      "impression_count": 9865
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 48,
+          "end": 66,
+          "tag": "koalicja13grudnia"
+        }
+      ],
+      "urls": [
+        {
+          "start": 67,
+          "end": 90,
+          "url": "https://t.co/3tfQfTCPMe",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1770086513797181921",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-03-19T16:16:06.000Z",
+    "edit_history_tweet_ids": [
+      "1770122084045230589"
+    ],
+    "conversation_id": "1770122084045230589",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1770122084045230589",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-19 17:16:06+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1770086513797181921"
+      }
+    ],
+    "text": "To tylko kropla w morzu niespełnionych obietnic #koalicja13grudnia https://t.co/3tfQfTCPMe",
+    "category": "Quote"
+  },
+  {
+    "in_reply_to_user_id": "3354883925",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 1,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 101
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 81,
+          "end": 97,
+          "tag": "TakdlaWroclawia"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "AnnaZalewskaMEP",
+          "id": "3354883925"
+        },
+        {
+          "start": 17,
+          "end": 31,
+          "username": "lukaszkasztel",
+          "id": "1763310869906092032"
+        }
+      ]
+    },
+    "created_at": "2024-03-17T13:36:54.000Z",
+    "edit_history_tweet_ids": [
+      "1769357241335906305"
+    ],
+    "conversation_id": "1769301135637045306",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1769357241335906305",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-17 14:36:54+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1769306119506112941"
+      }
+    ],
+    "text": "@AnnaZalewskaMEP @lukaszkasztel Tak właśnie robi się dobrą kampanię. Powodzenia.\n#TakdlaWroclawia",
+    "category": "Reply"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 15,
+      "reply_count": 106,
+      "like_count": 76,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5948
+    },
+    "created_at": "2024-03-16T17:21:28.000Z",
+    "edit_history_tweet_ids": [
+      "1769051367908241895"
+    ],
+    "conversation_id": "1769051367908241895",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1769051367908241895",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-16 18:21:28+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1768940032851620262"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 141,
+          "end": 164,
+          "url": "https://t.co/JFCq5MrMak",
+          "expanded_url": "https://twitter.com/lukaszkasztel/status/1768940032851620262",
+          "display_url": "x.com/lukaszkasztel/…"
+        }
+      ]
+    },
+    "text": "Brawo. Najlepsza kampania to ta, która  prowadzona jest wśród ludzi. Wyborcy mają możliwość bezpośredniej rozmowy z kandydatami. Powodzenia. https://t.co/JFCq5MrMak",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 66,
+      "reply_count": 162,
+      "like_count": 151,
+      "quote_count": 5,
+      "bookmark_count": 0,
+      "impression_count": 8985
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 47,
+          "end": 55,
+          "tag": "Wrocław"
+        },
+        {
+          "start": 137,
+          "end": 158,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 251,
+          "end": 267,
+          "tag": "TakdlaWrocławia"
+        }
+      ],
+      "urls": [
+        {
+          "start": 268,
+          "end": 291,
+          "url": "https://t.co/n140adIHWN",
+          "expanded_url": "https://twitter.com/lukaszkasztel/status/1766777242602942538",
+          "display_url": "x.com/lukaszkasztel/…"
+        }
+      ]
+    },
+    "created_at": "2024-03-16T17:18:49.000Z",
+    "edit_history_tweet_ids": [
+      "1769050704298033506"
+    ],
+    "conversation_id": "1769050704298033506",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1769050704298033506",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-16 18:18:49+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1766777242602942538"
+      }
+    ],
+    "text": "Warto zaufać naszemu kandydatowi na Prezydenta #Wrocław. Łukasz Kasztelowicz ma dobre, realne i oczekiwane przez mieszkańców propozycje. #PrawoiSprawiedliwość udowodniło, że dotrzymuje słowa i jest wiarygodne. Wrocław zasługuje na dobrego gospodarza.\n#TakdlaWrocławia https://t.co/n140adIHWN",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 142,
+      "reply_count": 568,
+      "like_count": 614,
+      "quote_count": 6,
+      "bookmark_count": 2,
+      "impression_count": 32103
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 46,
+          "end": 64,
+          "tag": "Koalicja13grudnia"
+        },
+        {
+          "start": 68,
+          "end": 84,
+          "tag": "KomisjaPegasusa"
+        }
+      ],
+      "urls": [
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/alx8CC6hSI",
+          "expanded_url": "https://twitter.com/Supermeming/status/1768678441182736505",
+          "display_url": "x.com/Supermeming/st…"
+        }
+      ]
+    },
+    "created_at": "2024-03-15T17:33:44.000Z",
+    "edit_history_tweet_ids": [
+      "1768692068300325037"
+    ],
+    "conversation_id": "1768692068300325037",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1768692068300325037",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-15 18:33:44+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1768678441182736505"
+      }
+    ],
+    "text": "Na taki poziom intelektualny, jaki prezentuje #Koalicja13grudnia na #KomisjaPegasusa a także poziom kultury osobistej, najlepszy jest naleśnik w dobrym towarzystwie https://t.co/alx8CC6hSI",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 52,
+      "reply_count": 66,
+      "like_count": 118,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5911
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 60,
+          "end": 68,
+          "tag": "Legnica"
+        },
+        {
+          "start": 213,
+          "end": 225,
+          "tag": "BądźmyRazem"
+        },
+        {
+          "start": 226,
+          "end": 240,
+          "tag": "TakdlaLegnicy"
+        }
+      ],
+      "urls": [
+        {
+          "start": 241,
+          "end": 264,
+          "url": "https://t.co/qjx0gi6LKB",
+          "expanded_url": "https://twitter.com/JoasiaSliwinska/status/1768403049746227620",
+          "display_url": "x.com/JoasiaSliwinsk…"
+        }
+      ]
+    },
+    "created_at": "2024-03-15T10:04:30.000Z",
+    "edit_history_tweet_ids": [
+      "1768579015399330133"
+    ],
+    "conversation_id": "1768579015399330133",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1768579015399330133",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-15 11:04:30+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1768403049746227620"
+      }
+    ],
+    "text": "Warto spotkać się w sobotę z naszą kandydatką na Prezydenta #Legnica. Nie ma to  jak bezpośrednie rozmowy z ludźmi. One zawsze są inspirujące, a poza tym dają możliwość lepszego poznania kandydatki i jej drużyny.\n#BądźmyRazem\n#TakdlaLegnicy https://t.co/qjx0gi6LKB",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 55,
+      "reply_count": 37,
+      "like_count": 140,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 4550
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 40,
+          "end": 61,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 76,
+          "end": 84,
+          "tag": "Legnica"
+        },
+        {
+          "start": 258,
+          "end": 270,
+          "tag": "JestemNaTak"
+        }
+      ],
+      "urls": [
+        {
+          "start": 271,
+          "end": 294,
+          "url": "https://t.co/gNCIojPzBj",
+          "expanded_url": "https://twitter.com/JoasiaSliwinska/status/1764759960733262042",
+          "display_url": "x.com/JoasiaSliwinsk…"
+        }
+      ]
+    },
+    "created_at": "2024-03-07T11:40:25.000Z",
+    "edit_history_tweet_ids": [
+      "1765704051889406435"
+    ],
+    "conversation_id": "1765704051889406435",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1765704051889406435",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-07 12:40:25+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1764759960733262042"
+      }
+    ],
+    "text": "Joanna Śliwińska-Łokaj, jest kandydatką #PrawoiSprawiedliwość na Prezydenta #Legnica. Jestem przekonana, że nadszedł czas, by to właśnie kobieta, przedsiębiorcza, odważna i zorganizowana wzięła na siebie odpowiedzialność za sprawy miasta i jego mieszkańców.\n#JestemNaTak https://t.co/gNCIojPzBj",
+    "category": "Quote"
+  },
+  {
+    "in_reply_to_user_id": "1755288321977167872",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 255
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 56,
+          "end": 77,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 92,
+          "end": 100,
+          "tag": "Legnica"
+        },
+        {
+          "start": 276,
+          "end": 288,
+          "tag": "JestemNaTak"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "JoasiaSliwinska",
+          "id": "1755288321977167872"
+        }
+      ]
+    },
+    "created_at": "2024-03-07T11:35:56.000Z",
+    "edit_history_tweet_ids": [
+      "1765702924003369237"
+    ],
+    "conversation_id": "1764759960733262042",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1765702924003369237",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-07 12:35:56+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1764759960733262042"
+      }
+    ],
+    "text": "@JoasiaSliwinska Joanna Śliwińska-Łokaj jest kandydatką #PrawoiSprawiedliwość na Prezydenta #Legnica. Jestem przekonana, że nadszedł czas, by to właśnie kobieta, przedsiębiorcza i zorganizowana wzięła na siebie odpowiedzialność za sprawy ważne dla miasta i  jego mieszkańców.\n#JestemNaTak",
+    "category": "Reply"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 270,
+      "reply_count": 2060,
+      "like_count": 1284,
+      "quote_count": 56,
+      "bookmark_count": 14,
+      "impression_count": 147023
+    },
+    "created_at": "2024-03-06T14:21:24.000Z",
+    "edit_history_tweet_ids": [
+      "1765382176701284623"
+    ],
+    "conversation_id": "1765382176701284623",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1765382176701284623",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-06 15:21:24+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Miała być uśmiechnięta i szczęśliwa Polska, a jest pałowanie i używanie gazu łzawiącego. Wobec kogo? Wobec polskiego rolnika. Hańba i wstyd. \nStoimy murem za polskimi rolnikami. Oni nas nie tylko żywią, ale też bronią. Warto o tym pamiętać.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 96,
+      "reply_count": 196,
+      "like_count": 296,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 12383
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 60,
+          "end": 78,
+          "tag": "SejmikDolnośląski"
+        }
+      ],
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/YpaCvk41mc",
+          "expanded_url": "https://twitter.com/mkrzyzanowski79/status/1763576539277345074",
+          "display_url": "x.com/mkrzyzanowski7…"
+        }
+      ]
+    },
+    "created_at": "2024-03-05T14:38:25.000Z",
+    "edit_history_tweet_ids": [
+      "1765024071987654907"
+    ],
+    "conversation_id": "1765024071987654907",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1765024071987654907",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-05 15:38:25+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1763576539277345074"
+      }
+    ],
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "text": "Kandydat, którego warto poprzeć w nadchodzących wyborach do #SejmikDolnośląski https://t.co/YpaCvk41mc",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 92,
+      "reply_count": 258,
+      "like_count": 300,
+      "quote_count": 5,
+      "bookmark_count": 1,
+      "impression_count": 13044
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 205,
+          "end": 219,
+          "tag": "JesteśmyNaTak"
+        }
+      ],
+      "urls": [
+        {
+          "start": 220,
+          "end": 243,
+          "url": "https://t.co/BNq7QyzHEv",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1764661704133095805",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-03-04T17:06:26.000Z",
+    "edit_history_tweet_ids": [
+      "1764698931605160148"
+    ],
+    "conversation_id": "1764698931605160148",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1764698931605160148",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-04 18:06:26+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1764661704133095805"
+      }
+    ],
+    "text": "Razem, w zgodzie i współpracy,możemy zadbać o nasze małe Ojczyzny. Rozwój, odważne inwestycje, śmiałe projekty w samorządach i determinacja w działaniu to gwarancja dobrej przyszłości dla nas wszystkich. \n#JesteśmyNaTak https://t.co/BNq7QyzHEv",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 139,
+      "reply_count": 344,
+      "like_count": 531,
+      "quote_count": 11,
+      "bookmark_count": 2,
+      "impression_count": 21091
+    },
+    "created_at": "2024-03-02T13:45:10.000Z",
+    "edit_history_tweet_ids": [
+      "1763923504766840908"
+    ],
+    "conversation_id": "1763923504766840908",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1763923504766840908",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-02 14:45:10+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1763899324151292168"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 76,
+          "end": 99,
+          "url": "https://t.co/03cVdRm8mg",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1763899324151292168",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "text": "Zawsze jestem i będę na tak dla rozwoju Polski i naszych lokalnych Ojczyzn. https://t.co/03cVdRm8mg",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 110,
+      "reply_count": 290,
+      "like_count": 375,
+      "quote_count": 16,
+      "bookmark_count": 3,
+      "impression_count": 28927
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 57,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "tag": "Wrocław"
+        }
+      ],
+      "urls": [
+        {
+          "start": 273,
+          "end": 296,
+          "url": "https://t.co/xVYTwRuoTc",
+          "expanded_url": "https://x.com/elzbietawitek/status/1763602851664715789/photo/1",
+          "display_url": "pic.x.com/xVYTwRuoTc",
+          "media_key": "3_1763602841803902976"
+        }
+      ]
+    },
+    "created_at": "2024-03-01T16:31:00.000Z",
+    "edit_history_tweet_ids": [
+      "1763602851664715789"
+    ],
+    "conversation_id": "1763602851664715789",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1763602851664715789",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-01 17:31:00+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1763602841803902976"
+      ]
+    },
+    "text": "Łukasz Kasztelowicz jest kandydatem #PrawoiSprawiedliwość na Prezydenta #Wrocław. Podczas dzisiejszego briefingu zaprezentowani zostali również liderzy, którzy powalczą o mandaty radnych do miasta i do Sejmiku Dolnośląskiego. Zgrana drużyna gotowa do służby dla Wrocławia. https://t.co/xVYTwRuoTc",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 43,
+      "reply_count": 81,
+      "like_count": 179,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5451
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 248,
+          "end": 270,
+          "tag": "CzesciChwałaBohaterom"
+        }
+      ]
+    },
+    "created_at": "2024-03-01T11:16:03.000Z",
+    "edit_history_tweet_ids": [
+      "1763523593059578034"
+    ],
+    "conversation_id": "1763523593059578034",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1763523593059578034",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-01 12:16:03+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Dziś obchodzimy Narodowy Dzień Pamięci Żołnierzy Wyklętych, bohaterów walki o wolną Polskę. Komunistyczna władza robiła wszystko, by pamięć o nich zginęła. Nie udało się. Pamiętamy i oddajemy dziś hołd ich patriotycznej postawie w walce o wolność.\n#CzesciChwałaBohaterom",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 89,
+      "reply_count": 413,
+      "like_count": 311,
+      "quote_count": 9,
+      "bookmark_count": 2,
+      "impression_count": 29858
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 61,
+          "end": 76,
+          "tag": "WolnychPolaków"
+        },
+        {
+          "start": 80,
+          "end": 90,
+          "tag": "Włocławek"
+        },
+        {
+          "start": 211,
+          "end": 232,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 266,
+          "end": 278,
+          "tag": "BądźmyRazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/ia1U8o6dKB",
+          "expanded_url": "https://x.com/elzbietawitek/status/1761399533995429889/photo/1",
+          "display_url": "pic.x.com/ia1U8o6dKB",
+          "media_key": "3_1761398972512382976"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/ia1U8o6dKB",
+          "expanded_url": "https://x.com/elzbietawitek/status/1761399533995429889/photo/1",
+          "display_url": "pic.x.com/ia1U8o6dKB",
+          "media_key": "3_1761398994461134848"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/ia1U8o6dKB",
+          "expanded_url": "https://x.com/elzbietawitek/status/1761399533995429889/photo/1",
+          "display_url": "pic.x.com/ia1U8o6dKB",
+          "media_key": "3_1761399260342308864"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/ia1U8o6dKB",
+          "expanded_url": "https://x.com/elzbietawitek/status/1761399533995429889/photo/1",
+          "display_url": "pic.x.com/ia1U8o6dKB",
+          "media_key": "3_1761399268911235072"
+        }
+      ]
+    },
+    "created_at": "2024-02-24T14:35:48.000Z",
+    "edit_history_tweet_ids": [
+      "1761399533995429889"
+    ],
+    "conversation_id": "1761399533995429889",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1761399533995429889",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-24 15:35:48+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1761398972512382976",
+        "3_1761398994461134848",
+        "3_1761399260342308864",
+        "3_1761399268911235072"
+      ]
+    },
+    "text": "Żywiołowo, spontanicznie i prawdziwie było dziś na spotkaniu #WolnychPolaków we #Włocławek.\nBardzo Państwu dziękuję za troskę o polskie sprawy i dobrą pamięć o tym, ile dobrego Polsce i Polakom przyniosły rządy #PrawoiSprawiedliwość. To usłyszałam dziś od Państwa. \n#BądźmyRazem https://t.co/ia1U8o6dKB",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 77,
+      "reply_count": 196,
+      "like_count": 249,
+      "quote_count": 6,
+      "bookmark_count": 1,
+      "impression_count": 10478
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 94,
+          "tag": "PrawoiSprawiedliwość"
+        },
+        {
+          "start": 115,
+          "end": 123,
+          "tag": "Legnica"
+        },
+        {
+          "start": 204,
+          "end": 212,
+          "tag": "Legnica"
+        },
+        {
+          "start": 228,
+          "end": 240,
+          "tag": "BądźmyRazem"
+        },
+        {
+          "start": 241,
+          "end": 257,
+          "tag": "BudujmyWspólnie"
+        }
+      ],
+      "urls": [
+        {
+          "start": 258,
+          "end": 281,
+          "url": "https://t.co/S4jFk7haxn",
+          "expanded_url": "https://x.com/elzbietawitek/status/1759954000462348500/photo/1",
+          "display_url": "pic.x.com/S4jFk7haxn",
+          "media_key": "3_1759953985375444992"
+        },
+        {
+          "start": 258,
+          "end": 281,
+          "url": "https://t.co/S4jFk7haxn",
+          "expanded_url": "https://x.com/elzbietawitek/status/1759954000462348500/photo/1",
+          "display_url": "pic.x.com/S4jFk7haxn",
+          "media_key": "3_1759953993411764224"
+        }
+      ]
+    },
+    "created_at": "2024-02-20T14:51:46.000Z",
+    "edit_history_tweet_ids": [
+      "1759954000462348500"
+    ],
+    "conversation_id": "1759954000462348500",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1759954000462348500",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-20 15:51:46+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1759953985375444992",
+        "3_1759953993411764224"
+      ]
+    },
+    "text": "Dziś, na konferencji prasowej miałam przyjemność przedstawić  kandydatkę #PrawoiSprawiedliwość na urząd Prezydenta #Legnica, Panią Joannę Śliwińską-Łokaj.  Zapraszamy wszystkich, którym zależy na rozwoju #Legnica do współpracy.\n#BądźmyRazem\n#BudujmyWspólnie https://t.co/S4jFk7haxn",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 88,
+      "reply_count": 263,
+      "like_count": 329,
+      "quote_count": 3,
+      "bookmark_count": 1,
+      "impression_count": 14916
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 15,
+          "end": 30,
+          "tag": "WolnychPolaków"
+        },
+        {
+          "start": 33,
+          "end": 45,
+          "tag": "JeleniaGóra"
+        },
+        {
+          "start": 196,
+          "end": 208,
+          "tag": "BadźmyRazem"
+        },
+        {
+          "start": 209,
+          "end": 225,
+          "tag": "BudujmyWspólnie"
+        }
+      ],
+      "urls": [
+        {
+          "start": 226,
+          "end": 249,
+          "url": "https://t.co/CSCkRCmoa0",
+          "expanded_url": "https://x.com/elzbietawitek/status/1759298106917577051/photo/1",
+          "display_url": "pic.x.com/CSCkRCmoa0",
+          "media_key": "3_1759296554060398592"
+        },
+        {
+          "start": 226,
+          "end": 249,
+          "url": "https://t.co/CSCkRCmoa0",
+          "expanded_url": "https://x.com/elzbietawitek/status/1759298106917577051/photo/1",
+          "display_url": "pic.x.com/CSCkRCmoa0",
+          "media_key": "3_1759296577791741952"
+        },
+        {
+          "start": 226,
+          "end": 249,
+          "url": "https://t.co/CSCkRCmoa0",
+          "expanded_url": "https://x.com/elzbietawitek/status/1759298106917577051/photo/1",
+          "display_url": "pic.x.com/CSCkRCmoa0",
+          "media_key": "3_1759296629113249792"
+        },
+        {
+          "start": 226,
+          "end": 249,
+          "url": "https://t.co/CSCkRCmoa0",
+          "expanded_url": "https://x.com/elzbietawitek/status/1759298106917577051/photo/1",
+          "display_url": "pic.x.com/CSCkRCmoa0",
+          "media_key": "3_1759296797216845824"
+        }
+      ]
+    },
+    "created_at": "2024-02-18T19:25:29.000Z",
+    "edit_history_tweet_ids": [
+      "1759298106917577051"
+    ],
+    "conversation_id": "1759298106917577051",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1759298106917577051",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-18 20:25:29+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1759296554060398592",
+        "3_1759296577791741952",
+        "3_1759296629113249792",
+        "3_1759296797216845824"
+      ]
+    },
+    "text": "Dziś spotkanie #WolnychPolaków w #JeleniaGóra. Bardzo dziękuję za Państwa energię i troskę o polskie sprawy.\nTo ważne, że zgadzamy się, iż  tylko razem możemy budować dobrą przyszłość dla Polski.\n#BadźmyRazem\n#BudujmyWspólnie https://t.co/CSCkRCmoa0",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 112,
+      "reply_count": 816,
+      "like_count": 463,
+      "quote_count": 15,
+      "bookmark_count": 1,
+      "impression_count": 35172
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 156,
+          "end": 168,
+          "tag": "BądźmyRazem"
+        },
+        {
+          "start": 169,
+          "end": 185,
+          "tag": "BudujmyWspólnie"
+        }
+      ],
+      "urls": [
+        {
+          "start": 186,
+          "end": 209,
+          "url": "https://t.co/OmR5mhkvya",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1758573485377356088",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-02-17T18:38:56.000Z",
+    "edit_history_tweet_ids": [
+      "1758924002360221850"
+    ],
+    "conversation_id": "1758924002360221850",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1758924002360221850",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-17 19:38:56+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1758573485377356088"
+      }
+    ],
+    "text": "Jesteśmy jednym narodem i mamy jedną Ojczyznę. Tą Ojczyzną jest Polska. Razem i w zgodzie możemy budować dobrą przyszłość dla nas i dla następnych pokoleń.\n#BądźmyRazem\n#BudujmyWspólnie https://t.co/OmR5mhkvya",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 105,
+      "reply_count": 322,
+      "like_count": 370,
+      "quote_count": 6,
+      "bookmark_count": 0,
+      "impression_count": 12215
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 20,
+          "end": 35,
+          "tag": "WolnychPolakow"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "tag": "Pyrzyce"
+        },
+        {
+          "start": 183,
+          "end": 201,
+          "tag": "Koalicja13grudnia"
+        },
+        {
+          "start": 202,
+          "end": 214,
+          "tag": "BądźmyRazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/1oqIYkmosk",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756400087494758801/photo/1",
+          "display_url": "pic.x.com/1oqIYkmosk",
+          "media_key": "3_1756400056272392192"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/1oqIYkmosk",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756400087494758801/photo/1",
+          "display_url": "pic.x.com/1oqIYkmosk",
+          "media_key": "3_1756400061271986176"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/1oqIYkmosk",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756400087494758801/photo/1",
+          "display_url": "pic.x.com/1oqIYkmosk",
+          "media_key": "3_1756400069870338048"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/1oqIYkmosk",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756400087494758801/photo/1",
+          "display_url": "pic.x.com/1oqIYkmosk",
+          "media_key": "3_1756400078258892800"
+        }
+      ]
+    },
+    "created_at": "2024-02-10T19:29:47.000Z",
+    "edit_history_tweet_ids": [
+      "1756400087494758801"
+    ],
+    "conversation_id": "1756400087494758801",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1756400087494758801",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-10 20:29:47+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1756400056272392192",
+        "3_1756400061271986176",
+        "3_1756400069870338048",
+        "3_1756400078258892800"
+      ]
+    },
+    "text": "Wyjątkowe spotkanie #WolnychPolakow w #Pyrzyce. Mimo późnej pory sala była pełna ludzi. To niezwykle budujące widzieć taką energię i chęć działania, by pokonać zło, które funduje nam #Koalicja13grudnia\n#BądźmyRazem https://t.co/1oqIYkmosk",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 38,
+      "reply_count": 189,
+      "like_count": 191,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 9164
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 0,
+          "end": 7,
+          "tag": "Chojna"
+        },
+        {
+          "start": 48,
+          "end": 63,
+          "tag": "WolnychPolakow"
+        },
+        {
+          "start": 121,
+          "end": 133,
+          "tag": "BądźmyRazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 134,
+          "end": 157,
+          "url": "https://t.co/QpxS81aqXP",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756382502157975943/photo/1",
+          "display_url": "pic.x.com/QpxS81aqXP",
+          "media_key": "3_1756382335291863040"
+        },
+        {
+          "start": 134,
+          "end": 157,
+          "url": "https://t.co/QpxS81aqXP",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756382502157975943/photo/1",
+          "display_url": "pic.x.com/QpxS81aqXP",
+          "media_key": "3_1756382445316841472"
+        },
+        {
+          "start": 134,
+          "end": 157,
+          "url": "https://t.co/QpxS81aqXP",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756382502157975943/photo/1",
+          "display_url": "pic.x.com/QpxS81aqXP",
+          "media_key": "3_1756382486618095616"
+        }
+      ]
+    },
+    "created_at": "2024-02-10T18:19:55.000Z",
+    "edit_history_tweet_ids": [
+      "1756382502157975943"
+    ],
+    "conversation_id": "1756382502157975943",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1756382502157975943",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-10 19:19:55+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1756382335291863040",
+        "3_1756382445316841472",
+        "3_1756382486618095616"
+      ]
+    },
+    "text": "#Chojna to kolejny przystanek na drodze spotkań #WolnychPolakow.\nBardzo dziękuję za to, że byliście Państwo dziś z nami.\n#BądźmyRazem https://t.co/QpxS81aqXP",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 127,
+      "reply_count": 348,
+      "like_count": 463,
+      "quote_count": 4,
+      "bookmark_count": 2,
+      "impression_count": 15695
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 10,
+          "end": 25,
+          "tag": "WolnychPolakow"
+        },
+        {
+          "start": 28,
+          "end": 37,
+          "tag": "Szczecin"
+        },
+        {
+          "start": 87,
+          "end": 99,
+          "tag": "BądźmyRazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/pgLHDbpv2s",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756381091441598699/photo/1",
+          "display_url": "pic.x.com/pgLHDbpv2s",
+          "media_key": "3_1756381055609679872"
+        },
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/pgLHDbpv2s",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756381091441598699/photo/1",
+          "display_url": "pic.x.com/pgLHDbpv2s",
+          "media_key": "3_1756381065105616897"
+        },
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/pgLHDbpv2s",
+          "expanded_url": "https://x.com/elzbietawitek/status/1756381091441598699/photo/1",
+          "display_url": "pic.x.com/pgLHDbpv2s",
+          "media_key": "3_1756381073762607104"
+        }
+      ]
+    },
+    "created_at": "2024-02-10T18:14:18.000Z",
+    "edit_history_tweet_ids": [
+      "1756381091441598699"
+    ],
+    "conversation_id": "1756381091441598699",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1756381091441598699",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-10 19:14:18+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1756381055609679872",
+        "3_1756381065105616897",
+        "3_1756381073762607104"
+      ]
+    },
+    "text": "Spotkanie #WolnychPolakow w #Szczecin. Znakomita atmosfera i ciekawe rozmowy o Polsce.\n#BądźmyRazem https://t.co/pgLHDbpv2s",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 143,
+      "reply_count": 247,
+      "like_count": 462,
+      "quote_count": 2,
+      "bookmark_count": 2,
+      "impression_count": 15300
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 40,
+          "end": 55,
+          "tag": "WolnychPolaków"
+        },
+        {
+          "start": 58,
+          "end": 65,
+          "tag": "Kalisz"
+        },
+        {
+          "start": 260,
+          "end": 272,
+          "tag": "BądźmyRazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 273,
+          "end": 296,
+          "url": "https://t.co/S60VCTDpJe",
+          "expanded_url": "https://x.com/elzbietawitek/status/1754220491122839602/photo/1",
+          "display_url": "pic.x.com/S60VCTDpJe",
+          "media_key": "3_1754219810244718592"
+        },
+        {
+          "start": 273,
+          "end": 296,
+          "url": "https://t.co/S60VCTDpJe",
+          "expanded_url": "https://x.com/elzbietawitek/status/1754220491122839602/photo/1",
+          "display_url": "pic.x.com/S60VCTDpJe",
+          "media_key": "3_1754219971838660608"
+        },
+        {
+          "start": 273,
+          "end": 296,
+          "url": "https://t.co/S60VCTDpJe",
+          "expanded_url": "https://x.com/elzbietawitek/status/1754220491122839602/photo/1",
+          "display_url": "pic.x.com/S60VCTDpJe",
+          "media_key": "3_1754220011785244673"
+        },
+        {
+          "start": 273,
+          "end": 296,
+          "url": "https://t.co/S60VCTDpJe",
+          "expanded_url": "https://x.com/elzbietawitek/status/1754220491122839602/photo/1",
+          "display_url": "pic.x.com/S60VCTDpJe",
+          "media_key": "3_1754220051199148032"
+        }
+      ]
+    },
+    "created_at": "2024-02-04T19:08:51.000Z",
+    "edit_history_tweet_ids": [
+      "1754220491122839602"
+    ],
+    "conversation_id": "1754220491122839602",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1754220491122839602",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-04 20:08:51+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1754219810244718592",
+        "3_1754219971838660608",
+        "3_1754220011785244673",
+        "3_1754220051199148032"
+      ]
+    },
+    "text": "Bardzo dziękuję za dzisiejsze spotkanie #WolnychPolaków w #Kalisz. Cudowna atmosfera, energia i troska o Polskę wybrzmiewały z każdej wypowiedzi. Jesteśmy zdeterminowani, by walczyć o prawdę i wolność. By to osiągnąć musimy być razem. Nie dajmy się podzielić.\n#BądźmyRazem https://t.co/S60VCTDpJe",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 150,
+      "reply_count": 305,
+      "like_count": 522,
+      "quote_count": 12,
+      "bookmark_count": 2,
+      "impression_count": 16614
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 50,
+          "end": 69,
+          "tag": "GorzówWielkopolski"
+        },
+        {
+          "start": 259,
+          "end": 271,
+          "tag": "Bądźmyrazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/0D5FPQFjZo",
+          "expanded_url": "https://x.com/elzbietawitek/status/1753824446744236055/photo/1",
+          "display_url": "pic.x.com/0D5FPQFjZo",
+          "media_key": "3_1753824420471201792"
+        },
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/0D5FPQFjZo",
+          "expanded_url": "https://x.com/elzbietawitek/status/1753824446744236055/photo/1",
+          "display_url": "pic.x.com/0D5FPQFjZo",
+          "media_key": "3_1753824430101336064"
+        },
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/0D5FPQFjZo",
+          "expanded_url": "https://x.com/elzbietawitek/status/1753824446744236055/photo/1",
+          "display_url": "pic.x.com/0D5FPQFjZo",
+          "media_key": "3_1753824438833823744"
+        }
+      ]
+    },
+    "created_at": "2024-02-03T16:55:07.000Z",
+    "edit_history_tweet_ids": [
+      "1753824446744236055"
+    ],
+    "conversation_id": "1753824446744236055",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1753824446744236055",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-03 17:55:07+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1753824420471201792",
+        "3_1753824430101336064",
+        "3_1753824438833823744"
+      ]
+    },
+    "text": "Bardzo dziękuję Państwu za dzisiejsze spotkanie w #GorzówWielkopolski. Wasza obecność, ożywiona dyskusja, ciekawe pytania i uwagi są dowodem na to, że jesteście gotowi, by bronić naszej wolności i  suwerenności. Dobro i prawda zwyciężą, jeśli będziemy razem.\n#Bądźmyrazem https://t.co/0D5FPQFjZo",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 118,
+      "reply_count": 391,
+      "like_count": 368,
+      "quote_count": 6,
+      "bookmark_count": 1,
+      "impression_count": 16898
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 50,
+          "end": 62,
+          "tag": "BądźmyRazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/sinIP5CpRG",
+          "expanded_url": "https://x.com/elzbietawitek/status/1753271073750004142/photo/1",
+          "display_url": "pic.x.com/sinIP5CpRG",
+          "media_key": "3_1753271048361877504"
+        },
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/sinIP5CpRG",
+          "expanded_url": "https://x.com/elzbietawitek/status/1753271073750004142/photo/1",
+          "display_url": "pic.x.com/sinIP5CpRG",
+          "media_key": "3_1753271062177972224"
+        }
+      ]
+    },
+    "created_at": "2024-02-02T04:16:12.000Z",
+    "edit_history_tweet_ids": [
+      "1753271073750004142"
+    ],
+    "conversation_id": "1753271073750004142",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1753271073750004142",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-02 05:16:12+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1753271048361877504",
+        "3_1753271062177972224"
+      ]
+    },
+    "text": "Bądźmy razem w ten weekend. Zapraszam serdecznie.\n#BądźmyRazem https://t.co/sinIP5CpRG",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 638,
+      "reply_count": 3058,
+      "like_count": 2316,
+      "quote_count": 65,
+      "bookmark_count": 9,
+      "impression_count": 157952
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 182,
+          "end": 190,
+          "tag": "Wrocław"
+        },
+        {
+          "start": 247,
+          "end": 269,
+          "tag": "ProtestWolnychPolakow"
+        }
+      ],
+      "urls": [
+        {
+          "start": 270,
+          "end": 293,
+          "url": "https://t.co/jXXRvOSNtR",
+          "expanded_url": "https://x.com/elzbietawitek/status/1748708077367329249/photo/1",
+          "display_url": "pic.x.com/jXXRvOSNtR",
+          "media_key": "3_1748708013613928449"
+        }
+      ]
+    },
+    "created_at": "2024-01-20T14:04:29.000Z",
+    "edit_history_tweet_ids": [
+      "1748708077367329249"
+    ],
+    "conversation_id": "1748708077367329249",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1748708077367329249",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-20 15:04:29+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1748708013613928449"
+      ]
+    },
+    "text": "Można ludzi oszukiwać przez pewien czas, można nawet niektórych ludzi oszukiwać przez cały czas, ale nie da się oszukiwać wszystkich ludzi przez cały czas. Polska się budzi. Dziś we #Wrocław tysiące uczestników na manifestacji w obronie wolności. #ProtestWolnychPolakow https://t.co/jXXRvOSNtR",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 283,
+      "reply_count": 602,
+      "like_count": 972,
+      "quote_count": 8,
+      "bookmark_count": 1,
+      "impression_count": 41649
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 84,
+          "end": 102,
+          "tag": "Koalicja13grudnia"
+        },
+        {
+          "start": 135,
+          "end": 147,
+          "tag": "Bądźmyrazem"
+        }
+      ],
+      "urls": [
+        {
+          "start": 148,
+          "end": 171,
+          "url": "https://t.co/DErdM3KWK1",
+          "expanded_url": "https://twitter.com/PK_GOV_PL/status/1746146818197467462",
+          "display_url": "x.com/PK_GOV_PL/stat…"
+        }
+      ]
+    },
+    "created_at": "2024-01-13T21:35:21.000Z",
+    "edit_history_tweet_ids": [
+      "1746284826640994477"
+    ],
+    "conversation_id": "1746284826640994477",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1746284826640994477",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-13 22:35:21+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1746146818197467462"
+      }
+    ],
+    "text": "Odważny krok, podyktowany sprzeciwem wobec jawnego i brutalnego łamania prawa przez #Koalicja13grudnia\nTo postawa godna naśladowania. \n#Bądźmyrazem https://t.co/DErdM3KWK1",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 241,
+      "reply_count": 537,
+      "like_count": 1194,
+      "quote_count": 9,
+      "bookmark_count": 4,
+      "impression_count": 26655
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 37,
+          "end": 59,
+          "tag": "ProtestWolnychPolaków"
+        },
+        {
+          "start": 216,
+          "end": 234,
+          "tag": "Koalicja13grudnia"
+        }
+      ]
+    },
+    "created_at": "2024-01-11T19:38:37.000Z",
+    "edit_history_tweet_ids": [
+      "1745530671475380608"
+    ],
+    "conversation_id": "1745530671475380608",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1745530671475380608",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-11 20:38:37+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Gorące podziękowania dla uczestników #ProtestWolnychPolaków.\nPokazaliśmy, że wolność jest wartością, której będziemy bronili z determinacją. Razem stanowimy siłę, której nie da się zignorować. Dobro zawsze zwycięża. #Koalicja13grudnia nie wygra z Narodem.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 355,
+      "reply_count": 385,
+      "like_count": 1635,
+      "quote_count": 4,
+      "bookmark_count": 1,
+      "impression_count": 34560
+    },
+    "created_at": "2024-01-11T11:43:17.000Z",
+    "edit_history_tweet_ids": [
+      "1745411049392685272"
+    ],
+    "conversation_id": "1745411049392685272",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1745411049392685272",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-11 12:43:17+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1745396010396897693"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/ktZK5L6d7x",
+          "expanded_url": "https://twitter.com/AnnaZalewskaMEP/status/1745396010396897693",
+          "display_url": "x.com/AnnaZalewskaME…"
+        }
+      ]
+    },
+    "text": "I tak trzymać. Nie dajmy się zastraszyć. Im na tym zależy. https://t.co/ktZK5L6d7x",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 551,
+      "reply_count": 753,
+      "like_count": 2049,
+      "quote_count": 22,
+      "bookmark_count": 6,
+      "impression_count": 71688
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 15,
+          "end": 26,
+          "tag": "DolnyŚląsk"
+        },
+        {
+          "start": 40,
+          "end": 49,
+          "tag": "Warszawa"
+        },
+        {
+          "start": 54,
+          "end": 76,
+          "tag": "ProtestWolnychPolaków"
+        },
+        {
+          "start": 125,
+          "end": 147,
+          "tag": "ProtestWolnychPolakow"
+        }
+      ],
+      "urls": [
+        {
+          "start": 148,
+          "end": 171,
+          "url": "https://t.co/0mwaXmkwTE",
+          "expanded_url": "https://x.com/elzbietawitek/status/1745389973291872456/video/1",
+          "display_url": "pic.x.com/0mwaXmkwTE",
+          "media_key": "3_1745389877946896384"
+        },
+        {
+          "start": 148,
+          "end": 171,
+          "url": "https://t.co/0mwaXmkwTE",
+          "expanded_url": "https://x.com/elzbietawitek/status/1745389973291872456/video/1",
+          "display_url": "pic.x.com/0mwaXmkwTE",
+          "media_key": "3_1745389886142656513"
+        },
+        {
+          "start": 148,
+          "end": 171,
+          "url": "https://t.co/0mwaXmkwTE",
+          "expanded_url": "https://x.com/elzbietawitek/status/1745389973291872456/video/1",
+          "display_url": "pic.x.com/0mwaXmkwTE",
+          "media_key": "7_1745389899828621313"
+        },
+        {
+          "start": 148,
+          "end": 171,
+          "url": "https://t.co/0mwaXmkwTE",
+          "expanded_url": "https://x.com/elzbietawitek/status/1745389973291872456/video/1",
+          "display_url": "pic.x.com/0mwaXmkwTE",
+          "media_key": "3_1745389967122001920"
+        }
+      ]
+    },
+    "created_at": "2024-01-11T10:19:32.000Z",
+    "edit_history_tweet_ids": [
+      "1745389973291872456"
+    ],
+    "conversation_id": "1745389973291872456",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1745389973291872456",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-11 11:19:32+00:00"
+    },
+    "reply_settings": "everyone",
+    "attachments": {
+      "media_keys": [
+        "3_1745389877946896384",
+        "3_1745389886142656513",
+        "7_1745389899828621313",
+        "3_1745389967122001920"
+      ]
+    },
+    "text": "56 autokarów z #DolnyŚląsk wyruszyło do #Warszawa, na #ProtestWolnychPolaków. Ogromna mobilizacja i determinacja. Dziękuję. \n#ProtestWolnychPolakow https://t.co/0mwaXmkwTE",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 351,
+      "reply_count": 1349,
+      "like_count": 1074,
+      "quote_count": 26,
+      "bookmark_count": 2,
+      "impression_count": 77851
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 240,
+          "end": 262,
+          "tag": "ProtestWolnychPolakow"
+        },
+        {
+          "start": 263,
+          "end": 274,
+          "tag": "11stycznia"
+        }
+      ],
+      "urls": [
+        {
+          "start": 275,
+          "end": 298,
+          "url": "https://t.co/PsmOmjgutS",
+          "expanded_url": "https://twitter.com/pisorgpl/status/1742918202563432871",
+          "display_url": "x.com/pisorgpl/statu…"
+        }
+      ]
+    },
+    "created_at": "2024-01-05T08:58:03.000Z",
+    "edit_history_tweet_ids": [
+      "1743195140779360610"
+    ],
+    "conversation_id": "1743195140779360610",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1743195140779360610",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-05 09:58:03+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1742918202563432871"
+      }
+    ],
+    "text": "Tylko razem możemy pokonać zło. Bądźmy pod Sejmem RP o godzinie 16-tej,11 stycznia 2024r. To niewielki wysiłek w tak fundamentalnych sprawach, jak wolność, suwerenność, demokracja i bezpieczeństwo Polski i Polaków. To nasza wspólna sprawa.\n#ProtestWolnychPolakow #11stycznia https://t.co/PsmOmjgutS",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 317,
+      "reply_count": 932,
+      "like_count": 1774,
+      "quote_count": 17,
+      "bookmark_count": 4,
+      "impression_count": 59089
+    },
+    "created_at": "2023-12-23T17:38:23.000Z",
+    "edit_history_tweet_ids": [
+      "1738615046165442623"
+    ],
+    "conversation_id": "1738615046165442623",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1738615046165442623",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2023-12-23 18:38:23+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Z okazji Świąt Bożego Narodzenia, życzę Państwu zdrowia, pokoju, miłości, nadziei i błogosławieństwa Bożego. Te święta są inne, niż mogliśmy oczekiwać, trudne dla tych, którzy broniąc wolności i godności człowieka, będą z dala od swoich bliskich. Bądźmy sercem i  myślami z nimi.",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 129,
+      "reply_count": 341,
+      "like_count": 323,
+      "quote_count": 6,
+      "bookmark_count": 1,
+      "impression_count": 25630
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 60,
+          "end": 78,
+          "tag": "Koalicja13grudnia"
+        }
+      ],
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/fn2nbeXR6m",
+          "expanded_url": "https://twitter.com/RepublikaTV/status/1737851842791608763",
+          "display_url": "x.com/RepublikaTV/st…"
+        }
+      ]
+    },
+    "created_at": "2023-12-21T15:46:12.000Z",
+    "edit_history_tweet_ids": [
+      "1737862036808147005"
+    ],
+    "conversation_id": "1737862036808147005",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1737862036808147005",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2023-12-21 16:46:12+00:00"
+    },
+    "reply_settings": "everyone",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1737851842791608763"
+      }
+    ],
+    "text": "Tak wygląda praworządność i wolności obywatelskie w wydaniu #Koalicja13grudnia https://t.co/fn2nbeXR6m",
+    "category": "Quote"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 102,
+      "reply_count": 638,
+      "like_count": 407,
+      "quote_count": 17,
+      "bookmark_count": 4,
+      "impression_count": 33408
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 44,
+          "tag": "13grudnia"
+        },
+        {
+          "start": 257,
+          "end": 267,
+          "tag": "Pamiętamy"
+        }
+      ]
+    },
+    "created_at": "2023-12-13T17:35:13.000Z",
+    "edit_history_tweet_ids": [
+      "1734990370843369633"
+    ],
+    "conversation_id": "1734990370843369633",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1734990370843369633",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2023-12-13 18:35:13+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Chociaż minęły 42 lata od tamtego #13grudnia, nie wolno nam nigdy zapomnieć o tych, którzy wtedy podjęli się nierównej walki o godność, solidarność i prawo do stanowienia o Polsce przez Polaków, a nie obcych. To im zawdzięczamy wolną  Polskę. Pilnujmy jej.\n#Pamiętamy",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 154,
+      "like_count": 194,
+      "quote_count": 7,
+      "bookmark_count": 1,
+      "impression_count": 18575
+    },
+    "created_at": "2023-12-04T07:39:40.000Z",
+    "edit_history_tweet_ids": [
+      "1731579005961220437"
+    ],
+    "conversation_id": "1731579005961220437",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1731579005961220437",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2023-12-04 08:39:40+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Z okazji Barbórki, wszystkim górnikom i tym, którzy pracują w branży górniczej, życzę dużo zdrowia, radości, bezpiecznej pracy, opieki św. Barbary,  szacunku ludzi i spełnienia marzeń.\nW tym dniu słowa wdzięczności i uznania kieruję także do rodzin górniczych. Szczęść Wam Boże!",
+    "category": "Original"
+  },
+  {
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 261,
+      "reply_count": 1039,
+      "like_count": 1651,
+      "quote_count": 12,
+      "bookmark_count": 3,
+      "impression_count": 100830
+    },
+    "created_at": "2023-10-17T14:56:00.000Z",
+    "edit_history_tweet_ids": [
+      "1714294193047355700"
+    ],
+    "conversation_id": "1714294193047355700",
+    "author_id": "3159214282",
+    "lang": "pl",
+    "id": "1714294193047355700",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2023-10-17 15:56:00+00:00"
+    },
+    "reply_settings": "everyone",
+    "text": "Bardzo dziękuję wszystkim Wyborcom, którzy obdarzyli mnie tak wielkim zaufaniem. Wynik, jaki uzyskałam- 89172, jest dla mnie wielkim zobowiązaniem wobec Państwa i wobec naszej Ojczyzny.\nRaz jeszcze serdecznie dziękuję.",
+    "category": "Original"
+  },
+  {
+    "created_at": "2023-10-17T14:56:00.000Z",
+    "possibly_sensitive": false,
+    "author_id": "3159214282",
+    "reply_settings": "everyone",
+    "id": "1714294193047355700",
+    "text": "Bardzo dziękuję wszystkim Wyborcom, którzy obdarzyli mnie tak wielkim zaufaniem. Wynik, jaki uzyskałam- 89172, jest dla mnie wielkim zobowiązaniem wobec Państwa i wobec naszej Ojczyzny.\nRaz jeszcze serdecznie dziękuję.",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1714294193047355700"
+    ],
+    "conversation_id": "1714294193047355700",
+    "public_metrics": {
+      "retweet_count": 261,
+      "reply_count": 1039,
+      "like_count": 1652,
+      "quote_count": 12,
+      "bookmark_count": 3,
+      "impression_count": 100831
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2023-10-17 15:56:00+00:00"
+    },
+    "category": "Original"
+  }
+]

@@ -1,0 +1,3642 @@
+[
+  {
+    "edit_history_tweet_ids": [
+      "1846270050225045934"
+    ],
+    "public_metrics": {
+      "retweet_count": 32,
+      "reply_count": 65,
+      "like_count": 269,
+      "quote_count": 5,
+      "bookmark_count": 2,
+      "impression_count": 8929
+    },
+    "text": "15 października to dzień Waszego zwycięstwa. Rok temu wybraliście wolność i demokrację. Byliście silni i wytrwali. Dziś razem zmieniamy Polskę na kraj naszych marzeń. Dziękuję za Waszą cierpliwość i wiarę w lepszy czas ❤️ #Polskawnaszychsercach https://t.co/emS0iFUB92",
+    "conversation_id": "1846270050225045934",
+    "attachments": {
+      "media_keys": [
+        "3_1846270043518029824"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-10-15T19:20:56.000Z",
+    "id": "1846270050225045934",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 245,
+          "end": 268,
+          "url": "https://t.co/emS0iFUB92",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1846270050225045934/photo/1",
+          "display_url": "pic.x.com/emS0iFUB92",
+          "media_key": "3_1846270043518029824"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 222,
+          "end": 244,
+          "tag": "Polskawnaszychsercach"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-15 20:20:56+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1845075488592605515"
+    ],
+    "public_metrics": {
+      "retweet_count": 36,
+      "reply_count": 71,
+      "like_count": 313,
+      "quote_count": 6,
+      "bookmark_count": 1,
+      "impression_count": 8757
+    },
+    "text": "Dziękuję, że byliście dzisiaj z nami na Konwencji Koalicji Obywatelskiej. Bezpieczeństwo to nasze najważniejsze zadanie. Każda Polka i każdy Polak musi czuć się w swoim kraju bezpiecznie. Pracujemy każdego dnia, by tak było. #RadaKrajowaKO https://t.co/7Eco5ULX8T",
+    "conversation_id": "1845075488592605515",
+    "attachments": {
+      "media_keys": [
+        "3_1845075480715632642",
+        "3_1845075480703086602",
+        "3_1845075480707252226",
+        "3_1845075480703090707"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-10-12T12:14:10.000Z",
+    "id": "1845075488592605515",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 240,
+          "end": 263,
+          "url": "https://t.co/7Eco5ULX8T",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1845075488592605515/photo/1",
+          "display_url": "pic.x.com/7Eco5ULX8T",
+          "media_key": "3_1845075480715632642"
+        },
+        {
+          "start": 240,
+          "end": 263,
+          "url": "https://t.co/7Eco5ULX8T",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1845075488592605515/photo/1",
+          "display_url": "pic.x.com/7Eco5ULX8T",
+          "media_key": "3_1845075480703086602"
+        },
+        {
+          "start": 240,
+          "end": 263,
+          "url": "https://t.co/7Eco5ULX8T",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1845075488592605515/photo/1",
+          "display_url": "pic.x.com/7Eco5ULX8T",
+          "media_key": "3_1845075480707252226"
+        },
+        {
+          "start": 240,
+          "end": 263,
+          "url": "https://t.co/7Eco5ULX8T",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1845075488592605515/photo/1",
+          "display_url": "pic.x.com/7Eco5ULX8T",
+          "media_key": "3_1845075480703090707"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 225,
+          "end": 239,
+          "tag": "RadaKrajowaKO"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-12 13:14:10+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1844414369024836019"
+    ],
+    "public_metrics": {
+      "retweet_count": 9,
+      "reply_count": 13,
+      "like_count": 83,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3540
+    },
+    "text": "Leszek Moczulski był niezłomnym patriotą i orędownikiem wolnej Polski. Wiele wycierpiał walcząc o najważniejsze wartości.\nJego odejście to wielka strata. Bliskim składam wyrazy współczucia.",
+    "conversation_id": "1844414369024836019",
+    "reply_settings": "everyone",
+    "created_at": "2024-10-10T16:27:07.000Z",
+    "id": "1844414369024836019",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-10 17:27:07+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1835690521978700169"
+    ],
+    "public_metrics": {
+      "retweet_count": 15,
+      "reply_count": 12,
+      "like_count": 133,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 4480
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 1,
+          "end": 13,
+          "username": "PolskiSenat",
+          "id": "756422561584541696"
+        }
+      ]
+    },
+    "text": ".@PolskiSenat jest solidarny z ofiarami powodzi. Senatorowie od pierwszych chwil zagrożenia współpracują ze służbami i organizują doraźną pomoc. Pracownicy Kancelarii Senatu również rozpoczęli zbiórkę najpotrzebniejszych rzeczy.\nW tej dramatycznej sytuacji nikt nie zostanie sam.",
+    "conversation_id": "1835690521978700169",
+    "reply_settings": "everyone",
+    "created_at": "2024-09-16T14:41:40.000Z",
+    "id": "1835690521978700169",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-09-16 15:41:40+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1835268803975913743"
+    ],
+    "public_metrics": {
+      "retweet_count": 47,
+      "reply_count": 47,
+      "like_count": 320,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 10244
+    },
+    "text": "W tej dramatycznej chwili ludzie oczekują pomocy i współpracy. Wobec niszczycielskiego żywiołu ważna jest nasza solidarność i odpowiedzialność. https://t.co/psr2QAFNbX",
+    "conversation_id": "1835268803975913743",
+    "reply_settings": "everyone",
+    "created_at": "2024-09-15T10:45:55.000Z",
+    "id": "1835268803975913743",
+    "author_id": "2280346687",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1835235491450364047"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/psr2QAFNbX",
+          "expanded_url": "https://twitter.com/donaldtusk/status/1835235491450364047",
+          "display_url": "x.com/donaldtusk/sta…"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-09-15 11:45:55+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1829198356427788428"
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 73,
+      "like_count": 324,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 7442
+    },
+    "text": "Nikt nie stoi ponad prawem. PiS działał nieuczciwie i właśnie ponosi tego konsekwencje.",
+    "conversation_id": "1829198356427788428",
+    "reply_settings": "everyone",
+    "created_at": "2024-08-29T16:44:07.000Z",
+    "id": "1829198356427788428",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-29 17:44:07+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1827413657325572480"
+    ],
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 8,
+      "like_count": 84,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 5139
+    },
+    "text": "Uroczysty Apel 35-lecia Związku Harcerstwa Polskiego na Litwie w podwileńskich Bieliszkach. Dziękuję za Waszą energię, z jaką budujecie wspólnotę opartą na wartościach. I dziękuję za Waszą chustę, na której łączą się flagi Polski i Litwy. Czuwaj! https://t.co/stNlVMpO97",
+    "conversation_id": "1827413657325572480",
+    "attachments": {
+      "media_keys": [
+        "3_1827413497983995904",
+        "3_1827413498260844544",
+        "3_1827413497971372032",
+        "3_1827413497975627778"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-08-24T18:32:22.000Z",
+    "id": "1827413657325572480",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 247,
+          "end": 270,
+          "url": "https://t.co/stNlVMpO97",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1827413657325572480/photo/1",
+          "display_url": "pic.x.com/stNlVMpO97",
+          "media_key": "3_1827413497983995904"
+        },
+        {
+          "start": 247,
+          "end": 270,
+          "url": "https://t.co/stNlVMpO97",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1827413657325572480/photo/1",
+          "display_url": "pic.x.com/stNlVMpO97",
+          "media_key": "3_1827413498260844544"
+        },
+        {
+          "start": 247,
+          "end": 270,
+          "url": "https://t.co/stNlVMpO97",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1827413657325572480/photo/1",
+          "display_url": "pic.x.com/stNlVMpO97",
+          "media_key": "3_1827413497971372032"
+        },
+        {
+          "start": 247,
+          "end": 270,
+          "url": "https://t.co/stNlVMpO97",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1827413657325572480/photo/1",
+          "display_url": "pic.x.com/stNlVMpO97",
+          "media_key": "3_1827413497975627778"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-24 19:32:22+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1827314830652350720"
+    ],
+    "public_metrics": {
+      "retweet_count": 22,
+      "reply_count": 101,
+      "like_count": 176,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 7292
+    },
+    "text": "W Dniu Niepodległości Ukrainy życzę naszym ukraińskim Przyjaciołom zwycięstwa nad rosyjskim agresorem i upragnionej wolności. Wolna Ukraina to wolna Polska i Europa. Wspieramy Was i będziemy z Wami tak długo, jak będzie trzeba. Slava Ukraini! 🇵🇱🤝🇺🇦 https://t.co/IhtJFRfKAi",
+    "conversation_id": "1827314830652350720",
+    "attachments": {
+      "media_keys": [
+        "3_1827314778827583489"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-08-24T11:59:40.000Z",
+    "id": "1827314830652350720",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 249,
+          "end": 272,
+          "url": "https://t.co/IhtJFRfKAi",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1827314830652350720/photo/1",
+          "display_url": "pic.x.com/IhtJFRfKAi",
+          "media_key": "3_1827314778827583489"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-24 12:59:40+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1824112526201622803"
+    ],
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 33,
+      "like_count": 183,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 4542
+    },
+    "text": "Polska jest z Was dumna każdego dnia. Dziękujemy za to, że dbacie o nasze bezpieczeństwo 🇵🇱\n#ŚwiętoWojskaPolskiego https://t.co/ytotlGFnIT",
+    "conversation_id": "1824112526201622803",
+    "attachments": {
+      "media_keys": [
+        "3_1824112507486711808",
+        "3_1824112507461537792",
+        "3_1824112507461488640",
+        "3_1824112507478216704"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-08-15T15:54:51.000Z",
+    "id": "1824112526201622803",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/ytotlGFnIT",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1824112526201622803/photo/1",
+          "display_url": "pic.x.com/ytotlGFnIT",
+          "media_key": "3_1824112507486711808"
+        },
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/ytotlGFnIT",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1824112526201622803/photo/1",
+          "display_url": "pic.x.com/ytotlGFnIT",
+          "media_key": "3_1824112507461537792"
+        },
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/ytotlGFnIT",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1824112526201622803/photo/1",
+          "display_url": "pic.x.com/ytotlGFnIT",
+          "media_key": "3_1824112507461488640"
+        },
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/ytotlGFnIT",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1824112526201622803/photo/1",
+          "display_url": "pic.x.com/ytotlGFnIT",
+          "media_key": "3_1824112507478216704"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 92,
+          "end": 114,
+          "tag": "ŚwiętoWojskaPolskiego"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-15 16:54:51+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1822652233491644506"
+    ],
+    "public_metrics": {
+      "retweet_count": 60,
+      "reply_count": 142,
+      "like_count": 387,
+      "quote_count": 2,
+      "bookmark_count": 3,
+      "impression_count": 15729
+    },
+    "text": "W Janowie Podlaskim trwają Dni Konia Arabskiego 2024. Widać duże zainteresowanie gości i wielki wysiłek organizatorów, by przywrócić świetność i zaufanie do polskiej hodowli. Jest na to szansa. Trzymam kciuki. 👏 https://t.co/JDVsDA5vny",
+    "conversation_id": "1822652233491644506",
+    "attachments": {
+      "media_keys": [
+        "3_1822652225010720768",
+        "3_1822652224968814592",
+        "3_1822652224964595712"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-08-11T15:12:10.000Z",
+    "id": "1822652233491644506",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/JDVsDA5vny",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1822652233491644506/photo/1",
+          "display_url": "pic.x.com/JDVsDA5vny",
+          "media_key": "3_1822652225010720768"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/JDVsDA5vny",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1822652233491644506/photo/1",
+          "display_url": "pic.x.com/JDVsDA5vny",
+          "media_key": "3_1822652224968814592"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/JDVsDA5vny",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1822652233491644506/photo/1",
+          "display_url": "pic.x.com/JDVsDA5vny",
+          "media_key": "3_1822652224964595712"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-11 16:12:10+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1822190028572815644"
+    ],
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 16,
+      "like_count": 154,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 6993
+    },
+    "text": "Bardzo trudno w to uwierzyć. Kasiu, będziesz zawsze w naszych sercach i pamięci 🖤 https://t.co/yqjHJyOdVG",
+    "conversation_id": "1822190028572815644",
+    "attachments": {
+      "media_keys": [
+        "3_1822190014005923840"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-08-10T08:35:32.000Z",
+    "id": "1822190028572815644",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 82,
+          "end": 105,
+          "url": "https://t.co/yqjHJyOdVG",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1822190028572815644/photo/1",
+          "display_url": "pic.x.com/yqjHJyOdVG",
+          "media_key": "3_1822190014005923840"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-10 09:35:32+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1819083684261384254"
+    ],
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 25,
+      "like_count": 82,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3357
+    },
+    "text": "Cześć i chwała Bohaterom!\n#Powstanie1944 #1sierpnia https://t.co/XOYcbs3AoN",
+    "conversation_id": "1819083684261384254",
+    "attachments": {
+      "media_keys": [
+        "3_1819083677776699392"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-08-01T18:52:01.000Z",
+    "id": "1819083684261384254",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 52,
+          "end": 75,
+          "url": "https://t.co/XOYcbs3AoN",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1819083684261384254/photo/1",
+          "display_url": "pic.x.com/XOYcbs3AoN",
+          "media_key": "3_1819083677776699392"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 26,
+          "end": 40,
+          "tag": "Powstanie1944"
+        },
+        {
+          "start": 41,
+          "end": 51,
+          "tag": "1sierpnia"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-01 19:52:01+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1813943019542040797"
+    ],
+    "public_metrics": {
+      "retweet_count": 261,
+      "reply_count": 122,
+      "like_count": 1334,
+      "quote_count": 5,
+      "bookmark_count": 1,
+      "impression_count": 26491
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 167,
+          "end": 179,
+          "username": "PolskiSenat",
+          "id": "756422561584541696"
+        }
+      ]
+    },
+    "text": "Prezydent Polski nie może bać się Polonii! Decyzja Andrzeja Dudy o odebraniu możliwości głosowania korespondencyjnego w wyborach prezydenckich jest wielkim skandalem. @PolskiSenat zrobi wszystko, aby ułatwić Polonii udział w przyszłorocznych wyborach.",
+    "conversation_id": "1813943019542040797",
+    "reply_settings": "everyone",
+    "created_at": "2024-07-18T14:24:51.000Z",
+    "id": "1813943019542040797",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-18 15:24:51+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1813239443647611086"
+    ],
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 30,
+      "like_count": 172,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5391
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 6,
+          "end": 21,
+          "username": "RobertaMetsola",
+          "id": "55031092"
+        }
+      ],
+      "urls": [
+        {
+          "start": 213,
+          "end": 236,
+          "url": "https://t.co/MeMkdN8giL",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1813239443647611086/photo/1",
+          "display_url": "pic.x.com/MeMkdN8giL",
+          "media_key": "3_1813239437586784256"
+        }
+      ]
+    },
+    "text": "Droga @RobertaMetsola, gratuluję ponownego wyboru na Przewodniczącą Parlamentu Europejskiego i wspaniałego wyniku! Bardzo się cieszę, że będziemy nadal wspólnie pracować na rzecz silnej i bezpiecznej Europy. 🇵🇱🇪🇺 https://t.co/MeMkdN8giL",
+    "conversation_id": "1813239443647611086",
+    "attachments": {
+      "media_keys": [
+        "3_1813239437586784256"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-07-16T15:49:06.000Z",
+    "id": "1813239443647611086",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-16 16:49:06+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1810615686864966138"
+    ],
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 51,
+      "like_count": 309,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9303
+    },
+    "text": "Wiadomość, która łamie serce. Nie żyje wybitny Jerzy Stuhr. Stworzył niezapomniane kreacje teatralne i filmowe, od „Amatora” po najlepsze role dubbingowe. \nPanie Jerzy, dziękuję. 🖤",
+    "conversation_id": "1810615686864966138",
+    "reply_settings": "everyone",
+    "created_at": "2024-07-09T10:03:14.000Z",
+    "id": "1810615686864966138",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-09 11:03:14+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1810255487004180936"
+    ],
+    "public_metrics": {
+      "retweet_count": 11,
+      "reply_count": 13,
+      "like_count": 115,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3919
+    },
+    "text": "Zmarł Tadeusz Woźniak, wspaniały kompozytor i wokalista, współautor  i wykonawca „Zegarmistrza światła”. Serdeczny człowiek, który wszystkich obdarzał życzliwością. Trudno uwierzyć, że już nie ma Go z nami.",
+    "conversation_id": "1810255487004180936",
+    "reply_settings": "everyone",
+    "created_at": "2024-07-08T10:11:55.000Z",
+    "id": "1810255487004180936",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-08 11:11:55+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1807352735081087167"
+    ],
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 13,
+      "like_count": 39,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 4080
+    },
+    "text": "Za nami 53. Lubuskie Lato Filmowe, najstarszy taki Festiwal w Polsce. Tu nie ma barierek i czerwonych dywanów. Jest za to niepowtarzalna przyroda, możliwość spotkania artystów i rozmowy o najlepszych polskich filmach. Wyjątkowe miejsce i wydarzenie. Do zobaczenia za rok! https://t.co/eOVn84DUeX",
+    "conversation_id": "1807352735081087167",
+    "attachments": {
+      "media_keys": [
+        "3_1807352719377657856",
+        "3_1807352719537229824",
+        "3_1807352719390158849",
+        "3_1807352719595978752"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-06-30T09:57:25.000Z",
+    "id": "1807352735081087167",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/eOVn84DUeX",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1807352735081087167/photo/1",
+          "display_url": "pic.x.com/eOVn84DUeX",
+          "media_key": "3_1807352719377657856"
+        },
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/eOVn84DUeX",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1807352735081087167/photo/1",
+          "display_url": "pic.x.com/eOVn84DUeX",
+          "media_key": "3_1807352719537229824"
+        },
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/eOVn84DUeX",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1807352735081087167/photo/1",
+          "display_url": "pic.x.com/eOVn84DUeX",
+          "media_key": "3_1807352719390158849"
+        },
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/eOVn84DUeX",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1807352735081087167/photo/1",
+          "display_url": "pic.x.com/eOVn84DUeX",
+          "media_key": "3_1807352719595978752"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-30 10:57:25+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1800885926102798440"
+    ],
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 5,
+      "like_count": 92,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 3151
+    },
+    "text": "W wieku 102 lat odszedł mjr Stosław Kowalski, żołnierz 2. Korpusu Polskiego, uczestnik Bitwy o Monte Cassino. Spotkaliśmy się w maju, na obchodach rocznicowych. \nPanie Majorze, dziękuję za Pana bohaterstwo, odwagę i poświęcenie dla Polski. To zaszczyt, że mogłam Pana poznać. https://t.co/2zdk2WfORc",
+    "conversation_id": "1800885926102798440",
+    "attachments": {
+      "media_keys": [
+        "3_1800885921077698560"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-06-12T13:40:38.000Z",
+    "id": "1800885926102798440",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/2zdk2WfORc",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1800885926102798440/photo/1",
+          "display_url": "pic.x.com/2zdk2WfORc",
+          "media_key": "3_1800885921077698560"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-12 14:40:38+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1800424925729280374"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3352
+    },
+    "text": "Wielka tragedia i ogromna strata dla polskiego filmu 🕯️ https://t.co/BGWXVA0sQH",
+    "conversation_id": "1800424925729280374",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-11T07:08:47.000Z",
+    "id": "1800424925729280374",
+    "author_id": "2280346687",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1800413951584555227"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/BGWXVA0sQH",
+          "expanded_url": "https://twitter.com/Radio_TOK_FM/status/1800413951584555227",
+          "display_url": "x.com/Radio_TOK_FM/s…"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-11 08:08:47+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1799891029346111891"
+    ],
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 27,
+      "like_count": 115,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 6578
+    },
+    "text": "Przy niepokojących informacjach o wynikach wyborów w innych państwach europejskich Polska pokazuje, że stoi na straży wartości i jedności UE. Chcemy budować bezpieczną i silną Europę. To nasze najważniejsze zadanie na najbliższy czas.",
+    "conversation_id": "1799891029346111891",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-09T19:47:16.000Z",
+    "id": "1799891029346111891",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-09 20:47:16+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1799882749894889909"
+    ],
+    "public_metrics": {
+      "retweet_count": 25,
+      "reply_count": 156,
+      "like_count": 411,
+      "quote_count": 4,
+      "bookmark_count": 3,
+      "impression_count": 11018
+    },
+    "text": "Zwycięstwo! Polska wybrała Europę ✌️🇵🇱🇪🇺 https://t.co/dqzKbvxLgz",
+    "conversation_id": "1799882749894889909",
+    "attachments": {
+      "media_keys": [
+        "3_1799882745633538049"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-06-09T19:14:22.000Z",
+    "id": "1799882749894889909",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 41,
+          "end": 64,
+          "url": "https://t.co/dqzKbvxLgz",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1799882749894889909/photo/1",
+          "display_url": "pic.x.com/dqzKbvxLgz",
+          "media_key": "3_1799882745633538049"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-09 20:14:22+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1799761816031305912"
+    ],
+    "public_metrics": {
+      "retweet_count": 54,
+      "reply_count": 71,
+      "like_count": 818,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "impression_count": 13938
+    },
+    "text": "Zagłosowaliśmy 🗳️ Każdy głos się liczy! https://t.co/xaX3e2qm31",
+    "conversation_id": "1799761816031305912",
+    "attachments": {
+      "media_keys": [
+        "3_1799761803695583232"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-06-09T11:13:49.000Z",
+    "id": "1799761816031305912",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 40,
+          "end": 63,
+          "url": "https://t.co/xaX3e2qm31",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1799761816031305912/photo/1",
+          "display_url": "pic.x.com/xaX3e2qm31",
+          "media_key": "3_1799761803695583232"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-09 12:13:49+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1799170666845114628"
+    ],
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 24,
+      "like_count": 104,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7654
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 86,
+          "end": 102,
+          "username": "Gasiuk_Pihowicz",
+          "id": "3401329131"
+        }
+      ],
+      "urls": [
+        {
+          "start": 110,
+          "end": 133,
+          "url": "https://t.co/NwKXUof34v",
+          "expanded_url": "https://twitter.com/Gasiuk_Pihowicz/status/1799168569458233765",
+          "display_url": "x.com/Gasiuk_Pihowic…"
+        }
+      ]
+    },
+    "text": "Waleczna i skuteczna, będzie doskonale reprezentować Polskę w UE. Głosujcie na Kamilę @Gasiuk_Pihowicz ✌️🇵🇱🇪🇺 https://t.co/NwKXUof34v",
+    "conversation_id": "1799170666845114628",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-07T20:04:48.000Z",
+    "id": "1799170666845114628",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "11",
+          "name": "Sport",
+          "description": "Types of sports, like soccer and basketball"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "731226237394243584",
+          "name": "International - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "733756519901077504",
+          "name": "Int. Friendly Games"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "43",
+          "name": "Soccer Match",
+          "description": "Sports Event specific to Soccer matches"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847900493514891265",
+          "name": "Sports",
+          "description": "Sports"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799168569458233765"
+      }
+    ],
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 21:04:48+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1799165955634876691"
+    ],
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 28,
+      "like_count": 104,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4403
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 20,
+          "end": 35,
+          "username": "AndrzejHalicki",
+          "id": "993849096"
+        }
+      ],
+      "urls": [
+        {
+          "start": 43,
+          "end": 66,
+          "url": "https://t.co/lBQJTOwspf",
+          "expanded_url": "https://twitter.com/AndrzejHalicki/status/1799141211846168877",
+          "display_url": "x.com/AndrzejHalicki…"
+        }
+      ]
+    },
+    "text": "Mazowsze głosuje na @AndrzejHalicki ✌️🇵🇱🇪🇺 https://t.co/lBQJTOwspf",
+    "conversation_id": "1799165955634876691",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-07T19:46:05.000Z",
+    "id": "1799165955634876691",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "11",
+          "name": "Sport",
+          "description": "Types of sports, like soccer and basketball"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "731226237394243584",
+          "name": "International - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "733756519901077504",
+          "name": "Int. Friendly Games"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "43",
+          "name": "Soccer Match",
+          "description": "Sports Event specific to Soccer matches"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847900493514891265",
+          "name": "Sports",
+          "description": "Sports"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799141211846168877"
+      }
+    ],
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 20:46:05+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1799164143993311653"
+    ],
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 6,
+      "like_count": 42,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 2630
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 1,
+          "end": 15,
+          "username": "elukacijewska",
+          "id": "3302560545"
+        }
+      ],
+      "urls": [
+        {
+          "start": 96,
+          "end": 119,
+          "url": "https://t.co/Xjn4w7wHNZ",
+          "expanded_url": "https://twitter.com/elukacijewska/status/1798962171973677273",
+          "display_url": "x.com/elukacijewska/…"
+        }
+      ]
+    },
+    "text": ".@elukacijewska od lat działa na rzecz Podkarpacia. Elu, jestem przekonana, że zwyciężysz! 🇵🇱🇪🇺 https://t.co/Xjn4w7wHNZ",
+    "conversation_id": "1799164143993311653",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-07T19:38:53.000Z",
+    "id": "1799164143993311653",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "11",
+          "name": "Sport",
+          "description": "Types of sports, like soccer and basketball"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "731226237394243584",
+          "name": "International - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "733756519901077504",
+          "name": "Int. Friendly Games"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "43",
+          "name": "Soccer Match",
+          "description": "Sports Event specific to Soccer matches"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "1127870700109189121",
+          "name": "European Parliament",
+          "description": "European Parliament"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847900493514891265",
+          "name": "Sports",
+          "description": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1068583660914266113",
+          "name": "Government institutions",
+          "description": "Political Body"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1127870700109189121",
+          "name": "European Parliament",
+          "description": "European Parliament"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1798962171973677273"
+      }
+    ],
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 20:38:53+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1799163739779813422"
+    ],
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 9,
+      "like_count": 36,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2710
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 24,
+          "end": 40,
+          "username": "JagnaMarczulajt",
+          "id": "1197946705"
+        }
+      ],
+      "urls": [
+        {
+          "start": 48,
+          "end": 71,
+          "url": "https://t.co/E4IwpQncHb",
+          "expanded_url": "https://twitter.com/JagnaMarczulajt/status/1798604691007574461",
+          "display_url": "x.com/JagnaMarczulaj…"
+        }
+      ]
+    },
+    "text": "Trzymam mocno kciuki za @JagnaMarczulajt ✌️🇵🇱🇪🇺 https://t.co/E4IwpQncHb",
+    "conversation_id": "1799163739779813422",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-07T19:37:17.000Z",
+    "id": "1799163739779813422",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "11",
+          "name": "Sport",
+          "description": "Types of sports, like soccer and basketball"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "731226237394243584",
+          "name": "International - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "733756519901077504",
+          "name": "Int. Friendly Games"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "43",
+          "name": "Soccer Match",
+          "description": "Sports Event specific to Soccer matches"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847900493514891265",
+          "name": "Sports",
+          "description": "Sports"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1798604691007574461"
+      }
+    ],
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 20:37:17+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1799109849072251234"
+    ],
+    "public_metrics": {
+      "retweet_count": 33,
+      "reply_count": 283,
+      "like_count": 296,
+      "quote_count": 7,
+      "bookmark_count": 1,
+      "impression_count": 17318
+    },
+    "text": "Dość ich obłudy. Po prostu idźmy na wybory. https://t.co/TzQkdFOjly",
+    "conversation_id": "1799109849072251234",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-07T16:03:08.000Z",
+    "id": "1799109849072251234",
+    "author_id": "2280346687",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1799107306824810738"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 44,
+          "end": 67,
+          "url": "https://t.co/TzQkdFOjly",
+          "expanded_url": "https://twitter.com/donaldtusk/status/1799107306824810738",
+          "display_url": "x.com/donaldtusk/sta…"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 17:03:08+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1798741369600815530"
+    ],
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 27,
+      "like_count": 94,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6197
+    },
+    "text": "To bardzo smutny dzień. Zmarł młody żołnierz, który oddał swoje życie broniąc polskiej granicy. Najbliższym Pana Mateusza składam wyrazy współczucia.",
+    "conversation_id": "1798741369600815530",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-06T15:38:56.000Z",
+    "id": "1798741369600815530",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-06 16:38:56+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1798074617049088319"
+    ],
+    "public_metrics": {
+      "retweet_count": 33,
+      "reply_count": 135,
+      "like_count": 398,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 6585
+    },
+    "text": "Potraficie sprawić, że serce bije mocniej. ❤️ Potraficie świętować wolność. Dziękujemy! \n#Wiec4Czerwca 🇵🇱🇪🇺 https://t.co/BZC841e4Qq",
+    "conversation_id": "1798074617049088319",
+    "attachments": {
+      "media_keys": [
+        "3_1798074610153582592"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-06-04T19:29:29.000Z",
+    "id": "1798074617049088319",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 108,
+          "end": 131,
+          "url": "https://t.co/BZC841e4Qq",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1798074617049088319/photo/1",
+          "display_url": "pic.x.com/BZC841e4Qq",
+          "media_key": "3_1798074610153582592"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 89,
+          "end": 102,
+          "tag": "Wiec4Czerwca"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-04 20:29:29+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1798028835382026739"
+    ],
+    "public_metrics": {
+      "retweet_count": 22,
+      "reply_count": 21,
+      "like_count": 200,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 6218
+    },
+    "text": "Pięknie 🇵🇱🇪🇺 #Wiec4Czerwca https://t.co/rOrqD22DRh",
+    "conversation_id": "1798028835382026739",
+    "attachments": {
+      "media_keys": [
+        "3_1798028800984231936",
+        "3_1798028800980119555",
+        "3_1798028800812253184",
+        "3_1798028800946499584"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-06-04T16:27:34.000Z",
+    "id": "1798028835382026739",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 27,
+          "end": 50,
+          "url": "https://t.co/rOrqD22DRh",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1798028835382026739/photo/1",
+          "display_url": "pic.x.com/rOrqD22DRh",
+          "media_key": "3_1798028800984231936"
+        },
+        {
+          "start": 27,
+          "end": 50,
+          "url": "https://t.co/rOrqD22DRh",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1798028835382026739/photo/1",
+          "display_url": "pic.x.com/rOrqD22DRh",
+          "media_key": "3_1798028800980119555"
+        },
+        {
+          "start": 27,
+          "end": 50,
+          "url": "https://t.co/rOrqD22DRh",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1798028835382026739/photo/1",
+          "display_url": "pic.x.com/rOrqD22DRh",
+          "media_key": "3_1798028800812253184"
+        },
+        {
+          "start": 27,
+          "end": 50,
+          "url": "https://t.co/rOrqD22DRh",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1798028835382026739/photo/1",
+          "display_url": "pic.x.com/rOrqD22DRh",
+          "media_key": "3_1798028800946499584"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 13,
+          "end": 26,
+          "tag": "Wiec4Czerwca"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-04 17:27:34+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1797996008447836537"
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 2,
+      "like_count": 18,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2671
+    },
+    "text": "Polonia bardzo dobrze wie, jak ważna jest zjednoczona Europa. Pamiętajcie, by zapisać się na wybory! 🇵🇱🇪🇺 https://t.co/xCDPf4K7yy",
+    "conversation_id": "1797996008447836537",
+    "reply_settings": "everyone",
+    "created_at": "2024-06-04T14:17:08.000Z",
+    "id": "1797996008447836537",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "1127870700109189121",
+          "name": "European Parliament",
+          "description": "European Parliament"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1068583660914266113",
+          "name": "Government institutions",
+          "description": "Political Body"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1127870700109189121",
+          "name": "European Parliament",
+          "description": "European Parliament"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1797894492571549834"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 106,
+          "end": 129,
+          "url": "https://t.co/xCDPf4K7yy",
+          "expanded_url": "https://twitter.com/KrzysztofLisek/status/1797894492571549834",
+          "display_url": "x.com/KrzysztofLisek…"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-04 15:17:08+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1797702925210263960"
+    ],
+    "public_metrics": {
+      "retweet_count": 49,
+      "reply_count": 191,
+      "like_count": 313,
+      "quote_count": 7,
+      "bookmark_count": 1,
+      "impression_count": 10008
+    },
+    "text": "Pamiętacie 4 czerwca rok temu? Pokazaliśmy, że jest w nas siła, która zmieni Polskę. Jutro pokażmy, że chcemy być w Europie. Do zobaczenia na Placu Zamkowym o 18.00🇵🇱🇪🇺 https://t.co/OgxONJC0eL",
+    "conversation_id": "1797702925210263960",
+    "attachments": {
+      "media_keys": [
+        "3_1797702920642633728"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-06-03T18:52:31.000Z",
+    "id": "1797702925210263960",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 169,
+          "end": 192,
+          "url": "https://t.co/OgxONJC0eL",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1797702925210263960/photo/1",
+          "display_url": "pic.x.com/OgxONJC0eL",
+          "media_key": "3_1797702920642633728"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-03 19:52:31+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1794650779032461457"
+    ],
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 16,
+      "like_count": 319,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5247
+    },
+    "text": "Najpiękniejszy uśmiech na świecie. Mamo, pamiętam ❤️ https://t.co/PYrvJUmx2N",
+    "conversation_id": "1794650779032461457",
+    "attachments": {
+      "media_keys": [
+        "3_1794650772421890048"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-26T08:44:23.000Z",
+    "id": "1794650779032461457",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/PYrvJUmx2N",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1794650779032461457/photo/1",
+          "display_url": "pic.x.com/PYrvJUmx2N",
+          "media_key": "3_1794650772421890048"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-26 09:44:23+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1794378000785645985"
+    ],
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 131,
+      "like_count": 170,
+      "quote_count": 6,
+      "bookmark_count": 2,
+      "impression_count": 11871
+    },
+    "text": "Wizyta solidarności i przyjaźni 🇵🇱🇺🇦 https://t.co/5tIiXL8FAv",
+    "conversation_id": "1794378000785645985",
+    "attachments": {
+      "media_keys": [
+        "3_1794377988240297984",
+        "3_1794377988227604480",
+        "3_1794377988269547520",
+        "3_1794377988248625152"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-25T14:40:27.000Z",
+    "id": "1794378000785645985",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 37,
+          "end": 60,
+          "url": "https://t.co/5tIiXL8FAv",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1794378000785645985/photo/1",
+          "display_url": "pic.x.com/5tIiXL8FAv",
+          "media_key": "3_1794377988240297984"
+        },
+        {
+          "start": 37,
+          "end": 60,
+          "url": "https://t.co/5tIiXL8FAv",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1794378000785645985/photo/1",
+          "display_url": "pic.x.com/5tIiXL8FAv",
+          "media_key": "3_1794377988227604480"
+        },
+        {
+          "start": 37,
+          "end": 60,
+          "url": "https://t.co/5tIiXL8FAv",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1794378000785645985/photo/1",
+          "display_url": "pic.x.com/5tIiXL8FAv",
+          "media_key": "3_1794377988269547520"
+        },
+        {
+          "start": 37,
+          "end": 60,
+          "url": "https://t.co/5tIiXL8FAv",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1794378000785645985/photo/1",
+          "display_url": "pic.x.com/5tIiXL8FAv",
+          "media_key": "3_1794377988248625152"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-25 15:40:27+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1794071737702678778"
+    ],
+    "public_metrics": {
+      "retweet_count": 111,
+      "reply_count": 1062,
+      "like_count": 1088,
+      "quote_count": 48,
+      "bookmark_count": 22,
+      "impression_count": 111991
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 34,
+          "end": 46,
+          "username": "ZelenskyyUa",
+          "id": "1120633726478823425"
+        }
+      ],
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/N8zfJTXlb4",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1794071737702678778/photo/1",
+          "display_url": "pic.x.com/N8zfJTXlb4",
+          "media_key": "3_1794071730769575936"
+        }
+      ]
+    },
+    "text": "Odwaga i siła. \nPanie Prezydencie @ZelenskyyUa, dziękuję.\n\nSlava Ukraini! 🇵🇱🇺🇦 https://t.co/N8zfJTXlb4",
+    "conversation_id": "1794071737702678778",
+    "attachments": {
+      "media_keys": [
+        "3_1794071730769575936"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-24T18:23:29.000Z",
+    "id": "1794071737702678778",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      }
+    ],
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-24 19:23:29+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1793947316430221384"
+    ],
+    "public_metrics": {
+      "retweet_count": 36,
+      "reply_count": 137,
+      "like_count": 229,
+      "quote_count": 5,
+      "bookmark_count": 0,
+      "impression_count": 9572
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 21,
+          "end": 34,
+          "username": "r_stefanchuk",
+          "id": "235899366"
+        }
+      ],
+      "urls": [
+        {
+          "start": 76,
+          "end": 99,
+          "url": "https://t.co/NkIFPVrdLx",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1793947316430221384/video/1",
+          "display_url": "pic.x.com/NkIFPVrdLx",
+          "media_key": "7_1793947298981916672"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 63,
+          "end": 69,
+          "tag": "Kijów"
+        }
+      ]
+    },
+    "text": "Panie Przewodniczący @r_stefanchuk, dziękuję za zaproszenie do #Kijów. 🇵🇱🇺🇦 https://t.co/NkIFPVrdLx",
+    "conversation_id": "1793947316430221384",
+    "attachments": {
+      "media_keys": [
+        "7_1793947298981916672"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-24T10:09:04.000Z",
+    "id": "1793947316430221384",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-24 11:09:04+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1793353086078968159"
+    ],
+    "public_metrics": {
+      "retweet_count": 47,
+      "reply_count": 95,
+      "like_count": 237,
+      "quote_count": 4,
+      "bookmark_count": 0,
+      "impression_count": 10834
+    },
+    "text": "4 czerwca to dzień symboliczny. Widzimy się na wiecu. 🇵🇱🇪🇺 https://t.co/u5il18WwC8",
+    "conversation_id": "1793353086078968159",
+    "reply_settings": "everyone",
+    "created_at": "2024-05-22T18:47:49.000Z",
+    "id": "1793353086078968159",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1793332609151283596"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/u5il18WwC8",
+          "expanded_url": "https://twitter.com/donaldtusk/status/1793332609151283596",
+          "display_url": "x.com/donaldtusk/sta…"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-22 19:47:49+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1792868580825903524"
+    ],
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 4,
+      "like_count": 117,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4131
+    },
+    "text": "Bardzo smutna wiadomość o śmierci Jana A.P. Kaczmarka, światowej klasy kompozytora, laureata Oscara, wielkiego ambasadora polskiej kultury.\nDziękuję za „Marzyciela” i muzykę, która zostanie z nami na zawsze.",
+    "conversation_id": "1792868580825903524",
+    "reply_settings": "everyone",
+    "created_at": "2024-05-21T10:42:34.000Z",
+    "id": "1792868580825903524",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-21 11:42:34+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1790751592758604087"
+    ],
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 10,
+      "like_count": 71,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5637
+    },
+    "text": "Jestem wstrząśnięta informacją o zamachu na premiera Słowacji, Roberta Fico. Potępiam ten brutalny atak i mam nadzieję na jego dokładne wyjaśnienie. \nW tym niezwykle trudnym momencie moje myśli kieruję do Pana Premiera i Jego najbliższych.",
+    "conversation_id": "1790751592758604087",
+    "reply_settings": "everyone",
+    "created_at": "2024-05-15T14:30:24.000Z",
+    "id": "1790751592758604087",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-15 15:30:24+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1790735582915608613"
+    ],
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 18,
+      "like_count": 106,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4576
+    },
+    "text": "O kulturze i Krakowie, planach na przyszłość i wyzwaniach rozmawiałam dziś z prezydentem @OlekMiszalski i ministrem Andrzejem Wyrobcem. Dziękuję za spotkanie! https://t.co/w25OxrDS6q",
+    "conversation_id": "1790735582915608613",
+    "attachments": {
+      "media_keys": [
+        "3_1790735574720032768"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-15T13:26:47.000Z",
+    "id": "1790735582915608613",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 159,
+          "end": 182,
+          "url": "https://t.co/w25OxrDS6q",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1790735582915608613/photo/1",
+          "display_url": "pic.x.com/w25OxrDS6q",
+          "media_key": "3_1790735574720032768"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-15 14:26:47+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1790430042574471264"
+    ],
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 4,
+      "like_count": 105,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4437
+    },
+    "text": "Zmarła Zofia Czekalska „Sosenka”, uczestniczka Powstania Warszawskiego, Bohaterka. Zawsze pogodna, życzliwa i uśmiechnięta. Taką zachowam ją w pamięci i sercu. \nPani Zofio, dziękuję za nasze spotkania. Będziemy o Pani pamiętać.",
+    "conversation_id": "1790430042574471264",
+    "reply_settings": "everyone",
+    "created_at": "2024-05-14T17:12:41.000Z",
+    "id": "1790430042574471264",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-14 18:12:41+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1790019132538126398"
+    ],
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 39,
+      "like_count": 135,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 5156
+    },
+    "text": "Odchodzącym ministrom dziękuję za odwagę i determinację w przywracaniu normalności. Nowym gratuluję i życzę wytrwałości, bo przed Wami wiele trudnych zadań. Cieszę się na współpracę z tak świetnymi fachowcami. https://t.co/hnpdNJV23Q",
+    "conversation_id": "1790019132538126398",
+    "attachments": {
+      "media_keys": [
+        "3_1790019126154366978",
+        "3_1790019126146011136",
+        "3_1790019126162751488"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-13T13:59:52.000Z",
+    "id": "1790019132538126398",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 210,
+          "end": 233,
+          "url": "https://t.co/hnpdNJV23Q",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1790019132538126398/photo/1",
+          "display_url": "pic.x.com/hnpdNJV23Q",
+          "media_key": "3_1790019126154366978"
+        },
+        {
+          "start": 210,
+          "end": 233,
+          "url": "https://t.co/hnpdNJV23Q",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1790019132538126398/photo/1",
+          "display_url": "pic.x.com/hnpdNJV23Q",
+          "media_key": "3_1790019126146011136"
+        },
+        {
+          "start": 210,
+          "end": 233,
+          "url": "https://t.co/hnpdNJV23Q",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1790019132538126398/photo/1",
+          "display_url": "pic.x.com/hnpdNJV23Q",
+          "media_key": "3_1790019126162751488"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-13 14:59:52+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1787733987349151795"
+    ],
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 8,
+      "like_count": 53,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4109
+    },
+    "text": "Drogie Maturzystki, Drodzy Maturzyści, powodzenia na egzaminach! Pracowaliście wytrwale i na pewno uzyskacie wspaniałe wyniki, które dadzą Wam przepustkę do wymarzonych studiów. Trzymam za Was mocno kciuki!",
+    "conversation_id": "1787733987349151795",
+    "reply_settings": "everyone",
+    "created_at": "2024-05-07T06:39:31.000Z",
+    "id": "1787733987349151795",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-07 07:39:31+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1786039591700480310"
+    ],
+    "public_metrics": {
+      "retweet_count": 25,
+      "reply_count": 23,
+      "like_count": 237,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 6751
+    },
+    "text": "Tak świętujemy Dzień Flagi z uczniami Szkoły Podstawowej z Polskim Językiem Nauczania w Czeskim Cieszynie 🤍❤️ https://t.co/WrzVNZiEiq",
+    "conversation_id": "1786039591700480310",
+    "attachments": {
+      "media_keys": [
+        "3_1786039579029446656"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-02T14:26:36.000Z",
+    "id": "1786039591700480310",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 110,
+          "end": 133,
+          "url": "https://t.co/WrzVNZiEiq",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1786039591700480310/photo/1",
+          "display_url": "pic.x.com/WrzVNZiEiq",
+          "media_key": "3_1786039579029446656"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-02 15:26:36+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1785912284046381259"
+    ],
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 14,
+      "like_count": 143,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 7895
+    },
+    "text": "Dziś Dzień Polonii i Polaków za Granicą. Gdziekolwiek jesteśmy, Polskę mamy w sercach ❤️ https://t.co/dhsbdieWQQ",
+    "conversation_id": "1785912284046381259",
+    "attachments": {
+      "media_keys": [
+        "7_1785912211602382848"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-02T06:00:43.000Z",
+    "id": "1785912284046381259",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 89,
+          "end": 112,
+          "url": "https://t.co/dhsbdieWQQ",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1785912284046381259/video/1",
+          "display_url": "pic.x.com/dhsbdieWQQ",
+          "media_key": "7_1785912211602382848"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-02 07:00:43+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1785554590626144465"
+    ],
+    "public_metrics": {
+      "retweet_count": 50,
+      "reply_count": 85,
+      "like_count": 328,
+      "quote_count": 4,
+      "bookmark_count": 1,
+      "impression_count": 14655
+    },
+    "text": "20 lat Polski w Unii Europejskiej to powód do radości i wielkiej dumy dla nas wszystkich. Jesteśmy Europą i wspólnie budujemy jej przyszłość. 🇵🇱🇪🇺 https://t.co/vhpmizKMzA",
+    "conversation_id": "1785554590626144465",
+    "attachments": {
+      "media_keys": [
+        "3_1785554585374883840"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-05-01T06:19:23.000Z",
+    "id": "1785554590626144465",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 147,
+          "end": 170,
+          "url": "https://t.co/vhpmizKMzA",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1785554590626144465/photo/1",
+          "display_url": "pic.x.com/vhpmizKMzA",
+          "media_key": "3_1785554585374883840"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-01 07:19:23+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1784561963751580113"
+    ],
+    "public_metrics": {
+      "retweet_count": 26,
+      "reply_count": 86,
+      "like_count": 145,
+      "quote_count": 3,
+      "bookmark_count": 1,
+      "impression_count": 8861
+    },
+    "text": "Głos na bezpieczną Polskę w bezpiecznej Europie 🇵🇱🇪🇺 https://t.co/rtJUwebJRG",
+    "conversation_id": "1784561963751580113",
+    "attachments": {
+      "media_keys": [
+        "3_1784561957892136960"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-28T12:35:02.000Z",
+    "id": "1784561963751580113",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/rtJUwebJRG",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1784561963751580113/photo/1",
+          "display_url": "pic.x.com/rtJUwebJRG",
+          "media_key": "3_1784561957892136960"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-28 13:35:02+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1782145384770396265"
+    ],
+    "public_metrics": {
+      "retweet_count": 15,
+      "reply_count": 13,
+      "like_count": 241,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10435
+    },
+    "text": "Coś pięknego ✌️ https://t.co/w2nQwGn24b",
+    "conversation_id": "1782145384770396265",
+    "reply_settings": "everyone",
+    "created_at": "2024-04-21T20:32:25.000Z",
+    "id": "1782145384770396265",
+    "author_id": "2280346687",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1782143940788932804"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 16,
+          "end": 39,
+          "url": "https://t.co/w2nQwGn24b",
+          "expanded_url": "https://twitter.com/donaldtusk/status/1782143940788932804",
+          "display_url": "x.com/donaldtusk/sta…"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-21 21:32:25+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1782139836909928666"
+    ],
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 2,
+      "like_count": 81,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3376
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Gasiuk_Pihowicz",
+          "id": "3401329131"
+        }
+      ]
+    },
+    "text": "@Gasiuk_Pihowicz Wspaniałe wiadomości. Brawo 👏",
+    "conversation_id": "1782137234369466413",
+    "reply_settings": "everyone",
+    "created_at": "2024-04-21T20:10:22.000Z",
+    "id": "1782139836909928666",
+    "in_reply_to_user_id": "3401329131",
+    "author_id": "2280346687",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1782137234369466413"
+      }
+    ],
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-04-21 21:10:22+00:00"
+    },
+    "category": "Reply"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1781387831534833813"
+    ],
+    "public_metrics": {
+      "retweet_count": 22,
+      "reply_count": 6,
+      "like_count": 104,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4829
+    },
+    "text": "Mieszkańcy Ostrowi Mazowieckiej chcą zmiany. Zapełnili dziś salę i z wielką energią wsparli kandydata na burmistrza, Huberta Betlejewskiego. Mocno trzymam kciuki za zwycięstwo w niedzielę! https://t.co/6VvFYVKhHE",
+    "conversation_id": "1781387831534833813",
+    "attachments": {
+      "media_keys": [
+        "3_1781387822433230848",
+        "3_1781387822433193984",
+        "3_1781387822441631744",
+        "3_1781387822429077504"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-19T18:22:10.000Z",
+    "id": "1781387831534833813",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 189,
+          "end": 212,
+          "url": "https://t.co/6VvFYVKhHE",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1781387831534833813/photo/1",
+          "display_url": "pic.x.com/6VvFYVKhHE",
+          "media_key": "3_1781387822433230848"
+        },
+        {
+          "start": 189,
+          "end": 212,
+          "url": "https://t.co/6VvFYVKhHE",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1781387831534833813/photo/1",
+          "display_url": "pic.x.com/6VvFYVKhHE",
+          "media_key": "3_1781387822433193984"
+        },
+        {
+          "start": 189,
+          "end": 212,
+          "url": "https://t.co/6VvFYVKhHE",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1781387831534833813/photo/1",
+          "display_url": "pic.x.com/6VvFYVKhHE",
+          "media_key": "3_1781387822441631744"
+        },
+        {
+          "start": 189,
+          "end": 212,
+          "url": "https://t.co/6VvFYVKhHE",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1781387831534833813/photo/1",
+          "display_url": "pic.x.com/6VvFYVKhHE",
+          "media_key": "3_1781387822429077504"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-19 19:22:10+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1781335886791065907"
+    ],
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 42,
+      "like_count": 202,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 5553
+    },
+    "text": "Krakowianie, przed wami ważna decyzja. W najbliższą niedzielę idźcie na wybory i wybierzcie dobrą przyszłość dla Was i Waszego miasta. Wybierzcie @OlekMiszalski na prezydenta✌️ https://t.co/zYf8VplCOo",
+    "conversation_id": "1781335886791065907",
+    "attachments": {
+      "media_keys": [
+        "3_1781335866469765120"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-19T14:55:45.000Z",
+    "id": "1781335886791065907",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 177,
+          "end": 200,
+          "url": "https://t.co/zYf8VplCOo",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1781335886791065907/photo/1",
+          "display_url": "pic.x.com/zYf8VplCOo",
+          "media_key": "3_1781335866469765120"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-19 15:55:45+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1780626214715084811"
+    ],
+    "public_metrics": {
+      "retweet_count": 19,
+      "reply_count": 8,
+      "like_count": 83,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 4317
+    },
+    "text": "To już ostatnia prosta przed II turą wyborów samorządowych. W Jeleniej Górze wspieram znakomitego gospodarza miasta, prezydenta Jerzego Łużniaka. Warto oddać na niego głos. Zachęcam, idźcie do wyborów 21 kwietnia. Wasz głos się liczy! https://t.co/qkyzVHRhLa",
+    "conversation_id": "1780626214715084811",
+    "attachments": {
+      "media_keys": [
+        "3_1780626188416778240",
+        "3_1780626188307718145",
+        "3_1780626188504899584",
+        "3_1780626188328673280"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-17T15:55:46.000Z",
+    "id": "1780626214715084811",
+    "author_id": "2280346687",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+        }
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 235,
+          "end": 258,
+          "url": "https://t.co/qkyzVHRhLa",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1780626214715084811/photo/1",
+          "display_url": "pic.x.com/qkyzVHRhLa",
+          "media_key": "3_1780626188416778240"
+        },
+        {
+          "start": 235,
+          "end": 258,
+          "url": "https://t.co/qkyzVHRhLa",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1780626214715084811/photo/1",
+          "display_url": "pic.x.com/qkyzVHRhLa",
+          "media_key": "3_1780626188307718145"
+        },
+        {
+          "start": 235,
+          "end": 258,
+          "url": "https://t.co/qkyzVHRhLa",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1780626214715084811/photo/1",
+          "display_url": "pic.x.com/qkyzVHRhLa",
+          "media_key": "3_1780626188504899584"
+        },
+        {
+          "start": 235,
+          "end": 258,
+          "url": "https://t.co/qkyzVHRhLa",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1780626214715084811/photo/1",
+          "display_url": "pic.x.com/qkyzVHRhLa",
+          "media_key": "3_1780626188328673280"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-17 16:55:46+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1779580455924228203"
+    ],
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 8,
+      "like_count": 77,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 4907
+    },
+    "text": "Dorota Konieczny-Simela w Mysłowicach, Michał Kirker w Jaworznie walczą o zwycięstwo w II turze wyborów. Mają wielką energię do działania, słuchają ludzi, doskonale rozumieją samorząd. To jest ich czas, warto na nich zagłosować! https://t.co/pzKbmqxHJR",
+    "conversation_id": "1779580455924228203",
+    "attachments": {
+      "media_keys": [
+        "3_1779580446268907520",
+        "3_1779580446260531200",
+        "3_1779580446256369664",
+        "3_1779580446264737792"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-14T18:40:18.000Z",
+    "id": "1779580455924228203",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 229,
+          "end": 252,
+          "url": "https://t.co/pzKbmqxHJR",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1779580455924228203/photo/1",
+          "display_url": "pic.x.com/pzKbmqxHJR",
+          "media_key": "3_1779580446268907520"
+        },
+        {
+          "start": 229,
+          "end": 252,
+          "url": "https://t.co/pzKbmqxHJR",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1779580455924228203/photo/1",
+          "display_url": "pic.x.com/pzKbmqxHJR",
+          "media_key": "3_1779580446260531200"
+        },
+        {
+          "start": 229,
+          "end": 252,
+          "url": "https://t.co/pzKbmqxHJR",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1779580455924228203/photo/1",
+          "display_url": "pic.x.com/pzKbmqxHJR",
+          "media_key": "3_1779580446256369664"
+        },
+        {
+          "start": 229,
+          "end": 252,
+          "url": "https://t.co/pzKbmqxHJR",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1779580455924228203/photo/1",
+          "display_url": "pic.x.com/pzKbmqxHJR",
+          "media_key": "3_1779580446264737792"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-14 19:40:18+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1779504671184261272"
+    ],
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 15,
+      "like_count": 160,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 7455
+    },
+    "text": "W Siemianowicach Śląskich na pikniku rodzinnym z kandydatką na prezydenta miasta, Anną Zasadą-Chorab. Jak widać - kocha ludzi i zwierzęta. Kocha swoje miasto. Warto zagłosować na Annę 21 kwietnia! https://t.co/n1hyFBYIE7",
+    "conversation_id": "1779504671184261272",
+    "attachments": {
+      "media_keys": [
+        "3_1779504653748563968"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-14T13:39:09.000Z",
+    "id": "1779504671184261272",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 197,
+          "end": 220,
+          "url": "https://t.co/n1hyFBYIE7",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1779504671184261272/photo/1",
+          "display_url": "pic.x.com/n1hyFBYIE7",
+          "media_key": "3_1779504653748563968"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-14 14:39:09+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1779078947633766556"
+    ],
+    "public_metrics": {
+      "retweet_count": 28,
+      "reply_count": 35,
+      "like_count": 224,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5703
+    },
+    "text": "W przypadający dziś Dzień Pamięci Ofiar Zbrodni Katyńskiej złożyłam hołd pomordowanym z rozkazu Stalina. Prawda o tej zbrodni ukrywana była przez wiele lat. Pielęgnujmy ją, by nigdy nie została zapomniana. https://t.co/uSg8unYkpy",
+    "conversation_id": "1779078947633766556",
+    "attachments": {
+      "media_keys": [
+        "3_1779078940948103168"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-13T09:27:29.000Z",
+    "id": "1779078947633766556",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 206,
+          "end": 229,
+          "url": "https://t.co/uSg8unYkpy",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1779078947633766556/photo/1",
+          "display_url": "pic.x.com/uSg8unYkpy",
+          "media_key": "3_1779078940948103168"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-13 10:27:29+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1778806342423027834"
+    ],
+    "public_metrics": {
+      "retweet_count": 21,
+      "reply_count": 46,
+      "like_count": 217,
+      "quote_count": 2,
+      "bookmark_count": 2,
+      "impression_count": 11476
+    },
+    "text": "Dzisiejsza decyzja Sejmu o skierowaniu do prac w komisji ustaw liberalizujących prawo aborcyjne to krok w dobrą stronę. Ważny krok.",
+    "conversation_id": "1778806342423027834",
+    "reply_settings": "everyone",
+    "created_at": "2024-04-12T15:24:15.000Z",
+    "id": "1778806342423027834",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-12 16:24:15+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1777069853465018526"
+    ],
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 12,
+      "like_count": 378,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 8626
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 42,
+          "end": 55,
+          "username": "trzaskowski_",
+          "id": "370112160"
+        }
+      ]
+    },
+    "text": "Warszawa spisała się wspaniale! Gratuluję @trzaskowski_ zwycięstwa w wielkim stylu. Brawa dla wszystkich wspaniałych kandydatek i kandydatów Koalicji Obywatelskiej 👏",
+    "conversation_id": "1777069853465018526",
+    "reply_settings": "everyone",
+    "created_at": "2024-04-07T20:24:04.000Z",
+    "id": "1777069853465018526",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-07 21:24:04+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1776943709180908028"
+    ],
+    "public_metrics": {
+      "retweet_count": 46,
+      "reply_count": 51,
+      "like_count": 1106,
+      "quote_count": 2,
+      "bookmark_count": 5,
+      "impression_count": 17789
+    },
+    "text": "🗳️Warto głosować! https://t.co/KvsB6sODwa",
+    "conversation_id": "1776943709180908028",
+    "attachments": {
+      "media_keys": [
+        "3_1776943701865934848"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-07T12:02:48.000Z",
+    "id": "1776943709180908028",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 18,
+          "end": 41,
+          "url": "https://t.co/KvsB6sODwa",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1776943709180908028/photo/1",
+          "display_url": "pic.x.com/KvsB6sODwa",
+          "media_key": "3_1776943701865934848"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-07 13:02:48+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1776917237560979558"
+    ],
+    "public_metrics": {
+      "retweet_count": 34,
+      "reply_count": 10,
+      "like_count": 348,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8799
+    },
+    "text": "Urodziny obchodzi dziś waleczna i odważna kobieta, która zawsze przypomina nam, jak ważne w życiu są wartości. Pani Wando, dużo zdrowia! https://t.co/YrcbAIKryg",
+    "conversation_id": "1776917237560979558",
+    "reply_settings": "everyone",
+    "created_at": "2024-04-07T10:17:37.000Z",
+    "id": "1776917237560979558",
+    "author_id": "2280346687",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1776886043733582118"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 137,
+          "end": 160,
+          "url": "https://t.co/YrcbAIKryg",
+          "expanded_url": "https://twitter.com/1944pl/status/1776886043733582118",
+          "display_url": "x.com/1944pl/status/…"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-07 11:17:37+00:00"
+    },
+    "category": "Quote"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1776708659495456967"
+    ],
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 3,
+      "like_count": 183,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7230
+    },
+    "text": "Wyjątkowy koncert w Katowicach na 45. urodziny Dżemu. Jubileusz pełen wspomnień i wzruszeń, a przede wszystkim najlepszej muzyki. Taką „ciszę” to ja rozumiem. 👏 https://t.co/tdwJtukrPs",
+    "conversation_id": "1776708659495456967",
+    "attachments": {
+      "media_keys": [
+        "3_1776708653808058368",
+        "3_1776708653812256768",
+        "3_1776708653828964352",
+        "3_1776708653833142273"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-06T20:28:48.000Z",
+    "id": "1776708659495456967",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 161,
+          "end": 184,
+          "url": "https://t.co/tdwJtukrPs",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1776708659495456967/photo/1",
+          "display_url": "pic.x.com/tdwJtukrPs",
+          "media_key": "3_1776708653808058368"
+        },
+        {
+          "start": 161,
+          "end": 184,
+          "url": "https://t.co/tdwJtukrPs",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1776708659495456967/photo/1",
+          "display_url": "pic.x.com/tdwJtukrPs",
+          "media_key": "3_1776708653812256768"
+        },
+        {
+          "start": 161,
+          "end": 184,
+          "url": "https://t.co/tdwJtukrPs",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1776708659495456967/photo/1",
+          "display_url": "pic.x.com/tdwJtukrPs",
+          "media_key": "3_1776708653828964352"
+        },
+        {
+          "start": 161,
+          "end": 184,
+          "url": "https://t.co/tdwJtukrPs",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1776708659495456967/photo/1",
+          "display_url": "pic.x.com/tdwJtukrPs",
+          "media_key": "3_1776708653833142273"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-06 21:28:48+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1776349955394834942"
+    ],
+    "public_metrics": {
+      "retweet_count": 12,
+      "reply_count": 12,
+      "like_count": 171,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5198
+    },
+    "text": "Kandydaci Koalicji Obywatelskiej w wyborach samorządowych dali z siebie wszystko. Wykonali wielką pracę. Teraz czas na nas. Idźmy na wybory 7 kwietnia. Zabierzmy rodziny. Namówmy bliskich. Niech marsz miliona serc trwa, bo mamy wspólnie dużo do zrobienia. Po zwycięstwo!",
+    "conversation_id": "1776349955394834942",
+    "reply_settings": "everyone",
+    "created_at": "2024-04-05T20:43:27.000Z",
+    "id": "1776349955394834942",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 21:43:27+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1776229927198572794"
+    ],
+    "public_metrics": {
+      "retweet_count": 57,
+      "reply_count": 186,
+      "like_count": 412,
+      "quote_count": 8,
+      "bookmark_count": 1,
+      "impression_count": 13127
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 65,
+          "end": 78,
+          "username": "trzaskowski_",
+          "id": "370112160"
+        }
+      ],
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/QFvLdbiWvq",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1776229927198572794/video/1",
+          "display_url": "pic.x.com/QFvLdbiWvq",
+          "media_key": "7_1776229837742419968"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 47,
+          "end": 64,
+          "tag": "PoProstuWarszawa"
+        }
+      ]
+    },
+    "text": "7 kwietnia zagłosuję na Rafała Trzaskowskiego. #PoProstuWarszawa @trzaskowski_ https://t.co/QFvLdbiWvq",
+    "conversation_id": "1776229927198572794",
+    "attachments": {
+      "media_keys": [
+        "7_1776229837742419968"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-05T12:46:30.000Z",
+    "id": "1776229927198572794",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 13:46:30+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1776129342197633278"
+    ],
+    "public_metrics": {
+      "retweet_count": 21,
+      "reply_count": 16,
+      "like_count": 90,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 3710
+    },
+    "text": "Spotkajmy się dziś w Ostrołęce na finale kampanii samorządowej. Do zobaczenia! ✌️ https://t.co/tjF8oIkk5q",
+    "conversation_id": "1776129342197633278",
+    "attachments": {
+      "media_keys": [
+        "3_1776129332521345024"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-05T06:06:48.000Z",
+    "id": "1776129342197633278",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 82,
+          "end": 105,
+          "url": "https://t.co/tjF8oIkk5q",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1776129342197633278/photo/1",
+          "display_url": "pic.x.com/tjF8oIkk5q",
+          "media_key": "3_1776129332521345024"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 07:06:48+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1775941705667145794"
+    ],
+    "public_metrics": {
+      "retweet_count": 9,
+      "reply_count": 11,
+      "like_count": 57,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 4766
+    },
+    "text": "Bardzo smutna wiadomość. Zmarł Miron Sycz, wicemarszałek województwa warmińsko-mazurskiego, poseł na Sejm RP, samorządowiec i działacz Związku Ukraińców w Polsce. \nOdszedł wspaniały człowiek. \nRodzinie i Bliskim składam wyrazy współczucia. https://t.co/dIOIdjfLug",
+    "conversation_id": "1775941705667145794",
+    "attachments": {
+      "media_keys": [
+        "3_1775941701141409792"
+      ]
+    },
+    "reply_settings": "everyone",
+    "created_at": "2024-04-04T17:41:12.000Z",
+    "id": "1775941705667145794",
+    "author_id": "2280346687",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 240,
+          "end": 263,
+          "url": "https://t.co/dIOIdjfLug",
+          "expanded_url": "https://x.com/M_K_Blonska/status/1775941705667145794/photo/1",
+          "display_url": "pic.x.com/dIOIdjfLug",
+          "media_key": "3_1775941701141409792"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-04 18:41:12+00:00"
+    },
+    "category": "Original"
+  }
+]

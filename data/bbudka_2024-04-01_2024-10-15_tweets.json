@@ -1,0 +1,2567 @@
+[
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-15 18:13:29+00:00"
+    },
+    "text": "Bardzo wartościowy materiał. Świetna dziennikarska robota! Ja już swój głos oddałem. Polecam! https://t.co/qe9KL4nLzG",
+    "entities": {
+      "urls": [
+        {
+          "start": 94,
+          "end": 117,
+          "url": "https://t.co/qe9KL4nLzG",
+          "expanded_url": "https://twitter.com/GoniecPL/status/1846229842347675784",
+          "display_url": "x.com/GoniecPL/statu…"
+        }
+      ]
+    },
+    "conversation_id": "1846237975471927425",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1846229842347675784"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 14,
+      "reply_count": 18,
+      "like_count": 55,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 8916
+    },
+    "possibly_sensitive": false,
+    "id": "1846237975471927425",
+    "edit_history_tweet_ids": [
+      "1846237975471927425"
+    ],
+    "created_at": "2024-10-15T17:13:29.000Z",
+    "category": "Quote"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-10-15 16:06:59+00:00"
+    },
+    "text": "@D_Tarczynski Ależ Ty nie masz wstydu! Spójrz na datę, a potem grzecznie przeproś i zamilcz! https://t.co/Hyko7IlWDe",
+    "entities": {
+      "urls": [
+        {
+          "start": 93,
+          "end": 116,
+          "url": "https://t.co/Hyko7IlWDe",
+          "expanded_url": "https://x.com/bbudka/status/1846206139689533838/photo/1",
+          "display_url": "pic.x.com/Hyko7IlWDe",
+          "media_key": "3_1846206133389688832"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "D_Tarczynski",
+          "id": "347228796"
+        }
+      ]
+    },
+    "in_reply_to_user_id": "347228796",
+    "conversation_id": "1846134505691660692",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1846134505691660692"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1846206133389688832"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 88,
+      "reply_count": 88,
+      "like_count": 974,
+      "quote_count": 4,
+      "bookmark_count": 6,
+      "impression_count": 16933
+    },
+    "possibly_sensitive": false,
+    "id": "1846206139689533838",
+    "edit_history_tweet_ids": [
+      "1846206139689533838"
+    ],
+    "created_at": "2024-10-15T15:06:59.000Z",
+    "category": "Reply"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-15 09:04:54+00:00"
+    },
+    "text": "Jesteśmy i będziemy dla Was 🇵🇱❤️\nDziękujemy za #15października ✌️ https://t.co/BVWy06hSRT",
+    "entities": {
+      "urls": [
+        {
+          "start": 66,
+          "end": 89,
+          "url": "https://t.co/BVWy06hSRT",
+          "expanded_url": "https://twitter.com/Platforma_org/status/1846094723007521251",
+          "display_url": "x.com/Platforma_org/…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 47,
+          "end": 62,
+          "tag": "15października"
+        }
+      ]
+    },
+    "conversation_id": "1846099919670542750",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1846094723007521251"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 123,
+      "reply_count": 473,
+      "like_count": 985,
+      "quote_count": 18,
+      "bookmark_count": 4,
+      "impression_count": 37633
+    },
+    "possibly_sensitive": false,
+    "id": "1846099919670542750",
+    "edit_history_tweet_ids": [
+      "1846099919670542750"
+    ],
+    "created_at": "2024-10-15T08:04:54.000Z",
+    "category": "Quote"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-10-13 17:27:58+00:00"
+    },
+    "text": "@MorawieckiM Największą katastrofą dla Polski były Wasze 8-letnie rządy. Teraz po prostu nie przeszkadzajcie.",
+    "in_reply_to_user_id": "939053934232195072",
+    "conversation_id": "1845499895026745412",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1845499895026745412"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 151,
+      "reply_count": 238,
+      "like_count": 2257,
+      "quote_count": 7,
+      "bookmark_count": 2,
+      "impression_count": 24159
+    },
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "MorawieckiM",
+          "id": "939053934232195072"
+        }
+      ]
+    },
+    "id": "1845501744958124474",
+    "edit_history_tweet_ids": [
+      "1845501744958124474"
+    ],
+    "created_at": "2024-10-13T16:27:58.000Z",
+    "category": "Reply"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-12 18:07:16+00:00"
+    },
+    "text": "Jaki prezes, taka elita…",
+    "conversation_id": "1845149248246993140",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 203,
+      "reply_count": 943,
+      "like_count": 2884,
+      "quote_count": 32,
+      "bookmark_count": 8,
+      "impression_count": 117074
+    },
+    "possibly_sensitive": false,
+    "id": "1845149248246993140",
+    "edit_history_tweet_ids": [
+      "1845149248246993140"
+    ],
+    "created_at": "2024-10-12T17:07:16.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-07 19:59:12+00:00"
+    },
+    "text": "Świetny @BartSienkiewicz 💪🇵🇱 https://t.co/0clQKkpVvN",
+    "entities": {
+      "urls": [
+        {
+          "start": 29,
+          "end": 52,
+          "url": "https://t.co/0clQKkpVvN",
+          "expanded_url": "https://twitter.com/BartSienkiewicz/status/1843351004332601697",
+          "display_url": "x.com/BartSienkiewic…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 8,
+          "end": 24,
+          "username": "BartSienkiewicz",
+          "id": "1042408388242677761"
+        }
+      ]
+    },
+    "conversation_id": "1843365476371722363",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1843351004332601697"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 79,
+      "reply_count": 248,
+      "like_count": 552,
+      "quote_count": 5,
+      "bookmark_count": 14,
+      "impression_count": 27108
+    },
+    "possibly_sensitive": false,
+    "id": "1843365476371722363",
+    "edit_history_tweet_ids": [
+      "1843365476371722363"
+    ],
+    "created_at": "2024-10-07T18:59:12.000Z",
+    "category": "Quote"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-10-06 16:32:00+00:00"
+    },
+    "text": "@MorawieckiM Respiratory, maseczki, lewe testy, agregaty…Setki milionów złotych szło do waszych kumpli…pod pozorem „tarcz” zbudowaliście najbardziej patologiczny w historii sytem, który służył wyciąganiu pieniędzy z kieszeni podatników…korzystaj z szansy i milcz…",
+    "in_reply_to_user_id": "939053934232195072",
+    "conversation_id": "1842946637968371745",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1842946637968371745"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 200,
+      "reply_count": 249,
+      "like_count": 2032,
+      "quote_count": 5,
+      "bookmark_count": 3,
+      "impression_count": 34463
+    },
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "MorawieckiM",
+          "id": "939053934232195072"
+        }
+      ]
+    },
+    "id": "1842950945086517655",
+    "edit_history_tweet_ids": [
+      "1842950945086517655"
+    ],
+    "created_at": "2024-10-06T15:32:00.000Z",
+    "category": "Reply"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-10-01 15:23:00+00:00"
+    },
+    "text": "Na spotkaniu przewodniczących komisji Parlamentu Europejskiego pracujemy nad sprawnym przeprowadzeniem wysłuchań kandydatów na unijnych komisarzy. Jutro ostateczna decyzja, kiedy procedura zostanie rozpoczęta. https://t.co/ahVo9B3UZ1",
+    "entities": {
+      "urls": [
+        {
+          "start": 210,
+          "end": 233,
+          "url": "https://t.co/ahVo9B3UZ1",
+          "expanded_url": "https://x.com/bbudka/status/1841121640836366826/photo/1",
+          "display_url": "pic.x.com/ahVo9B3UZ1",
+          "media_key": "3_1841121632720388100"
+        },
+        {
+          "start": 210,
+          "end": 233,
+          "url": "https://t.co/ahVo9B3UZ1",
+          "expanded_url": "https://x.com/bbudka/status/1841121640836366826/photo/1",
+          "display_url": "pic.x.com/ahVo9B3UZ1",
+          "media_key": "3_1841121632414220290"
+        }
+      ]
+    },
+    "conversation_id": "1841121640836366826",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1841121632720388100",
+        "3_1841121632414220290"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 12,
+      "reply_count": 51,
+      "like_count": 148,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "impression_count": 5845
+    },
+    "possibly_sensitive": false,
+    "id": "1841121640836366826",
+    "edit_history_tweet_ids": [
+      "1841121640836366826"
+    ],
+    "created_at": "2024-10-01T14:23:00.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-09-20 19:18:02+00:00"
+    },
+    "text": "@MorawieckiM Pandemia - wały na maseczkach i respiratorach. Wojna w Ukrainie - wały na agregatach. Kryzys energetyczny - wały na kolumbijskim węglu. Proszę skorzystać z szansy i po prostu milczeć. Nawet hipokryzja ma swoje granice.",
+    "in_reply_to_user_id": "939053934232195072",
+    "conversation_id": "1837191141592080399",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1837191141592080399"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 442,
+      "reply_count": 306,
+      "like_count": 4721,
+      "quote_count": 22,
+      "bookmark_count": 19,
+      "impression_count": 46756
+    },
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "MorawieckiM",
+          "id": "939053934232195072"
+        }
+      ]
+    },
+    "id": "1837194521710313604",
+    "edit_history_tweet_ids": [
+      "1837194521710313604"
+    ],
+    "created_at": "2024-09-20T18:18:02.000Z",
+    "category": "Reply"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-09-20 18:56:48+00:00"
+    },
+    "text": "Wielki szacunek dla @MKierwinski za podjęcie się tak trudnego zadania, jakie postawił przed nim premier @donaldtusk. I choć dla Parlamentu Europejskiego to duża strata, bo doświadczenie Marcina było tam bardzo przydatne, wiem, że nikt tej misji lepiej nie wypełni. Powodzenia!",
+    "conversation_id": "1837189178452300270",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 130,
+      "reply_count": 630,
+      "like_count": 1398,
+      "quote_count": 22,
+      "bookmark_count": 6,
+      "impression_count": 48617
+    },
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 20,
+          "end": 32,
+          "username": "MKierwinski",
+          "id": "308367619"
+        },
+        {
+          "start": 104,
+          "end": 115,
+          "username": "donaldtusk",
+          "id": "375146901"
+        }
+      ]
+    },
+    "id": "1837189178452300270",
+    "edit_history_tweet_ids": [
+      "1837189178452300270"
+    ],
+    "created_at": "2024-09-20T17:56:48.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-09-14 18:11:59+00:00"
+    },
+    "text": "Na południu Polski walczymy z największym od lat zagrożeniem powodziowym. W tym samym czasie w Warszawie grupka partyjnych, oderwanych od koryta tłustych kotów maszeruje, wyjąc z rozpaczy po utracie władzy i przywilejów. Patologia to w ich przypadku komplement.",
+    "conversation_id": "1835003574893347147",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 538,
+      "reply_count": 1851,
+      "like_count": 4606,
+      "quote_count": 58,
+      "bookmark_count": 27,
+      "impression_count": 219342
+    },
+    "possibly_sensitive": false,
+    "id": "1835003574893347147",
+    "edit_history_tweet_ids": [
+      "1835003574893347147"
+    ],
+    "created_at": "2024-09-14T17:11:59.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-23 21:10:57+00:00"
+    },
+    "text": "Brawo 👋👋👋 https://t.co/9Qv82OEb3m",
+    "entities": {
+      "urls": [
+        {
+          "start": 10,
+          "end": 33,
+          "url": "https://t.co/9Qv82OEb3m",
+          "expanded_url": "https://t.co/9Qv82OEb3m",
+          "display_url": "t.co/9Qv82OEb3m"
+        }
+      ]
+    },
+    "conversation_id": "1827076080567455879",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics",
+          "description": "Paris 2024 Summer Olympics "
+        }
+      },
+      {
+        "domain": {
+          "id": "11",
+          "name": "Sport",
+          "description": "Types of sports, like soccer and basketball"
+        },
+        "entity": {
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics",
+          "description": "Paris 2024 Summer Olympics "
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics",
+          "description": "Paris 2024 Summer Olympics "
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      }
+    ],
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1827059343553868105"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 14,
+      "reply_count": 47,
+      "like_count": 272,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18321
+    },
+    "possibly_sensitive": false,
+    "id": "1827076080567455879",
+    "edit_history_tweet_ids": [
+      "1827076080567455879"
+    ],
+    "created_at": "2024-08-23T20:10:57.000Z",
+    "category": "Quote"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-20 18:58:12+00:00"
+    },
+    "text": "Dziś w swoje drugie półwiecze wkracza Adam Korol - mistrz olimpijski z Pekinu i czterokrotny mistrz świata w wioślarskiej czwórce. Samych złotych dni i zawsze olimpijskiej formy, Przyjacielu! 🥇💪✌️ https://t.co/NE18bnAjqd",
+    "entities": {
+      "urls": [
+        {
+          "start": 197,
+          "end": 220,
+          "url": "https://t.co/NE18bnAjqd",
+          "expanded_url": "https://x.com/bbudka/status/1825955509368926379/photo/1",
+          "display_url": "pic.x.com/NE18bnAjqd",
+          "media_key": "3_1825955502829748224"
+        }
+      ]
+    },
+    "conversation_id": "1825955509368926379",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1825955502829748224"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 80,
+      "like_count": 308,
+      "quote_count": 3,
+      "bookmark_count": 1,
+      "impression_count": 12810
+    },
+    "possibly_sensitive": false,
+    "id": "1825955509368926379",
+    "edit_history_tweet_ids": [
+      "1825955509368926379"
+    ],
+    "created_at": "2024-08-20T17:58:12.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-08-16 19:42:06+00:00"
+    },
+    "text": "@mwojcik_ 2:39:03 w maratonie. Tyle w temacie 😉 https://t.co/Iq7dbOSz5k",
+    "entities": {
+      "urls": [
+        {
+          "start": 48,
+          "end": 71,
+          "url": "https://t.co/Iq7dbOSz5k",
+          "expanded_url": "https://x.com/bbudka/status/1824517005178732744/photo/1",
+          "display_url": "pic.x.com/Iq7dbOSz5k",
+          "media_key": "3_1824516999789092864"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "mwojcik_",
+          "id": "725240852549894144"
+        }
+      ]
+    },
+    "in_reply_to_user_id": "725240852549894144",
+    "conversation_id": "1822565266162598247",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1822604561372029187"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1824516999789092864"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 477
+    },
+    "possibly_sensitive": false,
+    "id": "1824517005178732744",
+    "edit_history_tweet_ids": [
+      "1824517005178732744"
+    ],
+    "created_at": "2024-08-16T18:42:06.000Z",
+    "category": "Reply"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-08-11 11:53:50+00:00"
+    },
+    "text": "@mwojcik_ Wzorzec olimpijczyka się odezwał 🤦‍♂️",
+    "in_reply_to_user_id": "725240852549894144",
+    "conversation_id": "1822565266162598247",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1822565266162598247"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 61,
+      "reply_count": 114,
+      "like_count": 3046,
+      "quote_count": 6,
+      "bookmark_count": 4,
+      "impression_count": 31179
+    },
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "mwojcik_",
+          "id": "725240852549894144"
+        }
+      ]
+    },
+    "id": "1822587223738352036",
+    "edit_history_tweet_ids": [
+      "1822587223738352036"
+    ],
+    "created_at": "2024-08-11T10:53:50.000Z",
+    "category": "Reply"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-10 11:53:27+00:00"
+    },
+    "text": "Kasiu, dziękuję za wszystko…Do zobaczenia 🖤 https://t.co/Ww0oRvvsa2",
+    "entities": {
+      "urls": [
+        {
+          "start": 44,
+          "end": 67,
+          "url": "https://t.co/Ww0oRvvsa2",
+          "expanded_url": "https://x.com/bbudka/status/1822224737906425940/photo/1",
+          "display_url": "pic.x.com/Ww0oRvvsa2",
+          "media_key": "3_1822224732458045440"
+        }
+      ]
+    },
+    "conversation_id": "1822224737906425940",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1822224732458045440"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 48,
+      "like_count": 123,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "impression_count": 7872
+    },
+    "possibly_sensitive": false,
+    "id": "1822224737906425940",
+    "edit_history_tweet_ids": [
+      "1822224737906425940"
+    ],
+    "created_at": "2024-08-10T10:53:27.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-09 18:25:33+00:00"
+    },
+    "text": "#UkładZamknięty PiS ⤵️ https://t.co/qZRW9MycNn",
+    "entities": {
+      "urls": [
+        {
+          "start": 23,
+          "end": 46,
+          "url": "https://t.co/qZRW9MycNn",
+          "expanded_url": "https://twitter.com/Platforma_org/status/1821957094083588284",
+          "display_url": "x.com/Platforma_org/…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 0,
+          "end": 15,
+          "tag": "UkładZamknięty"
+        }
+      ]
+    },
+    "conversation_id": "1821961024833987008",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1821957094083588284"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 45,
+      "reply_count": 111,
+      "like_count": 156,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 10372
+    },
+    "possibly_sensitive": false,
+    "id": "1821961024833987008",
+    "edit_history_tweet_ids": [
+      "1821961024833987008"
+    ],
+    "created_at": "2024-08-09T17:25:33.000Z",
+    "category": "Quote"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-08-07 17:32:52+00:00"
+    },
+    "text": "To jest nasz dzień w Paryżu 💪✌️ 🇵🇱",
+    "conversation_id": "1821222992354922797",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 328,
+      "like_count": 605,
+      "quote_count": 9,
+      "bookmark_count": 3,
+      "impression_count": 41659
+    },
+    "possibly_sensitive": false,
+    "id": "1821222992354922797",
+    "edit_history_tweet_ids": [
+      "1821222992354922797"
+    ],
+    "created_at": "2024-08-07T16:32:52.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-27 18:11:59+00:00"
+    },
+    "text": "PiS-owski propagandysta po blisko 5 latach wykonuje prawomocne orzeczenie sądu. Aż chciało by się zacytować klasyka: „W imię zasad…” https://t.co/65YJCRxJqj",
+    "entities": {
+      "urls": [
+        {
+          "start": 133,
+          "end": 156,
+          "url": "https://t.co/65YJCRxJqj",
+          "expanded_url": "https://x.com/bbudka/status/1817246569986740323/photo/1",
+          "display_url": "pic.x.com/65YJCRxJqj",
+          "media_key": "3_1817246559123206145"
+        }
+      ]
+    },
+    "conversation_id": "1817246569986740323",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1817246559123206145"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1330,
+      "reply_count": 338,
+      "like_count": 4277,
+      "quote_count": 33,
+      "bookmark_count": 22,
+      "impression_count": 91626
+    },
+    "possibly_sensitive": false,
+    "id": "1817246569986740323",
+    "edit_history_tweet_ids": [
+      "1817246569986740323"
+    ],
+    "created_at": "2024-07-27T17:11:59.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-18 13:39:37+00:00"
+    },
+    "text": "Dobry dzień dla Polski 🇵🇱\nDobry dzień dla Europy 🇪🇺\nGratulacje @vonderleyen ✌️ https://t.co/cFKpu7z2Ti",
+    "entities": {
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/cFKpu7z2Ti",
+          "expanded_url": "https://x.com/bbudka/status/1813916535821586735/photo/1",
+          "display_url": "pic.x.com/cFKpu7z2Ti",
+          "media_key": "3_1813916528942710785"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 63,
+          "end": 75,
+          "username": "vonderleyen",
+          "id": "1146329871418843136"
+        }
+      ]
+    },
+    "conversation_id": "1813916535821586735",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen",
+          "description": "President of European Commission"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen",
+          "description": "President of European Commission"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen",
+          "description": "President of European Commission"
+        }
+      }
+    ],
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1813916528942710785"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 71,
+      "reply_count": 1284,
+      "like_count": 1266,
+      "quote_count": 31,
+      "bookmark_count": 13,
+      "impression_count": 92595
+    },
+    "possibly_sensitive": false,
+    "id": "1813916535821586735",
+    "edit_history_tweet_ids": [
+      "1813916535821586735"
+    ],
+    "created_at": "2024-07-18T12:39:37.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-07-16 16:43:53+00:00"
+    },
+    "text": ".@EwaKopacz ze znakomitym wynikiem kolejny raz zostaje wybrana wiceprzewodniczącą Parlamentu Europejskiego. Gratulacje! 🇵🇱🇪🇺✌️ https://t.co/yqzqEflJiB",
+    "entities": {
+      "urls": [
+        {
+          "start": 127,
+          "end": 150,
+          "url": "https://t.co/yqzqEflJiB",
+          "expanded_url": "https://x.com/bbudka/status/1813238131673498097/photo/1",
+          "display_url": "pic.x.com/yqzqEflJiB",
+          "media_key": "3_1813238124018872320"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 1,
+          "end": 11,
+          "username": "EwaKopacz",
+          "id": "110963318"
+        }
+      ]
+    },
+    "conversation_id": "1813238131673498097",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1813238124018872320"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 76,
+      "reply_count": 1231,
+      "like_count": 1195,
+      "quote_count": 56,
+      "bookmark_count": 6,
+      "impression_count": 104632
+    },
+    "possibly_sensitive": false,
+    "id": "1813238131673498097",
+    "edit_history_tweet_ids": [
+      "1813238131673498097"
+    ],
+    "created_at": "2024-07-16T15:43:53.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-06-11 20:47:06+00:00"
+    },
+    "text": "@ZbigniewHoldys Dziękuję 🫶✌️🇵🇱🇪🇺",
+    "in_reply_to_user_id": "139741256",
+    "conversation_id": "1800158668949975093",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1800158668949975093"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 2,
+      "like_count": 68,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3673
+    },
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "ZbigniewHoldys",
+          "id": "139741256"
+        }
+      ]
+    },
+    "id": "1800615763671441569",
+    "edit_history_tweet_ids": [
+      "1800615763671441569"
+    ],
+    "created_at": "2024-06-11T19:47:06.000Z",
+    "category": "Reply"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 4,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-10 06:05:53+00:00"
+    },
+    "text": "Dziękuję za każdy z Waszych 334 842 głosów i pierwszy wynik w Polsce 🇵🇱🇪🇺❤️",
+    "conversation_id": "1800031663076028872",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 140,
+      "reply_count": 277,
+      "like_count": 3108,
+      "quote_count": 9,
+      "bookmark_count": 8,
+      "impression_count": 64123
+    },
+    "possibly_sensitive": false,
+    "id": "1800031663076028872",
+    "edit_history_tweet_ids": [
+      "1800031609535742231",
+      "1800031663076028872"
+    ],
+    "created_at": "2024-06-10T05:06:06.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-09 20:04:37+00:00"
+    },
+    "text": "Tak od serca - dziękuję ❤️ https://t.co/B0p5ZmJ8ER",
+    "entities": {
+      "urls": [
+        {
+          "start": 27,
+          "end": 50,
+          "url": "https://t.co/B0p5ZmJ8ER",
+          "expanded_url": "https://x.com/bbudka/status/1799880297586295072/photo/1",
+          "display_url": "pic.x.com/B0p5ZmJ8ER",
+          "media_key": "3_1799880291265208320"
+        }
+      ]
+    },
+    "conversation_id": "1799880297586295072",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1799880291265208320"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 489,
+      "like_count": 3652,
+      "quote_count": 7,
+      "bookmark_count": 5,
+      "impression_count": 72632
+    },
+    "possibly_sensitive": false,
+    "id": "1799880297586295072",
+    "edit_history_tweet_ids": [
+      "1799880297586295072"
+    ],
+    "created_at": "2024-06-09T19:04:37.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-09 09:24:15+00:00"
+    },
+    "text": "Głos oddany 🇵🇱🇪🇺 https://t.co/loeTgWPKce",
+    "entities": {
+      "urls": [
+        {
+          "start": 17,
+          "end": 40,
+          "url": "https://t.co/loeTgWPKce",
+          "expanded_url": "https://x.com/bbudka/status/1799719143698284672/photo/1",
+          "display_url": "pic.x.com/loeTgWPKce",
+          "media_key": "3_1799719138119622656"
+        }
+      ]
+    },
+    "conversation_id": "1799719143698284672",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1799719138119622656"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 90,
+      "reply_count": 379,
+      "like_count": 1856,
+      "quote_count": 8,
+      "bookmark_count": 3,
+      "impression_count": 42140
+    },
+    "possibly_sensitive": false,
+    "id": "1799719143698284672",
+    "edit_history_tweet_ids": [
+      "1799719143698284672"
+    ],
+    "created_at": "2024-06-09T08:24:15.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-08 11:17:22+00:00"
+    },
+    "text": "Ależ niespodziankę zrobili mi rodzice! Przejechali ponad 100 kilometrów tylko po to, by kibicować mi na finiszu i uściskać na mecie! Najwierniejsi kibice 🫶 https://t.co/ChMdOhTssp",
+    "entities": {
+      "urls": [
+        {
+          "start": 156,
+          "end": 179,
+          "url": "https://t.co/ChMdOhTssp",
+          "expanded_url": "https://x.com/bbudka/status/1799385222385119270/photo/1",
+          "display_url": "pic.x.com/ChMdOhTssp",
+          "media_key": "3_1799385213664997376"
+        }
+      ]
+    },
+    "conversation_id": "1799385222385119270",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1799385213664997376"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 124,
+      "reply_count": 604,
+      "like_count": 2726,
+      "quote_count": 19,
+      "bookmark_count": 8,
+      "impression_count": 69380
+    },
+    "possibly_sensitive": false,
+    "id": "1799385222385119270",
+    "edit_history_tweet_ids": [
+      "1799385222385119270"
+    ],
+    "created_at": "2024-06-08T10:17:22.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-08 08:38:20+00:00"
+    },
+    "text": "No to o 10:00 ruszamy 💪\n#EcoCidryCross #Radzionków https://t.co/VdivAE7mEF",
+    "entities": {
+      "urls": [
+        {
+          "start": 51,
+          "end": 74,
+          "url": "https://t.co/VdivAE7mEF",
+          "expanded_url": "https://x.com/bbudka/status/1799345198960721999/photo/1",
+          "display_url": "pic.x.com/VdivAE7mEF",
+          "media_key": "3_1799345192606068736"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 24,
+          "end": 38,
+          "tag": "EcoCidryCross"
+        },
+        {
+          "start": 39,
+          "end": 50,
+          "tag": "Radzionków"
+        }
+      ]
+    },
+    "conversation_id": "1799345198960721999",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1799345192606068736"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 42,
+      "like_count": 62,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7885
+    },
+    "possibly_sensitive": false,
+    "id": "1799345198960721999",
+    "edit_history_tweet_ids": [
+      "1799345198960721999"
+    ],
+    "created_at": "2024-06-08T07:38:20.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-07 22:06:30+00:00"
+    },
+    "text": "#9czerwca proszę o Wasz głos ✌️🇵🇱🇪🇺\n#BezpiecznaPolska #SilnaEuropa https://t.co/nDflJKPasF",
+    "entities": {
+      "urls": [
+        {
+          "start": 67,
+          "end": 90,
+          "url": "https://t.co/nDflJKPasF",
+          "expanded_url": "https://x.com/bbudka/status/1799186195659792510/photo/1",
+          "display_url": "pic.x.com/nDflJKPasF",
+          "media_key": "3_1799186190148464640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 0,
+          "end": 9,
+          "tag": "9czerwca"
+        },
+        {
+          "start": 36,
+          "end": 53,
+          "tag": "BezpiecznaPolska"
+        },
+        {
+          "start": 54,
+          "end": 66,
+          "tag": "SilnaEuropa"
+        }
+      ]
+    },
+    "conversation_id": "1799186195659792510",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "11",
+          "name": "Sport",
+          "description": "Types of sports, like soccer and basketball"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "731226237394243584",
+          "name": "International - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "733756519901077504",
+          "name": "Int. Friendly Games"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "43",
+          "name": "Soccer Match",
+          "description": "Sports Event specific to Soccer matches"
+        },
+        "entity": {
+          "id": "1782565756145664000",
+          "name": "Poland vs Ukraine"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847900493514891265",
+          "name": "Sports",
+          "description": "Sports"
+        }
+      }
+    ],
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1799186190148464640"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 77,
+      "reply_count": 423,
+      "like_count": 519,
+      "quote_count": 3,
+      "bookmark_count": 2,
+      "impression_count": 43045
+    },
+    "possibly_sensitive": false,
+    "id": "1799186195659792510",
+    "edit_history_tweet_ids": [
+      "1799186195659792510"
+    ],
+    "created_at": "2024-06-07T21:06:30.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-06-05 21:35:30+00:00"
+    },
+    "text": "@WiolaPaprocka @Platforma_org Dziękuję za wsparcie, Szefowo 🫶🇵🇱🇪🇺",
+    "in_reply_to_user_id": "4873719467",
+    "conversation_id": "1798446194701775232",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1798446194701775232"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 23,
+      "like_count": 198,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 5970
+    },
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "WiolaPaprocka",
+          "id": "4873719467"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "username": "Platforma_org",
+          "id": "53003895"
+        }
+      ]
+    },
+    "id": "1798453617294549220",
+    "edit_history_tweet_ids": [
+      "1798453617294549220"
+    ],
+    "created_at": "2024-06-05T20:35:30.000Z",
+    "category": "Reply"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-03 09:43:32+00:00"
+    },
+    "text": "Uświadomcie pana Daniela, że w „odsiadce” nie można być zastąpionym przez pełnomocnika…🤷‍♂️",
+    "conversation_id": "1797549666525216965",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 216,
+      "reply_count": 788,
+      "like_count": 2796,
+      "quote_count": 26,
+      "bookmark_count": 2,
+      "impression_count": 89567
+    },
+    "possibly_sensitive": false,
+    "id": "1797549666525216965",
+    "edit_history_tweet_ids": [
+      "1797549666525216965"
+    ],
+    "created_at": "2024-06-03T08:43:32.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-06-01 13:04:15+00:00"
+    },
+    "text": "Jubileuszowa 15. #Industriada rozpoczęta! Niezwykła impreza, to nie tylko wyjątkowe miejsce czyli katowicki #Nikiszowiec ale i ponad 40 innych lokalizacji. Warto być dziś na #Śląsk.u. https://t.co/UTHyelIZpU",
+    "entities": {
+      "urls": [
+        {
+          "start": 184,
+          "end": 207,
+          "url": "https://t.co/UTHyelIZpU",
+          "expanded_url": "https://x.com/bbudka/status/1796875405921563070/photo/1",
+          "display_url": "pic.x.com/UTHyelIZpU",
+          "media_key": "3_1796875395087663105"
+        },
+        {
+          "start": 184,
+          "end": 207,
+          "url": "https://t.co/UTHyelIZpU",
+          "expanded_url": "https://x.com/bbudka/status/1796875405921563070/photo/1",
+          "display_url": "pic.x.com/UTHyelIZpU",
+          "media_key": "3_1796875395112857600"
+        },
+        {
+          "start": 184,
+          "end": 207,
+          "url": "https://t.co/UTHyelIZpU",
+          "expanded_url": "https://x.com/bbudka/status/1796875405921563070/photo/1",
+          "display_url": "pic.x.com/UTHyelIZpU",
+          "media_key": "3_1796875395096010752"
+        },
+        {
+          "start": 184,
+          "end": 207,
+          "url": "https://t.co/UTHyelIZpU",
+          "expanded_url": "https://x.com/bbudka/status/1796875405921563070/photo/1",
+          "display_url": "pic.x.com/UTHyelIZpU",
+          "media_key": "3_1796875395108589568"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 17,
+          "end": 29,
+          "tag": "Industriada"
+        },
+        {
+          "start": 108,
+          "end": 120,
+          "tag": "Nikiszowiec"
+        },
+        {
+          "start": 174,
+          "end": 180,
+          "tag": "Śląsk"
+        }
+      ]
+    },
+    "conversation_id": "1796875405921563070",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1796875395087663105",
+        "3_1796875395112857600",
+        "3_1796875395096010752",
+        "3_1796875395108589568"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 12,
+      "reply_count": 28,
+      "like_count": 54,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 8128
+    },
+    "possibly_sensitive": false,
+    "id": "1796875405921563070",
+    "edit_history_tweet_ids": [
+      "1796875405921563070"
+    ],
+    "created_at": "2024-06-01T12:04:15.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-29 15:10:58+00:00"
+    },
+    "text": "Angielskiego nie ogarnia. Przy śląskim też się skompromitował. „Poliglota”…",
+    "conversation_id": "1795820132276850723",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 365,
+      "reply_count": 1700,
+      "like_count": 4323,
+      "quote_count": 44,
+      "bookmark_count": 28,
+      "impression_count": 261290
+    },
+    "possibly_sensitive": false,
+    "id": "1795820132276850723",
+    "edit_history_tweet_ids": [
+      "1795820132276850723"
+    ],
+    "created_at": "2024-05-29T14:10:58.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-23 11:37:17+00:00"
+    },
+    "text": "4 czerwca widzimy się w Warszawie! ❤️🇵🇱 https://t.co/LaPB9SXkgT",
+    "entities": {
+      "urls": [
+        {
+          "start": 40,
+          "end": 63,
+          "url": "https://t.co/LaPB9SXkgT",
+          "expanded_url": "https://x.com/bbudka/status/1793592026426134661/photo/1",
+          "display_url": "pic.x.com/LaPB9SXkgT",
+          "media_key": "3_1793592020159619073"
+        }
+      ]
+    },
+    "conversation_id": "1793592026426134661",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1793592020159619073"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 87,
+      "reply_count": 533,
+      "like_count": 298,
+      "quote_count": 14,
+      "bookmark_count": 1,
+      "impression_count": 21678
+    },
+    "possibly_sensitive": false,
+    "id": "1793592026426134661",
+    "edit_history_tweet_ids": [
+      "1793592026426134661"
+    ],
+    "created_at": "2024-05-23T10:37:17.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-21 17:08:09+00:00"
+    },
+    "text": "Ciekawe, czy Antoni już spakowany…",
+    "conversation_id": "1792950518379348350",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 181,
+      "reply_count": 1357,
+      "like_count": 2041,
+      "quote_count": 75,
+      "bookmark_count": 14,
+      "impression_count": 273981
+    },
+    "possibly_sensitive": false,
+    "id": "1792950518379348350",
+    "edit_history_tweet_ids": [
+      "1792950518379348350"
+    ],
+    "created_at": "2024-05-21T16:08:09.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-19 16:25:50+00:00"
+    },
+    "text": "Zazwyczaj to ja - jako nauczyciel akademicki - odpytuję młodych ludzi. Dziś będzie odwrotnie - oddam się w ich ręce w programie @MlodziezKontra Jeśli chcecie zobaczyć efekty, włączcie @tvp_info o 17:30. Do zobaczenia!",
+    "conversation_id": "1792215093641437475",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 117,
+      "like_count": 127,
+      "quote_count": 5,
+      "bookmark_count": 1,
+      "impression_count": 14575
+    },
+    "possibly_sensitive": false,
+    "entities": {
+      "mentions": [
+        {
+          "start": 128,
+          "end": 143,
+          "username": "MlodziezKontra",
+          "id": "2394048426"
+        },
+        {
+          "start": 184,
+          "end": 193,
+          "username": "tvp_info",
+          "id": "47295451"
+        }
+      ]
+    },
+    "id": "1792215093641437475",
+    "edit_history_tweet_ids": [
+      "1792215093641437475"
+    ],
+    "created_at": "2024-05-19T15:25:50.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-16 18:36:50+00:00"
+    },
+    "text": "Przez 5 miesięcy mojej pracy jako ministra aktywów państwowych wartość giełdowa nadzorowanych przeze mnie 17 największych spółek z udziałem Skarbu Państwa wzrosła o 33,5 miliarda złotych. W @MAPGOVPL dbamy o Wasze pieniądze! 💪🇵🇱 https://t.co/Ejt8vtTFci",
+    "entities": {
+      "urls": [
+        {
+          "start": 229,
+          "end": 252,
+          "url": "https://t.co/Ejt8vtTFci",
+          "expanded_url": "https://x.com/bbudka/status/1791160897622233466/video/1",
+          "display_url": "pic.x.com/Ejt8vtTFci",
+          "media_key": "13_1791160783172218881"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 190,
+          "end": 199,
+          "username": "MAPGOVPL",
+          "id": "711931496525860865"
+        }
+      ]
+    },
+    "conversation_id": "1791160897622233466",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "13_1791160783172218881"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 85,
+      "reply_count": 1158,
+      "like_count": 435,
+      "quote_count": 44,
+      "bookmark_count": 19,
+      "impression_count": 74142
+    },
+    "possibly_sensitive": false,
+    "id": "1791160897622233466",
+    "edit_history_tweet_ids": [
+      "1791160897622233466"
+    ],
+    "created_at": "2024-05-16T17:36:50.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-07 16:58:30+00:00"
+    },
+    "text": "O tym, jak ważne dla bezpieczeństwa Polski i przyszłości Europy są czerwcowe wybory do Parlamentu Europejskiego, rozmawiamy w Katowicach z Ursulą von der Leyen i Bartłomiejem Sienkiewiczem. https://t.co/k66dJycwNw",
+    "entities": {
+      "urls": [
+        {
+          "start": 190,
+          "end": 213,
+          "url": "https://t.co/k66dJycwNw",
+          "expanded_url": "https://x.com/bbudka/status/1787874657086919128/photo/1",
+          "display_url": "pic.x.com/k66dJycwNw",
+          "media_key": "3_1787874650422181889"
+        }
+      ]
+    },
+    "conversation_id": "1787874657086919128",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen",
+          "description": "President of European Commission"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen",
+          "description": "President of European Commission"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen",
+          "description": "President of European Commission"
+        }
+      }
+    ],
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1787874650422181889"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 48,
+      "reply_count": 624,
+      "like_count": 378,
+      "quote_count": 19,
+      "bookmark_count": 5,
+      "impression_count": 28800
+    },
+    "possibly_sensitive": false,
+    "id": "1787874657086919128",
+    "edit_history_tweet_ids": [
+      "1787874657086919128"
+    ],
+    "created_at": "2024-05-07T15:58:30.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-06 13:45:42+00:00"
+    },
+    "text": "Wojciech Saługa nowym Marszałkiem Województwa Śląskiego! Gratulacje! https://t.co/24AmdGKmK8",
+    "entities": {
+      "urls": [
+        {
+          "start": 69,
+          "end": 92,
+          "url": "https://t.co/24AmdGKmK8",
+          "expanded_url": "https://x.com/bbudka/status/1787463750540218424/photo/1",
+          "display_url": "pic.x.com/24AmdGKmK8",
+          "media_key": "3_1787463744416587776"
+        }
+      ]
+    },
+    "conversation_id": "1787463750540218424",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1787463744416587776"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 22,
+      "reply_count": 53,
+      "like_count": 238,
+      "quote_count": 5,
+      "bookmark_count": 1,
+      "impression_count": 13574
+    },
+    "possibly_sensitive": false,
+    "id": "1787463750540218424",
+    "edit_history_tweet_ids": [
+      "1787463750540218424"
+    ],
+    "created_at": "2024-05-06T12:45:42.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-02 13:09:52+00:00"
+    },
+    "text": "Dziś, gdy bezpieczeństwo Polski zależy od silnej, solidarnej i mówiącej jednym głosem Unii Europejskiej, pokrzykiwania Morawieckiego i Szydło to już nie występy marnych harcowników. To zdrada polskiej racji stanu. I realizacja marzeń Putina. Wstyd, że tacy ludzie byli premierami.",
+    "conversation_id": "1786005181655654536",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 111,
+      "reply_count": 727,
+      "like_count": 753,
+      "quote_count": 31,
+      "bookmark_count": 6,
+      "impression_count": 45468
+    },
+    "possibly_sensitive": false,
+    "id": "1786005181655654536",
+    "edit_history_tweet_ids": [
+      "1786005181655654536"
+    ],
+    "created_at": "2024-05-02T12:09:52.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-05-01 20:22:13+00:00"
+    },
+    "text": "Pamiętam tę radość, gdy 20 lat temu spełniły się marzenia pokoleń. Ale też i zdziwienie studentów, gdy uczyliśmy ich podstaw europejskiego prawa, jego źródeł, nowych instytucji. Wtedy zrozumieliśmy, że naprawdę dołączyliśmy do wielkiej europejskiej rodziny. \n#20LATwUnii #20latwUE",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 259,
+          "end": 270,
+          "tag": "20LATwUnii"
+        },
+        {
+          "start": 271,
+          "end": 280,
+          "tag": "20latwUE"
+        }
+      ]
+    },
+    "conversation_id": "1785751599496700033",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 44,
+      "reply_count": 112,
+      "like_count": 350,
+      "quote_count": 5,
+      "bookmark_count": 3,
+      "impression_count": 21460
+    },
+    "possibly_sensitive": false,
+    "id": "1785751599496700033",
+    "edit_history_tweet_ids": [
+      "1785751599496700033"
+    ],
+    "created_at": "2024-05-01T19:22:13.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-25 19:03:57+00:00"
+    },
+    "text": "Wyjątkowy człowiek a więc i pożegnanie wyjątkowe. Eurodeputowani owacjami na stojąco dziękują @JerzyBuzek za 20 lat pracy dla Zjednoczonej Europy. Wielki szacunek, Panie Premierze 🇵🇱🇪🇺 https://t.co/AjZHf4DNss",
+    "entities": {
+      "urls": [
+        {
+          "start": 185,
+          "end": 208,
+          "url": "https://t.co/AjZHf4DNss",
+          "expanded_url": "https://twitter.com/EP_President/status/1783453084213015030",
+          "display_url": "x.com/EP_President/s…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 94,
+          "end": 105,
+          "username": "JerzyBuzek",
+          "id": "104782747"
+        }
+      ]
+    },
+    "conversation_id": "1783557573943210378",
+    "author_id": "118739645",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1783453084213015030"
+      }
+    ],
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 106,
+      "reply_count": 225,
+      "like_count": 1070,
+      "quote_count": 8,
+      "bookmark_count": 5,
+      "impression_count": 77235
+    },
+    "possibly_sensitive": false,
+    "id": "1783557573943210378",
+    "edit_history_tweet_ids": [
+      "1783557573943210378"
+    ],
+    "created_at": "2024-04-25T18:03:57.000Z",
+    "category": "Quote"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-22 05:34:39+00:00"
+    },
+    "text": "Duma ❤️✌️ https://t.co/dXiDX7ZHeD",
+    "entities": {
+      "urls": [
+        {
+          "start": 10,
+          "end": 33,
+          "url": "https://t.co/dXiDX7ZHeD",
+          "expanded_url": "https://x.com/bbudka/status/1782266744444273144/photo/1",
+          "display_url": "pic.x.com/dXiDX7ZHeD",
+          "media_key": "3_1782266737863364608"
+        }
+      ]
+    },
+    "conversation_id": "1782266744444273144",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "tr",
+    "attachments": {
+      "media_keys": [
+        "3_1782266737863364608"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 271,
+      "reply_count": 891,
+      "like_count": 3947,
+      "quote_count": 61,
+      "bookmark_count": 11,
+      "impression_count": 138598
+    },
+    "possibly_sensitive": false,
+    "id": "1782266744444273144",
+    "edit_history_tweet_ids": [
+      "1782266744444273144"
+    ],
+    "created_at": "2024-04-22T04:34:39.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-21 11:00:05+00:00"
+    },
+    "text": "Już tradycyjnie - rano bieganie, potem głosowanie ❤️ https://t.co/25hya563qe",
+    "entities": {
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/25hya563qe",
+          "expanded_url": "https://x.com/bbudka/status/1781986252960461081/photo/1",
+          "display_url": "pic.x.com/25hya563qe",
+          "media_key": "3_1781986246656462848"
+        },
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/25hya563qe",
+          "expanded_url": "https://x.com/bbudka/status/1781986252960461081/photo/1",
+          "display_url": "pic.x.com/25hya563qe",
+          "media_key": "3_1781986246664859648"
+        },
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/25hya563qe",
+          "expanded_url": "https://x.com/bbudka/status/1781986252960461081/photo/1",
+          "display_url": "pic.x.com/25hya563qe",
+          "media_key": "3_1781986246648102912"
+        },
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/25hya563qe",
+          "expanded_url": "https://x.com/bbudka/status/1781986252960461081/photo/1",
+          "display_url": "pic.x.com/25hya563qe",
+          "media_key": "3_1781986246660648960"
+        }
+      ]
+    },
+    "conversation_id": "1781986252960461081",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1781986246656462848",
+        "3_1781986246664859648",
+        "3_1781986246648102912",
+        "3_1781986246660648960"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 175,
+      "like_count": 375,
+      "quote_count": 5,
+      "bookmark_count": 1,
+      "impression_count": 35763
+    },
+    "possibly_sensitive": false,
+    "id": "1781986252960461081",
+    "edit_history_tweet_ids": [
+      "1781986252960461081"
+    ],
+    "created_at": "2024-04-21T10:00:05.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-19 21:40:30+00:00"
+    },
+    "text": "Dałaś radę @k_kuczyn! Bez względu na niedzielny wynik, wygrałaś kampanię prezydencką w Gliwicach ✌️🫶\n\nPomimo zorganizowanego przemysłu hejtu, kłamstw i manipulacji ze strony grupy kurczowo trzymającej władzę, do końca byłaś sobą - pogodną, kompetentną i empatyczną osobą, dla… https://t.co/V1gBbNNPsx https://t.co/bXa66eN2P7",
+    "entities": {
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/V1gBbNNPsx",
+          "expanded_url": "https://x.com/i/web/status/1781422645579292904",
+          "display_url": "x.com/i/web/status/1…"
+        },
+        {
+          "start": 301,
+          "end": 324,
+          "url": "https://t.co/bXa66eN2P7",
+          "expanded_url": "https://x.com/bbudka/status/1781422645579292904/photo/1",
+          "display_url": "pic.x.com/bXa66eN2P7",
+          "media_key": "3_1781422638964838400"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 11,
+          "end": 20,
+          "username": "k_kuczyn",
+          "id": "427335961"
+        }
+      ]
+    },
+    "conversation_id": "1781422645579292904",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1781422638964838400"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 68,
+      "reply_count": 246,
+      "like_count": 827,
+      "quote_count": 11,
+      "bookmark_count": 4,
+      "impression_count": 54720
+    },
+    "possibly_sensitive": false,
+    "id": "1781422645579292904",
+    "edit_history_tweet_ids": [
+      "1781422645579292904"
+    ],
+    "created_at": "2024-04-19T20:40:30.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-19 11:27:05+00:00"
+    },
+    "text": "Wczoraj poseł Morawiecki w Gliwicach. Dziś wspierany przez PiS \"niezależny\" kandydat na prezydenta przegrywa w I instancji w trybie wyborczym i musi przepraszać za swoje kłamstwa. Przypadek? Nie sądzę...",
+    "conversation_id": "1781268272760930663",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 173,
+      "reply_count": 251,
+      "like_count": 1275,
+      "quote_count": 6,
+      "bookmark_count": 4,
+      "impression_count": 51038
+    },
+    "possibly_sensitive": false,
+    "id": "1781268272760930663",
+    "edit_history_tweet_ids": [
+      "1781268272760930663"
+    ],
+    "created_at": "2024-04-19T10:27:05.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-14 19:23:27+00:00"
+    },
+    "text": "Nie jest łatwo…🤷‍♂️ https://t.co/4HuWnM1oNS",
+    "entities": {
+      "urls": [
+        {
+          "start": 20,
+          "end": 43,
+          "url": "https://t.co/4HuWnM1oNS",
+          "expanded_url": "https://x.com/bbudka/status/1779576215377994029/video/1",
+          "display_url": "pic.x.com/4HuWnM1oNS",
+          "media_key": "13_1779576110356811783"
+        }
+      ]
+    },
+    "conversation_id": "1779576215377994029",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "13_1779576110356811783"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 123,
+      "reply_count": 358,
+      "like_count": 1254,
+      "quote_count": 38,
+      "bookmark_count": 21,
+      "impression_count": 105901
+    },
+    "possibly_sensitive": false,
+    "id": "1779576215377994029",
+    "edit_history_tweet_ids": [
+      "1779576215377994029"
+    ],
+    "created_at": "2024-04-14T18:23:27.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-07 10:16:59+00:00"
+    },
+    "text": "My już zagłosowaliśmy 🇵🇱 https://t.co/ee33mBJsbw",
+    "entities": {
+      "urls": [
+        {
+          "start": 25,
+          "end": 48,
+          "url": "https://t.co/ee33mBJsbw",
+          "expanded_url": "https://x.com/bbudka/status/1776901977928024423/photo/1",
+          "display_url": "pic.x.com/ee33mBJsbw",
+          "media_key": "3_1776901973041700864"
+        }
+      ]
+    },
+    "conversation_id": "1776901977928024423",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1776901973041700864"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 77,
+      "reply_count": 238,
+      "like_count": 1722,
+      "quote_count": 15,
+      "bookmark_count": 6,
+      "impression_count": 43624
+    },
+    "possibly_sensitive": false,
+    "id": "1776901977928024423",
+    "edit_history_tweet_ids": [
+      "1776901977928024423"
+    ],
+    "created_at": "2024-04-07T09:16:59.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 16:05:33+00:00"
+    },
+    "text": "Mocny finisz kampanii samorządowej!\nBądźcie z nami o 17:30 🇵🇱❤️✌️\n#zSercemNaWybory https://t.co/koq4inlQY4",
+    "entities": {
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/koq4inlQY4",
+          "expanded_url": "https://x.com/bbudka/status/1776264921203806338/photo/1",
+          "display_url": "pic.x.com/koq4inlQY4",
+          "media_key": "3_1776264915671498752"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 66,
+          "end": 82,
+          "tag": "zSercemNaWybory"
+        }
+      ]
+    },
+    "conversation_id": "1776264921203806338",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "attachments": {
+      "media_keys": [
+        "3_1776264915671498752"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 107,
+      "like_count": 196,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 12074
+    },
+    "possibly_sensitive": false,
+    "id": "1776264921203806338",
+    "edit_history_tweet_ids": [
+      "1776264921203806338"
+    ],
+    "created_at": "2024-04-05T15:05:33.000Z",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-04-05 06:49:33+00:00"
+    },
+    "text": "15 października skończył się czas \"świętych krów\". Krok po kroku rozliczamy każdą ich niegodziwość i łamanie prawa. Robią to odpowiednie organy. Zalecam odrobinę cierpliwości.",
+    "conversation_id": "1776125000392548395",
+    "author_id": "118739645",
+    "reply_settings": "everyone",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 223,
+      "reply_count": 677,
+      "like_count": 1708,
+      "quote_count": 20,
+      "bookmark_count": 2,
+      "impression_count": 54913
+    },
+    "possibly_sensitive": false,
+    "id": "1776125000392548395",
+    "edit_history_tweet_ids": [
+      "1776125000392548395"
+    ],
+    "created_at": "2024-04-05T05:49:33.000Z",
+    "category": "Original"
+  }
+]

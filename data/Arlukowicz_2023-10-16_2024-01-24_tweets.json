@@ -1,0 +1,2855 @@
+[
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-24 08:31:34+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1750058749245440076"
+    ],
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1750057098115735674"
+      }
+    ],
+    "lang": "pl",
+    "id": "1750058749245440076",
+    "created_at": "2024-01-24T07:31:34.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "CichonAlicja",
+          "id": "3369333629"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @CichonAlicja: .@Arlukowicz w RMF: Im więcej Mastalerka, tym więcej błędów Andrzeja Dudy.\n🎯",
+    "conversation_id": "1750058749245440076",
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1750052045468389376"
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-24 08:04:58+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1750052051030020384"
+    ],
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 8,
+      "like_count": 133,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 8267
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "id": "1750052051030020384",
+    "created_at": "2024-01-24T07:04:58.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 98,
+          "end": 111,
+          "username": "Radio_TOK_FM",
+          "id": "43064962"
+        }
+      ],
+      "urls": [
+        {
+          "start": 137,
+          "end": 160,
+          "url": "https://t.co/BrkZwekbCG",
+          "expanded_url": "https://x.com/Arlukowicz/status/1750052051030020384/photo/1",
+          "display_url": "pic.x.com/BrkZwekbCG",
+          "media_key": "3_1750052045468389376"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "Co muszą wiedzieć Kamiński i Wąsik, że cały PIS stoi za nimi na baczność? O tym dzisiaj (środa) w @Radio_TOK_FM o godz. 12.05\nZapraszam! https://t.co/BrkZwekbCG",
+    "conversation_id": "1750052051030020384",
+    "category": "Original"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "7_1749839368456462336"
+      ],
+      "media_source_tweet_id": [
+        "1749839380309549209"
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-23 20:40:22+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749879768240034040"
+    ],
+    "public_metrics": {
+      "retweet_count": 108,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1749872048812257446"
+      }
+    ],
+    "lang": "pl",
+    "id": "1749879768240034040",
+    "created_at": "2024-01-23T19:40:22.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "KrzyLuft",
+          "id": "4481379196"
+        }
+      ],
+      "urls": [
+        {
+          "start": 52,
+          "end": 75,
+          "url": "https://t.co/D0YcCgyitg",
+          "expanded_url": "https://x.com/KBiedrzycka/status/1749839380309549209/video/1",
+          "display_url": "pic.x.com/D0YcCgyitg",
+          "media_key": "7_1749839368456462336"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @KrzyLuft: Marny teatrzyk w prezydencim pałacu. \nhttps://t.co/D0YcCgyitg",
+    "conversation_id": "1749879768240034040",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-23 20:33:26+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749878023619309856"
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1749865704105320490"
+      }
+    ],
+    "lang": "pl",
+    "id": "1749878023619309856",
+    "created_at": "2024-01-23T19:33:26.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: Teatrzyk.",
+    "conversation_id": "1749878023619309856",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-23 19:44:33+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749865719833989507"
+    ],
+    "public_metrics": {
+      "retweet_count": 72,
+      "reply_count": 82,
+      "like_count": 972,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 26120
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1749859050949366077"
+      }
+    ],
+    "lang": "pl",
+    "id": "1749865719833989507",
+    "created_at": "2024-01-23T18:44:33.000Z",
+    "possibly_sensitive": false,
+    "entities": {
+      "urls": [
+        {
+          "start": 20,
+          "end": 43,
+          "url": "https://t.co/mBG6sP3cjB",
+          "expanded_url": "https://twitter.com/prezydentpl/status/1749859050949366077",
+          "display_url": "x.com/prezydentpl/st…"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "text": "Chłopaki z ferajny. https://t.co/mBG6sP3cjB",
+    "conversation_id": "1749865719833989507",
+    "category": "Quote"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-23 18:08:49+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749841628867555447"
+    ],
+    "public_metrics": {
+      "retweet_count": 1168,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1749836222350926022"
+      }
+    ],
+    "lang": "pl",
+    "id": "1749841628867555447",
+    "created_at": "2024-01-23T17:08:49.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "NocnaZ",
+          "id": "1255052343743254528"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @NocnaZ: Widzieliście to? Niezły show.",
+    "conversation_id": "1749841628867555447",
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "7_1749839368456462336"
+      ],
+      "media_source_tweet_id": [
+        "1749839380309549209"
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-23 18:08:41+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749841596810404338"
+    ],
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1749839380309549209"
+      }
+    ],
+    "lang": "pl",
+    "id": "1749841596810404338",
+    "created_at": "2024-01-23T17:08:41.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "KBiedrzycka",
+          "id": "306737592"
+        }
+      ],
+      "urls": [
+        {
+          "start": 28,
+          "end": 51,
+          "url": "https://t.co/u6Z6KY4kMa",
+          "expanded_url": "https://x.com/KBiedrzycka/status/1749839380309549209/video/1",
+          "display_url": "pic.x.com/u6Z6KY4kMa",
+          "media_key": "7_1749839368456462336"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @KBiedrzycka: Znamienne. https://t.co/u6Z6KY4kMa",
+    "conversation_id": "1749841596810404338",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-23 17:16:25+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749828442743345477"
+    ],
+    "public_metrics": {
+      "retweet_count": 39,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1749827747994563004"
+      }
+    ],
+    "lang": "pl",
+    "id": "1749828442743345477",
+    "created_at": "2024-01-23T16:16:25.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "MGordziewicz",
+          "id": "507151928"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @MGordziewicz: To konto, w ostatnich latach niezbyt aktywne, uaktywniło się bardzo, gdy stołki zaczęły się chwiać.",
+    "conversation_id": "1749828442743345477",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-23 14:14:40+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749782702180446335"
+    ],
+    "public_metrics": {
+      "retweet_count": 66,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1749762646822314453"
+      }
+    ],
+    "lang": "pl",
+    "id": "1749782702180446335",
+    "created_at": "2024-01-23T13:14:40.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: Nawet 300 tys. zł z współpracy z regionalnymi rozgłośniami Polskiego Radia zarobić mogła w ostatnich latach M. Ogórek. A.…",
+    "conversation_id": "1749782702180446335",
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1749361174368395264"
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-22 10:19:41+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749361179783213404"
+    ],
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 3,
+      "like_count": 133,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 5560
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "id": "1749361179783213404",
+    "created_at": "2024-01-22T09:19:41.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 97,
+          "end": 110,
+          "username": "TakJestTVN24",
+          "id": "249109304"
+        },
+        {
+          "start": 113,
+          "end": 119,
+          "username": "tvn24",
+          "id": "14493047"
+        }
+      ],
+      "urls": [
+        {
+          "start": 145,
+          "end": 168,
+          "url": "https://t.co/mt4uRmus82",
+          "expanded_url": "https://x.com/Arlukowicz/status/1749361179783213404/photo/1",
+          "display_url": "pic.x.com/mt4uRmus82",
+          "media_key": "3_1749361174368395264"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "O niejasnościach w wydatkowaniu milionów zł przez Agencję Badań Medycznych dziś (poniedziałek) w @TakJestTVN24 w @tvn24 o godz. 18.00\nZapraszam! https://t.co/mt4uRmus82",
+    "conversation_id": "1749361179783213404",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-21 20:37:09+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1749154180655178006"
+    ],
+    "public_metrics": {
+      "retweet_count": 82,
+      "reply_count": 9,
+      "like_count": 508,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 11958
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1749134625425719798"
+      }
+    ],
+    "lang": "pl",
+    "id": "1749154180655178006",
+    "created_at": "2024-01-21T19:37:09.000Z",
+    "possibly_sensitive": false,
+    "entities": {
+      "urls": [
+        {
+          "start": 155,
+          "end": 178,
+          "url": "https://t.co/rRrYX8sJFM",
+          "expanded_url": "https://twitter.com/ObserwatorXY/status/1749134625425719798",
+          "display_url": "x.com/ObserwatorXY/s…"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "text": "Odchodzi także pani Dyrektor biura Agencji Badań Medycznych. Zastanawiam się czemu. Potężna pensja, dodatki i premie. Co tam się dzieje, że taka ucieczka? https://t.co/rRrYX8sJFM",
+    "conversation_id": "1749154180655178006",
+    "category": "Quote"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-21 10:19:58+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1748998865292808206"
+    ],
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1748997735804498401"
+      }
+    ],
+    "lang": "pl",
+    "id": "1748998865292808206",
+    "created_at": "2024-01-21T09:19:58.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "Ismetremy",
+          "id": "1519420635482664964"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @Ismetremy: Licytujemy ‼️\n⬇️⬇️⬇️⬇️⬇️",
+    "conversation_id": "1748998865292808206",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-19 20:27:40+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1748427020353065036"
+    ],
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1748404226886115493"
+      }
+    ],
+    "lang": "pl",
+    "id": "1748427020353065036",
+    "created_at": "2024-01-19T19:27:40.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "robertzielinski",
+          "id": "81087809"
+        },
+        {
+          "start": 76,
+          "end": 85,
+          "username": "ZiobroPL",
+          "id": "1614572052"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @robertzielinski: 110 milionów. 110 milionów poszło na promocję partyjki @ZiobroPL, znaczy Funduszu zwanego dla niepoznaki Funduszem Spr…",
+    "conversation_id": "1748427020353065036",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-19 20:15:24+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1748423934070943909"
+    ],
+    "public_metrics": {
+      "retweet_count": 183,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 98,
+          "end": 114,
+          "tag": "KampaniaBezKitu"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "pomaska",
+          "id": "44146348"
+        },
+        {
+          "start": 14,
+          "end": 23,
+          "username": "CTomczyk",
+          "id": "52367150"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1748423090302844957"
+      }
+    ],
+    "lang": "pl",
+    "id": "1748423934070943909",
+    "created_at": "2024-01-19T19:15:24.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @pomaska: .@CTomczyk: Koszt samej ochrony Macierewicza w Komisji Smoleńskiej to milion złotych #KampaniaBezKitu",
+    "conversation_id": "1748423934070943909",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-19 19:18:37+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1748409641778741320"
+    ],
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1748407530030518616"
+      }
+    ],
+    "lang": "pl",
+    "id": "1748409641778741320",
+    "created_at": "2024-01-19T18:18:37.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: B. Arłukowicz znów wśród ludzi, kiedy tylko może 😎",
+    "conversation_id": "1748409641778741320",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-19 09:21:38+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1748259408537084123"
+    ],
+    "public_metrics": {
+      "retweet_count": 37,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1748258619097841822"
+      }
+    ],
+    "lang": "pl",
+    "id": "1748259408537084123",
+    "created_at": "2024-01-19T08:21:38.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "patrykmichalski",
+          "id": "174655130"
+        },
+        {
+          "start": 68,
+          "end": 77,
+          "username": "CzarnekP",
+          "id": "834344635774464000"
+        },
+        {
+          "start": 88,
+          "end": 104,
+          "username": "barbaraanowacka",
+          "id": "291740186"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @patrykmichalski: 📍Od 1 września nie będzie HiT wprowadzonego za @CzarnekP. Ministra @barbaraanowacka poinformowała, że ponad 90 proc. s…",
+    "conversation_id": "1748259408537084123",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-19 08:00:35+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1748239009254453577"
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747304380552945854"
+      }
+    ],
+    "lang": "pl",
+    "id": "1748239009254453577",
+    "created_at": "2024-01-19T07:00:35.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "pawel_kapusta",
+          "id": "593570736"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @pawel_kapusta: Łącznie prawie 20 mln zł z Funduszu Sprawiedliwości nadzorowanego przez  Z.Ziobro miały dostać dwie organizacje powiązan…",
+    "conversation_id": "1748239009254453577",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-17 22:39:09+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747735332160774169"
+    ],
+    "public_metrics": {
+      "retweet_count": 970,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747730803826507974"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747735332160774169",
+    "created_at": "2024-01-17T21:39:09.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "Dariusz_Jonski",
+          "id": "509272614"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @Dariusz_Jonski: 10 mln zł❗️\nTyle zarobił Jacek Kurski, jego żona oraz jej były mąż w TVP!\nCzy ktoś jeszcze się zastanawia dlaczego posł…",
+    "conversation_id": "1747735332160774169",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-17 21:51:19+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747723294176899417"
+    ],
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747722953028981171"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747723294176899417",
+    "created_at": "2024-01-17T20:51:19.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: .@Arlukowicz: Wkrótce min. Szumowski będzie musiał odpowiedzieć na serię bardzo trudnych pytań i nie jestem do końca prze…",
+    "conversation_id": "1747723294176899417",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-17 18:58:10+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747679722459250703"
+    ],
+    "public_metrics": {
+      "retweet_count": 43,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747669708642336973"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747679722459250703",
+    "created_at": "2024-01-17T17:58:10.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: Jarosław Kaczyński nie wie, kim jest Piotr Wawrzyk 🙃😃",
+    "conversation_id": "1747679722459250703",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-17 10:37:58+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747553840201678910"
+    ],
+    "public_metrics": {
+      "retweet_count": 21,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747550849545511210"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747553840201678910",
+    "created_at": "2024-01-17T09:37:58.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "Int_Wydarzenia",
+          "id": "39480709"
+        },
+        {
+          "start": 107,
+          "end": 119,
+          "username": "StGawlowski",
+          "id": "759356536724525056"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @Int_Wydarzenia: Nie mam wątpliwości, że działanie prokuratury, CBA i mediów inspirowali politycy PiS - @StGawlowski o zarzutach korupcy…",
+    "conversation_id": "1747553840201678910",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-16 20:33:01+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747341201370497417"
+    ],
+    "public_metrics": {
+      "retweet_count": 380,
+      "reply_count": 18,
+      "like_count": 1632,
+      "quote_count": 5,
+      "bookmark_count": 3,
+      "impression_count": 47290
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "id": "1747341201370497417",
+    "created_at": "2024-01-16T19:33:01.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "Komisja Zdrowia. Poseł Cieszyński (były wiceminister zdrowia) przyznał, że to on osobiście zawnioskował do premiera Morawieckiego o uznanie Agencji Badań Medycznych instytucją strategiczną, co pozwoliło o zwiększenie wynagrodzenia prezesa Sierpińskiego o blisko 100%.",
+    "conversation_id": "1747341201370497417",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-16 20:28:53+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747340162806530315"
+    ],
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747340102810882365"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747340162806530315",
+    "created_at": "2024-01-16T19:28:53.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "wiedzmaanna",
+          "id": "3920862635"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @wiedzmaanna: Dobra wiadomość. ✌️",
+    "conversation_id": "1747340162806530315",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-16 20:28:46+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747340135115395579"
+    ],
+    "public_metrics": {
+      "retweet_count": 120,
+      "reply_count": 8,
+      "like_count": 1158,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 11920
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "id": "1747340135115395579",
+    "created_at": "2024-01-16T19:28:46.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "Komisja Zdrowia. Oświadczenie majątkowe byłego prezesa Agencji R. Sierpińskiego wciąż niejawne i utajnione. Pracujemy nad tym. Wszystko wyjaśnimy.",
+    "conversation_id": "1747340135115395579",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-16 20:16:17+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747336991530795014"
+    ],
+    "public_metrics": {
+      "retweet_count": 532,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747262092393238654"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747336991530795014",
+    "created_at": "2024-01-16T19:16:17.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "SzJadczak",
+          "id": "43512158"
+        }
+      ],
+      "urls": [
+        {
+          "start": 38,
+          "end": 61,
+          "url": "https://t.co/K8B53lhn0E",
+          "expanded_url": "http://xn--szczeciskie24-vic.pl",
+          "display_url": "szczecińskie24.pl",
+          "unwound_url": "http://xn--szczeciskie24-vic.pl"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @SzJadczak: Patrzcie na to. Portal https://t.co/K8B53lhn0E jest prowadzony przez Stowarzyszenie Przyjaciół Zdrowia. Dostało ono 7.7 mln…",
+    "conversation_id": "1747336991530795014",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-16 18:33:17+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747311071289815121"
+    ],
+    "public_metrics": {
+      "retweet_count": 625,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747202479886856447"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747311071289815121",
+    "created_at": "2024-01-16T17:33:17.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "MariuszGierszew",
+          "id": "545872616"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @MariuszGierszew: NIK zawiadamia prokuraturę, że PKN ORLEN, PGNiG, ENERGA oraz Sigma Bis,Alior Bank, Link4 nie wpuściły kontrolerów i ni…",
+    "conversation_id": "1747311071289815121",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-16 16:39:59+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747282558323167307"
+    ],
+    "public_metrics": {
+      "retweet_count": 122,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747255197028778443"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747282558323167307",
+    "created_at": "2024-01-16T15:39:59.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "MGolbik",
+          "id": "3823794201"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @MGolbik: Kolejna wielka afera PiSu dziś na Komisji Zdrowia-Agencja Badań Medycznych-dziecko Szumowskiego z Morawieckim.Prezesem był  R.…",
+    "conversation_id": "1747282558323167307",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-16 07:56:24+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1747150793684205616"
+    ],
+    "public_metrics": {
+      "retweet_count": 14,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1747150017763094610"
+      }
+    ],
+    "lang": "pl",
+    "id": "1747150793684205616",
+    "created_at": "2024-01-16T06:56:24.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: Dziś o godz. 13:00 sejmowa Komisja Zdrowia.\n✴️Rozpatrzenie informacji na temat funkcjonowania Agencji Badań Medycznych w…",
+    "conversation_id": "1747150793684205616",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-15 08:39:14+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1746799185897152791"
+    ],
+    "public_metrics": {
+      "retweet_count": 134,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1746463850223075549"
+      }
+    ],
+    "lang": "pl",
+    "id": "1746799185897152791",
+    "created_at": "2024-01-15T07:39:14.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "MS_GOV_PL",
+          "id": "3251392600"
+        },
+        {
+          "start": 28,
+          "end": 38,
+          "username": "K_Smiszek",
+          "id": "3025432383"
+        },
+        {
+          "start": 79,
+          "end": 92,
+          "username": "PolsatNewsPL",
+          "id": "2383788666"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @MS_GOV_PL: Wiceminister @K_Smiszek w programie \"Śniadanie Rymanowskiego\" w @PolsatNewsPL: Państwo nie może sobie pozwolić, na sytuacje,…",
+    "conversation_id": "1746799185897152791",
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "7_1746497247745847297"
+      ],
+      "media_source_tweet_id": [
+        "1746497313931944139"
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-14 19:18:17+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1746597620666057045"
+    ],
+    "public_metrics": {
+      "retweet_count": 978,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1746516388565377040"
+      }
+    ],
+    "lang": "pl",
+    "id": "1746597620666057045",
+    "created_at": "2024-01-14T18:18:17.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "NocnaZ",
+          "id": "1255052343743254528"
+        }
+      ],
+      "urls": [
+        {
+          "start": 98,
+          "end": 121,
+          "url": "https://t.co/ioDARkjBG6",
+          "expanded_url": "https://x.com/tadeuszkr/status/1746497313931944139/video/1",
+          "display_url": "pic.x.com/ioDARkjBG6",
+          "media_key": "7_1746497247745847297"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @NocnaZ: Co?? Afera ws. utylizacji śniętych ryb z Odry? Cały PiS. Wał na wale i wałem pogania.\nhttps://t.co/ioDARkjBG6",
+    "conversation_id": "1746597620666057045",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-14 11:41:17+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1746482611206144066"
+    ],
+    "public_metrics": {
+      "retweet_count": 25,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1746482170653196433"
+      }
+    ],
+    "lang": "pl",
+    "id": "1746482611206144066",
+    "created_at": "2024-01-14T10:41:17.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: .@Arlukowicz: Uśmiecham się, bo słychać powszechne pochlipywanie tej ekipy prezydencko-pisowskiej. Panowie, prawda jest t…",
+    "conversation_id": "1746482611206144066",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-14 11:41:05+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1746482561252044866"
+    ],
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1746480673379000478"
+      }
+    ],
+    "lang": "pl",
+    "id": "1746482561252044866",
+    "created_at": "2024-01-14T10:41:05.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 18,
+          "end": 29,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: @Arlukowicz: Kamiński i Wąsik niszczyli ludziom życie, Wąsik dyszący siedział online z tego, co donoszą media, podsłuchiw…",
+    "conversation_id": "1746482561252044866",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-14 11:26:33+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1746478905685360975"
+    ],
+    "public_metrics": {
+      "retweet_count": 72,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1746478563677687889"
+      }
+    ],
+    "lang": "pl",
+    "id": "1746478905685360975",
+    "created_at": "2024-01-14T10:26:33.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: .@Arlukowicz: Kamiński i Wąsik nie powinni w ogóle zostać ułaskawieni. Prezydent tak kręci, żeby odsuwać od siebie odpowi…",
+    "conversation_id": "1746478905685360975",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-14 11:05:39+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1746473644593672675"
+    ],
+    "public_metrics": {
+      "retweet_count": 9,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1746460665521340575"
+      }
+    ],
+    "lang": "pl",
+    "id": "1746473644593672675",
+    "created_at": "2024-01-14T10:05:39.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "PolsatNewsPL",
+          "id": "2383788666"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @PolsatNewsPL: - To są rzeczy niebywałe, które dzieją się teraz w prokuraturze. Prokurator Generalny postępuje zgodnie z prawem. Ja rozu…",
+    "conversation_id": "1746473644593672675",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-14 11:05:04+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1746473499789570074"
+    ],
+    "public_metrics": {
+      "retweet_count": 44,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 57,
+          "tag": "ŚniadanieRymanowskiego"
+        },
+        {
+          "start": 75,
+          "end": 79,
+          "tag": "PiS"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "NewsPlatforma",
+          "id": "-1"
+        },
+        {
+          "start": 20,
+          "end": 31,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1746468182208995329"
+      }
+    ],
+    "lang": "pl",
+    "id": "1746473499789570074",
+    "created_at": "2024-01-14T10:05:04.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @NewsPlatforma: .@Arlukowicz w #ŚniadanieRymanowskiego: 15 października #PiS stracił władzę. Miliony Polaków, przy rekordowej frekwencji…",
+    "conversation_id": "1746473499789570074",
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1745042264076832768"
+      ],
+      "media_source_tweet_id": [
+        "1745042650682511752"
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-10 14:16:09+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1745072035817021618"
+    ],
+    "public_metrics": {
+      "retweet_count": 203,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1745042650682511752"
+      }
+    ],
+    "lang": "pl",
+    "id": "1745072035817021618",
+    "created_at": "2024-01-10T13:16:09.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "Platforma_org",
+          "id": "53003895"
+        }
+      ],
+      "urls": [
+        {
+          "start": 51,
+          "end": 74,
+          "url": "https://t.co/zZ1srPA4XT",
+          "expanded_url": "https://x.com/Platforma_org/status/1745042650682511752/photo/1",
+          "display_url": "pic.x.com/zZ1srPA4XT",
+          "media_key": "3_1745042264076832768"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @Platforma_org: Czas rozliczyć afery pandemii❗️ https://t.co/zZ1srPA4XT",
+    "conversation_id": "1745072035817021618",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-10 09:31:40+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1745000439903343051"
+    ],
+    "public_metrics": {
+      "retweet_count": 442,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1448304870004506626"
+      }
+    ],
+    "lang": "pl",
+    "id": "1745000439903343051",
+    "created_at": "2024-01-10T08:31:40.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "patrykmichalski",
+          "id": "174655130"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @patrykmichalski: \"Romualda Wąsik – żona wiceszefa MSWiA Macieja Wąsika – została dyrektorem w centrali GIS raptem po kilkunastu miesiąc…",
+    "conversation_id": "1745000439903343051",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-09 19:42:06+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1744791675124203652"
+    ],
+    "public_metrics": {
+      "retweet_count": 43,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1744791542173155380"
+      }
+    ],
+    "lang": "pl",
+    "id": "1744791675124203652",
+    "created_at": "2024-01-09T18:42:06.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: Wąsik również zatrzymany w Pałacu Prezydenckim.\nZnów cały świat będzie pisał o Polsce. Prezydent chronił przestępców od a…",
+    "conversation_id": "1744791675124203652",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-09 18:21:02+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1744771275392762228"
+    ],
+    "public_metrics": {
+      "retweet_count": 51,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1744769957764710675"
+      }
+    ],
+    "lang": "pl",
+    "id": "1744771275392762228",
+    "created_at": "2024-01-09T17:21:02.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: Sierpiński. W 2019 r. zarobił jako szef ABM 222 tys. zł, rok później już prawie 2 razy więcej. W 2022 jego wynagrodzenie…",
+    "conversation_id": "1744771275392762228",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-08 16:12:44+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1744376597291950145"
+    ],
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1744340486121238618"
+      }
+    ],
+    "lang": "pl",
+    "id": "1744376597291950145",
+    "created_at": "2024-01-08T15:12:44.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: A wiedzieliście, że Agencja Badań Medycznych będzie się przenosiła do najwyższego budynku w Europie, Varso Tower, gdzie s…",
+    "conversation_id": "1744376597291950145",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-08 16:12:30+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1744376537409827141"
+    ],
+    "public_metrics": {
+      "retweet_count": 58,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1744374764058132797"
+      }
+    ],
+    "lang": "pl",
+    "id": "1744376537409827141",
+    "created_at": "2024-01-08T15:12:30.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Piekarski_M",
+          "id": "157622496"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @Piekarski_M: ❗️Jest zarządzenie sądu ws wykonania wyroku wobec Kamińskiego i Wąsika oraz nakaz doprowadzenia do jednostek penitencjarny…",
+    "conversation_id": "1744376537409827141",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-08 08:58:19+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1744267272477159660"
+    ],
+    "public_metrics": {
+      "retweet_count": 591,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1744248052410396928"
+      }
+    ],
+    "lang": "pl",
+    "id": "1744267272477159660",
+    "created_at": "2024-01-08T07:58:19.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "Bertold_K",
+          "id": "422500732"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @Bertold_K: Polskie Radio jak bankomat. Szokujące zarobki propagandystów. A to nie wszystko: „22 tys. zł miesięcznie pobierała zaś Anna…",
+    "conversation_id": "1744267272477159660",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-08 08:58:06+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1744267220241232141"
+    ],
+    "public_metrics": {
+      "retweet_count": 1000,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1178590755348254720"
+      }
+    ],
+    "lang": "pl",
+    "id": "1744267220241232141",
+    "created_at": "2024-01-08T07:58:06.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "PawelWojtunik",
+          "id": "1120752265579704320"
+        },
+        {
+          "start": 33,
+          "end": 37,
+          "username": "Gis",
+          "id": "11328052"
+        },
+        {
+          "start": 88,
+          "end": 92,
+          "username": "nbp",
+          "id": "14459176"
+        },
+        {
+          "start": 101,
+          "end": 111,
+          "username": "WorldBank",
+          "id": "27860681"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696848252391426",
+          "name": "Financial Services Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+        }
+      },
+      {
+        "domain": {
+          "id": "45",
+          "name": "Brand Vertical",
+          "description": "Top level entities that describe a Brands industry"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10044311827",
+          "name": "World Bank"
+        }
+      },
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "857878257630195712",
+          "name": "Government",
+          "description": "Government"
+        }
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PawelWojtunik: Żona Wąsika w @gis, syn Banasia w Pekao SA, za to żona Kamińskiego w @nbp a syn w @WorldBank. I tak dalej, można by wyli…",
+    "conversation_id": "1744267220241232141",
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1744235205244633088"
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-08 06:50:55+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1744235213482246342"
+    ],
+    "public_metrics": {
+      "retweet_count": 28,
+      "reply_count": 8,
+      "like_count": 139,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7046
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "id": "1744235213482246342",
+    "created_at": "2024-01-08T05:50:55.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 97,
+          "end": 104,
+          "username": "onetpl",
+          "id": "15720598"
+        }
+      ],
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/ZA6WBPx9QF",
+          "expanded_url": "https://x.com/Arlukowicz/status/1744235213482246342/photo/1",
+          "display_url": "pic.x.com/ZA6WBPx9QF",
+          "media_key": "3_1744235205244633088"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "O starciu państwa prawa z odrywanymi od władzy ludźmi PIS dzisiaj (poniedziałek) o godz. 13.00 w @onetpl \nZapraszam! https://t.co/ZA6WBPx9QF",
+    "conversation_id": "1744235213482246342",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-07 12:31:32+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1743958541747036319"
+    ],
+    "public_metrics": {
+      "retweet_count": 118,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1743955937684074791"
+      }
+    ],
+    "lang": "pl",
+    "id": "1743958541747036319",
+    "created_at": "2024-01-07T11:31:32.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: .@Arlukowicz: Trybunały europejskie mówią, że Izba Kontroli Nadzwyczajnej nie jest sądem i mam dla was, panowie, smutną w…",
+    "conversation_id": "1743958541747036319",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-07 12:08:33+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1743952758409945262"
+    ],
+    "public_metrics": {
+      "retweet_count": 37,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 45,
+          "tag": "KawaNaŁawę"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "NewsPlatforma",
+          "id": "-1"
+        },
+        {
+          "start": 20,
+          "end": 31,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1743935225137189173"
+      }
+    ],
+    "lang": "pl",
+    "id": "1743952758409945262",
+    "created_at": "2024-01-07T11:08:33.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @NewsPlatforma: .@Arlukowicz w #KawaNaŁawę: Sąd Najwyższy sprawdza procedurę pana marszałka Hołowni, a nie stwierdza fakt czy dobrze, cz…",
+    "conversation_id": "1743952758409945262",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-07 12:08:24+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1743952721235845422"
+    ],
+    "public_metrics": {
+      "retweet_count": 43,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 45,
+          "tag": "KawaNaŁawę"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "NewsPlatforma",
+          "id": "-1"
+        },
+        {
+          "start": 20,
+          "end": 31,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1743939484930965723"
+      }
+    ],
+    "lang": "pl",
+    "id": "1743952721235845422",
+    "created_at": "2024-01-07T11:08:24.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @NewsPlatforma: .@Arlukowicz w #KawaNaŁawę: Wy posłaliście do Trybunału Konstytucyjnego Piotrowicza, Pawłowicz. To są wasi koledzy z ław…",
+    "conversation_id": "1743952721235845422",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-07 12:08:19+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1743952701703008581"
+    ],
+    "public_metrics": {
+      "retweet_count": 84,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 45,
+          "tag": "KawaNaŁawę"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "NewsPlatforma",
+          "id": "-1"
+        },
+        {
+          "start": 20,
+          "end": 31,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1743939573153976479"
+      }
+    ],
+    "lang": "pl",
+    "id": "1743952701703008581",
+    "created_at": "2024-01-07T11:08:19.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @NewsPlatforma: .@Arlukowicz w #KawaNaŁawę: I dzisiaj nawet trybunału europejskie mówią, że Izba Kontroli Nadzwyczajnej nie jest sądem.…",
+    "conversation_id": "1743952701703008581",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-07 12:06:56+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1743952354037174764"
+    ],
+    "public_metrics": {
+      "retweet_count": 24,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 44,
+          "tag": "KawaNaŁawę"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1743948678136541487"
+      }
+    ],
+    "lang": "pl",
+    "id": "1743952354037174764",
+    "created_at": "2024-01-07T11:06:56.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: .@Arlukowicz w #KawaNaŁawę: Posłaliście do 'TK' Piotrowicza, Pawłowicz, to są wasi koledzy z ław poselskich, aktywni poli…",
+    "conversation_id": "1743952354037174764",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-07 12:03:08+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1743951395508703302"
+    ],
+    "public_metrics": {
+      "retweet_count": 48,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 44,
+          "tag": "KawaNaŁawę"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1743950559277724054"
+      }
+    ],
+    "lang": "pl",
+    "id": "1743951395508703302",
+    "created_at": "2024-01-07T11:03:08.000Z",
+    "possibly_sensitive": false,
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "884834170479943680",
+          "name": "Tupac Shakur",
+          "description": "Tupac Shakur"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "884834170479943680",
+          "name": "Tupac Shakur",
+          "description": "Tupac Shakur"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810937888334487552",
+          "name": "Rap",
+          "description": "Hip-Hop/Rap"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "810937888334487552",
+          "name": "Rap",
+          "description": "Hip-Hop/Rap"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "884834170479943680",
+          "name": "Tupac Shakur",
+          "description": "Tupac Shakur"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: .@Arlukowicz w #KawaNaŁawę: Możecie piszczeć, wrzeszczeć, tupać nogami - będziemy przestrzegać prawa i wasze Izby Kontrol…",
+    "conversation_id": "1743951395508703302",
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1743384130694316032"
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-05 22:29:03+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1743384137124225390"
+    ],
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 16,
+      "like_count": 146,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 6627
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 82,
+          "tag": "Szczecin"
+        }
+      ],
+      "urls": [
+        {
+          "start": 189,
+          "end": 212,
+          "url": "https://t.co/ccukaJXbVd",
+          "expanded_url": "https://x.com/Arlukowicz/status/1743384137124225390/photo/1",
+          "display_url": "pic.x.com/ccukaJXbVd",
+          "media_key": "3_1743384130694316032"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "id": "1743384137124225390",
+    "created_at": "2024-01-05T21:29:03.000Z",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "Ze szczecińskim i zachodniopomorskim biznesem na Wielkiej Gali Biznesu w #Szczecin\nWielkie nadzieje na normalność i szacunek do ludzi biznesu. Tak właśnie będzie! Dzięki za piękny wieczór! https://t.co/ccukaJXbVd",
+    "conversation_id": "1743384137124225390",
+    "category": "Original"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-05 07:04:13+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1743151394155024709"
+    ],
+    "public_metrics": {
+      "retweet_count": 354,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1743148509715378537"
+      }
+    ],
+    "lang": "pl",
+    "id": "1743151394155024709",
+    "created_at": "2024-01-05T06:04:13.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "PressRedakcja",
+          "id": "132477429"
+        },
+        {
+          "start": 44,
+          "end": 56,
+          "username": "RepublikaTV",
+          "id": "1073461458"
+        },
+        {
+          "start": 72,
+          "end": 83,
+          "username": "IKEAPolska",
+          "id": "3747426616"
+        },
+        {
+          "start": 85,
+          "end": 93,
+          "username": "mBankpl",
+          "id": "42394190"
+        },
+        {
+          "start": 95,
+          "end": 111,
+          "username": "CarrefourPolska",
+          "id": "738617151272017920"
+        },
+        {
+          "start": 113,
+          "end": 128,
+          "username": "MediaExpert_PL",
+          "id": "788648453068947457"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @PressRedakcja: O kończeniu współpracy z @RepublikaTV poinformowały: @IKEAPolska, @mBankpl, @CarrefourPolska, @MediaExpert_PL, Adamed Ph…",
+    "conversation_id": "1743151394155024709",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-04 08:36:15+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1742812168041415150"
+    ],
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1742810947062817226"
+      }
+    ],
+    "lang": "pl",
+    "id": "1742812168041415150",
+    "created_at": "2024-01-04T07:36:15.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 18,
+          "end": 29,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: @Arlukowicz: Ludzie zobaczyli, co się dzieje w mediach 'publicznych', w telewizji 'publicznej'. Spodziewamy się pewnie gr…",
+    "conversation_id": "1742812168041415150",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-03 13:56:56+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1742530483601252377"
+    ],
+    "public_metrics": {
+      "retweet_count": 22,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1742529880758136839"
+      }
+    ],
+    "lang": "pl",
+    "id": "1742530483601252377",
+    "created_at": "2024-01-03T12:56:56.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "PO_SLASK",
+          "id": "2430713148"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @PO_SLASK: Wojciech Kałuża nie jest już wiceprezesem JSW. Został dziś zwolniony z pracy.",
+    "conversation_id": "1742530483601252377",
+    "category": "Retweet"
+  },
+  {
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-02 09:16:44+00:00"
+    },
+    "edit_history_tweet_ids": [
+      "1742097581054853224"
+    ],
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "101561338",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1742097386128683015"
+      }
+    ],
+    "lang": "pl",
+    "id": "1742097581054853224",
+    "created_at": "2024-01-02T08:16:44.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 18,
+          "end": 29,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "text": "RT @ObserwatorXY: @Arlukowicz: Będziemy starali się wyjaśnić sprawę zakupu respiratorów, maseczek, które nie powinny trafić do lekarzy, a t…",
+    "conversation_id": "1742097581054853224",
+    "category": "Retweet"
+  }
+]

@@ -1,0 +1,6481 @@
+[
+  {
+    "text": "@joanna_kukawska @szumand ❤️🐣",
+    "author_id": "61552404",
+    "created_at": "2024-03-29T22:53:51.000Z",
+    "edit_history_tweet_ids": [
+      "1773846057610355183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "joanna_kukawska",
+          "id": "4807451783"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "username": "szumand",
+          "id": "2283459588"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-29 23:53:51+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1773846057610355183",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 63
+    },
+    "conversation_id": "1773797185194258591",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1773845807139074464"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "4807451783",
+    "category": "Reply"
+  },
+  {
+    "text": "@AmalfiW @Beata__Ka ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-03-27T21:38:14.000Z",
+    "edit_history_tweet_ids": [
+      "1773102254863560846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "AmalfiW",
+          "id": "1159885387"
+        },
+        {
+          "start": 9,
+          "end": 19,
+          "username": "Beata__Ka",
+          "id": "765498259"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27 22:38:14+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1773102254863560846",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 46
+    },
+    "conversation_id": "1773051470398586897",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1773072051940503662"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1159885387",
+    "category": "Reply"
+  },
+  {
+    "text": "@piotr_makowiec @gdansk @donaldtusk 😢",
+    "author_id": "61552404",
+    "created_at": "2024-03-24T07:46:47.000Z",
+    "edit_history_tweet_ids": [
+      "1771805847464595789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "piotr_makowiec",
+          "id": "4575773475"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "username": "gdansk",
+          "id": "461133856"
+        },
+        {
+          "start": 24,
+          "end": 35,
+          "username": "donaldtusk",
+          "id": "375146901"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-24 08:46:47+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1771805847464595789",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 169
+    },
+    "conversation_id": "1771594741454459370",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1771798847078928766"
+      }
+    ],
+    "lang": "qme",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "in_reply_to_user_id": "4575773475",
+    "category": "Reply"
+  },
+  {
+    "text": "@piotr_makowiec @gdansk bardzo mi przykro:((((",
+    "author_id": "61552404",
+    "created_at": "2024-03-24T07:08:25.000Z",
+    "edit_history_tweet_ids": [
+      "1771796192101327227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "piotr_makowiec",
+          "id": "4575773475"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "username": "gdansk",
+          "id": "461133856"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-24 08:08:25+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1771796192101327227",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 191
+    },
+    "conversation_id": "1771594741454459370",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1771658494694785064"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "4575773475",
+    "category": "Reply"
+  },
+  {
+    "text": "@piotr_makowiec @gdansk 🖤",
+    "author_id": "61552404",
+    "created_at": "2024-03-23T21:59:01.000Z",
+    "edit_history_tweet_ids": [
+      "1771657930477027448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "piotr_makowiec",
+          "id": "4575773475"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "username": "gdansk",
+          "id": "461133856"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-23 22:59:01+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1771657930477027448",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1173
+    },
+    "conversation_id": "1771594741454459370",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1771594741454459370"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "4575773475",
+    "category": "Reply"
+  },
+  {
+    "text": "@otoWojciech @bbudka @ArkadiuszMyrcha 👍😘",
+    "author_id": "61552404",
+    "created_at": "2024-03-23T11:15:33.000Z",
+    "edit_history_tweet_ids": [
+      "1771495997622865921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "otoWojciech",
+          "id": "4361709136"
+        },
+        {
+          "start": 13,
+          "end": 20,
+          "username": "bbudka",
+          "id": "118739645"
+        },
+        {
+          "start": 21,
+          "end": 37,
+          "username": "ArkadiuszMyrcha",
+          "id": "58348751"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-23 12:15:33+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "following",
+    "id": "1771495997622865921",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 228
+    },
+    "conversation_id": "1771423652216479749",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1771423652216479749"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "4361709136",
+    "category": "Reply"
+  },
+  {
+    "text": "@przek666 @MZ_GOV_PL @RadiowaJedynka audyt jeszcze trwa",
+    "author_id": "61552404",
+    "created_at": "2024-03-22T09:02:59.000Z",
+    "edit_history_tweet_ids": [
+      "1771100247562866974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "przek666",
+          "id": "1350539953068007425"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 21,
+          "end": 36,
+          "username": "RadiowaJedynka",
+          "id": "992961410"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-22 10:02:59+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1771100247562866974",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 60
+    },
+    "conversation_id": "1771092329157316963",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1771097271490248893"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1350539953068007425",
+    "category": "Reply"
+  },
+  {
+    "text": "@medexit @MZ_GOV_PL @RadiowaJedynka dokładnie tak na to patrzę",
+    "author_id": "61552404",
+    "created_at": "2024-03-22T08:48:39.000Z",
+    "edit_history_tweet_ids": [
+      "1771096642508247142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "medexit",
+          "id": "1237526605108518913"
+        },
+        {
+          "start": 9,
+          "end": 19,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 20,
+          "end": 35,
+          "username": "RadiowaJedynka",
+          "id": "992961410"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-22 09:48:39+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1771096642508247142",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 187
+    },
+    "conversation_id": "1771092329157316963",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1771094055222399005"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1237526605108518913",
+    "category": "Reply"
+  },
+  {
+    "text": "@MJanyska Gratulacje Małgosiu👍",
+    "author_id": "61552404",
+    "created_at": "2024-03-21T20:33:06.000Z",
+    "edit_history_tweet_ids": [
+      "1770911536489370044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "MJanyska",
+          "id": "2724920673"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-21 21:33:06+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1770911536489370044",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 486
+    },
+    "conversation_id": "1770904195782074545",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1770904195782074545"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "2724920673",
+    "category": "Reply"
+  },
+  {
+    "text": "@Magosia26015142 @MZ_GOV_PL @TVP3Regiony będzie standardem👍",
+    "author_id": "61552404",
+    "created_at": "2024-03-20T23:04:08.000Z",
+    "edit_history_tweet_ids": [
+      "1770587157729583119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Magosia26015142",
+          "id": "1194378695449939969"
+        },
+        {
+          "start": 17,
+          "end": 27,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "username": "TVP3Regiony",
+          "id": "1032246743331692544"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-21 00:04:08+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1770587157729583119",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 98
+    },
+    "conversation_id": "1770543338506056066",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1770556387644285257"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1194378695449939969",
+    "category": "Reply"
+  },
+  {
+    "text": "@RadioRebeliant @Henryka1510 👍",
+    "author_id": "61552404",
+    "created_at": "2024-03-20T23:02:29.000Z",
+    "edit_history_tweet_ids": [
+      "1770586742074085571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "RadioRebeliant",
+          "id": "1733854370305871872"
+        },
+        {
+          "start": 16,
+          "end": 28,
+          "username": "Henryka1510",
+          "id": "1433799320961265669"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-21 00:02:29+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1770586742074085571",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 250
+    },
+    "conversation_id": "1770559636694823387",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1770561744936583579"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1733854370305871872",
+    "category": "Reply"
+  },
+  {
+    "text": "Dziękuję lekarzom, którzy wzięli udział w posiedzeniu Parlamentarnego Zespołu Chorób Płuc, dziękuję za przygotowanie ważnych prezentacji nt. leczenia #POChP, a Przewodniczącej @Henryka1510 za zaproszenie. https://t.co/i6sK0U416z",
+    "author_id": "61552404",
+    "created_at": "2024-03-20T21:14:47.000Z",
+    "edit_history_tweet_ids": [
+      "1770559636694823387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 176,
+          "end": 188,
+          "username": "Henryka1510",
+          "id": "1433799320961265669"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 150,
+          "end": 156,
+          "tag": "POChP"
+        }
+      ],
+      "urls": [
+        {
+          "start": 205,
+          "end": 228,
+          "url": "https://t.co/i6sK0U416z",
+          "expanded_url": "https://x.com/Leszczyna/status/1770559636694823387/photo/1",
+          "display_url": "pic.x.com/i6sK0U416z",
+          "media_key": "3_1770559630818635776"
+        },
+        {
+          "start": 205,
+          "end": 228,
+          "url": "https://t.co/i6sK0U416z",
+          "expanded_url": "https://x.com/Leszczyna/status/1770559636694823387/photo/1",
+          "display_url": "pic.x.com/i6sK0U416z",
+          "media_key": "3_1770559630814457856"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-20 22:14:47+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1770559636694823387",
+    "public_metrics": {
+      "retweet_count": 34,
+      "reply_count": 13,
+      "like_count": 236,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 6185
+    },
+    "conversation_id": "1770559636694823387",
+    "attachments": {
+      "media_keys": [
+        "3_1770559630818635776",
+        "3_1770559630814457856"
+      ]
+    },
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "text": "@UNHCRPoland @MZ_GOV_PL @WHO @UNICEF @UNmigration @WorldBank @coe I also thank You and I regret that I could not stay until the end.",
+    "author_id": "61552404",
+    "created_at": "2024-03-17T16:28:57.000Z",
+    "edit_history_tweet_ids": [
+      "1769400539995865521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "UNHCRPoland",
+          "id": "806437986"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "username": "WHO",
+          "id": "14499829"
+        },
+        {
+          "start": 29,
+          "end": 36,
+          "username": "UNICEF",
+          "id": "33933259"
+        },
+        {
+          "start": 37,
+          "end": 49,
+          "username": "UNmigration",
+          "id": "85469815"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "username": "WorldBank",
+          "id": "27860681"
+        },
+        {
+          "start": 61,
+          "end": 65,
+          "username": "coe",
+          "id": "24150634"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-17 17:28:57+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1769400539995865521",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 332
+    },
+    "conversation_id": "1768686013042372834",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1768686013042372834"
+      }
+    ],
+    "lang": "en",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696848252391426",
+          "name": "Financial Services Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+        }
+      },
+      {
+        "domain": {
+          "id": "45",
+          "name": "Brand Vertical",
+          "description": "Top level entities that describe a Brands industry"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "id": "45",
+          "name": "Brand Vertical",
+          "description": "Top level entities that describe a Brands industry"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10026474874",
+          "name": "UNICEF"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10044311823",
+          "name": "United Nations",
+          "description": "Global conversation about the United Nations and all related efforts."
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10044311827",
+          "name": "World Bank"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "907295166406389760",
+          "name": "UNICEF",
+          "description": "UNICEF"
+        }
+      },
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "857878257630195712",
+          "name": "Government",
+          "description": "Government"
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "10044311823",
+          "name": "United Nations",
+          "description": "Global conversation about the United Nations and all related efforts."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "10044311823",
+          "name": "United Nations",
+          "description": "Global conversation about the United Nations and all related efforts."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1068583660914266113",
+          "name": "Government institutions",
+          "description": "Political Body"
+        }
+      }
+    ],
+    "in_reply_to_user_id": "806437986",
+    "category": "Reply"
+  },
+  {
+    "text": "Dziewczyny z II LO im. Mieszka I w Szczecinie‼️ Szacunek🫡 i ❤️\nNa dodatkowe zajęcia terapeutyczne dla podopiecznych oddziału psychiatrycznego zebrały w ciągu tygodnia kilkadziesiąt tysięcy zł, a wczoraj zorganizowały wernisaż i dochód ze sprzedaży obrazów powiększy zbiórkę.… https://t.co/ePHpt9idlc https://t.co/JgrG60UncJ",
+    "author_id": "61552404",
+    "created_at": "2024-03-16T20:11:48.000Z",
+    "edit_history_tweet_ids": [
+      "1769094016367280527",
+      "1769094233078604178"
+    ],
+    "edit_controls": {
+      "edits_remaining": 4,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-16 21:10:56+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1769094233078604178",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 30,
+      "like_count": 336,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 9030
+    },
+    "conversation_id": "1769094233078604178",
+    "attachments": {
+      "media_keys": [
+        "3_1769094011032150016"
+      ]
+    },
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/ePHpt9idlc",
+          "expanded_url": "https://x.com/i/web/status/1769094233078604178",
+          "display_url": "x.com/i/web/status/1…"
+        },
+        {
+          "start": 300,
+          "end": 323,
+          "url": "https://t.co/JgrG60UncJ",
+          "expanded_url": "https://x.com/Leszczyna/status/1769094233078604178/photo/1",
+          "display_url": "pic.x.com/JgrG60UncJ",
+          "media_key": "3_1769094011032150016"
+        }
+      ]
+    },
+    "category": "Original"
+  },
+  {
+    "text": "@dneyAUS @MZ_GOV_PL 👍",
+    "author_id": "61552404",
+    "created_at": "2024-03-13T22:07:35.000Z",
+    "edit_history_tweet_ids": [
+      "1768036210436436086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "dneyAUS",
+          "id": "751300648520519680"
+        },
+        {
+          "start": 9,
+          "end": 19,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-13 23:07:35+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1768036210436436086",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 42
+    },
+    "conversation_id": "1767897525078401536",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1767912448168988730"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "751300648520519680",
+    "category": "Reply"
+  },
+  {
+    "text": "@ziuta1555 @aK_Sojka @MZ_GOV_PL 🫡",
+    "author_id": "61552404",
+    "created_at": "2024-03-11T22:23:06.000Z",
+    "edit_history_tweet_ids": [
+      "1767315340592050468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "ziuta1555",
+          "id": "4695183288"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "username": "aK_Sojka",
+          "id": "1197302054378778630"
+        },
+        {
+          "start": 21,
+          "end": 31,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-11 23:23:06+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1767315340592050468",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 71,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 3303
+    },
+    "conversation_id": "1767284612101771613",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1767315117899694191"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "4695183288",
+    "category": "Reply"
+  },
+  {
+    "text": "@SpodLasku @aK_Sojka @MZ_GOV_PL ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-03-11T20:23:34.000Z",
+    "edit_history_tweet_ids": [
+      "1767285257076629908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "SpodLasku",
+          "id": "1229757933078052864"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "username": "aK_Sojka",
+          "id": "1197302054378778630"
+        },
+        {
+          "start": 21,
+          "end": 31,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-11 21:23:34+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1767285257076629908",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 6,
+      "like_count": 197,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5556
+    },
+    "conversation_id": "1767284612101771613",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1767285089124159837"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1229757933078052864",
+    "category": "Reply"
+  },
+  {
+    "text": "Pani Minister @aK_Sojka wyliczyła swoje „sukcesy” w @MZ_GOV_PL i chyba tylko wrodzona skromność nie pozwoliła jej wymienić przyznania nagrody dla Prezesa #ABM w wysokości 80 tys. zł, mimo, że wiedziała o poświadczeniu przez niego kwalifikacji, których nie posiadał.\nBiorąc pod… https://t.co/rRbI7dXWCM",
+    "author_id": "61552404",
+    "created_at": "2024-03-11T20:21:00.000Z",
+    "edit_history_tweet_ids": [
+      "1767284612101771613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 14,
+          "end": 23,
+          "username": "aK_Sojka",
+          "id": "1197302054378778630"
+        },
+        {
+          "start": 52,
+          "end": 62,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 154,
+          "end": 158,
+          "tag": "ABM"
+        }
+      ],
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/rRbI7dXWCM",
+          "expanded_url": "https://x.com/i/web/status/1767284612101771613",
+          "display_url": "x.com/i/web/status/1…"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-11 21:21:00+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1767284612101771613",
+    "public_metrics": {
+      "retweet_count": 530,
+      "reply_count": 136,
+      "like_count": 2353,
+      "quote_count": 20,
+      "bookmark_count": 12,
+      "impression_count": 72178
+    },
+    "conversation_id": "1767284612101771613",
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "text": "@2_pyra @MZ_GOV_PL wyjaśnię to i odpowiem, co się stało i dlaczego🤷🏻‍♀️",
+    "author_id": "61552404",
+    "created_at": "2024-03-10T09:31:54.000Z",
+    "edit_history_tweet_ids": [
+      "1766758873933722079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "2_pyra",
+          "id": "1413115412338905091"
+        },
+        {
+          "start": 8,
+          "end": 18,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-10 10:31:54+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1766758873933722079",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 10,
+      "like_count": 68,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 2526
+    },
+    "conversation_id": "1766396228416254198",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1766396228416254198"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1413115412338905091",
+    "category": "Reply"
+  },
+  {
+    "text": "@onkoOFO ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-03-10T09:28:59.000Z",
+    "edit_history_tweet_ids": [
+      "1766758137552335093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "onkoOFO",
+          "id": "1214822294452920322"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-10 10:28:59+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1766758137552335093",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 73
+    },
+    "conversation_id": "1766757963937558843",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1766757963937558843"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1214822294452920322",
+    "category": "Reply"
+  },
+  {
+    "text": "@StZerko zamiast wprowadzać ludzi w błąd, proponuję posłuchać jeszcze raz - ze zrozumieniem",
+    "author_id": "61552404",
+    "created_at": "2024-03-09T22:44:26.000Z",
+    "edit_history_tweet_ids": [
+      "1766595929988100099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "StZerko",
+          "id": "404708920"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-09 23:44:26+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1766595929988100099",
+    "public_metrics": {
+      "retweet_count": 15,
+      "reply_count": 28,
+      "like_count": 532,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 15950
+    },
+    "conversation_id": "1766547423013318791",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1766547423013318791"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "404708920",
+    "category": "Reply"
+  },
+  {
+    "text": "@boska_kara @MZ_GOV_PL jest wpisane, jak dziesiątki innych praw pacjenta, ale ludzie nie wiedzą o tym i nie wymagają🤷🏻‍♀️",
+    "author_id": "61552404",
+    "created_at": "2024-03-08T22:46:10.000Z",
+    "edit_history_tweet_ids": [
+      "1766233980179767349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "boska_kara",
+          "id": "887572656048013312"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-08 23:46:10+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1766233980179767349",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 50
+    },
+    "conversation_id": "1766129161070944726",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1766233278476845388"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "887572656048013312",
+    "category": "Reply"
+  },
+  {
+    "text": "@otoWojciech @MZ_GOV_PL ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-03-08T22:40:57.000Z",
+    "edit_history_tweet_ids": [
+      "1766232667656212616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "otoWojciech",
+          "id": "4361709136"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-08 23:40:57+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "following",
+    "id": "1766232667656212616",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 160
+    },
+    "conversation_id": "1766204674430894151",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1766204674430894151"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "4361709136",
+    "category": "Reply"
+  },
+  {
+    "text": "@DSubbotko Pani Redaktor, dziękuję. Rozmowa z Panią (wywiad sprzed kilku lat) uświadomiła mi siłę kobiet w mojej rodzinie. Naprawdę.\n\nJest Pani potwierdzeniem prawa Kopernika, że w obiegu pozostaje „gorszy pieniądz”. Szkoda.",
+    "author_id": "61552404",
+    "created_at": "2024-03-08T21:08:34.000Z",
+    "edit_history_tweet_ids": [
+      "1766209417303732248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "DSubbotko",
+          "id": "1082746734789443584"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-08 22:08:34+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1766209417303732248",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 690
+    },
+    "conversation_id": "1766009106844745814",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1766009106844745814"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1082746734789443584",
+    "category": "Reply"
+  },
+  {
+    "text": "@mi_florek ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-03-08T20:04:06.000Z",
+    "edit_history_tweet_ids": [
+      "1766193194591474168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "mi_florek",
+          "id": "939123619023740928"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-08 21:04:06+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1766193194591474168",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 29
+    },
+    "conversation_id": "1766181056552538353",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1766185092529971492"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "939123619023740928",
+    "category": "Reply"
+  },
+  {
+    "text": "Dla Kobiet❤️\npóźno, ale piątek był pracowity…\n#ŚwiadomaBezpiecznaJa👍 https://t.co/YPYm28wGsj",
+    "author_id": "61552404",
+    "created_at": "2024-03-08T20:03:54.000Z",
+    "edit_history_tweet_ids": [
+      "1766181056552538353",
+      "1766193144792522814"
+    ],
+    "edit_controls": {
+      "edits_remaining": 4,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-08 20:15:52+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1766193144792522814",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 46,
+          "end": 67,
+          "tag": "ŚwiadomaBezpiecznaJa"
+        }
+      ],
+      "urls": [
+        {
+          "start": 69,
+          "end": 92,
+          "url": "https://t.co/YPYm28wGsj",
+          "expanded_url": "https://x.com/Leszczyna/status/1766193144792522814/video/1",
+          "display_url": "pic.x.com/YPYm28wGsj",
+          "media_key": "13_1766193089142484992"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 80,
+      "reply_count": 44,
+      "like_count": 509,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 10370
+    },
+    "conversation_id": "1766193144792522814",
+    "attachments": {
+      "media_keys": [
+        "13_1766193089142484992"
+      ]
+    },
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "text": "@SylwiaGAbram 👏👏👏",
+    "author_id": "61552404",
+    "created_at": "2024-03-08T19:00:53.000Z",
+    "edit_history_tweet_ids": [
+      "1766177286540476897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "SylwiaGAbram",
+          "id": "837644945808850944"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-08 20:00:53+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1766177286540476897",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 782
+    },
+    "conversation_id": "1766008565439860768",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1766008565439860768"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "837644945808850944",
+    "category": "Reply"
+  },
+  {
+    "text": "W świetle stwierdzenia przez @RzeczPacjenta naruszenia praw pacjenta przez dra Zimmera  Wojewoda Dolnośląski odstąpił od powołania go na stanowisko konsultanta wojewódzkiego w dziedzinie położnictwa. Decyzję Wojewody przyjęłam z satysfakcją.",
+    "author_id": "61552404",
+    "created_at": "2024-03-04T20:11:06.000Z",
+    "edit_history_tweet_ids": [
+      "1764743189477339240",
+      "1764745404048982492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 29,
+          "end": 43,
+          "username": "RzeczPacjenta",
+          "id": "950716472787128321"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 4,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-04 21:02:18+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1764745404048982492",
+    "public_metrics": {
+      "retweet_count": 229,
+      "reply_count": 72,
+      "like_count": 1487,
+      "quote_count": 12,
+      "bookmark_count": 2,
+      "impression_count": 31681
+    },
+    "conversation_id": "1764745404048982492",
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "text": "@otoWojciech @MZ_GOV_PL @MF_GOV_PL @donaldtusk ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-03-02T19:27:05.000Z",
+    "edit_history_tweet_ids": [
+      "1764009549801951544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "otoWojciech",
+          "id": "4361709136"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "username": "MF_GOV_PL",
+          "id": "2913597448"
+        },
+        {
+          "start": 35,
+          "end": 46,
+          "username": "donaldtusk",
+          "id": "375146901"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-02 20:27:05+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1764009549801951544",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 4,
+      "like_count": 47,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5277
+    },
+    "conversation_id": "1763951584277348427",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1763993454139371804"
+      }
+    ],
+    "lang": "qme",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "in_reply_to_user_id": "4361709136",
+    "category": "Reply"
+  },
+  {
+    "text": "@Krzysiekm07 to zawsze jest decyzja @PremierRP",
+    "author_id": "61552404",
+    "created_at": "2024-03-02T18:02:36.000Z",
+    "edit_history_tweet_ids": [
+      "1763988289659228559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "Krzysiekm07",
+          "id": "341023410"
+        },
+        {
+          "start": 36,
+          "end": 46,
+          "username": "PremierRP",
+          "id": "57626153"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-02 19:02:36+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1763988289659228559",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 4,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 378
+    },
+    "conversation_id": "1763987845268598814",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1763987845268598814"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "341023410",
+    "category": "Reply"
+  },
+  {
+    "text": "@MaciejGdynia ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-03-02T17:23:30.000Z",
+    "edit_history_tweet_ids": [
+      "1763978450874880179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "MaciejGdynia",
+          "id": "737000105572700162"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-02 18:23:30+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1763978450874880179",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 102
+    },
+    "conversation_id": "1763977847280927162",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1763977847280927162"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "737000105572700162",
+    "category": "Reply"
+  },
+  {
+    "text": "W @MZ_GOV_PL i @MF_GOV_PL trwają prace nad zmianami w składce zdrowotnej dla przedsiębiorców. Zmiana obejmie składkę od aktywów trwałych i część podstawową składki.\nNie trzeba nas poganiać, ani wprowadzać ludzi w błąd nieprawdziwymi spekulacjami.\nRząd #PDT dotrzymuje obietnic✌️🇵🇱",
+    "author_id": "61552404",
+    "created_at": "2024-03-02T15:36:44.000Z",
+    "edit_history_tweet_ids": [
+      "1763951584277348427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 2,
+          "end": 12,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MF_GOV_PL",
+          "id": "2913597448"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 252,
+          "end": 256,
+          "tag": "PDT"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-02 16:36:44+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1763951584277348427",
+    "public_metrics": {
+      "retweet_count": 615,
+      "reply_count": 374,
+      "like_count": 2479,
+      "quote_count": 80,
+      "bookmark_count": 23,
+      "impression_count": 164900
+    },
+    "conversation_id": "1763951584277348427",
+    "lang": "pl",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      }
+    ],
+    "category": "Original"
+  },
+  {
+    "text": "@zaremba_ma @MZ_GOV_PL ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T23:21:20.000Z",
+    "edit_history_tweet_ids": [
+      "1762618950171480488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "zaremba_ma",
+          "id": "1426541331552350212"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-28 00:21:20+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762618950171480488",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 94
+    },
+    "conversation_id": "1762593332381827276",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762594592791187663"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1426541331552350212",
+    "category": "Reply"
+  },
+  {
+    "text": "@Jowita_W @MZ_GOV_PL facet kłamie",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T23:21:00.000Z",
+    "edit_history_tweet_ids": [
+      "1762618869078798551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "Jowita_W",
+          "id": "852599711127269376"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-28 00:21:00+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762618869078798551",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 211
+    },
+    "conversation_id": "1762593332381827276",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762618269398163895"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "852599711127269376",
+    "category": "Reply"
+  },
+  {
+    "text": "@Turbo6711 bardzo chcę, żeby tak się stało",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T22:15:29.000Z",
+    "edit_history_tweet_ids": [
+      "1762602377713008649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "Turbo6711",
+          "id": "766381479429537794"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-27 23:15:29+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762602377713008649",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 31
+    },
+    "conversation_id": "1762602106043723891",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762602106043723891"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "766381479429537794",
+    "category": "Reply"
+  },
+  {
+    "text": "@jola_mor @MZ_GOV_PL 😂👍",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T22:11:04.000Z",
+    "edit_history_tweet_ids": [
+      "1762601268420194728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "jola_mor",
+          "id": "4869372335"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-27 23:11:04+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762601268420194728",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 82
+    },
+    "conversation_id": "1762593332381827276",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762601164003020875"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "4869372335",
+    "category": "Reply"
+  },
+  {
+    "text": "@anusiek73 @WojewodkaMarcin @MZ_GOV_PL zgoda! zdrowie wszystkich Polek i Polaków jest najważniejsze! to znaczy, że o siebie też trochę dbam😉",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T22:09:07.000Z",
+    "edit_history_tweet_ids": [
+      "1762600778517057578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "anusiek73",
+          "id": "395512312"
+        },
+        {
+          "start": 11,
+          "end": 27,
+          "username": "WojewodkaMarcin",
+          "id": "811262566471176192"
+        },
+        {
+          "start": 28,
+          "end": 38,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-27 23:09:07+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762600778517057578",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 277
+    },
+    "conversation_id": "1762593332381827276",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762600005062344776"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "395512312",
+    "category": "Reply"
+  },
+  {
+    "text": "@Xmagdalena @jola_mor @MZ_GOV_PL ☺️",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T22:07:20.000Z",
+    "edit_history_tweet_ids": [
+      "1762600330024403261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Xmagdalena",
+          "id": "101157635"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "username": "jola_mor",
+          "id": "4869372335"
+        },
+        {
+          "start": 22,
+          "end": 32,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-27 23:07:20+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762600330024403261",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 45
+    },
+    "conversation_id": "1762593332381827276",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762600218632020035"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "101157635",
+    "category": "Reply"
+  },
+  {
+    "text": "@Xmagdalena @MZ_GOV_PL ja też pozdrawiam❤️",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T22:06:48.000Z",
+    "edit_history_tweet_ids": [
+      "1762600192228852092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Xmagdalena",
+          "id": "101157635"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-27 23:06:48+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762600192228852092",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 164
+    },
+    "conversation_id": "1762593332381827276",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762599128750579883"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "101157635",
+    "category": "Reply"
+  },
+  {
+    "text": "@jola_mor @MZ_GOV_PL 😂👍👍",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T21:41:59.000Z",
+    "edit_history_tweet_ids": [
+      "1762593947682013300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "jola_mor",
+          "id": "4869372335"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-27 22:41:59+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762593947682013300",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 230
+    },
+    "conversation_id": "1762593332381827276",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762593880065663490"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "4869372335",
+    "category": "Reply"
+  },
+  {
+    "text": "na media nie ma czasu i nie jest z nimi łatwo🤦🏻‍♀️\nale dla promocji zdrowia i profilaktyki - WSZYSTKO‼️ \n@MZ_GOV_PL 👍 https://t.co/o8gbKeTP3y",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T21:39:32.000Z",
+    "edit_history_tweet_ids": [
+      "1762593332381827276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 105,
+          "end": 115,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ],
+      "urls": [
+        {
+          "start": 118,
+          "end": 141,
+          "url": "https://t.co/o8gbKeTP3y",
+          "expanded_url": "https://x.com/Leszczyna/status/1762593332381827276/video/1",
+          "display_url": "pic.x.com/o8gbKeTP3y",
+          "media_key": "7_1762593312689537024"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-27 22:39:32+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762593332381827276",
+    "public_metrics": {
+      "retweet_count": 45,
+      "reply_count": 35,
+      "like_count": 412,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 14402
+    },
+    "conversation_id": "1762593332381827276",
+    "attachments": {
+      "media_keys": [
+        "7_1762593312689537024"
+      ]
+    },
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "text": "@piotr_makowiec @adam_abramczyk @BartSienkiewicz walczę o to od ponad dwóch miesięcy, nie da się naprawić 8 lat od ręki, ale zrobimy to👍",
+    "author_id": "61552404",
+    "created_at": "2024-02-27T21:26:53.000Z",
+    "edit_history_tweet_ids": [
+      "1762590150713028905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "piotr_makowiec",
+          "id": "4575773475"
+        },
+        {
+          "start": 16,
+          "end": 31,
+          "username": "adam_abramczyk",
+          "id": "707156152480624641"
+        },
+        {
+          "start": 32,
+          "end": 48,
+          "username": "BartSienkiewicz",
+          "id": "1042408388242677761"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-27 22:26:53+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1762590150713028905",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 2,
+      "like_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 261
+    },
+    "conversation_id": "1762582996484248026",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1762582996484248026"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "4575773475",
+    "category": "Reply"
+  },
+  {
+    "text": "@ZbigniewHoldys @presidentwalesa 🎁🥂❤️",
+    "author_id": "61552404",
+    "created_at": "2024-02-25T20:42:34.000Z",
+    "edit_history_tweet_ids": [
+      "1761854220909654136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "ZbigniewHoldys",
+          "id": "139741256"
+        },
+        {
+          "start": 16,
+          "end": 32,
+          "username": "presidentwalesa",
+          "id": "1264167253060341760"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-25 21:42:34+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1761854220909654136",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 17,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1268
+    },
+    "conversation_id": "1761819188505580027",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1761819188505580027"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "139741256",
+    "category": "Reply"
+  },
+  {
+    "text": "@JaRebeliantka @MZ_GOV_PL wiem, że to wyjątkowo trudny temat, ale MZ, podejmując decyzje, musi oprzeć się na opiniach ekspertów-lekarzy, dlatego poprosiłam o dodatkową analizę…",
+    "author_id": "61552404",
+    "created_at": "2024-02-25T06:58:39.000Z",
+    "edit_history_tweet_ids": [
+      "1761646873465507866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "JaRebeliantka",
+          "id": "3233772889"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-25 07:58:39+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1761646873465507866",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 59
+    },
+    "conversation_id": "1761499515083718951",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1761526351637492171"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "3233772889",
+    "category": "Reply"
+  },
+  {
+    "text": "@JaRebeliantka @MZ_GOV_PL zapewniam, że:\n-dzieci, które wg lekarzy będą mogły otrzymać terapię genową,otrzymają ją\n-każde chore dziecko otrzymuje terapię, niestety nie wszystkie genową, bo ta jest dostępna w Polsce od kilku miesięcy\n-wszystkie chore dzieci będą miały opłaconą dodatkową rehabilitację 3/3",
+    "author_id": "61552404",
+    "created_at": "2024-02-24T22:45:01.000Z",
+    "edit_history_tweet_ids": [
+      "1761522648075358699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "JaRebeliantka",
+          "id": "3233772889"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-24 23:45:01+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1761522648075358699",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 80
+    },
+    "conversation_id": "1761499515083718951",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1761521239271580067"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "61552404",
+    "category": "Reply"
+  },
+  {
+    "text": "@JaRebeliantka @MZ_GOV_PL Waga i wiek to nie jedyne kryteria,a decyzje podejmowali lekarze.\nZwróciłam się o ponowną analizę przypadków dzieci, które nie otrzymały terapii genowej. Jestem w stałym kontakcie z lekarzami,a MZ robi wszystko, żeby zmienić zasady programu lekowego tak szybko,jak to możliwe. 2/3",
+    "author_id": "61552404",
+    "created_at": "2024-02-24T22:39:25.000Z",
+    "edit_history_tweet_ids": [
+      "1761521239271580067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "JaRebeliantka",
+          "id": "3233772889"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-24 23:39:25+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1761521239271580067",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 67
+    },
+    "conversation_id": "1761499515083718951",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1761520651041403257"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "61552404",
+    "category": "Reply"
+  },
+  {
+    "text": "@JaRebeliantka Jesienią ubiegłego roku @MZ_GOV_PL zdecydowało o refundacji terapii genowej dla dzieci chorych na SMA. Producent określił wiek i ciężar dziecka, któremu może być dedykowany ten lek. Kwalifikacji dokonał zespół profesorów/lekarzy  koordynujący leczenie dzieci chorych na SMA. 1/3",
+    "author_id": "61552404",
+    "created_at": "2024-02-24T22:37:05.000Z",
+    "edit_history_tweet_ids": [
+      "1761520651041403257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "JaRebeliantka",
+          "id": "3233772889"
+        },
+        {
+          "start": 39,
+          "end": 49,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-24 23:37:05+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1761520651041403257",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 59
+    },
+    "conversation_id": "1761499515083718951",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1761499515083718951"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "3233772889",
+    "category": "Reply"
+  },
+  {
+    "text": "@marek5692 😂❤️",
+    "author_id": "61552404",
+    "created_at": "2024-02-24T12:57:50.000Z",
+    "edit_history_tweet_ids": [
+      "1761374879712960524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "marek5692",
+          "id": "123374732"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-24 13:57:50+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1761374879712960524",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 394
+    },
+    "conversation_id": "1761372632715309539",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1761372632715309539"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "123374732",
+    "category": "Reply"
+  },
+  {
+    "text": "@grzesiowski_p @kulas863 @donaldtusk @MKierwinski zgadzam się z Panem Doktorem,nie wolno podejmować decyzji w obszarze zdrowia publicznego bez zasięgania opinii lekarzy-ekspertów w danej dziedzinie.Ale czy zapisanie tego w postaci obowiązującego prawa pomoże? Boję się,że nie, ostatnie lata pokazały,że rząd po prostu łamał  prawo",
+    "author_id": "61552404",
+    "created_at": "2024-02-23T11:25:36.000Z",
+    "edit_history_tweet_ids": [
+      "1760989277746249789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "grzesiowski_p",
+          "id": "1124646406701105152"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "username": "kulas863",
+          "id": "4698398540"
+        },
+        {
+          "start": 25,
+          "end": 36,
+          "username": "donaldtusk",
+          "id": "375146901"
+        },
+        {
+          "start": 37,
+          "end": 49,
+          "username": "MKierwinski",
+          "id": "308367619"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-23 12:25:36+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760989277746249789",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 1,
+      "like_count": 28,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 771
+    },
+    "conversation_id": "1760939989431468149",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1760986863958208755"
+      }
+    ],
+    "lang": "pl",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "in_reply_to_user_id": "1124646406701105152",
+    "category": "Reply"
+  },
+  {
+    "text": "@Pi44 @podcastpacjent @MZ_GOV_PL @NFZ_GOV_PL kłamie Pan",
+    "author_id": "61552404",
+    "created_at": "2024-02-23T08:13:35.000Z",
+    "edit_history_tweet_ids": [
+      "1760940958043046202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 5,
+          "username": "Pi44",
+          "id": "44456924"
+        },
+        {
+          "start": 6,
+          "end": 21,
+          "username": "podcastpacjent",
+          "id": "1656553481463840771"
+        },
+        {
+          "start": 22,
+          "end": 32,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 33,
+          "end": 44,
+          "username": "NFZ_GOV_PL",
+          "id": "4829904913"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-23 09:13:35+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760940958043046202",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 37
+    },
+    "conversation_id": "1760638928866926928",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1760792333723799841"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "44456924",
+    "category": "Reply"
+  },
+  {
+    "text": "@olward @MZ_GOV_PL @NFZ_GOV_PL pacjenci zwykle głosują nogami…",
+    "author_id": "61552404",
+    "created_at": "2024-02-20T23:02:02.000Z",
+    "edit_history_tweet_ids": [
+      "1760077377202274610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "olward",
+          "id": "618377001"
+        },
+        {
+          "start": 8,
+          "end": 18,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "NFZ_GOV_PL",
+          "id": "4829904913"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-21 00:02:02+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760077377202274610",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 97
+    },
+    "conversation_id": "1760059997445296172",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1760063101217419547"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "618377001",
+    "category": "Reply"
+  },
+  {
+    "text": "@Horus78072253 @MZ_GOV_PL 😂❤️",
+    "author_id": "61552404",
+    "created_at": "2024-02-20T22:55:27.000Z",
+    "edit_history_tweet_ids": [
+      "1760075722436083888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Horus78072253",
+          "id": "1419666255838121984"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-20 23:55:27+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760075722436083888",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 123
+    },
+    "conversation_id": "1760057726913401221",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1760059847184162887"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1419666255838121984",
+    "category": "Reply"
+  },
+  {
+    "text": "@MartaHabior @MZ_GOV_PL wiem, prosiłam o dokładniejszą analizę, \nbo chciałabym cytologię włączyć do badań okresowych, czyli zwiększyć znacząco liczbę kobiet objętych bezpłatnym badaniem, ale musimy to policzyć, bo płynna jest dużo droższa😔",
+    "author_id": "61552404",
+    "created_at": "2024-02-20T22:55:17.000Z",
+    "edit_history_tweet_ids": [
+      "1760075680342004014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "MartaHabior",
+          "id": "861151070"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-20 23:55:17+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760075680342004014",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 266
+    },
+    "conversation_id": "1760057726913401221",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1760059062602084362"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "861151070",
+    "category": "Reply"
+  },
+  {
+    "text": "📣 Dzisiaj w @MZ_GOV_PL było dobre i inspirujące spotkanie z fundacją #SEXEDPL. Dziękuję ❤️\nZ Anią Rubik rozmawialiśmy o:\n✅ edukacji zdrowotnej, w tym psychoseksualnej\n✅ popularyzowaniu badań profilaktycznych i szczepień HPV\n✅ i wielu innych ważnych  sprawach…🧐",
+    "author_id": "61552404",
+    "created_at": "2024-02-20T21:43:57.000Z",
+    "edit_history_tweet_ids": [
+      "1760057726913401221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 12,
+          "end": 22,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 69,
+          "end": 77,
+          "tag": "SEXEDPL"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-20 22:43:57+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760057726913401221",
+    "public_metrics": {
+      "retweet_count": 48,
+      "reply_count": 26,
+      "like_count": 229,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "impression_count": 12418
+    },
+    "conversation_id": "1760057726913401221",
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "text": "@LeeonBadBat 🖤",
+    "author_id": "61552404",
+    "created_at": "2024-02-20T21:21:21.000Z",
+    "edit_history_tweet_ids": [
+      "1760052042616172907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "LeeonBadBat",
+          "id": "1383109694361899012"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-20 22:21:21+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760052042616172907",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 782
+    },
+    "conversation_id": "1760046600762605694",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1760046600762605694"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1383109694361899012",
+    "category": "Reply"
+  },
+  {
+    "text": "Dziękuję wszystkim posłom z Komisji Zdrowia za to, że  uznali moje argumenty wyjaśniające, że wprowadzenie krajowej  sieci onkologicznej #KSO w kwietniu 2024 roku to zagrożenie dla pacjentów onkologicznych. Deklaruję szybką i efektywną pracę nad koniecznymi zmianami! https://t.co/V9tSBWhFe4",
+    "author_id": "61552404",
+    "created_at": "2024-02-20T21:19:43.000Z",
+    "edit_history_tweet_ids": [
+      "1760051630488121424"
+    ],
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-20 22:19:43+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760051630488121424",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 137,
+          "end": 141,
+          "tag": "KSO"
+        }
+      ],
+      "urls": [
+        {
+          "start": 268,
+          "end": 291,
+          "url": "https://t.co/V9tSBWhFe4",
+          "expanded_url": "https://twitter.com/MenedzerZdrowia/status/1760025239923372218",
+          "display_url": "x.com/MenedzerZdrowi…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 42,
+      "reply_count": 7,
+      "like_count": 284,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 8405
+    },
+    "conversation_id": "1760051630488121424",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1760025239923372218"
+      }
+    ],
+    "lang": "pl",
+    "category": "Quote"
+  },
+  {
+    "text": "@ciesiolkiewicz @ngopl @MEN_GOVPL @IzabelaZietka @PawelRabiej @moanrosa @ZNP_ZG @DominikkKuc @pawelkowalpl Trzeba lepiej wycenić  medycynę szkolną, bo\npielęgniarka szkolna  może być kluczowa w ujawnieniu przemocy domowej. \nZrobimy to.",
+    "author_id": "61552404",
+    "created_at": "2024-02-20T20:56:45.000Z",
+    "edit_history_tweet_ids": [
+      "1760045849755652202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "ciesiolkiewicz",
+          "id": "59402649"
+        },
+        {
+          "start": 16,
+          "end": 22,
+          "username": "ngopl",
+          "id": "848242537"
+        },
+        {
+          "start": 23,
+          "end": 33,
+          "username": "MEN_GOVPL",
+          "id": "358921716"
+        },
+        {
+          "start": 34,
+          "end": 48,
+          "username": "IzabelaZietka",
+          "id": "1524866438464520201"
+        },
+        {
+          "start": 49,
+          "end": 61,
+          "username": "PawelRabiej",
+          "id": "3309333771"
+        },
+        {
+          "start": 62,
+          "end": 71,
+          "username": "moanrosa",
+          "id": "2775254939"
+        },
+        {
+          "start": 72,
+          "end": 79,
+          "username": "ZNP_ZG",
+          "id": "790883151774113793"
+        },
+        {
+          "start": 80,
+          "end": 92,
+          "username": "DominikkKuc",
+          "id": "759310547435257856"
+        },
+        {
+          "start": 93,
+          "end": 106,
+          "username": "pawelkowalpl",
+          "id": "96859379"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-20 21:56:45+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1760045849755652202",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 14,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 280
+    },
+    "conversation_id": "1759980995724345837",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1759980995724345837"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "59402649",
+    "category": "Reply"
+  },
+  {
+    "text": "@m_gabrys @MZ_GOV_PL 😘",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T23:01:43.000Z",
+    "edit_history_tweet_ids": [
+      "1758265358161457336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "m_gabrys",
+          "id": "144236273"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-16 00:01:43+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758265358161457336",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 388
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758233052751298865"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "144236273",
+    "category": "Reply"
+  },
+  {
+    "text": "@LigBelowsky @MZ_GOV_PL w Agencji Badań Medycznych też zleciłam audyt",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T23:01:32.000Z",
+    "edit_history_tweet_ids": [
+      "1758265314658115971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "LigBelowsky",
+          "id": "1375421296838909955"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-16 00:01:32+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758265314658115971",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 6,
+      "like_count": 49,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 1085
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758244378944893192"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1375421296838909955",
+    "category": "Reply"
+  },
+  {
+    "text": "@Tolek41003006 @MZ_GOV_PL to niestety decyzja właściciela/organu założycielskiego i nie mogę w to ingerować, ale porozmawiam o tym z dyrektorami szpitali",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T23:00:55.000Z",
+    "edit_history_tweet_ids": [
+      "1758265157753401806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Tolek41003006",
+          "id": "1210127855444738048"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-16 00:00:55+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758265157753401806",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 427
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758232000358400465"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1210127855444738048",
+    "category": "Reply"
+  },
+  {
+    "text": "@Artur78253456 @MZ_GOV_PL 🥰",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T22:58:55.000Z",
+    "edit_history_tweet_ids": [
+      "1758264654822826019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Artur78253456",
+          "id": "1201203831515815936"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-15 23:58:55+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758264654822826019",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 375
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758264058405441649"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1201203831515815936",
+    "category": "Reply"
+  },
+  {
+    "text": "@lechistan72 @MZ_GOV_PL 👍",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T22:58:26.000Z",
+    "edit_history_tweet_ids": [
+      "1758264531946516631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "lechistan72",
+          "id": "1131306655499608065"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-15 23:58:26+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758264531946516631",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 338
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758239623380148540"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1131306655499608065",
+    "category": "Reply"
+  },
+  {
+    "text": "@EWBLOM28 @MZ_GOV_PL bardzo dziękuję, dla takich słów warto żyć ❣️",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T22:57:28.000Z",
+    "edit_history_tweet_ids": [
+      "1758264290153267465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "EWBLOM28",
+          "id": "1465218621546942467"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-15 23:57:28+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758264290153267465",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 5,
+      "like_count": 32,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 742
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758240609737875813"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1465218621546942467",
+    "category": "Reply"
+  },
+  {
+    "text": "@AlKaJaCi @MZ_GOV_PL i będzie 💪",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T22:50:43.000Z",
+    "edit_history_tweet_ids": [
+      "1758262593049780714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "AlKaJaCi",
+          "id": "936378019438055424"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-15 23:50:43+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758262593049780714",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 459
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758239720532787451"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "936378019438055424",
+    "category": "Reply"
+  },
+  {
+    "text": "@s_zynel @t_stanislawski @MZ_GOV_PL rozumiem to",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T21:20:28.000Z",
+    "edit_history_tweet_ids": [
+      "1758239877663949190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "s_zynel",
+          "id": "837180548"
+        },
+        {
+          "start": 9,
+          "end": 24,
+          "username": "t_stanislawski",
+          "id": "2549508198"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-15 22:20:28+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758239877663949190",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 29,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 880
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758233962055409892"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "837180548",
+    "category": "Reply"
+  },
+  {
+    "text": "@CSwiata @MZ_GOV_PL ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T21:19:27.000Z",
+    "edit_history_tweet_ids": [
+      "1758239625296957781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "CSwiata",
+          "id": "2779230406"
+        },
+        {
+          "start": 9,
+          "end": 19,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-15 22:19:27+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758239625296957781",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 22,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 994
+    },
+    "conversation_id": "1758227959675039747",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1758228992140750918"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "2779230406",
+    "category": "Reply"
+  },
+  {
+    "text": "Rozumiem niecierpliwość w sprawie rozliczania #PiS.u i urzędników, którzy złamali prawo i dostali nagrody. Rozliczamy ich! W @MZ_GOV_PL zakończył się właśnie audyt wew. Jutro zapoznam się z jego wynikami i na tej podstawie, a nie doniesień medialnych,  podejmę decyzje personalne.",
+    "author_id": "61552404",
+    "created_at": "2024-02-15T20:33:06.000Z",
+    "edit_history_tweet_ids": [
+      "1758227959675039747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 125,
+          "end": 135,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 46,
+          "end": 50,
+          "tag": "PiS"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-15 21:33:06+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1758227959675039747",
+    "public_metrics": {
+      "retweet_count": 412,
+      "reply_count": 178,
+      "like_count": 2202,
+      "quote_count": 20,
+      "bookmark_count": 2,
+      "impression_count": 45286
+    },
+    "conversation_id": "1758227959675039747",
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "text": "@CichonAlicja @KrajewskaSylwia 😇",
+    "author_id": "61552404",
+    "created_at": "2024-02-13T21:32:05.000Z",
+    "edit_history_tweet_ids": [
+      "1757518026939748584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "CichonAlicja",
+          "id": "3369333629"
+        },
+        {
+          "start": 14,
+          "end": 30,
+          "username": "KrajewskaSylwia",
+          "id": "811346812015624193"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-13 22:32:05+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1757518026939748584",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 156
+    },
+    "conversation_id": "1757471524775207422",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1757517384150131098"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "3369333629",
+    "category": "Reply"
+  },
+  {
+    "text": "@OlaM51220492 🫡",
+    "author_id": "61552404",
+    "created_at": "2024-02-13T21:30:51.000Z",
+    "edit_history_tweet_ids": [
+      "1757517718796869654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "OlaM51220492",
+          "id": "1565031616241614848"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-13 22:30:51+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1757517718796869654",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 44
+    },
+    "conversation_id": "1757177422993076654",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1757186009664725407"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "1565031616241614848",
+    "category": "Reply"
+  },
+  {
+    "text": "@krzysztofmatus2 @fundacjawosp nie wyręcza! wspiera! i to jest piękne ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-02-13T21:29:43.000Z",
+    "edit_history_tweet_ids": [
+      "1757517433517060261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "krzysztofmatus2",
+          "id": "2225064500"
+        },
+        {
+          "start": 17,
+          "end": 30,
+          "username": "fundacjawosp",
+          "id": "96009219"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-13 22:29:43+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1757517433517060261",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 48
+    },
+    "conversation_id": "1757177422993076654",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1757453104658657734"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "2225064500",
+    "category": "Reply"
+  },
+  {
+    "text": "Wizyta w Lotniczym Pogotowiu Ratunkowym w Warszawie została wylicytowana za 44 544 zł, a spacer po Pałacu Paca, czyli siedzibie #MZ za 25 605 zł! \nDZIĘKUJĘ  i ZAPRASZAM❤️#WOŚP",
+    "author_id": "61552404",
+    "created_at": "2024-02-12T22:58:39.000Z",
+    "edit_history_tweet_ids": [
+      "1757177422993076654"
+    ],
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-12 23:58:39+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1757177422993076654",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 128,
+          "end": 131,
+          "tag": "MZ"
+        },
+        {
+          "start": 170,
+          "end": 175,
+          "tag": "WOŚP"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 47,
+      "reply_count": 24,
+      "like_count": 325,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7696
+    },
+    "conversation_id": "1757177422993076654",
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "text": "@wkrawcz1 @MWielichowska @barbaraanowacka o tym właśnie była konferencja „Wiedza Świadomość Życie”",
+    "author_id": "61552404",
+    "created_at": "2024-02-12T22:48:49.000Z",
+    "edit_history_tweet_ids": [
+      "1757174951872737780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "wkrawcz1",
+          "id": "716742538498060294"
+        },
+        {
+          "start": 10,
+          "end": 24,
+          "username": "MWielichowska",
+          "id": "2248939558"
+        },
+        {
+          "start": 25,
+          "end": 41,
+          "username": "barbaraanowacka",
+          "id": "291740186"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-12 23:48:49+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1757174951872737780",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 5,
+      "like_count": 33,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 1070
+    },
+    "conversation_id": "1757172907925459164",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1757173919914537451"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "716742538498060294",
+    "category": "Reply"
+  },
+  {
+    "text": "„Profilaktyka, głupcze!”chciałoby się powiedzieć, bo chociaż jej efekty będą widoczne dopiero za kilka/kilkanaście lat, to bez niej nie mamy szans na zdrowe życie‼️ https://t.co/2iR6pKkRkd",
+    "author_id": "61552404",
+    "created_at": "2024-02-12T22:40:42.000Z",
+    "edit_history_tweet_ids": [
+      "1757172907925459164"
+    ],
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-02-12 23:40:42+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1757172907925459164",
+    "public_metrics": {
+      "retweet_count": 150,
+      "reply_count": 82,
+      "like_count": 799,
+      "quote_count": 11,
+      "bookmark_count": 2,
+      "impression_count": 33438
+    },
+    "conversation_id": "1757172907925459164",
+    "attachments": {
+      "media_keys": [
+        "7_1757172877533626368"
+      ]
+    },
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 165,
+          "end": 188,
+          "url": "https://t.co/2iR6pKkRkd",
+          "expanded_url": "https://x.com/Leszczyna/status/1757172907925459164/video/1",
+          "display_url": "pic.x.com/2iR6pKkRkd",
+          "media_key": "7_1757172877533626368"
+        }
+      ]
+    },
+    "category": "Original"
+  },
+  {
+    "text": "@Boena38957684 @MZ_GOV_PL @PremierRP @KancelariaSejmu @MWielichowska @barbaraanowacka @MEN_GOVPL szukam dobrego rozwiązania dla @IPiN_Warszawa, jestem przekonana, że wspólnie z dyrekcją Instytutu je znajdziemy",
+    "author_id": "61552404",
+    "created_at": "2024-02-12T20:35:14.000Z",
+    "edit_history_tweet_ids": [
+      "1757141333683106246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Boena38957684",
+          "id": "1002301779067985921"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 26,
+          "end": 36,
+          "username": "PremierRP",
+          "id": "57626153"
+        },
+        {
+          "start": 37,
+          "end": 53,
+          "username": "KancelariaSejmu",
+          "id": "2534478097"
+        },
+        {
+          "start": 54,
+          "end": 68,
+          "username": "MWielichowska",
+          "id": "2248939558"
+        },
+        {
+          "start": 69,
+          "end": 85,
+          "username": "barbaraanowacka",
+          "id": "291740186"
+        },
+        {
+          "start": 86,
+          "end": 96,
+          "username": "MEN_GOVPL",
+          "id": "358921716"
+        },
+        {
+          "start": 128,
+          "end": 142,
+          "username": "IPiN_Warszawa",
+          "id": "1696450189270118400"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-12 21:35:14+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1757141333683106246",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 55
+    },
+    "conversation_id": "1757104227455754692",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1757134898991620597"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1002301779067985921",
+    "category": "Reply"
+  },
+  {
+    "text": "@smutnahistoria @ZbigniewHoldys @IwonaNazar33713 @EKOlodziejczak_ @Adbodnar dziękuję, wsparcie tweeterian 🥰 jest dla mnie bardzo ważne💪",
+    "author_id": "61552404",
+    "created_at": "2024-02-11T22:15:54.000Z",
+    "edit_history_tweet_ids": [
+      "1756804279543767389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "smutnahistoria",
+          "id": "1827768579602694145"
+        },
+        {
+          "start": 16,
+          "end": 31,
+          "username": "ZbigniewHoldys",
+          "id": "139741256"
+        },
+        {
+          "start": 32,
+          "end": 48,
+          "username": "IwonaNazar33713",
+          "id": "1642914076425703424"
+        },
+        {
+          "start": 49,
+          "end": 65,
+          "username": "EKOlodziejczak_",
+          "id": "1355817556339253249"
+        },
+        {
+          "start": 66,
+          "end": 75,
+          "username": "Adbodnar",
+          "id": "46060658"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-11 23:15:54+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1756804279543767389",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 11,
+      "like_count": 90,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 688
+    },
+    "conversation_id": "1756715787153186863",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1756744475211137216"
+      }
+    ],
+    "lang": "pl",
+    "in_reply_to_user_id": "1497693687161180168",
+    "category": "Reply"
+  },
+  {
+    "text": "@ZbigniewHoldys @EKOlodziejczak_ @Adbodnar ❤️",
+    "author_id": "61552404",
+    "created_at": "2024-02-11T22:12:39.000Z",
+    "edit_history_tweet_ids": [
+      "1756803462392578495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "ZbigniewHoldys",
+          "id": "139741256"
+        },
+        {
+          "start": 16,
+          "end": 32,
+          "username": "EKOlodziejczak_",
+          "id": "1355817556339253249"
+        },
+        {
+          "start": 33,
+          "end": 42,
+          "username": "Adbodnar",
+          "id": "46060658"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-11 23:12:39+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1756803462392578495",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 22,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1116
+    },
+    "conversation_id": "1756715787153186863",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1756715787153186863"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "139741256",
+    "category": "Reply"
+  },
+  {
+    "text": "@szumand 😌",
+    "author_id": "61552404",
+    "created_at": "2024-02-03T22:03:39.000Z",
+    "edit_history_tweet_ids": [
+      "1753902093855854777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "szumand",
+          "id": "2283459588"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-03 23:03:39+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1753902093855854777",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 467
+    },
+    "conversation_id": "1753837400021671952",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1753837400021671952"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "2283459588",
+    "category": "Reply"
+  },
+  {
+    "text": "@MelvinaUdall @szumand 😘",
+    "author_id": "61552404",
+    "created_at": "2024-02-03T19:01:23.000Z",
+    "edit_history_tweet_ids": [
+      "1753856223911235697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "MelvinaUdall",
+          "id": "3319858772"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "username": "szumand",
+          "id": "2283459588"
+        }
+      ]
+    },
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-03 20:01:23+00:00"
+    },
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "id": "1753856223911235697",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 65
+    },
+    "conversation_id": "1753837400021671952",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1753855588469997701"
+      }
+    ],
+    "lang": "qme",
+    "in_reply_to_user_id": "3319858772",
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "3319858772",
+    "id": "1753856223911235697",
+    "author_id": "61552404",
+    "text": "@MelvinaUdall @szumand 😘",
+    "conversation_id": "1753837400021671952",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-02-03 20:01:23+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 65
+    },
+    "created_at": "2024-02-03T19:01:23.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1753855588469997701"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "MelvinaUdall",
+          "id": "3319858772"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "username": "szumand",
+          "id": "2283459588"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1753856223911235697"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "32347383",
+    "id": "1752806026871480684",
+    "author_id": "61552404",
+    "text": "@olkagodlewska @MZ_GOV_PL przygotowujemy, zespół przy MZ niedługo zakończy prace analityczne nt. najlepszej diagnozy i dostępności ośrodków pomocy/wsparcia/ochrony zdrowia",
+    "conversation_id": "1752653497764364440",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-31 22:28:17+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 60
+    },
+    "created_at": "2024-01-31T21:28:17.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1752659674829140020"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "olkagodlewska",
+          "id": "32347383"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1752806026871480684"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "1499418416503046145",
+    "id": "1752801900007673955",
+    "author_id": "61552404",
+    "text": "@Fobia_Nowa @MZ_GOV_PL ❤️ \ndużo przede mną, ale 💪",
+    "conversation_id": "1752659171885945058",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-31 22:11:53+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 204
+    },
+    "created_at": "2024-01-31T21:11:53.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1752660804770340919"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Fobia_Nowa",
+          "id": "1499418416503046145"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1752801900007673955"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "2257865168",
+    "id": "1752800292628799681",
+    "author_id": "61552404",
+    "text": "@Lewactwo 😞",
+    "conversation_id": "1752706232971092387",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-31 22:05:29+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 27,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3628
+    },
+    "created_at": "2024-01-31T21:05:29.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1752706232971092387"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "Lewactwo",
+          "id": "1761437832944537600"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1752800292628799681"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "1589710388618317832",
+    "id": "1752799503839527150",
+    "author_id": "61552404",
+    "text": "@DrKermitHouse 👍",
+    "conversation_id": "1752790303067574713",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-31 22:02:21+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 644
+    },
+    "created_at": "2024-01-31T21:02:21.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1752790303067574713"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "DrKermitHouse",
+          "id": "1589710388618317832"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1752799503839527150"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "975271041957318656",
+    "id": "1751867303006716379",
+    "author_id": "61552404",
+    "text": "@LukierWazelina1 @MZ_GOV_PL czego Pan nie rozumie?",
+    "conversation_id": "1751556409727090936",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-29 08:18:07+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 61
+    },
+    "created_at": "2024-01-29T07:18:07.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1751863196359528563"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "LukierWazelina1",
+          "id": "975271041957318656"
+        },
+        {
+          "start": 17,
+          "end": 27,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1751867303006716379"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "1920167455",
+    "id": "1751718210141835283",
+    "author_id": "61552404",
+    "text": "@jamtojes 😇",
+    "conversation_id": "1751337419197009990",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-28 22:25:41+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 60
+    },
+    "created_at": "2024-01-28T21:25:41.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1751356242348343475"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "jamtojes",
+          "id": "1920167455"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1751718210141835283"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "1383109694361899012",
+    "id": "1751717833870803135",
+    "author_id": "61552404",
+    "text": "@LeeonBadBat 😂",
+    "conversation_id": "1751337419197009990",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-28 22:24:11+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 104
+    },
+    "created_at": "2024-01-28T21:24:11.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1751352800439591074"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "LeeonBadBat",
+          "id": "1383109694361899012"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1751717833870803135"
+    ],
+    "category": "Reply"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1751581170494488576"
+      ]
+    },
+    "id": "1751581205600874766",
+    "author_id": "61552404",
+    "text": "Zagrajmy razem🚁\nWspólnie z #WOŚP i #LPR\notwieramy przed Wami drzwi do niezapomnianej przygody. Licytuj, żeby odwiedzić bazę Lotniczego Pogotowia Ratunkowego💖 ➡️ https://t.co/4JAJj0J4SG https://t.co/grDhVZA8nZ",
+    "conversation_id": "1751581205600874766",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-28 13:21:16+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 194,
+      "reply_count": 153,
+      "like_count": 1215,
+      "quote_count": 10,
+      "bookmark_count": 1,
+      "impression_count": 19570
+    },
+    "created_at": "2024-01-28T12:21:16.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 27,
+          "end": 32,
+          "tag": "WOŚP"
+        },
+        {
+          "start": 35,
+          "end": 39,
+          "tag": "LPR"
+        }
+      ],
+      "urls": [
+        {
+          "start": 161,
+          "end": 184,
+          "url": "https://t.co/4JAJj0J4SG",
+          "expanded_url": "https://allegro.pl/oferta/minister-zdrowia-izabela-leszczyna-wizyta-w-lotniczym-pogotowiu-ratunkowym-15079582342",
+          "display_url": "allegro.pl/oferta/ministe…",
+          "status": 200,
+          "unwound_url": "https://allegro.pl/oferta/minister-zdrowia-izabela-leszczyna-wizyta-w-lotniczym-pogotowiu-ratunkowym-15079582342"
+        },
+        {
+          "start": 185,
+          "end": 208,
+          "url": "https://t.co/grDhVZA8nZ",
+          "expanded_url": "https://x.com/Leszczyna/status/1751581205600874766/photo/1",
+          "display_url": "pic.x.com/grDhVZA8nZ",
+          "media_key": "3_1751581170494488576"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1751581205600874766"
+    ],
+    "category": "Original"
+  },
+  {
+    "in_reply_to_user_id": "812949580866318337",
+    "id": "1751519697684598884",
+    "author_id": "61552404",
+    "text": "@ManOfWorseSort 🥰",
+    "conversation_id": "1751337419197009990",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-28 09:16:52+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 509
+    },
+    "created_at": "2024-01-28T08:16:52.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1751519010213052758"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "ManOfWorseSort",
+          "id": "812949580866318337"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1751519697684598884"
+    ],
+    "category": "Reply"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1751337414751084545"
+      ]
+    },
+    "id": "1751337419197009990",
+    "author_id": "61552404",
+    "text": "DZIĘKUJĘ ✌️❤️💃🏻 https://t.co/IdrO5B7nqx",
+    "conversation_id": "1751337419197009990",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-27 21:12:33+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 170,
+      "reply_count": 226,
+      "like_count": 2538,
+      "quote_count": 9,
+      "bookmark_count": 2,
+      "impression_count": 35330
+    },
+    "created_at": "2024-01-27T20:12:33.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 16,
+          "end": 39,
+          "url": "https://t.co/IdrO5B7nqx",
+          "expanded_url": "https://x.com/Leszczyna/status/1751337419197009990/photo/1",
+          "display_url": "pic.x.com/IdrO5B7nqx",
+          "media_key": "3_1751337414751084545"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1751337419197009990"
+    ],
+    "category": "Original"
+  },
+  {
+    "in_reply_to_user_id": "825820375560941568",
+    "id": "1750988087495426205",
+    "author_id": "61552404",
+    "text": "@MWardzyniakowa @MZ_GOV_PL wzajemnie,\ngdyby okazało się, że coś nie działa tak, jak napisałam, proszę dać znać, \ndużo zdrowia❣️",
+    "conversation_id": "1750814380055253131",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-26 22:04:26+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 7,
+      "like_count": 103,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1344
+    },
+    "created_at": "2024-01-26T21:04:26.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1750985380684345494"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "MWardzyniakowa",
+          "id": "825820375560941568"
+        },
+        {
+          "start": 16,
+          "end": 26,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1750988087495426205"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "825820375560941568",
+    "id": "1750976352365212073",
+    "author_id": "61552404",
+    "text": "@MWardzyniakowa @MZ_GOV_PL nie straciła Pani opieki, ale trzeba zgłosić się do programu: Opieka nad rodzinami wysokiego,dziedzicznie uwarunkowanego ryzyka zachorowania na raka piersi lub jajnika. W programie, po wizycie wstępnej i zakwalifikowaniu zrobią Pani badania genetyczne. Jeżeli są mutacje BRCA1 lub… https://t.co/kM1MQ7PwGw",
+    "conversation_id": "1750814380055253131",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-26 21:17:48+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 32,
+      "reply_count": 23,
+      "like_count": 282,
+      "quote_count": 4,
+      "bookmark_count": 9,
+      "impression_count": 8729
+    },
+    "created_at": "2024-01-26T20:17:48.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1750814380055253131"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "MWardzyniakowa",
+          "id": "825820375560941568"
+        },
+        {
+          "start": 16,
+          "end": 26,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ],
+      "urls": [
+        {
+          "start": 309,
+          "end": 332,
+          "url": "https://t.co/kM1MQ7PwGw",
+          "expanded_url": "https://x.com/i/web/status/1750976352365212073",
+          "display_url": "x.com/i/web/status/1…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1750976352365212073"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "811262566471176192",
+    "id": "1750601996824920363",
+    "author_id": "61552404",
+    "text": "@WojewodkaMarcin @Adbodnar @ArkadiuszMyrcha @MicWawrykiewicz @Gasiuk_Pihowicz @Kwiatkowski2011 @Dariusz_Jonski @MichalSzczerba @szejnfeld @JanGrabiec @GiertychRoman 👏👏👏",
+    "conversation_id": "1750535161324707928",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-25 20:30:15+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 312
+    },
+    "created_at": "2024-01-25T19:30:15.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1750535161324707928"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "WojewodkaMarcin",
+          "id": "811262566471176192"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "username": "Adbodnar",
+          "id": "46060658"
+        },
+        {
+          "start": 27,
+          "end": 43,
+          "username": "ArkadiuszMyrcha",
+          "id": "58348751"
+        },
+        {
+          "start": 44,
+          "end": 60,
+          "username": "MicWawrykiewicz",
+          "id": "4172726818"
+        },
+        {
+          "start": 61,
+          "end": 77,
+          "username": "Gasiuk_Pihowicz",
+          "id": "3401329131"
+        },
+        {
+          "start": 78,
+          "end": 94,
+          "username": "Kwiatkowski2011",
+          "id": "321859383"
+        },
+        {
+          "start": 95,
+          "end": 110,
+          "username": "Dariusz_Jonski",
+          "id": "509272614"
+        },
+        {
+          "start": 111,
+          "end": 126,
+          "username": "MichalSzczerba",
+          "id": "58919878"
+        },
+        {
+          "start": 127,
+          "end": 137,
+          "username": "szejnfeld",
+          "id": "535452316"
+        },
+        {
+          "start": 138,
+          "end": 149,
+          "username": "JanGrabiec",
+          "id": "605747501"
+        },
+        {
+          "start": 150,
+          "end": 164,
+          "username": "GiertychRoman",
+          "id": "2919694493"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1750601996824920363"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "3305466189",
+    "id": "1750438332843065744",
+    "author_id": "61552404",
+    "text": "@OklaDrewnowicz @faktypofaktach ❤️",
+    "conversation_id": "1750234740085457003",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-25 09:39:54+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 511
+    },
+    "created_at": "2024-01-25T08:39:54.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1750234740085457003"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "OklaDrewnowicz",
+          "id": "3305466189"
+        },
+        {
+          "start": 16,
+          "end": 31,
+          "username": "faktypofaktach",
+          "id": "125098765"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1750438332843065744"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "1329318629091971076",
+    "id": "1750166350117356007",
+    "author_id": "61552404",
+    "text": "@MagdaR777 od kilku dni spotykam się z przedstawicielami psychiatrów, z krajową konsultant ds. psychiatrii dziecięcej i młodzieżowej, szukamy sposobów na rozwiązywanie problemów, bo jest ich bardzo dużo:(\nnaprawdę zajmuję się tym i boli mnie to, co dzieje się z dzieciakami małymi i… https://t.co/4fRNRqTuBL",
+    "conversation_id": "1750147865203142725",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-24 15:39:09+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 6,
+      "like_count": 30,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 727
+    },
+    "created_at": "2024-01-24T14:39:09.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1750158269396517347"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "MagdaR777",
+          "id": "1329318629091971076"
+        }
+      ],
+      "urls": [
+        {
+          "start": 284,
+          "end": 307,
+          "url": "https://t.co/4fRNRqTuBL",
+          "expanded_url": "https://x.com/i/web/status/1750166350117356007",
+          "display_url": "x.com/i/web/status/1…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1750166350117356007"
+    ],
+    "category": "Reply"
+  },
+  {
+    "id": "1750147865203142725",
+    "author_id": "61552404",
+    "text": "Realizujemy jeden z naszych #100Konkretów✌️\nzapewniamy dostęp do antykoncepcji awaryjnej bez recepty. \n#PrawaKobiet",
+    "conversation_id": "1750147865203142725",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-24 14:25:41+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 119,
+      "reply_count": 69,
+      "like_count": 598,
+      "quote_count": 4,
+      "bookmark_count": 1,
+      "impression_count": 13426
+    },
+    "created_at": "2024-01-24T13:25:41.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 28,
+          "end": 41,
+          "tag": "100Konkretów"
+        },
+        {
+          "start": 103,
+          "end": 115,
+          "tag": "PrawaKobiet"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1750147865203142725"
+    ],
+    "category": "Original"
+  },
+  {
+    "in_reply_to_user_id": "2308827908",
+    "id": "1749890020926799892",
+    "author_id": "61552404",
+    "text": "@romekcz @Arlukowicz 😉",
+    "conversation_id": "1749886901023076703",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-23 21:21:07+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 195
+    },
+    "created_at": "2024-01-23T20:21:07.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1749889757109256646"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "romekcz",
+          "id": "2308827908"
+        },
+        {
+          "start": 9,
+          "end": 20,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1749890020926799892"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "1257661741611323395",
+    "id": "1749099350976868405",
+    "author_id": "61552404",
+    "text": "@WkurzonaLady Ostatnio rozmawiam tylko z lekarzami, bardzo różnymi, od profesorów po rezydentów i innymi pracownikami ochrony zdrowia. Widzę, że jest bardzo dużo do zrobienia, niestety narazie gonię czas, żeby załatwić tysiąc spraw, które powinny być załatwione kilka miesięcy albo kilka lat… https://t.co/bZhb1GkPjQ",
+    "conversation_id": "1749085766972551679",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-21 16:59:16+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 16,
+      "reply_count": 23,
+      "like_count": 248,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 9180
+    },
+    "created_at": "2024-01-21T15:59:16.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1749085766972551679"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "WkurzonaLady",
+          "id": "1257661741611323395"
+        }
+      ],
+      "urls": [
+        {
+          "start": 293,
+          "end": 316,
+          "url": "https://t.co/bZhb1GkPjQ",
+          "expanded_url": "https://x.com/i/web/status/1749099350976868405",
+          "display_url": "x.com/i/web/status/1…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1749099350976868405"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "985545608189575168",
+    "id": "1748773082062319674",
+    "author_id": "61552404",
+    "text": "@MichalinaB2 👍 pracujemy nad takim rozwiązaniem….",
+    "conversation_id": "1748743641013649873",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-20 19:22:48+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 19,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 850
+    },
+    "created_at": "2024-01-20T18:22:48.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1748743641013649873"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "MichalinaB2",
+          "id": "985545608189575168"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1748773082062319674"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "168146194",
+    "id": "1748087763117719877",
+    "author_id": "61552404",
+    "text": "@fundacja_alivia @MZ_GOV_PL Zgoda! Z przedstawicielami organizacji pacjenckich spotkam się, zgodnie z naszą umową. Dzisiaj rozmawialiśmy przede wszystkim o tym, czy podmioty lecznicze są gotowe na wejście w życie ustawy o Krajowej Sieci Onkologicznej i czy są wystarczające podstawy prawne i systemy… https://t.co/9c0J3dLHS7",
+    "conversation_id": "1748012694517457367",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-18 21:59:35+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 4,
+      "like_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 542
+    },
+    "created_at": "2024-01-18T20:59:35.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1748025938191765958"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "fundacja_alivia",
+          "id": "168146194"
+        },
+        {
+          "start": 17,
+          "end": 27,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        }
+      ],
+      "urls": [
+        {
+          "start": 301,
+          "end": 324,
+          "url": "https://t.co/9c0J3dLHS7",
+          "expanded_url": "https://x.com/i/web/status/1748087763117719877",
+          "display_url": "x.com/i/web/status/1…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1748087763117719877"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "90516952",
+    "id": "1746411502565732413",
+    "author_id": "61552404",
+    "text": "@MarioRebeliant @donaldtusk @WcisloMarta123 @MGolbik @JaninaOchojska @danutahuebner @Beata_Andre @Gasiuk_Pihowicz @JoankaSW @LepkowskaGolas @MKierwinski @MichalSzczerba @Dariusz_Jonski @KrzysztofBrejza @AndrzejHalicki dziękuję 🥰",
+    "conversation_id": "1746280815204446254",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-14 06:58:43+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 259
+    },
+    "created_at": "2024-01-14T05:58:43.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1746283958004818157"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "MarioRebeliant",
+          "id": "90516952"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "username": "donaldtusk",
+          "id": "375146901"
+        },
+        {
+          "start": 28,
+          "end": 43,
+          "username": "WcisloMarta123",
+          "id": "1654556879106846721"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "username": "MGolbik",
+          "id": "3823794201"
+        },
+        {
+          "start": 53,
+          "end": 68,
+          "username": "JaninaOchojska",
+          "id": "2200120927"
+        },
+        {
+          "start": 69,
+          "end": 83,
+          "username": "danutahuebner",
+          "id": "1934463319"
+        },
+        {
+          "start": 84,
+          "end": 96,
+          "username": "Beata_Andre",
+          "id": "1084786073723637768"
+        },
+        {
+          "start": 97,
+          "end": 113,
+          "username": "Gasiuk_Pihowicz",
+          "id": "3401329131"
+        },
+        {
+          "start": 114,
+          "end": 123,
+          "username": "JoankaSW",
+          "id": "2515851247"
+        },
+        {
+          "start": 124,
+          "end": 139,
+          "username": "LepkowskaGolas",
+          "id": "1035616803802804228"
+        },
+        {
+          "start": 140,
+          "end": 152,
+          "username": "MKierwinski",
+          "id": "308367619"
+        },
+        {
+          "start": 153,
+          "end": 168,
+          "username": "MichalSzczerba",
+          "id": "58919878"
+        },
+        {
+          "start": 169,
+          "end": 184,
+          "username": "Dariusz_Jonski",
+          "id": "509272614"
+        },
+        {
+          "start": 185,
+          "end": 201,
+          "username": "krzysztofbrejza",
+          "id": "87795577"
+        },
+        {
+          "start": 202,
+          "end": 217,
+          "username": "AndrzejHalicki",
+          "id": "993849096"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1746411502565732413"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "90516952",
+    "id": "1743700274890330147",
+    "author_id": "61552404",
+    "text": "@MarioRebeliant @donaldtusk @WcisloMarta123 @MGolbik @JaninaOchojska @danutahuebner @Beata_Andre @LepkowskaGolas @MKierwinski @MichalSzczerba @Dariusz_Jonski @KrzysztofBrejza @AndrzejHalicki @mswitczak @JanGrabiec @SlawomirNitras @AGajewska ❤️",
+    "conversation_id": "1743696253953646820",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-06 19:25:16+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 137
+    },
+    "created_at": "2024-01-06T18:25:16.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1743699939442471128"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "MarioRebeliant",
+          "id": "90516952"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "username": "donaldtusk",
+          "id": "375146901"
+        },
+        {
+          "start": 28,
+          "end": 43,
+          "username": "WcisloMarta123",
+          "id": "1654556879106846721"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "username": "MGolbik",
+          "id": "3823794201"
+        },
+        {
+          "start": 53,
+          "end": 68,
+          "username": "JaninaOchojska",
+          "id": "2200120927"
+        },
+        {
+          "start": 69,
+          "end": 83,
+          "username": "danutahuebner",
+          "id": "1934463319"
+        },
+        {
+          "start": 84,
+          "end": 96,
+          "username": "Beata_Andre",
+          "id": "1084786073723637768"
+        },
+        {
+          "start": 97,
+          "end": 112,
+          "username": "LepkowskaGolas",
+          "id": "1035616803802804228"
+        },
+        {
+          "start": 113,
+          "end": 125,
+          "username": "MKierwinski",
+          "id": "308367619"
+        },
+        {
+          "start": 126,
+          "end": 141,
+          "username": "MichalSzczerba",
+          "id": "58919878"
+        },
+        {
+          "start": 142,
+          "end": 157,
+          "username": "Dariusz_Jonski",
+          "id": "509272614"
+        },
+        {
+          "start": 158,
+          "end": 174,
+          "username": "KrzysztofBrejza",
+          "id": "87795577"
+        },
+        {
+          "start": 175,
+          "end": 190,
+          "username": "AndrzejHalicki",
+          "id": "993849096"
+        },
+        {
+          "start": 191,
+          "end": 201,
+          "username": "mswitczak",
+          "id": "1868598290"
+        },
+        {
+          "start": 202,
+          "end": 213,
+          "username": "JanGrabiec",
+          "id": "605747501"
+        },
+        {
+          "start": 214,
+          "end": 229,
+          "username": "SlawomirNitras",
+          "id": "74463657"
+        },
+        {
+          "start": 230,
+          "end": 240,
+          "username": "AGajewska",
+          "id": "220816457"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1743700274890330147"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "519868708",
+    "id": "1743598438636290528",
+    "author_id": "61552404",
+    "text": "@tomziel1 @MZ_GOV_PL @NaczelnaL @FederacjaPZ @JacekKrajewski1 @SobolewskiMarek @MSWiA_GOV_PL @MarekKos5 @MKierwinski Na pewno warto! Niestety mam wrażenie, że od czerwca 2023 r. kierownictwo Ministerstwa Zdrowia nie istniało, a na pewno nie podejmowało ważnych dla pacjentów/lekarzy decyzji. Problemów do rozwiązania (małych i dużych) mamy bardzo wiele i liczę, że wspólnie to zrobimy🤝",
+    "conversation_id": "1737976484860416493",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-06 12:40:36+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 191
+    },
+    "created_at": "2024-01-06T11:40:36.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1737976484860416493"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "tomziel1",
+          "id": "519868708"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "MZ_GOV_PL",
+          "id": "462886126"
+        },
+        {
+          "start": 21,
+          "end": 31,
+          "username": "NaczelnaL",
+          "id": "1132948096797880320"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "username": "FederacjaPZ",
+          "id": "1623972979460669440"
+        },
+        {
+          "start": 45,
+          "end": 61,
+          "username": "JacekKrajewski1",
+          "id": "507784323"
+        },
+        {
+          "start": 62,
+          "end": 78,
+          "username": "SobolewskiMarek",
+          "id": "2537070526"
+        },
+        {
+          "start": 79,
+          "end": 92,
+          "username": "MSWiA_GOV_PL",
+          "id": "362334069"
+        },
+        {
+          "start": 93,
+          "end": 103,
+          "username": "MarekKos5",
+          "id": "2832532043"
+        },
+        {
+          "start": 104,
+          "end": 116,
+          "username": "MKierwinski",
+          "id": "308367619"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1743598438636290528"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "395512312",
+    "id": "1743038574587461763",
+    "author_id": "61552404",
+    "text": "@anusiek73 😍",
+    "conversation_id": "1743037584857530834",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-04 23:35:54+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 166
+    },
+    "created_at": "2024-01-04T22:35:54.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1743038113687974081"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "anusiek73",
+          "id": "395512312"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1743038574587461763"
+    ],
+    "category": "Reply"
+  },
+  {
+    "id": "1743038241194778911",
+    "author_id": "61552404",
+    "text": "Rozliczymy👇 https://t.co/CP8d4rs9hY",
+    "conversation_id": "1743038241194778911",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-04 23:34:35+00:00"
+    },
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 94,
+      "reply_count": 80,
+      "like_count": 558,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 20716
+    },
+    "created_at": "2024-01-04T22:34:35.000Z",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1742949765120180303"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 12,
+          "end": 35,
+          "url": "https://t.co/CP8d4rs9hY",
+          "expanded_url": "https://twitter.com/MZ_GOV_PL/status/1742949765120180303",
+          "display_url": "x.com/MZ_GOV_PL/stat…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1743038241194778911"
+    ],
+    "category": "Quote"
+  },
+  {
+    "id": "1743037584857530834",
+    "author_id": "61552404",
+    "text": "💙💙💙👇 https://t.co/FbDbxHrHOi",
+    "conversation_id": "1743037584857530834",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-01-04 23:31:58+00:00"
+    },
+    "lang": "art",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 8,
+      "like_count": 176,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 10115
+    },
+    "created_at": "2024-01-04T22:31:58.000Z",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1742861012028498069"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 5,
+          "end": 28,
+          "url": "https://t.co/FbDbxHrHOi",
+          "expanded_url": "https://twitter.com/MZ_GOV_PL/status/1742861012028498069",
+          "display_url": "x.com/MZ_GOV_PL/stat…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1743037584857530834"
+    ],
+    "category": "Quote"
+  },
+  {
+    "in_reply_to_user_id": "957235304083152896",
+    "id": "1741898215593517466",
+    "author_id": "61552404",
+    "text": "@fryszer_piotr @MichalSzczerba @Dariusz_Jonski @MKierwinski @EKOlodziejczak_ 💪😇",
+    "conversation_id": "1741525667945062739",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-01 20:04:32+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 933
+    },
+    "created_at": "2024-01-01T19:04:32.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1741525667945062739"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 15,
+          "end": 30,
+          "username": "MichalSzczerba",
+          "id": "58919878"
+        },
+        {
+          "start": 31,
+          "end": 46,
+          "username": "Dariusz_Jonski",
+          "id": "509272614"
+        },
+        {
+          "start": 47,
+          "end": 59,
+          "username": "MKierwinski",
+          "id": "308367619"
+        },
+        {
+          "start": 60,
+          "end": 76,
+          "username": "EKOlodziejczak_",
+          "id": "1355817556339253249"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1741898215593517466"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "1080752100",
+    "id": "1741897959288066530",
+    "author_id": "61552404",
+    "text": "@ElzbietaPlatek ❤️",
+    "conversation_id": "1741896233113784817",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-01 20:03:31+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 503
+    },
+    "created_at": "2024-01-01T19:03:31.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1741896233113784817"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "ElzbietaPlatek",
+          "id": "1080752100"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1741897959288066530"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "812232271830876161",
+    "id": "1741897914681548894",
+    "author_id": "61552404",
+    "text": "@Madel_Krzysztof ❤️❤️❤️",
+    "conversation_id": "1741593530101854393",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-01 20:03:20+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 408
+    },
+    "created_at": "2024-01-01T19:03:20.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1741897712784560628"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Madel_Krzysztof",
+          "id": "812232271830876161"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1741897914681548894"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "1271401282394259459",
+    "id": "1741788622397812981",
+    "author_id": "61552404",
+    "text": "@Bobik57 👍",
+    "conversation_id": "1741593530101854393",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-01 12:49:03+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 452
+    },
+    "created_at": "2024-01-01T11:49:03.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1741765066519621771"
+      }
+    ],
+    "edit_history_tweet_ids": [
+      "1741788622397812981"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "797751536197767168",
+    "id": "1741788441963049445",
+    "author_id": "61552404",
+    "text": "@drakkar2850 😂🥰",
+    "conversation_id": "1741593530101854393",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-01 12:48:20+00:00"
+    },
+    "lang": "qme",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 761
+    },
+    "created_at": "2024-01-01T11:48:20.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1741623571074416856"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "drakkar2850",
+          "id": "797751536197767168"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1741788441963049445"
+    ],
+    "category": "Reply"
+  },
+  {
+    "in_reply_to_user_id": "2280346687",
+    "id": "1741784908379439450",
+    "author_id": "61552404",
+    "text": "@M_K_Blonska 🖤🖤🖤 R.I.P.",
+    "conversation_id": "1741733264400728239",
+    "possibly_sensitive": false,
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-01 12:34:17+00:00"
+    },
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 21,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3192
+    },
+    "created_at": "2024-01-01T11:34:17.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1741733264400728239"
+      }
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "M_K_Blonska",
+          "id": "2280346687"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1741784908379439450"
+    ],
+    "category": "Reply"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "M_K_Blonska",
+          "id": "2280346687"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1741784908379439450"
+    ],
+    "possibly_sensitive": false,
+    "in_reply_to_user_id": "2280346687",
+    "created_at": "2024-01-01T11:34:17.000Z",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1741733264400728239"
+      }
+    ],
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 21,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3192
+    },
+    "text": "@M_K_Blonska 🖤🖤🖤 R.I.P.",
+    "conversation_id": "1741733264400728239",
+    "id": "1741784908379439450",
+    "author_id": "61552404",
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-01-01 12:34:17+00:00"
+    },
+    "category": "Reply"
+  }
+]
