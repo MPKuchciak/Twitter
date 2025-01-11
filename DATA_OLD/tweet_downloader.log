@@ -1,0 +1,42 @@
+2025-01-09 20:35:27,692 - INFO - 
+Fetching up to 5 tweets from @Arlukowicz...
+2025-01-09 20:35:28,225 - INFO - No more tweets found.
+2025-01-09 20:35:28,225 - INFO - No tweets fetched for @Arlukowicz.
+2025-01-09 20:36:05,613 - INFO - 
+Fetching up to 5 tweets from @Arlukowicz...
+2025-01-09 20:36:06,106 - WARNING - Rate limit exceeded. Sleeping for 866 seconds.
+2025-01-09 20:41:33,659 - INFO - 
+Fetching up to 5 tweets from @Arlukowicz...
+2025-01-09 20:41:34,169 - WARNING - Rate limit exceeded. Sleeping for 538 seconds.
+2025-01-09 20:50:32,493 - INFO - Fetched 3 tweets so far for user ID 101561338.
+2025-01-09 20:50:32,501 - INFO - Added 3 new tweets to Arlukowicz_tweets.json.
+2025-01-09 21:14:30,452 - INFO - 
+Fetching up to 5 tweets from @Arlukowicz...
+2025-01-09 21:14:31,035 - INFO - Fetched 3 tweets so far for user ID 101561338.
+2025-01-09 21:14:31,037 - INFO - No new tweets to add for Arlukowicz_tweets.json.
+2025-01-09 21:43:28,985 - INFO - 
+Fetching up to 20 tweets from @Arlukowicz...
+2025-01-09 21:43:29,515 - ERROR - Error fetching tweets: 400 {"errors":[{"parameters":{"start_time":["2024-03-11T12:24:06.000"]},"message":"The `start_time` query parameter value [2024-03-11T12:24:06.000] is not a valid RFC3339 date-time."},{"parameters":{"end_time":["2024-03-28 14:18:00+00:00"]},"message":"The `end_time` query parameter value [2024-03-28 14:18:00+00:00] is not a valid RFC3339 date-time."}],"title":"Invalid Request","detail":"One or more parameters to your request was invalid.","type":"https://api.twitter.com/2/problems/invalid-request"}
+2025-01-09 21:43:29,516 - INFO - No tweets fetched for @Arlukowicz.
+2025-01-09 21:43:58,280 - INFO - 
+Fetching up to 20 tweets from @Arlukowicz...
+2025-01-09 21:43:58,777 - WARNING - Rate limit exceeded. Sleeping for 876 seconds.
+2025-01-09 21:45:04,716 - INFO - 
+Fetching up to 20 tweets from @Arlukowicz...
+2025-01-09 21:45:05,229 - WARNING - Rate limit exceeded. Sleeping for 809 seconds.
+2025-01-09 21:58:34,502 - INFO - No more tweets found.
+2025-01-09 21:58:34,503 - INFO - No tweets fetched for @Arlukowicz.
+2025-01-09 22:03:07,946 - INFO - 
+Fetching up to 20 tweets from @Arlukowicz...
+2025-01-09 22:03:08,452 - WARNING - Rate limit exceeded. Sleeping for 631 seconds.
+2025-01-09 22:13:39,769 - INFO - No more tweets found.
+2025-01-09 22:13:39,770 - INFO - No tweets fetched for @Arlukowicz.
+2025-01-09 22:31:31,441 - INFO - 
+Fetching up to 20 tweets from @Arlukowicz...
+2025-01-09 22:31:31,974 - INFO - No more tweets found.
+2025-01-09 22:31:31,975 - INFO - No tweets fetched for @Arlukowicz.
+2025-01-09 22:32:01,018 - INFO - 
+Fetching up to 20 tweets from @Arlukowicz...
+2025-01-09 22:32:01,551 - WARNING - Rate limit exceeded. Sleeping for 875 seconds.
+2025-01-09 22:46:37,368 - INFO - Fetched 20 tweets so far for user ID 101561338.
+2025-01-09 22:46:38,411 - INFO - Added 20 new tweets to Arlukowicz_tweets.json.

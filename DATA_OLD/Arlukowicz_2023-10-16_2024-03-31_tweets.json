@@ -1,0 +1,2168 @@
+[
+  {
+    "id": "1773407918479528238",
+    "text": "W Trybunale Konstytucyjnym jeden jest na bank. https://t.co/xhT97iycQw",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 1,
+      "like_count": 71,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 5046
+    },
+    "conversation_id": "1773407918479528238",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-28T17:52:50.000Z",
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1773407918479528238"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-28 18:52:50+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1773407083934646627"
+      }
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 47,
+          "end": 70,
+          "url": "https://t.co/xhT97iycQw",
+          "expanded_url": "https://twitter.com/MaciejBerek/status/1773407083934646627",
+          "display_url": "x.com/MaciejBerek/st…"
+        }
+      ]
+    },
+    "category": "Quote"
+  },
+  {
+    "id": "1773350976860131403",
+    "text": "RT @ObserwatorXY: 📺 B. Arłukowicz dziś w #FaktyPoFaktach o rozsypującej się prawicy - godz. 19:25! 🙂",
+    "public_metrics": {
+      "retweet_count": 9,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "1773350976860131403",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-28T14:06:34.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 41,
+          "end": 56,
+          "tag": "FaktyPoFaktach"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1773350976860131403"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28 15:06:34+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773350354744135741"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1773338752380756046",
+    "text": "O upadającej a kiedyś „zjednoczonej” prawicy dzisiaj (czwartek) o godz. 19.30 w @faktypofaktach w @tvn24 \nZapraszam! https://t.co/MH1CJuPD9L",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 94,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 6121
+    },
+    "conversation_id": "1773338752380756046",
+    "possibly_sensitive": false,
+    "attachments": {
+      "media_keys": [
+        "3_1773338745032364032"
+      ]
+    },
+    "created_at": "2024-03-28T13:18:00.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 80,
+          "end": 95,
+          "username": "faktypofaktach",
+          "id": "125098765"
+        },
+        {
+          "start": 98,
+          "end": 104,
+          "username": "tvn24",
+          "id": "14493047"
+        }
+      ],
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/MH1CJuPD9L",
+          "expanded_url": "https://x.com/Arlukowicz/status/1773338752380756046/photo/1",
+          "display_url": "pic.x.com/MH1CJuPD9L",
+          "media_key": "3_1773338745032364032"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1773338752380756046"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-28 14:18:00+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "id": "1773327587764265470",
+    "text": "RT @ObserwatorXY: .@Arlukowicz o tabletce 'dzień po': Mam nadzieję, że prezydent zachowa się w sposób prokobiecy, a nie propisowski.\nI o 'p…",
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "1773327587764265470",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-28T12:33:38.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1773327587764265470"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28 13:33:38+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773313822247244063"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1773063052084003073",
+    "text": "RT @ObserwatorXY: .@Arlukowicz w #Wałcz: Różnica między nami a naszymi przeciwnikami politycznymi polega na tym, że my chcemy władzę oddać…",
+    "public_metrics": {
+      "retweet_count": 11,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773063052084003073",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-27T19:02:28.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 39,
+          "tag": "Wałcz"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1773063052084003073"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27 20:02:28+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773002047031230616"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1772942444687991073",
+    "text": "RT @DziennikPL: Minister Cieszyński promował się za publiczne pieniądze https://t.co/3GQQLNsChp",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1772942444687991073",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-27T11:03:13.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "DziennikPL",
+          "id": "104521525"
+        }
+      ],
+      "urls": [
+        {
+          "start": 72,
+          "end": 95,
+          "url": "https://t.co/3GQQLNsChp",
+          "expanded_url": "https://wiadomosci.dziennik.pl/polityka/artykuly/9472916,minister-cieszynski-promowal-sie-za-publiczne-pieniadze.html",
+          "display_url": "wiadomosci.dziennik.pl/polityka/artyk…",
+          "status": 200,
+          "unwound_url": "https://wiadomosci.dziennik.pl/polityka/artykuly/9472916,minister-cieszynski-promowal-sie-za-publiczne-pieniadze.html"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1772942444687991073"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27 12:03:13+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1772939150670610751"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1772693672129171851",
+    "text": "RT @ObserwatorXY: 📍Rozliczenie środków z wycieczki do Japonii, niezastosowanie się do wyroku sądowego oraz wykorzystywanie lokalu komunalne…",
+    "public_metrics": {
+      "retweet_count": 108,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1772693672129171851",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-26T18:34:41.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1772693672129171851"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-26 19:34:41+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1772693344839241885"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1772640620600844700",
+    "text": "RT @LubuskaPO: Marszałek Senatu @M_K_Blonska podczas konwencji wyborczej w Zielonej Górze:\nTu warto przyjeżdżać. Wasza energia jest inspira…",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "1772640620600844700",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-26T15:03:52.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "LubuskaPO",
+          "id": "774135748668760069"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "username": "M_K_Blonska",
+          "id": "2280346687"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1772640620600844700"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-26 16:03:52+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1772630930710032489"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1772359054037336569",
+    "text": "RT @Ismetremy: Jutro do porannej Kawy Pan @Arlukowicz o kampanii samorządowej.",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1772359054037336569",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-25T20:25:01.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "Ismetremy",
+          "id": "1519420635482664964"
+        },
+        {
+          "start": 42,
+          "end": 53,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1772359054037336569"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-25 21:25:01+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1772357363439223060"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1772344640227742007",
+    "text": "RT @wirtualnapolska: Jutro o 7️⃣:4️⃣5️⃣ gościem @wroblewski_m będzie Bartosz @Arlukowicz, @KO_Obywatelska \n\nZapraszamy do oglądania program…",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1772344640227742007",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-25T19:27:45.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "wirtualnapolska",
+          "id": "68277403"
+        },
+        {
+          "start": 48,
+          "end": 61,
+          "username": "wroblewski_m",
+          "id": "525435943"
+        },
+        {
+          "start": 77,
+          "end": 88,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        },
+        {
+          "start": 90,
+          "end": 105,
+          "username": "KO_Obywatelska",
+          "id": "1253005734641614849"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1772344640227742007"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-25 20:27:45+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1772343294720143804"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1770773630395322811",
+    "text": "Dziewczyny z #Resko🙂 gościliśmy dziś w Sejmie. Resko ważne dla mnie, bo tam parę ładnych lat temu zobaczyłem pierwszy raz świat! Dzięki @M_K_Blonska za możliwość zwiedzenia gabinetu Marszałka! Agnieszka i Dorota! Dzięki za spotkanie! https://t.co/B1HFTloXZG",
+    "public_metrics": {
+      "retweet_count": 15,
+      "reply_count": 3,
+      "like_count": 89,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 4566
+    },
+    "conversation_id": "1770773630395322811",
+    "possibly_sensitive": false,
+    "attachments": {
+      "media_keys": [
+        "3_1770773616428290049",
+        "3_1770773616373706752",
+        "3_1770773616377868288"
+      ]
+    },
+    "created_at": "2024-03-21T11:25:07.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 136,
+          "end": 148,
+          "username": "M_K_Blonska",
+          "id": "2280346687"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 13,
+          "end": 19,
+          "tag": "Resko"
+        }
+      ],
+      "urls": [
+        {
+          "start": 234,
+          "end": 257,
+          "url": "https://t.co/B1HFTloXZG",
+          "expanded_url": "https://x.com/Arlukowicz/status/1770773630395322811/photo/1",
+          "display_url": "pic.x.com/B1HFTloXZG",
+          "media_key": "3_1770773616428290049"
+        },
+        {
+          "start": 234,
+          "end": 257,
+          "url": "https://t.co/B1HFTloXZG",
+          "expanded_url": "https://x.com/Arlukowicz/status/1770773630395322811/photo/1",
+          "display_url": "pic.x.com/B1HFTloXZG",
+          "media_key": "3_1770773616373706752"
+        },
+        {
+          "start": 234,
+          "end": 257,
+          "url": "https://t.co/B1HFTloXZG",
+          "expanded_url": "https://x.com/Arlukowicz/status/1770773630395322811/photo/1",
+          "display_url": "pic.x.com/B1HFTloXZG",
+          "media_key": "3_1770773616377868288"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1770773630395322811"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-21 12:25:07+00:00"
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "category": "Original"
+  },
+  {
+    "id": "1770702640789242185",
+    "text": "RT @ObserwatorXY: 🔍Biznesmen B. powiązany z M. Morawieckim. Pandemia. Postępowanie o kryptonimie „Biznes” miało trafić do prokuratury, lecz…",
+    "public_metrics": {
+      "retweet_count": 50,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1770702640789242185",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-21T06:43:02.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1770702640789242185"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-21 07:43:02+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1770701777039450387"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1770550818141352184",
+    "text": "RT @ObserwatorXY: Arłukowicz do MZ: na waszym miejscu sprawdziłbym w jaki sposób wydano 800 mln zł z Funduszu Medycznego.\nhttps://t.co/6sb2…",
+    "public_metrics": {
+      "retweet_count": 65,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1770550818141352184",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-20T20:39:44.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1770550818141352184"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-20 21:39:44+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1770549773226893812"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1770452309933187251",
+    "text": "RT @ObserwatorXY: Rosjanom, na których zostały nałożone sankcje ❗️",
+    "public_metrics": {
+      "retweet_count": 27,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1770452309933187251",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-20T14:08:18.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1770452309933187251"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-20 15:08:18+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1770451329028088247"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1770169981453390119",
+    "text": "RT @ObserwatorXY: Sergiusz Pietrosz = Siergiej Pietrow. I przyspieszenie wizy dla niego. Nieźle, panie Kołakowski 🤦‍♀️",
+    "public_metrics": {
+      "retweet_count": 14,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1770169981453390119",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-19T19:26:26.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1770169981453390119"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-19 20:26:26+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1770168816158286191"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1770124187962581079",
+    "text": "RT @MichalSzczerba: Z mandatu posła i ministra uczynili wytrych do nielegalnego procederu! #KomisjaWizowa #AferaWizowa",
+    "public_metrics": {
+      "retweet_count": 132,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1770124187962581079",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-19T16:24:28.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "MichalSzczerba",
+          "id": "58919878"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 91,
+          "end": 105,
+          "tag": "KomisjaWizowa"
+        },
+        {
+          "start": 106,
+          "end": 118,
+          "tag": "AferaWizowa"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1770124187962581079"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-19 17:24:28+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1770123272752894454"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1769679770684416417",
+    "text": "Świat jest jednak pełen zakrętów. Po 9 długich latach dostałem zaproszenie do Rozmowy pod krawatem w @radioszczecin🙂",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 9,
+      "like_count": 316,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 7878
+    },
+    "conversation_id": "1769679770684416417",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-18T10:58:31.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 101,
+          "end": 115,
+          "username": "radioszczecin",
+          "id": "58224658"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769679770684416417"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-18 11:58:31+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "id": "1769657703356375224",
+    "text": "RT @RadomirWit: Wtem nadeszła z niespodziewanej strony recenzja działalności ministra Mariusza Błaszczaka. https://t.co/IPxwIswtM3",
+    "public_metrics": {
+      "retweet_count": 684,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1769657703356375224",
+    "possibly_sensitive": false,
+    "attachments": {
+      "media_keys": [
+        "3_1769656053103198208"
+      ],
+      "media_source_tweet_id": [
+        "1769656058392256702"
+      ]
+    },
+    "created_at": "2024-03-18T09:30:49.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "RadomirWit",
+          "id": "2583230956"
+        }
+      ],
+      "urls": [
+        {
+          "start": 107,
+          "end": 130,
+          "url": "https://t.co/IPxwIswtM3",
+          "expanded_url": "https://x.com/RadomirWit/status/1769656058392256702/photo/1",
+          "display_url": "pic.x.com/IPxwIswtM3",
+          "media_key": "3_1769656053103198208"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769657703356375224"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-18 10:30:49+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1769656058392256702"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1769642830526394503",
+    "text": "RT @Platforma_org: Jarosław Kaczyński zeznał, że był informowany o zakupie systemu szpiegowskiego, zanim był wicepremierem ds. bezpieczeńst…",
+    "public_metrics": {
+      "retweet_count": 120,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1769642830526394503",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-18T08:31:43.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "Platforma_org",
+          "id": "53003895"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769642830526394503"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-18 09:31:43+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1769642421317476417"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1769423373208007153",
+    "text": "RT @OnetWiadomosci: Poseł KO o przesłuchaniu Jarosława Kaczyńskiego. \"To absolutnie wymaga wyjaśnienia\" https://t.co/vmVi2UntlU",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1769423373208007153",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-17T17:59:41.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "OnetWiadomosci",
+          "id": "581793998"
+        }
+      ],
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/vmVi2UntlU",
+          "expanded_url": "http://dlvr.it/T4BZNj",
+          "display_url": "dlvr.it/T4BZNj",
+          "unwound_url": "http://dlvr.it/T4BZNj"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769423373208007153"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-17 18:59:41+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1769298391140622647"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1769328977171103940",
+    "text": "RT @ObserwatorXY: .@Arlukowicz o amunicji: Wnioski były składane między październikiem a 13 grudnia. Błaszczak zajmował się wtedy uciekanie…",
+    "public_metrics": {
+      "retweet_count": 42,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1769328977171103940",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-17T11:44:35.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769328977171103940"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-17 12:44:35+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1769328603181817903"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1769319422802428263",
+    "text": "RT @ObserwatorXY: 💬\"Kaczyński tak naprawdę obnażył trzy poważne problemy: kasę, wypływ niejawnych informacji i oskarżenie ludzi o przestęps…",
+    "public_metrics": {
+      "retweet_count": 11,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1769319422802428263",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-17T11:06:37.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769319422802428263"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-17 12:06:37+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1769313855773999535"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1769290575822426551",
+    "text": "RT @7DzienTygodnia: .@Arlukowicz o nagraniach Daniela Obajtka: Kto taśmami wojuje od taśm ginie. Kto te pluskwy tam zamontował? Jeśli służb…",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1769290575822426551",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-17T09:11:59.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "7DzienTygodnia",
+          "id": "1369253468872056833"
+        },
+        {
+          "start": 21,
+          "end": 32,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769290575822426551"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-17 10:11:59+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1769285623435731263"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1769054352398791075",
+    "text": "RT @Radio_ZET: Najważniejsze tematy, gorące dyskusje i różne punkty widzenia. Włącz Radio ZET w niedzielę o 9:00.\n\nZaprasza Andrzej Stankie…",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1769054352398791075",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-16T17:33:19.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "Radio_ZET",
+          "id": "42868406"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769054352398791075"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-16 18:33:19+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1769047382757368193"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1769024403197595946",
+    "text": "RT @ObserwatorXY: Prezes wiedział, nie powiedział, a to było tak... \nB. Arłukowicz 17 marca o godz. 9:00 w @Radio_Zet 🙂",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1769024403197595946",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-16T15:34:19.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 107,
+          "end": 117,
+          "username": "Radio_ZET",
+          "id": "42868406"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1769024403197595946"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-16 16:34:19+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1769024198565884191"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1768210017390350467",
+    "text": "Na rynku #Trzebiatów mnóstwo ludzi od samego rana. Z kandydatami na radnych i burmistrza rozmawiamy z ludźmi. Małe miasteczko a zainteresowanie wyborami bardzo duże!\n#KoalicjaObywatelska https://t.co/yRD8VuS15w",
+    "public_metrics": {
+      "retweet_count": 41,
+      "reply_count": 8,
+      "like_count": 208,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 6631
+    },
+    "conversation_id": "1768210017390350467",
+    "possibly_sensitive": false,
+    "attachments": {
+      "media_keys": [
+        "3_1768208648646377472",
+        "3_1768208648633823232",
+        "3_1768208648633815040",
+        "3_1768208648637964288"
+      ]
+    },
+    "created_at": "2024-03-14T09:38:14.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 9,
+          "end": 20,
+          "tag": "Trzebiatów"
+        },
+        {
+          "start": 166,
+          "end": 186,
+          "tag": "KoalicjaObywatelska"
+        }
+      ],
+      "urls": [
+        {
+          "start": 187,
+          "end": 210,
+          "url": "https://t.co/yRD8VuS15w",
+          "expanded_url": "https://x.com/Arlukowicz/status/1768210017390350467/photo/1",
+          "display_url": "pic.x.com/yRD8VuS15w",
+          "media_key": "3_1768208648646377472"
+        },
+        {
+          "start": 187,
+          "end": 210,
+          "url": "https://t.co/yRD8VuS15w",
+          "expanded_url": "https://x.com/Arlukowicz/status/1768210017390350467/photo/1",
+          "display_url": "pic.x.com/yRD8VuS15w",
+          "media_key": "3_1768208648633823232"
+        },
+        {
+          "start": 187,
+          "end": 210,
+          "url": "https://t.co/yRD8VuS15w",
+          "expanded_url": "https://x.com/Arlukowicz/status/1768210017390350467/photo/1",
+          "display_url": "pic.x.com/yRD8VuS15w",
+          "media_key": "3_1768208648633815040"
+        },
+        {
+          "start": 187,
+          "end": 210,
+          "url": "https://t.co/yRD8VuS15w",
+          "expanded_url": "https://x.com/Arlukowicz/status/1768210017390350467/photo/1",
+          "display_url": "pic.x.com/yRD8VuS15w",
+          "media_key": "3_1768208648637964288"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1768210017390350467"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-14 10:38:14+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "id": "1767222124303859846",
+    "text": "RT @ObserwatorXY: Sołtysi i studenci Uniwersytetu III wieku z #Pyrzyce zwiedzają Sejm 🙂 Aż 9 godzin drogi, ale warto!🙂",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1767222124303859846",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-11T16:12:42.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 62,
+          "end": 70,
+          "tag": "Pyrzyce"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1767222124303859846"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-11 17:12:42+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1767221518398857709"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1767168125324186057",
+    "text": "RT @OnetWiadomosci: Michał Szczerba mówi o \"fabryce wiz\". Wskazuje na Zbigniewa Raua https://t.co/Rcs3wqD4Wv",
+    "public_metrics": {
+      "retweet_count": 39,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1767168125324186057",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-11T12:38:08.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "OnetWiadomosci",
+          "id": "581793998"
+        }
+      ],
+      "urls": [
+        {
+          "start": 85,
+          "end": 108,
+          "url": "https://t.co/Rcs3wqD4Wv",
+          "expanded_url": "http://dlvr.it/T3vgs5",
+          "display_url": "dlvr.it/T3vgs5",
+          "status": 200,
+          "unwound_url": "https://wiadomosci.onet.pl/kraj/michal-szczerba-mowi-o-fabryce-wiz-nawet-2-mln-wiz-rocznie/69xvmec?utm_source=tw_wiadomosci&utm_medium=social&utm_campaign=onetsg_fb"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1767168125324186057"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-11 13:38:08+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1767140200805982233"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1767167796247507294",
+    "text": "RT @ObserwatorXY: Były dyrektor MSZ Jakub Osajda zeznał, że z Piotrem Wawrzykiem kontaktował się m. in. Rafał Bochenek. Poseł PiS miał zabi…",
+    "public_metrics": {
+      "retweet_count": 204,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1767167796247507294",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-11T12:36:49.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1767167796247507294"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-11 13:36:49+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1767165341178658828"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1767164597297950832",
+    "text": "RT @ObserwatorXY: Ups. Rafał Bochenek wmieszany w aferę wizową? Rzecznik prasowy PiSu? No to grubo.",
+    "public_metrics": {
+      "retweet_count": 62,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1767164597297950832",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-11T12:24:06.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1767164597297950832"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-11 13:24:06+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1767163257951850860"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1766494722267238844",
+    "text": "Z najmłodszymi kandydatami na radnych w tym z @KubaSalomon po rynku Turzyn ruszyliśmy na rynek Manhattan. Pomagamy najmłodszym! Fajnie patrzeć jak uczą się rozmawiać z ludźmi na rynkach i ryneczkach🙂\n#KoalicjaObywatelska https://t.co/dSmWxnSb3T",
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 1,
+      "like_count": 83,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 7549
+    },
+    "conversation_id": "1766494722267238844",
+    "possibly_sensitive": false,
+    "attachments": {
+      "media_keys": [
+        "3_1766494701916405760",
+        "3_1766494701908025344",
+        "3_1766494701954248704",
+        "3_1766494701941583872"
+      ]
+    },
+    "created_at": "2024-03-09T16:02:16.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 46,
+          "end": 58,
+          "username": "KubaSalomon",
+          "id": "866887560420896768"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 200,
+          "end": 220,
+          "tag": "KoalicjaObywatelska"
+        }
+      ],
+      "urls": [
+        {
+          "start": 221,
+          "end": 244,
+          "url": "https://t.co/dSmWxnSb3T",
+          "expanded_url": "https://x.com/Arlukowicz/status/1766494722267238844/photo/1",
+          "display_url": "pic.x.com/dSmWxnSb3T",
+          "media_key": "3_1766494701916405760"
+        },
+        {
+          "start": 221,
+          "end": 244,
+          "url": "https://t.co/dSmWxnSb3T",
+          "expanded_url": "https://x.com/Arlukowicz/status/1766494722267238844/photo/1",
+          "display_url": "pic.x.com/dSmWxnSb3T",
+          "media_key": "3_1766494701908025344"
+        },
+        {
+          "start": 221,
+          "end": 244,
+          "url": "https://t.co/dSmWxnSb3T",
+          "expanded_url": "https://x.com/Arlukowicz/status/1766494722267238844/photo/1",
+          "display_url": "pic.x.com/dSmWxnSb3T",
+          "media_key": "3_1766494701954248704"
+        },
+        {
+          "start": 221,
+          "end": 244,
+          "url": "https://t.co/dSmWxnSb3T",
+          "expanded_url": "https://x.com/Arlukowicz/status/1766494722267238844/photo/1",
+          "display_url": "pic.x.com/dSmWxnSb3T",
+          "media_key": "3_1766494701941583872"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1766494722267238844"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-09 17:02:16+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "id": "1766166625626013889",
+    "text": "RT @ObserwatorXY: Wizyta i rewizyta, czyli Gościno w Warszawie 🙂 I Wartkowo też 🙂",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "1766166625626013889",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-08T18:18:31.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1766166625626013889"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-08 19:18:31+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1766158478735802411"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1766133823043952953",
+    "text": "Dzisiaj ważna Rada Krajowa @Platforma_org \nW Dzień Kobiet o wolności kobiet!\n#RadaKrajowa https://t.co/OzIZw0qYz4",
+    "public_metrics": {
+      "retweet_count": 20,
+      "reply_count": 8,
+      "like_count": 149,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 4317
+    },
+    "conversation_id": "1766133823043952953",
+    "possibly_sensitive": false,
+    "attachments": {
+      "media_keys": [
+        "3_1766133784762515456",
+        "3_1766133784779292672",
+        "3_1766133784754147328",
+        "3_1766133784766730241"
+      ]
+    },
+    "created_at": "2024-03-08T16:08:11.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 27,
+          "end": 41,
+          "username": "Platforma_org",
+          "id": "53003895"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 77,
+          "end": 89,
+          "tag": "RadaKrajowa"
+        }
+      ],
+      "urls": [
+        {
+          "start": 90,
+          "end": 113,
+          "url": "https://t.co/OzIZw0qYz4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1766133823043952953/photo/1",
+          "display_url": "pic.x.com/OzIZw0qYz4",
+          "media_key": "3_1766133784762515456"
+        },
+        {
+          "start": 90,
+          "end": 113,
+          "url": "https://t.co/OzIZw0qYz4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1766133823043952953/photo/1",
+          "display_url": "pic.x.com/OzIZw0qYz4",
+          "media_key": "3_1766133784779292672"
+        },
+        {
+          "start": 90,
+          "end": 113,
+          "url": "https://t.co/OzIZw0qYz4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1766133823043952953/photo/1",
+          "display_url": "pic.x.com/OzIZw0qYz4",
+          "media_key": "3_1766133784754147328"
+        },
+        {
+          "start": 90,
+          "end": 113,
+          "url": "https://t.co/OzIZw0qYz4",
+          "expanded_url": "https://x.com/Arlukowicz/status/1766133823043952953/photo/1",
+          "display_url": "pic.x.com/OzIZw0qYz4",
+          "media_key": "3_1766133784766730241"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1766133823043952953"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-08 17:08:11+00:00"
+    },
+    "category": "Original"
+  },
+  {
+    "id": "1765770353232560301",
+    "text": "Na Komisji Zdrowia dziś razem z ratownikami, lekarzami i pielęgniarkami o stanie ratownictwa medycznego po rządach PIS.\nW latach 2015-23 zlikwidowano 275 specjalistycznych zespołów ratownictwa medycznego (tzw karetek „S). To jest 47% wszystkich,  jakie mieliśmy w Polsce. https://t.co/jpMN3v5Wjz",
+    "public_metrics": {
+      "retweet_count": 119,
+      "reply_count": 27,
+      "like_count": 517,
+      "quote_count": 4,
+      "bookmark_count": 5,
+      "impression_count": 13801
+    },
+    "conversation_id": "1765770353232560301",
+    "possibly_sensitive": false,
+    "attachments": {
+      "media_keys": [
+        "3_1765770347431833600"
+      ]
+    },
+    "created_at": "2024-03-07T16:03:53.000Z",
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1765770353232560301"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-07 17:03:53+00:00"
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/jpMN3v5Wjz",
+          "expanded_url": "https://x.com/Arlukowicz/status/1765770353232560301/photo/1",
+          "display_url": "pic.x.com/jpMN3v5Wjz",
+          "media_key": "3_1765770347431833600"
+        }
+      ]
+    },
+    "category": "Original"
+  },
+  {
+    "id": "1765008345511923877",
+    "text": "RT @ObserwatorXY: Młodzież ze szczecińskiego liceum w Sejmie z B. Arłukowiczem🙂 Zapoznają się z miejscem, gdzie zapadają decyzje ważne dla…",
+    "public_metrics": {
+      "retweet_count": 12,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1765008345511923877",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-05T13:35:56.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1765008345511923877"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-05 14:35:56+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1765001298913423537"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1765000032195915887",
+    "text": "RT @L3ONEK_MACIEJ: ▫️Na zaproszenie Pana Posła @Arlukowicz, licealiści z Szczecina zwiedzają polski parlament ‼️‼️\n\n▫️Trzeba młodym pokazyw…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1765000032195915887",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-05T13:02:54.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "L3ONEK_MACIEJ",
+          "id": "-1"
+        },
+        {
+          "start": 47,
+          "end": 58,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1765000032195915887"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-05 14:02:54+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1764983520856826206"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1764741287247237314",
+    "text": "RT @Platforma_org: ❗️ „Poeta człowieczeństwa i poeta drobiazgów. Dwie twarze Norwida.” - to tytuł JEDYNEJ analizy przygotowanej dla KPRM pr…",
+    "public_metrics": {
+      "retweet_count": 183,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1764741287247237314",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-04T19:54:44.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "Platforma_org",
+          "id": "53003895"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1764741287247237314"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-04 20:54:44+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1764739095941554181"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1764710915956523070",
+    "text": "RT @Dariusz_Jonski: Jarosław Sachajko, Mateusz Morawiecki i prezes firmy CEDROB Andrzej Goździkowski spotkali się w willi na Parkowej. Ten…",
+    "public_metrics": {
+      "retweet_count": 422,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1764710915956523070",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-04T17:54:03.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "Dariusz_Jonski",
+          "id": "509272614"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1764710915956523070"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-04 18:54:03+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1764710442910326858"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1764709982472143208",
+    "text": "RT @ObserwatorXY: @Arlukowicz: Ci goście nie potrafią uprawiać polityki inaczej niż słuchać panią, mnie, nas, dziennikarzy.",
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1764709982472143208",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-04T17:50:21.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 18,
+          "end": 29,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1764709982472143208"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-04 18:50:21+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1764709886137376890"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1764706153865355344",
+    "text": "RT @ObserwatorXY: .@Arlukowicz o Hermesie: Skoro to było takie jawne i do analizy jawnych danych w internecie - to czemu było takie tajne,…",
+    "public_metrics": {
+      "retweet_count": 118,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1764706153865355344",
+    "possibly_sensitive": false,
+    "created_at": "2024-03-04T17:35:08.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "author_id": "101561338",
+    "lang": "pl",
+    "edit_history_tweet_ids": [
+      "1764706153865355344"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-04 18:35:08+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1764705707205464462"
+      }
+    ],
+    "category": "Retweet"
+  },
+  {
+    "id": "1764680133955248317",
+    "text": "RT @NewsPlatforma: #POwMediach (4 marca)\n@KandybaPiotr @Kwiatkowski2011 @Arlukowicz @OklaDrewnowicz https://t.co/1NmOKNkHru",
+    "entities": {
+      "annotations": [
+        {
+          "start": 20,
+          "end": 29,
+          "probability": 0.6489,
+          "type": "Other",
+          "normalized_text": "POwMediach"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "NewsPlatforma",
+          "id": "-1"
+        },
+        {
+          "start": 41,
+          "end": 54,
+          "username": "KandybaPiotr",
+          "id": "2935915325"
+        },
+        {
+          "start": 55,
+          "end": 71,
+          "username": "Kwiatkowski2011",
+          "id": "321859383"
+        },
+        {
+          "start": 72,
+          "end": 83,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        },
+        {
+          "start": 84,
+          "end": 99,
+          "username": "OklaDrewnowicz",
+          "id": "3305466189"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 19,
+          "end": 30,
+          "tag": "POwMediach"
+        }
+      ],
+      "urls": [
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/1NmOKNkHru",
+          "expanded_url": "https://x.com/NewsPlatforma/status/1764664965934272746/photo/1",
+          "display_url": "pic.x.com/1NmOKNkHru",
+          "media_key": "3_1764664705371545600"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1764680133955248317",
+    "possibly_sensitive": false,
+    "attachments": {
+      "media_keys": [
+        "3_1764664705371545600"
+      ],
+      "media_source_tweet_id": [
+        "1764664965934272746"
+      ]
+    },
+    "created_at": "2024-03-04T15:51:44.000Z",
+    "author_id": "101561338",
+    "lang": "es",
+    "edit_history_tweet_ids": [
+      "1764680133955248317"
+    ],
+    "reply_settings": "everyone",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-04 16:51:44+00:00"
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1764664965934272746"
+      }
+    ],
+    "category": "Retweet"
+  }
+]

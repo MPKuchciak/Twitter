@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "1873984659169960211",
+    "reply_settings": "everyone",
+    "created_at": "2024-12-31T06:48:54.000Z",
+    "public_metrics": {
+      "retweet_count": 49,
+      "reply_count": 39,
+      "like_count": 383,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 10369
+    },
+    "edit_history_tweet_ids": [
+      "1873984659169960211"
+    ],
+    "conversation_id": "1873984659169960211",
+    "text": "Pan Profesor powiedział, że jest Panem Profesorem i jako Pan Profesor nie powinien zajmować stanowiska jako Pan Profesor.",
+    "author_id": "101561338",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-31T07:48:54.000Z"
+    },
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "id": "1873808817936617620",
+    "reply_settings": "everyone",
+    "created_at": "2024-12-30T19:10:10.000Z",
+    "public_metrics": {
+      "retweet_count": 48,
+      "reply_count": 33,
+      "like_count": 555,
+      "quote_count": 5,
+      "bookmark_count": 2,
+      "impression_count": 16242
+    },
+    "edit_history_tweet_ids": [
+      "1873808817936617620"
+    ],
+    "conversation_id": "1873808817936617620",
+    "text": "Jak się walczy z ludożerką, nie wystarczy im puścić slajdów, że sałata jest zdrowsza.",
+    "author_id": "101561338",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-30T20:10:10.000Z"
+    },
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "id": "1873762420147343509",
+    "reply_settings": "everyone",
+    "created_at": "2024-12-30T16:05:48.000Z",
+    "public_metrics": {
+      "retweet_count": 52,
+      "reply_count": 101,
+      "like_count": 700,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 17712
+    },
+    "edit_history_tweet_ids": [
+      "1873762420147343509"
+    ],
+    "conversation_id": "1873762420147343509",
+    "text": "Czyli wszystko było ok. A tak dokładnie w sprawie, czy było ok? Panowie nie uważają nic.",
+    "author_id": "101561338",
+    "possibly_sensitive": false,
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-12-30T17:05:48.000Z"
+    },
+    "lang": "pl",
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773350976860131403"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 9,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "1773350976860131403",
+    "created_at": "2024-03-28T14:06:34.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773350354744135741"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 41,
+          "end": 56,
+          "tag": "FaktyPoFaktach"
+        }
+      ]
+    },
+    "id": "1773350976860131403",
+    "text": "RT @ObserwatorXY: 📺 B. Arłukowicz dziś w #FaktyPoFaktach o rozsypującej się prawicy - godz. 19:25! 🙂",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T15:06:34.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1773338745032364032"
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1773338752380756046"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 94,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 6124
+    },
+    "conversation_id": "1773338752380756046",
+    "created_at": "2024-03-28T13:18:00.000Z",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/MH1CJuPD9L",
+          "expanded_url": "https://x.com/Arlukowicz/status/1773338752380756046/photo/1",
+          "display_url": "pic.x.com/MH1CJuPD9L",
+          "media_key": "3_1773338745032364032"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 80,
+          "end": 95,
+          "username": "faktypofaktach",
+          "id": "125098765"
+        },
+        {
+          "start": 98,
+          "end": 104,
+          "username": "tvn24",
+          "id": "14493047"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "id": "1773338752380756046",
+    "text": "O upadającej a kiedyś „zjednoczonej” prawicy dzisiaj (czwartek) o godz. 19.30 w @faktypofaktach w @tvn24 \nZapraszam! https://t.co/MH1CJuPD9L",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-28T14:18:00.000Z"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773337383586394561"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 74,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "1773337383586394561",
+    "created_at": "2024-03-28T13:12:33.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773313533310091433"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "SzJadczak",
+          "id": "43512158"
+        }
+      ]
+    },
+    "id": "1773337383586394561",
+    "text": "RT @SzJadczak: W ramach śledztwa ABW w sprawie ujawnionej działalności szpiegowskiej na rzecz Federacji Rosyjskiej namierzono portal https:…",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T14:12:33.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773327641568813307"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "1773327641568813307",
+    "created_at": "2024-03-28T12:33:51.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773307394828689659"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Rozmowa_RMF",
+          "id": "130856402"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 44,
+          "tag": "RozmowaRMF"
+        }
+      ]
+    },
+    "id": "1773327641568813307",
+    "text": "RT @Rozmowa_RMF: 💬 @Arlukowicz w #RozmowaRMF w południe: działania ws. Funduszu Sprawiedliwości były potrzebne, widzieliśmy jak wydawane by…",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T13:33:51.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773327587764265470"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 8,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "1773327587764265470",
+    "created_at": "2024-03-28T12:33:38.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773313822247244063"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ]
+    },
+    "id": "1773327587764265470",
+    "text": "RT @ObserwatorXY: .@Arlukowicz o tabletce 'dzień po': Mam nadzieję, że prezydent zachowa się w sposób prokobiecy, a nie propisowski.\nI o 'p…",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T13:33:38.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773327562401309040"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "1773327562401309040",
+    "created_at": "2024-03-28T12:33:32.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773322015090331918"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Rozmowa_RMF",
+          "id": "130856402"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        },
+        {
+          "start": 74,
+          "end": 86,
+          "username": "AndrzejDuda",
+          "id": "202086424"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 44,
+          "tag": "RozmowaRMF"
+        }
+      ]
+    },
+    "id": "1773327562401309040",
+    "text": "RT @Rozmowa_RMF: 💬 @Arlukowicz w #RozmowaRMF w południe: mam nadzieję, że @AndrzejDuda podejmie decyzję ws. aborcji, która będzie realizowa…",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "907614362478690309",
+          "name": "Andrzej Duda",
+          "description": "President of Poland Andrzej Duda"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "907614362478690309",
+          "name": "Andrzej Duda",
+          "description": "President of Poland Andrzej Duda"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "907614362478690309",
+          "name": "Andrzej Duda",
+          "description": "President of Poland Andrzej Duda"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T13:33:32.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773327535733932372"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "1773327535733932372",
+    "created_at": "2024-03-28T12:33:26.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773322288470933537"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Rozmowa_RMF",
+          "id": "130856402"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 44,
+          "tag": "RozmowaRMF"
+        }
+      ]
+    },
+    "id": "1773327535733932372",
+    "text": "RT @Rozmowa_RMF: 💬 @Arlukowicz w #RozmowaRMF w południe: wszyscy, którzy kradli, muszą się liczyć z odpowiedzialnością",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T13:33:26.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773290041340461204"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773290041340461204",
+    "created_at": "2024-03-28T10:04:26.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773282346688516396"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 97,
+          "end": 120,
+          "url": "https://t.co/0lCg2gta5v",
+          "expanded_url": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-bartosz-arlukowicz-gosciem-rozmowy-w-poludnie-w-radiu-rmf24,nId,7417824",
+          "display_url": "rmf24.pl/tylko-w-rmf24/…",
+          "status": 200,
+          "unwound_url": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-bartosz-arlukowicz-gosciem-rozmowy-w-poludnie-w-radiu-rmf24,nId,7417824"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "RMF24pl",
+          "id": "107946389"
+        },
+        {
+          "start": 35,
+          "end": 46,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        },
+        {
+          "start": 83,
+          "end": 95,
+          "username": "Radio_RMF24",
+          "id": "109801012"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "id": "1773290041340461204",
+    "text": "RT @RMF24pl: Były minister zdrowia @Arlukowicz będzie gościem Rozmowy w południe w @Radio_RMF24 \nhttps://t.co/0lCg2gta5v https://t.co/rqoat…",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T11:04:26.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773290018418684334"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773290018418684334",
+    "created_at": "2024-03-28T10:04:21.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773284338378875380"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Rozmowa_RMF",
+          "id": "130856402"
+        },
+        {
+          "start": 79,
+          "end": 90,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 27,
+          "end": 38,
+          "tag": "RozmowaRMF"
+        }
+      ]
+    },
+    "id": "1773290018418684334",
+    "text": "RT @Rozmowa_RMF: 🟡🔵Gościem #RozmowaRMF w Południe będzie były minister zdrowia @Arlukowicz. Zapraszamy!  \n\n⏰1⃣2⃣:0⃣2⃣\n🎙️Piotr Salak\n▶️@RMF2…",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T11:04:21.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773270441295020199"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773270441295020199",
+    "created_at": "2024-03-28T08:46:33.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773270339662778540"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 73,
+          "end": 81,
+          "username": "RMF24pl",
+          "id": "107946389"
+        }
+      ]
+    },
+    "id": "1773270441295020199",
+    "text": "RT @ObserwatorXY: ⏰ B. Arłukowicz o tabletce 'dzień po'. Godz. 12:00, w .@RMF24pl.",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-28T09:46:33.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1773260394552864768"
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1773260400189960299"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 2,
+      "like_count": 54,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 5357
+    },
+    "conversation_id": "1773260400189960299",
+    "created_at": "2024-03-28T08:06:39.000Z",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/SRjw7YdVJn",
+          "expanded_url": "https://x.com/Arlukowicz/status/1773260400189960299/photo/1",
+          "display_url": "pic.x.com/SRjw7YdVJn",
+          "media_key": "3_1773260394552864768"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 66,
+          "end": 78,
+          "username": "Radio_RMF24",
+          "id": "109801012"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "id": "1773260400189960299",
+    "text": "Co dalej z tabletką „dzień po”? Dzisiaj (czwartek) o godz.12.00 w @Radio_RMF24 \nZapraszam! https://t.co/SRjw7YdVJn",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-28T09:06:39.000Z"
+    },
+    "category": "Original"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1773102050726809601"
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1773105206990876748"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773105206990876748",
+    "created_at": "2024-03-27T21:49:58.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773102053868323217"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "RobNow_",
+          "id": "1060345099987664897"
+        },
+        {
+          "start": 13,
+          "end": 24,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        },
+        {
+          "start": 25,
+          "end": 39,
+          "username": "Platforma_org",
+          "id": "53003895"
+        }
+      ]
+    },
+    "id": "1773105206990876748",
+    "text": "RT @RobNow_: @Arlukowicz @Platforma_org @NewsPlatforma Wspaniała atmosfera podczas spotkania 😊 https://t.co/52k9gcQnPA",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27T22:49:58.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773063302098088157"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 1912,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773063302098088157",
+    "created_at": "2024-03-27T19:03:27.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773061118191120829"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "donaldtusk",
+          "id": "375146901"
+        }
+      ]
+    },
+    "id": "1773063302098088157",
+    "text": "RT @donaldtusk: Chodzi o to, żeby prokuratura zajmowała się nieuczciwymi politykami. Całkiem niedawno było odwrotnie.",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847091557232664576",
+          "name": "Donald Tusk",
+          "description": "Donald Tusk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      }
+    ],
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27T20:03:27.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773063138092474759"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 50,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773063138092474759",
+    "created_at": "2024-03-27T19:02:48.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773060700392345963"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ]
+    },
+    "id": "1773063138092474759",
+    "text": "RT @ObserwatorXY: \"Stojący na czele Profeto ks. Michał O. to znajomy Zbigniewa Ziobry, a jego brat jest prezesem Alior Banku, czyli państwo…",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27T20:02:48.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773063052084003073"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 11,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773063052084003073",
+    "created_at": "2024-03-27T19:02:28.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773002047031230616"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "Arlukowicz",
+          "id": "101561338"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 39,
+          "tag": "Wałcz"
+        }
+      ]
+    },
+    "id": "1773063052084003073",
+    "text": "RT @ObserwatorXY: .@Arlukowicz w #Wałcz: Różnica między nami a naszymi przeciwnikami politycznymi polega na tym, że my chcemy władzę oddać…",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27T20:02:28.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773052979991445712"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 41,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "1773052979991445712",
+    "created_at": "2024-03-27T18:22:26.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773017043136131337"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/WeAnFmHq0H",
+          "expanded_url": "https://businessinsider.com.pl/wiadomosci/byly-egzorcysta-ks-michal-o-z-zarzutami-dostal-98-mln-zl-od-rzadu-pis/znv34nb",
+          "display_url": "businessinsider.com.pl/wiadomosci/byl…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1835304408873111552/DyfK7CSz?format=jpg&name=orig",
+              "width": 1200,
+              "height": 670
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1835304408873111552/DyfK7CSz?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Były egzorcysta ks. Michał O. z zarzutami. Dostał 98 mln zł od rządu PiS",
+          "description": "Były egzorcysta i szef fundacji Profeto ks. Michał O. usłyszał zarzuty związane z przekroczeniem uprawnień i wyrządzeniem szkody...",
+          "unwound_url": "https://businessinsider.com.pl/wiadomosci/byly-egzorcysta-ks-michal-o-z-zarzutami-dostal-98-mln-zl-od-rzadu-pis/znv34nb"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "bweglarczyk",
+          "id": "134398560"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "id": "1773052979991445712",
+    "text": "RT @bweglarczyk: Były egzorcysta ks. Michał O. z zarzutami. Dostał 98 mln zł od rządu PiS\n https://t.co/WeAnFmHq0H",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27T19:22:26.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773048233004085708"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "1773048233004085708",
+    "created_at": "2024-03-27T18:03:35.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773047595398463784"
+      }
+    ],
+    "lang": "qht",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "RobNow_",
+          "id": "1060345099987664897"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 13,
+          "end": 19,
+          "tag": "wałcz"
+        }
+      ]
+    },
+    "id": "1773048233004085708",
+    "text": "RT @RobNow_: #wałcz",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27T19:03:35.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773048025197293801"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "1773048025197293801",
+    "created_at": "2024-03-27T18:02:45.000Z",
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1773042356226347410"
+      }
+    ],
+    "lang": "pl",
+    "reply_settings": "everyone",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "ObserwatorXY",
+          "id": "892004596922671105"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 62,
+          "end": 68,
+          "tag": "Wałcz"
+        }
+      ]
+    },
+    "id": "1773048025197293801",
+    "text": "RT @ObserwatorXY: B. Arłukowicza działania w terenie - dziś w #Wałcz 💪",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-03-27T19:02:45.000Z"
+    },
+    "category": "Retweet"
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1773045134189346817",
+        "3_1773045134218739712",
+        "3_1773045134197760000"
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1773045140598214904"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 5,
+      "like_count": 115,
+      "quote_count": 3,
+      "bookmark_count": 0,
+      "impression_count": 8032
+    },
+    "conversation_id": "1773045140598214904",
+    "created_at": "2024-03-27T17:51:17.000Z",
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/z2StmmSHuM",
+          "expanded_url": "https://x.com/Arlukowicz/status/1773045140598214904/photo/1",
+          "display_url": "pic.x.com/z2StmmSHuM",
+          "media_key": "3_1773045134189346817"
+        },
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/z2StmmSHuM",
+          "expanded_url": "https://x.com/Arlukowicz/status/1773045140598214904/photo/1",
+          "display_url": "pic.x.com/z2StmmSHuM",
+          "media_key": "3_1773045134218739712"
+        },
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/z2StmmSHuM",
+          "expanded_url": "https://x.com/Arlukowicz/status/1773045140598214904/photo/1",
+          "display_url": "pic.x.com/z2StmmSHuM",
+          "media_key": "3_1773045134197760000"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 17,
+          "end": 23,
+          "tag": "Wałcz"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "id": "1773045140598214904",
+    "text": "Na koniec dnia w #Wałcz spotkanie otwarte. Było\nO polityce, o zdrowiu, o psychiatrii, o polityce społecznej i o zwykłych sprawach! Wałcz dziękujemy! My tu jeszcze do Was wrócimy!🙂 https://t.co/z2StmmSHuM",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-27T18:51:17.000Z"
+    },
+    "category": "Original"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1773035643855094058"
+    ],
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 7,
+      "like_count": 105,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6985
+    },
+    "conversation_id": "1773035643855094058",
+    "created_at": "2024-03-27T17:13:33.000Z",
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1773033992847069516"
+      }
+    ],
+    "lang": "pl",
+    "entities": {
+      "urls": [
+        {
+          "start": 35,
+          "end": 58,
+          "url": "https://t.co/aLuFcBR72G",
+          "expanded_url": "https://twitter.com/Monika_k71/status/1773033992847069516",
+          "display_url": "x.com/Monika_k71/sta…"
+        }
+      ]
+    },
+    "reply_settings": "everyone",
+    "id": "1773035643855094058",
+    "text": "Rozbawiła mnie Pani dość solidnie🙂 https://t.co/aLuFcBR72G",
+    "author_id": "101561338",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": true,
+      "editable_until": "2024-03-27T18:13:33.000Z"
+    },
+    "category": "Quote"
+  }
+]
