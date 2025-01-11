@@ -1,4 +1,5 @@
 # Ignore the NEW folder and all its contents 
 NEW/ 
 
+# Ignore the .vscode folder
 .vscode/
