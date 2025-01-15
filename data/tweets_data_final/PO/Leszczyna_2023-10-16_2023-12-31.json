@@ -6061,49 +6061,6 @@
     "category": "Reply"
   },
   {
-    "created_at": "2023-10-16T20:23:34.000Z",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 21:23:34+00:00"
-    },
-    "conversation_id": "1714014241928188283",
-    "lang": "pl",
-    "edit_history_tweet_ids": [
-      "1714014241928188283"
-    ],
-    "id": "1714014241928188283",
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 18,
-          "username": "OklaDrewnowicz",
-          "id": "3305466189"
-        }
-      ]
-    },
-    "possibly_sensitive": false,
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1714006401087885462"
-      }
-    ],
-    "public_metrics": {
-      "retweet_count": 101,
-      "reply_count": 0,
-      "like_count": 0,
-      "quote_count": 0,
-      "bookmark_count": 0,
-      "impression_count": 0
-    },
-    "reply_settings": "everyone",
-    "author_id": "61552404",
-    "text": "RT @OklaDrewnowicz: Tak wygląda zmęczona, szczęśliwa i bardzo wzruszona Świętokrzyska baba. \n\nJak ja Wam dziękuję ❤️❤️❤️ https://t.co/0ghmf…",
-    "category": "Retweet"
-  },
-  {
     "created_at": "2023-10-16T19:09:14.000Z",
     "edit_controls": {
       "edits_remaining": 5,
@@ -6242,74 +6199,6 @@
     "category": "Reply"
   },
   {
-    "created_at": "2023-10-16T18:19:02.000Z",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 19:19:02+00:00"
-    },
-    "conversation_id": "1713982901849563162",
-    "lang": "pl",
-    "edit_history_tweet_ids": [
-      "1713982901849563162"
-    ],
-    "id": "1713982901849563162",
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 18,
-          "username": "ZbigniewHoldys",
-          "id": "139741256"
-        }
-      ],
-      "urls": [
-        {
-          "start": 88,
-          "end": 111,
-          "url": "https://t.co/vT8O3qIEIQ",
-          "expanded_url": "https://www.maniasmaku.pl",
-          "display_url": "maniasmaku.pl",
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/news_img/1815903261565562880/Zqe9o07a?format=png&name=orig",
-              "width": 500,
-              "height": 749
-            },
-            {
-              "url": "https://pbs.twimg.com/news_img/1815903261565562880/Zqe9o07a?format=png&name=150x150",
-              "width": 150,
-              "height": 150
-            }
-          ],
-          "status": 200,
-          "title": "Pizza, pizzeria Wrocław - zamów online - Mania Smaku",
-          "description": "Bezpłatna dostawa najlepszej pizzy we Wrocławiu! Zamawiajcie pizze przez telefon lub online z dowozem prosto do Twojego domu.",
-          "unwound_url": "https://maniasmaku.pl/"
-        }
-      ]
-    },
-    "possibly_sensitive": false,
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1713884273508315211"
-      }
-    ],
-    "public_metrics": {
-      "retweet_count": 403,
-      "reply_count": 0,
-      "like_count": 0,
-      "quote_count": 0,
-      "bookmark_count": 0,
-      "impression_count": 0
-    },
-    "reply_settings": "everyone",
-    "author_id": "61552404",
-    "text": "RT @ZbigniewHoldys: To ta wrocławska pizzeria uratowała nocną kolejkę wyborców - brawo!\nhttps://t.co/vT8O3qIEIQ",
-    "category": "Retweet"
-  },
-  {
     "created_at": "2023-10-16T14:41:19.000Z",
     "edit_controls": {
       "edits_remaining": 5,
@@ -6439,309 +6328,227 @@
     "category": "Original"
   },
   {
-    "created_at": "2023-10-16T12:39:36.000Z",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 13:39:36+00:00"
-    },
-    "conversation_id": "1713897479660269904",
+    "created_at": "2023-10-16T00:00:00.000Z",
     "lang": "pl",
-    "edit_history_tweet_ids": [
-      "1713897479660269904"
-    ],
-    "id": "1713897479660269904",
-    "context_annotations": [
-      {
-        "domain": {
-          "id": "10",
-          "name": "Person",
-          "description": "Named people in the world like Nelson Mandela"
-        },
-        "entity": {
-          "id": "847091557232664576",
-          "name": "Donald Tusk",
-          "description": "Donald Tusk"
-        }
-      },
-      {
-        "domain": {
-          "id": "35",
-          "name": "Politician",
-          "description": "Politicians in the world, like Joe Biden"
-        },
-        "entity": {
-          "id": "847091557232664576",
-          "name": "Donald Tusk",
-          "description": "Donald Tusk"
-        }
-      },
-      {
-        "domain": {
-          "id": "131",
-          "name": "Unified Twitter Taxonomy",
-          "description": "A taxonomy of user interests. "
-        },
-        "entity": {
-          "id": "847091557232664576",
-          "name": "Donald Tusk",
-          "description": "Donald Tusk"
-        }
-      },
-      {
-        "domain": {
-          "id": "131",
-          "name": "Unified Twitter Taxonomy",
-          "description": "A taxonomy of user interests. "
-        },
-        "entity": {
-          "id": "847878884917886977",
-          "name": "Politics",
-          "description": "Politics"
-        }
-      },
-      {
-        "domain": {
-          "id": "131",
-          "name": "Unified Twitter Taxonomy",
-          "description": "A taxonomy of user interests. "
-        },
-        "entity": {
-          "id": "1070032753834438656",
-          "name": "Political figures",
-          "description": "Politician"
-        }
-      }
-    ],
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 18,
-          "username": "ZbigniewHoldys",
-          "id": "139741256"
-        },
-        {
-          "start": 46,
-          "end": 57,
-          "username": "donaldtusk",
-          "id": "375146901"
-        }
-      ]
-    },
-    "possibly_sensitive": false,
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1713651247062901248"
-      }
-    ],
     "public_metrics": {
-      "retweet_count": 757,
-      "reply_count": 0,
-      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "impression_count": 0
+      "impression_count": 104
     },
     "reply_settings": "everyone",
     "author_id": "61552404",
-    "text": "RT @ZbigniewHoldys: Wielkie podziękowanie dla @donaldtusk, człowieka, który obudził naród, dodał mu otuchy, rozpalił w nim serca, obudził e…",
-    "category": "Retweet"
+    "text": "@tomekbit ✌️",
+    "category": "Reply"
   },
   {
-    "created_at": "2023-10-16T12:38:11.000Z",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 13:38:11+00:00"
-    },
-    "conversation_id": "1713897124373676367",
+    "created_at": "2023-10-16T00:00:00.000Z",
     "lang": "pl",
-    "edit_history_tweet_ids": [
-      "1713897124373676367"
-    ],
-    "id": "1713897124373676367",
-    "attachments": {
-      "media_source_tweet_id": [
-        "1713638545997340758"
-      ],
-      "media_keys": [
-        "3_1713638538472828928"
-      ]
-    },
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 19,
-          "username": "MicWawrykiewicz",
-          "id": "4172726818"
-        }
-      ],
-      "urls": [
-        {
-          "start": 66,
-          "end": 89,
-          "url": "https://t.co/15aEgv25lj",
-          "expanded_url": "https://x.com/MicWawrykiewicz/status/1713638545997340758/photo/1",
-          "display_url": "pic.x.com/15aEgv25lj",
-          "media_key": "3_1713638538472828928"
-        }
-      ]
-    },
-    "possibly_sensitive": false,
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1713638545997340758"
-      }
-    ],
     "public_metrics": {
-      "retweet_count": 555,
-      "reply_count": 0,
-      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 6,
       "quote_count": 0,
       "bookmark_count": 0,
-      "impression_count": 0
+      "impression_count": 208
     },
     "reply_settings": "everyone",
     "author_id": "61552404",
-    "text": "RT @MicWawrykiewicz: Witaj nowa, wolna Polsko! Kochamy Cię!🇵🇱🇪🇺✌️ https://t.co/15aEgv25lj",
-    "category": "Retweet"
+    "text": "@MaciejGdynia Maćku, czekam na oficjalne wyniki, żeby nie zapeszyć…",
+    "category": "Reply"
   },
   {
-    "created_at": "2023-10-16T12:17:56.000Z",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 13:17:56+00:00"
-    },
-    "conversation_id": "1713892025492246703",
+    "created_at": "2023-10-16T00:00:00.000Z",
     "lang": "pl",
-    "edit_history_tweet_ids": [
-      "1713892025492246703"
-    ],
-    "id": "1713892025492246703",
-    "attachments": {
-      "media_source_tweet_id": [
-        "1713884684424249653"
-      ],
-      "media_keys": [
-        "3_1713884680129331200"
-      ]
-    },
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 16,
-          "username": "MaciejGdynia",
-          "id": "737000105572700162"
-        },
-        {
-          "start": 38,
-          "end": 48,
-          "username": "Leszczyna",
-          "id": "61552404"
-        }
-      ],
-      "urls": [
-        {
-          "start": 107,
-          "end": 130,
-          "url": "https://t.co/em9GzysQJM",
-          "expanded_url": "https://x.com/MaciejGdynia/status/1713884684424249653/photo/1",
-          "display_url": "pic.x.com/em9GzysQJM",
-          "media_key": "3_1713884680129331200"
-        }
-      ]
-    },
-    "possibly_sensitive": true,
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1713884684424249653"
-      }
-    ],
     "public_metrics": {
-      "retweet_count": 43,
-      "reply_count": 0,
-      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 10,
       "quote_count": 0,
       "bookmark_count": 0,
-      "impression_count": 0
+      "impression_count": 1500
     },
     "reply_settings": "everyone",
     "author_id": "61552404",
-    "text": "RT @MaciejGdynia: Nasza wspaniała Iza @Leszczyna zdobyła serca wyborców....\nIza, całym sercem GRATULUJĘ!!! https://t.co/em9GzysQJM",
-    "category": "Retweet"
+    "text": "@MCichonAlicja Alu, czekamy jeszcze na wynik?",
+    "category": "Reply"
   },
   {
-    "attachments": {
-      "media_keys": [
-        "3_1713884680129331200"
-      ],
-      "media_source_tweet_id": [
-        "1713884684424249653"
-      ]
-    },
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 13:17:56+00:00"
-    },
-    "created_at": "2023-10-16T12:17:56.000Z",
+    "created_at": "2023-10-16T00:00:00.000Z",
+    "lang": "pl",
     "public_metrics": {
-      "retweet_count": 43,
-      "reply_count": 0,
-      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 8,
       "quote_count": 0,
       "bookmark_count": 0,
-      "impression_count": 0
+      "impression_count": 1532
     },
-    "possibly_sensitive": true,
-    "id": "1713892025492246703",
-    "text": "RT @MaciejGdynia: Nasza wspaniała Iza @Leszczyna zdobyła serca wyborców....\nIza, całym sercem GRATULUJĘ!!! https://t.co/em9GzysQJM",
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1713884684424249653"
-      }
-    ],
     "reply_settings": "everyone",
-    "edit_history_tweet_ids": [
-      "1713892025492246703"
-    ],
     "author_id": "61552404",
+    "text": "@REL_76 🥰🥰🥰",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T00:00:00.000Z",
     "lang": "pl",
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 16,
-          "username": "MaciejGdynia",
-          "id": "737000105572700162"
-        },
-        {
-          "start": 38,
-          "end": 48,
-          "username": "Leszczyna",
-          "id": "61552404"
-        }
-      ],
-      "urls": [
-        {
-          "start": 107,
-          "end": 130,
-          "url": "https://t.co/em9GzysQJM",
-          "expanded_url": "https://x.com/MaciejGdynia/status/1713884684424249653/photo/1",
-          "display_url": "pic.x.com/em9GzysQJM",
-          "media_key": "3_1713884680129331200"
-        }
-      ]
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 599
     },
-    "conversation_id": "1713892025492246703",
-    "category": "Retweet"
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@Gidziela 🥰✌️",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T00:00:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 539
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@WHaptar Gratulacje👏🥂",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T00:00:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 847
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@KapenGenezyp Dziękuję❤️❤️❤️",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T21:57:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 112
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@jasinska_e ❤️",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T22:27:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 31,
+      "like_count": 469,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9733
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@BMikolajewska odpowie💪",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T22:41:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 182
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@DorotaNiedziela ja Tobie też❣️",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T23:15:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 74
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@RGrupinski @StGawlowski i ode mnie Rafale, dla Ciebie i Stasia ✌️✌️",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T23:17:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 119
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@magosia_10_19 🤛🥰",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T23:18:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 152
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@3Fritz1 @BMikolajewska 🫡",
+    "category": "Reply"
+  },
+  {
+    "created_at": "2023-10-16T23:18:00.000Z",
+    "lang": "pl",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 45
+    },
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@BernadettaK2 @otoWojciech @BMikolajewska 😂😂😂",
+    "category": "Reply"
   }
 ]

@@ -7437,332 +7437,42 @@
     "category": "Reply"
   },
   {
-    "public_metrics": {
-      "retweet_count": 3,
-      "reply_count": 0,
-      "like_count": 0,
-      "quote_count": 0,
-      "bookmark_count": 0,
-      "impression_count": 0
-    },
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 11,
-          "username": "StZerko",
-          "id": "404708920"
-        }
-      ]
-    },
-    "lang": "pl",
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1713833438761877761"
-      }
-    ],
-    "author_id": "1119834276",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 11:27:34+00:00"
-    },
-    "edit_history_tweet_ids": [
-      "1713864254393115038"
-    ],
     "reply_settings": "everyone",
-    "text": "RT @StZerko: Powierzenie PiS-owi misji utworzenia nowego rządu (PSL musiałoby być samobójcą, by na to pójść) pozwoli na maksymalne odsunięc…",
-    "possibly_sensitive": false,
-    "conversation_id": "1713864254393115038",
-    "created_at": "2023-10-16T10:27:34.000Z",
-    "id": "1713864254393115038",
-    "category": "Retweet"
-  },
-  {
-    "public_metrics": {
-      "retweet_count": 15,
-      "reply_count": 0,
-      "like_count": 0,
-      "quote_count": 0,
-      "bookmark_count": 0,
-      "impression_count": 0
-    },
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 15,
-          "username": "Rozmowa_RMF",
-          "id": "130856402"
-        },
-        {
-          "start": 43,
-          "end": 58,
-          "username": "KosiniakKamysz",
-          "id": "955239446"
-        },
-        {
-          "start": 71,
-          "end": 83,
-          "username": "prezydentpl",
-          "id": "43932737"
-        },
-        {
-          "start": 84,
-          "end": 96,
-          "username": "AndrzejDuda",
-          "id": "202086424"
-        }
-      ],
-      "hashtags": [
-        {
-          "start": 31,
-          "end": 42,
-          "tag": "RozmowaRMF"
-        }
-      ]
-    },
-    "lang": "pl",
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1713838512951181358"
-      }
-    ],
-    "author_id": "1119834276",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 11:22:36+00:00"
-    },
-    "edit_history_tweet_ids": [
-      "1713863003358089372"
-    ],
-    "reply_settings": "everyone",
-    "text": "RT @Rozmowa_RMF: Gość Porannej #RozmowaRMF @KosiniakKamysz z apelem do @prezydentpl @AndrzejDuda o konsultacje z formacjami, które mogą stw…",
-    "possibly_sensitive": false,
-    "conversation_id": "1713863003358089372",
-    "created_at": "2023-10-16T10:22:36.000Z",
-    "id": "1713863003358089372",
-    "context_annotations": [
-      {
-        "domain": {
-          "id": "10",
-          "name": "Person",
-          "description": "Named people in the world like Nelson Mandela"
-        },
-        "entity": {
-          "id": "907614362478690309",
-          "name": "Andrzej Duda",
-          "description": "President of Poland Andrzej Duda"
-        }
-      },
-      {
-        "domain": {
-          "id": "35",
-          "name": "Politician",
-          "description": "Politicians in the world, like Joe Biden"
-        },
-        "entity": {
-          "id": "907614362478690309",
-          "name": "Andrzej Duda",
-          "description": "President of Poland Andrzej Duda"
-        }
-      },
-      {
-        "domain": {
-          "id": "131",
-          "name": "Unified Twitter Taxonomy",
-          "description": "A taxonomy of user interests. "
-        },
-        "entity": {
-          "id": "847878884917886977",
-          "name": "Politics",
-          "description": "Politics"
-        }
-      },
-      {
-        "domain": {
-          "id": "131",
-          "name": "Unified Twitter Taxonomy",
-          "description": "A taxonomy of user interests. "
-        },
-        "entity": {
-          "id": "907614362478690309",
-          "name": "Andrzej Duda",
-          "description": "President of Poland Andrzej Duda"
-        }
-      },
-      {
-        "domain": {
-          "id": "131",
-          "name": "Unified Twitter Taxonomy",
-          "description": "A taxonomy of user interests. "
-        },
-        "entity": {
-          "id": "1070032753834438656",
-          "name": "Political figures",
-          "description": "Politician"
-        }
-      }
-    ],
-    "category": "Retweet"
-  },
-  {
+    "text": "Dziękuję 🤝😀🍀",
     "public_metrics": {
       "retweet_count": 2,
-      "reply_count": 0,
-      "like_count": 0,
+      "reply_count": 1,
+      "like_count": 9,
       "quote_count": 0,
       "bookmark_count": 0,
-      "impression_count": 0
-    },
-    "entities": {
-      "mentions": [
-        {
-          "start": 3,
-          "end": 15,
-          "username": "RepublikaTV",
-          "id": "1073461458"
-        },
-        {
-          "start": 89,
-          "end": 97,
-          "username": "Toolekw",
-          "id": "2725944822"
-        },
-        {
-          "start": 108,
-          "end": 124,
-          "username": "SzczurekZelazko",
-          "id": "812250989080281088"
-        },
-        {
-          "start": 126,
-          "end": 135,
-          "username": "pisorgpl",
-          "id": "15877628"
-        }
-      ],
-      "hashtags": [
-        {
-          "start": 17,
-          "end": 36,
-          "tag": "PolskaNaDzieńDobry"
-        },
-        {
-          "start": 39,
-          "end": 50,
-          "tag": "Zapraszamy"
-        },
-        {
-          "start": 54,
-          "end": 62,
-          "tag": "program"
-        }
-      ]
+      "impression_count": 478
     },
     "lang": "pl",
     "referenced_tweets": [
       {
-        "type": "retweeted",
-        "id": "1713797869994422346"
+        "type": "quoted",
+        "id": "1714320722481615223"
       }
     ],
+    "created_at": "2024-10-17T18:49:00.000Z",
     "author_id": "1119834276",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 07:27:08+00:00"
-    },
-    "edit_history_tweet_ids": [
-      "1713803746679914896"
-    ],
-    "reply_settings": "everyone",
-    "text": "RT @RepublikaTV: #PolskaNaDzieńDobry | #Zapraszamy na #program Aleksandra Wierzejskiego (@Toolekw ) z:  \n\n▪️@SzczurekZelazko (@pisorgpl)…",
-    "possibly_sensitive": false,
-    "conversation_id": "1713803746679914896",
-    "created_at": "2023-10-16T06:27:08.000Z",
-    "id": "1713803746679914896",
-    "category": "Retweet"
+    "category": "Quote"
   },
   {
+    "created_at": "2023-10-18T12:46:00.000Z",
     "lang": "pl",
-    "entities": {
-      "hashtags": [
-        {
-          "start": 17,
-          "end": 36,
-          "tag": "PolskaNaDzieńDobry"
-        },
-        {
-          "start": 39,
-          "end": 50,
-          "tag": "Zapraszamy"
-        },
-        {
-          "start": 54,
-          "end": 62,
-          "tag": "program"
-        }
-      ],
-      "mentions": [
-        {
-          "start": 3,
-          "end": 15,
-          "username": "RepublikaTV",
-          "id": "1073461458"
-        },
-        {
-          "start": 89,
-          "end": 97,
-          "username": "Toolekw",
-          "id": "2725944822"
-        },
-        {
-          "start": 108,
-          "end": 124,
-          "username": "SzczurekZelazko",
-          "id": "812250989080281088"
-        },
-        {
-          "start": 126,
-          "end": 135,
-          "username": "pisorgpl",
-          "id": "15877628"
-        }
-      ]
-    },
-    "author_id": "1119834276",
-    "created_at": "2023-10-16T06:27:08.000Z",
-    "edit_history_tweet_ids": [
-      "1713803746679914896"
-    ],
-    "id": "1713803746679914896",
-    "possibly_sensitive": false,
-    "reply_settings": "everyone",
-    "edit_controls": {
-      "edits_remaining": 5,
-      "is_edit_eligible": false,
-      "editable_until": "2023-10-16 07:27:08+00:00"
-    },
     "public_metrics": {
-      "retweet_count": 2,
+      "retweet_count": 0,
       "reply_count": 0,
-      "like_count": 0,
+      "like_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "impression_count": 0
+      "impression_count": 18
     },
-    "conversation_id": "1713803746679914896",
-    "referenced_tweets": [
-      {
-        "type": "retweeted",
-        "id": "1713797869994422346"
-      }
-    ],
-    "text": "RT @RepublikaTV: #PolskaNaDzieńDobry | #Zapraszamy na #program Aleksandra Wierzejskiego (@Toolekw ) z:  \n\n▪️@SzczurekZelazko (@pisorgpl)…",
-    "category": "Retweet"
+    "reply_settings": "everyone",
+    "author_id": "61552404",
+    "text": "@Maciej_ENZ0 Dziękuję i pozdrawiam",
+    "category": "Reply"
   }
+  
 ]
