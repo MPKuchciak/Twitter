@@ -40,8 +40,15 @@ In our analysis we try to answer questions:
 
 ### 4. Sentiment Analysis
 - **File:** [Sentiment Analysis.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/4.%20Sentiment%20analysis.ipynb)  
-- **Description:** Implements sentiment classification using machine learning techniques. This notebook predicts the sentiment of text data.  
-- **Main conclusions:** Lorem ipsum. 
+- **Description:** This notebook implements sentiment classification usinga a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT.
+- **Main conclusions:**
+  1. The RoBERTa model is able to identify more sophisticated negative tweets compared to VADER. While VADER often predicts that the most negative tweets are single negative words, RoBERTa captures the nuanced meaning of the tweets. There is no need to filter out short tweets with only one word (e.g., "NO") as was necessary with VADER. These tweets are mostly critical of the actions of other parties, with the majority coming from PIS.
+  2. The most positive tweets identified by the RoBERTa model are more meaningful than those from the VADER method. They are notably longer and often reflect the authors' happiness following certain events, such as meetings with voters or positive election results.
+  3. According to the VADER analysis, the top 5 politicians with the highest 90th percentile of negative sentiment in their tweets include 4 individuals from PIS and 1 from Konfederacja. In contrast, the RoBERTa model also includes 4 politicians from PIS but replaces one individual with a politician from PO. This indicates a difference in predictions made by the VADER and BERT models.
+  4. The 90th percentile Positive Sentiment scores are quite comparable among the top 5 politicians. However, there are some changes when comparing the VADER method to the RoBERTa model. Three politicians remain the same, while the top two positions have changed, confirming a difference in predictions made by the two models.
+  5. The party rankings for negative sentiment are quite similar between the VADER and RoBERTa methods. The top three positions remain unchanged, but the parties in the 4th and 5th positions have switched places.
+  6. The RoBERTa model indicates that the PSL party has the highest average positive sentiment, while the VADER method ranks PL2050 in the top position. In both cases, PO is predicted to be in second place, and the last three positions remain consistent between the two models.
+  7. RoBERTa model is harder to interpret because it does not assign pure weights to each word as VADER does. However, it can better detect the most positive and negative tweets, making them more meaningful and truly expressive of positive or negative emotions.
 
 
 
@@ -64,7 +71,11 @@ In our analysis we try to answer questions:
 ### 7. Hate Speech Detection
 - **File:** [Hate Speech.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/7.%20Hate%20speech.ipynb)  
 - **Description:** Identifies and filters hate speech using machine learning techniques. Includes fine-tuning of the model and data augmentation.  
-- **Main conclusions:** Lorem ipsum.
+- **Main conclusions:** 
+  1. Models like Detoxify, which is based on BERT, enables to identify toxic tweets effectively.
+  2. According to the model, Michał Wójcik writes the most toxic tweets and consistently appears in the top two positions across all categories. Robert Biedroń is the second most toxic individual, alternating between first and second place in each category.
+  3. The parties PiS, Konfederacja, and NL exhibit a high 90th percentile of toxicity in their tweets, while PO, PL2050, and PSL show much lower toxicity scores.
+  4. For severe toxicity, there is not a significant gap between political parties, indicating that severe toxicity may be less prevalent in the tweets of Polish politicians.
 
 ---
 
