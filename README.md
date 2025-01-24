@@ -10,54 +10,51 @@ The project aims to analyse the sentiment of Polish politicians' statements on t
 ---
 
 ### 1. Data Downloader
-- **File:** [Downloader.ipynb](Downloader.ipynb)  
+- **File:** [Downloader.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/1.%20Downloader.ipynb)  
 - **Description:** This notebook handles downloading raw data from external sources. It ensures efficient and organized data retrieval.  
 - **Main conclusions:** Lorem ipsum.
 
 ---
 
 ### 2. Basic Data Cleaning
-- **File:** [Basic Data Cleaning.ipynb](Basic%20Data%20Cleaning.ipynb)  
+- **File:** [Basic Data Cleaning.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/2.%20Basic%20Data%20Cleaning.ipynb)  
 - **Description:** Performs preprocessing tasks such as removing missing values, handling duplicates, and text normalization to prepare the data for analysis.  
 - **Main conclusions:** Lorem ipsum.
 
 ---
 
 ### 3. Exploratory Data Analysis (EDA)
-- **File:** [EDA.ipynb](EDA.ipynb)  
+- **File:** [EDA.ipynb]([EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/3.%20EDA.ipynb))  
 - **Description:** Visualizes and summarizes data trends, distributions, and relationships. Includes insights into text characteristics for better feature engineering.  
 - **Main conclusions:** Lorem ipsum.
 
 ---
 
 ### 4. Sentiment Analysis
-- **File:** [Sentiment Analysis.ipynb](Sentiment%20Analysis.ipynb)  
+- **File:** [Sentiment Analysis.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/4.%20Sentiment%20analysis.ipynb)  
 - **Description:** Implements sentiment classification using machine learning techniques. This notebook predicts the sentiment of text data.  
 - **Main conclusions:** Lorem ipsum. 
 
-- **Additional Work-in-Progress Version:**  
-  - **File:** [Sentiment Analysis_zapas.ipynb](Sentiment%20Analysis_zapas.ipynb)  
-  - **Description:** Backup version of the sentiment analysis notebook, containing experimental approaches and incomplete tasks.  
-  - **Main conclusions:** Lorem ipsum.
+
 
 ---
 
 ### 5. Clustering
-- **File:** [Clustering.ipynb](Clustering.ipynb)  
+- **File:** [Clustering.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/5.%20Clustering.ipynb)  
 - **Description:** Applies clustering algorithms to group similar text data, aiding in unsupervised learning tasks like topic modeling and segmentation.  
 - **Main conclusions:** Lorem ipsum.
 
 ---
 
 ### 6. Network Analysis
-- **File:** [Network.ipynb](Network.ipynb)  
+- **File:** [Network.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/6.%20Network.ipynb)  
 - **Description:** Conducts network analysis to identify relationships and connections within text data. Suitable for social media or graph-based NLP tasks.  
 - **Main conclusions:** Lorem ipsum.
 
 ---
 
 ### 7. Hate Speech Detection
-- **File:** [Hate Speech.ipynb](Hate%20Speech.ipynb)  
+- **File:** [Hate Speech.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/7.%20Hate%20speech.ipynb)  
 - **Description:** Identifies and filters hate speech using machine learning techniques. Includes fine-tuning of the model and data augmentation.  
 - **Main conclusions:** Lorem ipsum.
 
