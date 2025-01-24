@@ -56,8 +56,8 @@ In our analysis we try to answer questions:
 
 ### 5. Clustering
 - **File:** [Clustering.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/5.%20Clustering.ipynb)  
-- **Description:** Applies clustering algorithms to group similar text data, aiding in unsupervised learning tasks like topic modeling and segmentation.  
-- **Main conclusions:**
+- **Description:** Lorem ipsum.
+- **Main conclusions:** Lorem ipsum.
 
 
 ---
@@ -85,7 +85,7 @@ In our analysis we try to answer questions:
 
 ### 8. Machine Learning Model
 - **File:** [ML_model.ipynb](ML_model.ipynb)  
-- **Description:** Trains and evaluates a comprehensive machine learning model that integrates various features and insights from prior notebooks to deliver high-performance predictions.  
+- **Description:** Lorem ipsum.
 - **Main conclusions:** Lorem ipsum.
 
 ---
