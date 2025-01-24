@@ -80,6 +80,7 @@ In our analysis we try to answer questions:
   2. According to the model, Michał Wójcik writes the most toxic tweets and consistently appears in the top two positions across all categories. Robert Biedroń is the second most toxic individual, alternating between first and second place in each category.
   3. The parties PiS, Konfederacja, and NL exhibit a high 90th percentile of toxicity in their tweets, while PO, PL2050, and PSL show much lower toxicity scores.
   4. For severe toxicity, there is not a significant gap between political parties, indicating that severe toxicity may be less prevalent in the tweets of Polish politicians.
+  5. Copilot refused to work on this file due to the presence of abusive words in politicians' tweets.
 
 ---
 
