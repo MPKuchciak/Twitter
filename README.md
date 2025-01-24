@@ -23,7 +23,7 @@ The project analyzes the sentiment of Polish politicians' statements on the X pl
 ---
 
 ### 3. Exploratory Data Analysis (EDA)
-- **File:** [EDA.ipynb]([EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/3.%20EDA.ipynb))  
+- **File:** [EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/3.%20EDA.ipynb) 
 - **Description:** Visualizes and summarizes data trends, distributions, and relationships.
 - **Main Conclusions:**
   1. The three most active users are Patryk Jaki (PIS), Bartłomiej Pejo (Konfederacja), and Włodzimierz Skalik (Konfederacja). Each of them published around 1000 tweets in one year, averaging more than 2.5 tweets per day.  
