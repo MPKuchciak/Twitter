@@ -5,7 +5,7 @@ Authors:
 - Mateusz Pliszka
 
 ## Project Overview:
-The project analyzes the sentiment of Polish politicians' statements on the X platform (formerly Twitter) to examine their communication strategies on social media. The study includes all political parties represented in the Sejm of the 10th term, with more than 10 members in the Sejm. The research methodology combines a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT. The analysis includes Exploratory Data Analysis (EDA), Sentiment Analysis, Clustering, Network Analysis, and Hate Speech Detection. 
+The project analyzes the sentiment of Polish politicians' statements on the X platform (formerly Twitter) to examine their communication strategies on social media. The study includes all political parties represented in the Sejm of the 10th term, with more than 10 members in the Sejm. Time range of analysed tweets includes 16 October 2023 - 15 October 2024 (1 year after the Parliament election in Poland). The research methodology combines a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT. The analysis includes Exploratory Data Analysis (EDA), Sentiment Analysis, Clustering, Network Analysis, and Hate Speech Detection. 
 In our analysis we try to answer questions:
 - Are there differences in sentiment across political parties? If so, which individuals and parties are associated with negative sentiment?
 - Are there any politician that receive significant attention in conversations?
