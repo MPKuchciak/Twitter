@@ -5,29 +5,34 @@ Authors:
 - Mateusz Pliszka
 
 ## Project Overview:
-The project aims to analyse the sentiment of Polish politicians' statements on the X platform (formerly Twitter), in the context of examining their communication strategies in social media. The analysis covers all political parties represented in the Sejm of the 10th term, provided that they have at least 10 members. The research methodology combines a lexical approach (VADER) withadvanced natural language processing (NLP) models such as BERT. In the reasearch was performed EDA, Sentiment Analysis, Clustering, Network Analysis and Hate Speech Detection. 
+The project analyzes the sentiment of Polish politicians' statements on the X platform (formerly Twitter) to examine their communication strategies on social media. The study includes all political parties represented in the Sejm of the 10th term, with more than 10 members in the Sejm. The research methodology combines a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT. The analysis includes Exploratory Data Analysis (EDA), Sentiment Analysis, Clustering, Network Analysis, and Hate Speech Detection
 
 ---
 
 ### 1. Data Downloader
 - **File:** [Downloader.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/1.%20Downloader.ipynb)  
-- **Description:** This notebook handles downloading raw data from external sources. It ensures efficient and organized data retrieval.  
-- **Main conclusions:** Lorem ipsum.
+- **Description:** This notebook handles downloading raw data from X. 
+- **Main conclusions:** Retrieving data from the X platform API is not straightforward, even with a paid subscription. To ensure the retrieval of all tweets, a custom function was implemented to verify whether all tweets from a specified time period were successfully collected. If any were missing, the function automatically narrowed the time range to enforce complete data retrieval.
 
 ---
 
 ### 2. Basic Data Cleaning
 - **File:** [Basic Data Cleaning.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/2.%20Basic%20Data%20Cleaning.ipynb)  
-- **Description:** Performs preprocessing tasks such as removing missing values, handling duplicates, and text normalization to prepare the data for analysis.  
-- **Main conclusions:** Lorem ipsum.
+- **Description:** Performs preprocessing tasks such as adding party affiliation, handling duplicates, text translation and text normalization to prepare the data for analysis.  
 
 ---
 
 ### 3. Exploratory Data Analysis (EDA)
 - **File:** [EDA.ipynb]([EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/3.%20EDA.ipynb))  
-- **Description:** Visualizes and summarizes data trends, distributions, and relationships. Includes insights into text characteristics for better feature engineering.  
-- **Main conclusions:** Lorem ipsum.
-
+- **Description:** Visualizes and summarizes data trends, distributions, and relationships.
+- **Main Conclusions:**
+  1. The three most active users are Patryk Jaki (PIS), Bartłomiej Pejo (Konfederacja), and Włodzimierz Skalik (Konfederacja). Each of them published around 1000 tweets in one year, averaging more than 2.5 tweets per day.  
+  2. The activity of politicians on X overlaps with important events in Poland. Peaks in activity are observed after the parliamentary election, the appointment of the Council of Ministers, and during the Euroelection and the flood in 2024.  
+  3. The most common tweet lengths are very short (up to 5 words) and around 10 words. Interestingly, there is also a notable peak at around 40 words. Each party shows a significant number of tweets with approximately 40 words.  
+  4. Politicians in Nowa Lewica use, on average, more than one emoji per tweet, while those in PL2050 use only 0.2 emojis per tweet on average.  
+  5. PO has the most active observers, with the highest average for each public metric. The second party with the highest average number of retweets and replies is PIS. However, in terms of tweet likes and quotes, PL2050 ranks second.  
+  6. Donald Tusk from PO is the most influential politician in Poland, exhibiting the highest engagement in response to his posts among all politicians.
+     
 ---
 
 ### 4. Sentiment Analysis
