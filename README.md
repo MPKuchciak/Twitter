@@ -57,14 +57,18 @@ In our analysis we try to answer questions:
 ### 5. Clustering
 - **File:** [Clustering.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/5.%20Clustering.ipynb)  
 - **Description:** Applies clustering algorithms to group similar text data, aiding in unsupervised learning tasks like topic modeling and segmentation.  
-- **Main conclusions:** Lorem ipsum.
+- **Main conclusions:**
+
 
 ---
 
 ### 6. Network Analysis
 - **File:** [Network.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/6.%20Network.ipynb)  
 - **Description:** Conducts network analysis to identify relationships and connections within text data. Suitable for social media or graph-based NLP tasks.  
-- **Main conclusions:** Lorem ipsum.
+- **Main conclusions:**
+  1. The highest number of mentions are attributed to political parties. However, notable accounts such as Donald Tusk, Grzegorz Braun, Ministerstwo Spraw Zagranicznych, Szymon Hołownia, and Władysław Kosiniak-Kamysz are also frequently mentioned.
+  2. Different political parties mention different people and organizations in their tweets. Some parties, like Konfederacja and PO, mostly mention their own members in the top 10 mentions. In contrast, other parties like NL, PIS, and PL2050 frequently mention people from other parties. Additionally, PSL includes organizations like Polish Railways, NATO, and European Public Health in their top 10 mentions.
+  3. Urszula Pasławska frequently mentions herself in her tweets.
 
 ---
 
