@@ -56,8 +56,10 @@ In our analysis we try to answer questions:
 
 ### 5. Clustering
 - **File:** [Clustering.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/5.%20Clustering.ipynb)  
-- **Description:** Lorem ipsum.
-- **Main conclusions:** Lorem ipsum.
+- **Description:** GMM and KNN clustering of tweets with embeddings using TF-IDF, Sentence Transformers and BERT CLS. Correlating 2 clusters with a binary variable indicating whether the party was ruling or no.
+- **Main conclusions:** 
+  1. The correlation values obtained were low.
+  2. The highest value of correlation equal to 0.14 was obtained using a KNN model with Sentence Transformers values.
 
 
 ---
@@ -86,8 +88,10 @@ In our analysis we try to answer questions:
 
 ### 8. Machine Learning Model
 - **File:** [ML_model.ipynb](ML_model.ipynb)  
-- **Description:** Lorem ipsum.
-- **Main conclusions:** Lorem ipsum.
+- **Description:** Development of SVM and logistic regression models basing on the word embeddings calculated for the clustering models. Includes hyperparameter tuning and cross validation. The independent variable was binary - being a ruling party or not.
+- **Main conclusions:** 
+  1. All models performed well with highest AUC = 0.85, obtained by logistic regression with TF-IDF embeddings and tuned SVM model with Bert CLS and sentence transformer.
+  2. Highest F-1 scores were obtained for the SVM model trained with 3 folds with hyperparameter tuning basing on word embeddings from sentece transformers model.
 
 ---
 
