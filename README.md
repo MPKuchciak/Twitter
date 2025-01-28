@@ -90,8 +90,8 @@ In our analysis we try to answer questions:
 - **File:** [ML_model.ipynb](ML_model.ipynb)  
 - **Description:** Development of SVM and logistic regression models basing on the word embeddings calculated for the clustering models. Includes hyperparameter tuning and cross validation. The independent variable was binary - being a ruling party or not.
 - **Main conclusions:** 
-  1. All models performed well with highest AUC = 0.85, obtained by logistic regression with TF-IDF embeddings and tuned SVM model with Bert CLS and sentence transformer.
-  2. Highest F-1 scores were obtained for the SVM model trained with 3 folds with hyperparameter tuning basing on word embeddings from sentece transformers model.
+  1. Logistic Regression shows consistent performance across different embedding methods, with minimal variation. The TF-IDF embedding method achieved the best performance. However, its advantage in performance over the other methods is negligible. The main advantage of TF-IDF is the time required to generate embeddings, which is almost immediate compared to the other methods.
+  2. SVM demonstrates better performance compared to Logistic Regression, particularly in handling the minority opposition class, which has fewer samples than the proposition class. This capability contributes to its overall better performance, achieving an F1-score of 0.81 and an AUC of 0.89.
 
 ---
 
