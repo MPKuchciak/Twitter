@@ -87,7 +87,7 @@ In our analysis we try to answer questions:
 ---
 
 ### 8. Machine Learning Model
-- **File:** [ML_model.ipynb](ML_model.ipynb)  
+- **File:** [ML_model.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/8.%20ML_model.ipynb) 
 - **Description:** Development of SVM and logistic regression models basing on the word embeddings calculated for the clustering models. Includes hyperparameter tuning and cross validation. The independent variable was binary - being a ruling party or not.
 - **Main conclusions:** 
   1. Logistic Regression shows consistent performance across different embedding methods, with minimal variation. The TF-IDF embedding method achieved the best performance. However, its advantage in performance over the other methods is negligible. The main advantage of TF-IDF is the time required to generate embeddings, which is almost immediate compared to the other methods.
