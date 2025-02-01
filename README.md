@@ -40,7 +40,7 @@ In our analysis we try to answer questions:
 
 ### 4. Sentiment Analysis
 - **File:** [Sentiment Analysis.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/4.%20Sentiment%20analysis.ipynb)  
-- **Description:** This notebook implements sentiment classification usinga a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT.
+- **Description:** This notebook implements sentiment classification using a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT.
 - **Main conclusions:**
   1. The RoBERTa model is able to identify more sophisticated negative tweets compared to VADER. While VADER often predicts that the most negative tweets are single negative words, RoBERTa captures the nuanced meaning of the tweets. There is no need to filter out short tweets with only one word (e.g., "NO") as was necessary with VADER. These tweets are mostly critical of the actions of other parties, with the majority coming from PIS.
   2. The most positive tweets identified by the RoBERTa model are more meaningful than those from the VADER method. They are notably longer and often reflect the authors' happiness following certain events, such as meetings with voters or positive election results.
