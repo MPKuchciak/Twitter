@@ -3,6 +3,7 @@ NEW/
 
 # Ignore the .vscode folder
 .vscode/
+"cleaned_data/" 
 "copies_in_case/" 
 "data/" 
 "tweets_data/" 
