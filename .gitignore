@@ -1,10 +1,13 @@
-# Ignore the NEW folder and all its contents 
-NEW/ 
+# Ignore all JSON and Pickle files
+*.json
+*.pkl
+*.csv
 
-# Ignore the .vscode folder
+# Ignore specific folders if they contain JSON or Pickle files
+NEW/
 .vscode/
-"cleaned_data/" 
-"copies_in_case/" 
-"data/" 
-"tweets_data/" 
-"tweets_translation/" 
+cleaned_data/
+copies_in_case/
+data/
+tweets_data/
+tweets_translation/
