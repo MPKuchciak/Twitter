@@ -1,13 +1,57 @@
-# Ignore all JSON and Pickle files
+# Ignore macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore editor and IDE specific folders
+.vscode/
+
+# Ignore common data file types if they are outputs, large, or sensitive
 *.json
 *.pkl
-*.csv
+*.csv 
 
-# Ignore specific folders if they contain JSON or Pickle files
+*.parquet
+*.zip
+
+# Ignore specific folders and ALL their content
+# These folders and everything inside them will be ignored.
 NEW/
-.vscode/
 cleaned_data/
 copies_in_case/
-data/
 tweets_data/
 tweets_translation/
+BACKUP/
+
+# Special handling for the 'data' folder:
+# Ignore all files and sub-folders within the data/ directory...
+data/**/*
+# ...BUT, do NOT ignore .gitkeep files (this allows tracking empty directory structures).
+!data/**/.gitkeep
+
+# Python specific files/folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.eggs/
+*.egg-info/
+dist/
+build/
+*.so
+
+# Jupyter Notebook specific (checkpoint files)
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
