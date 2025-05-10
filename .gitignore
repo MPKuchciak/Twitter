@@ -6,29 +6,6 @@
 # Ignore editor and IDE specific folders
 .vscode/
 
-# Ignore common data file types if they are outputs, large, or sensitive
-*.json
-*.pkl
-*.csv 
-
-*.parquet
-*.zip
-
-# Ignore specific folders and ALL their content
-# These folders and everything inside them will be ignored.
-NEW/
-cleaned_data/
-copies_in_case/
-tweets_data/
-tweets_translation/
-BACKUP/
-
-# Special handling for the 'data' folder:
-# Ignore all files and sub-folders within the data/ directory...
-data/**/*
-# ...BUT, do NOT ignore .gitkeep files (this allows tracking empty directory structures).
-!data/**/.gitkeep
-
 # Python specific files/folders
 __pycache__/
 *.pyc
@@ -55,3 +32,47 @@ build/
 # Temporary files
 *.tmp
 *.temp
+
+# --- Globally ignore common data file types that are outputs/large ---
+# This will ignore these file types in ANY folder, including 'data/'
+*.pkl
+*.zip
+*.parquet
+*.json 
+
+# --- CSV handling ---
+# If ALL CSVs are to be ignored (outputs/intermediate):
+*.csv
+
+# --- Ignore specific large output/temporary folders entirely ---
+# These folders and everything inside them will be ignored.
+NEW/
+cleaned_data/
+copies_in_case/
+# tweets_data/                  
+# tweets_translation/ # Same consideration as tweets_data/
+BACKUP/
+
+# --- Handling the 'data' folder ---
+# The 'data' folder itself and its subdirectories (like '05_final') will be tracked
+# if they contain any files not ignored by the rules above (e.g., *.parquet).
+# To ensure the 'data' folder and its subfolders (like '05_final') are tracked
+# even if they ONLY contain files that are ignored (like .parquet files),
+# you should place an empty file named '.gitkeep' inside each such directory.
+# For example:
+#   data/.gitkeep
+#   data/05_final/.gitkeep
+#   data/some_other_subfolder_to_track/.gitkeep
+
+# Un-ignore .gitkeep files everywhere within 'data/' to allow tracking of directory structure.
+!data/**/.gitkeep
+
+# If you have other specific files or types WITHIN 'data/' that are NOT covered by
+# global ignores but you want to ignore them, add those rules here:
+# e.g., data/some_folder/*.temp_output
+
+# If you have specific files within 'data/' that ARE covered by global ignores
+# (like *.csv or *.parquet) but you ABSOLUTELY NEED TO TRACK THEM (e.g., they are critical inputs),
+# you must explicitly un-ignore them with a '!' rule AFTER the global ignore.
+# Example (use with caution, ensure they are not generated outputs):
+# !data/critical_input_data/input.parquet
