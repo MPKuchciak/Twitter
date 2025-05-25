@@ -95,6 +95,14 @@ In our analysis we try to answer questions:
 
 ---
 
+
+### 9. Economic words
+- **File:** [009. EconomicWords.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/009.%20EconomicWords.ipynb) 
+- **Description:** Identification and flag tweets discussing economic topics from English-translated Polish Twitter data, based on a predefined list of 56 economic keywords and multi-word expressions (MWEs), while minimizing false positives.
+- **Main conclusions:** 
+
+---
+
 ## How to Use
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies.
