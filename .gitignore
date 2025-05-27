@@ -23,7 +23,7 @@ BACKUP/
 data/**/*
 !data/**/.gitkeep
 
-# Archive folder: track structure, ignore files within (NEW RULE)
+# Archive folder: track structure, ignore files within
 archive/**/*
 !archive/**/.gitkeep
 
@@ -36,10 +36,10 @@ __pycache__/
 # Existing virtual environment ignores
 env/
 venv/
-.venv/          # Common name for venvs
-*_env/          # Catches names like my_env/, twitter_env/
-.*_env/         # Catches names like .project_env/
-.*venv*/        # Catches names like .my_twitter_venv/
+.venv/          # /Scripts/python.exe
+*_env/
+.*_env/
+.*venv*/
 pip-log.txt
 pip-delete-this-directory.txt
 .tox/
