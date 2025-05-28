@@ -103,7 +103,14 @@ In our analysis we try to answer questions:
 
 ---
 
-## How to Use
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies.
-3. Navigate to the respective notebook for your desired task.
+## Setup 
+The project uses **Python 3.12.10**.
+
+## Usage 
+
+```
+git clone https://github.com/MPKuchciak/Twitter && cd Twitter
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
