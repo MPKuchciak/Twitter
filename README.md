@@ -29,11 +29,11 @@ In our analysis we try to answer questions:
 - **File:** [EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/3.%20EDA.ipynb) 
 - **Description:** Visualizes and summarizes data trends, distributions, and relationships.
 - **Main Conclusions:**
-  1. The three most active users are Patryk Jaki (PIS), Bartłomiej Pejo (Konfederacja), and Włodzimierz Skalik (Konfederacja). Each of them published around 1000 tweets in one year, averaging more than 2.5 tweets per day.  
+  1. The three most active users are Marcin Kulasek (NL), Marcin Kierwiński (PO), and Krzysztof Śmieszek (NL). Each of them published around 2000 tweets in one year, averaging more than 2.5 tweets per day.  
   2. The activity of politicians on X overlaps with important events in Poland. Peaks in activity are observed after the parliamentary election, the appointment of the Council of Ministers, and during the Euroelection and the flood in 2024.  
   3. The most common tweet lengths are very short (up to 5 words) and around 10 words. Interestingly, there is also a notable peak at around 40 words. Each party shows a significant number of tweets with approximately 40 words.  
-  4. Politicians in Nowa Lewica use, on average, more than one emoji per tweet, while those in PL2050 use only 0.2 emojis per tweet on average.  
-  5. PO has the most active observers, with the highest average for each public metric. The second party with the highest average number of retweets and replies is PIS. However, in terms of tweet likes and quotes, PL2050 ranks second.  
+  4. Politicians in Nowa Lewica use, on average almost one emoji per tweet, while those in PL2050 use only 0.3 emojis per tweet on average.  
+  5. PO and PIS consistently attract the highest engagement, leading in average values across all public metrics. These two parties alternate in the top positions depending on the metric, while other parties show significantly lower levels of engagement.
   6. Donald Tusk from PO is the most influential politician in Poland, exhibiting the highest engagement in response to his posts among all politicians.
      
 ---
