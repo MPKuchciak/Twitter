@@ -19,8 +19,9 @@ tweets_data/
 tweets_translation/
 BACKUP/
 
-# Data folder: track structure, ignore files within
+# Data folder: track structure and subdirectories, ignore files within
 data/**/*
+!data/**/
 !data/**/.gitkeep
 
 # Archive folder: track structure, ignore files within
