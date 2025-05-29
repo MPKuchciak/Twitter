@@ -43,11 +43,17 @@ In our analysis we try to answer questions:
 - **Description:** This notebook implements sentiment classification using a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT.
 - **Main conclusions:**
   1. The RoBERTa model is able to identify more sophisticated negative tweets compared to VADER. While VADER often predicts that the most negative tweets are single negative words, RoBERTa captures the nuanced meaning of the tweets. There is no need to filter out short tweets with only one word (e.g., "NO") as was necessary with VADER. These tweets are mostly critical of the actions of other parties, with the majority coming from PIS.
+
   2. The most positive tweets identified by the RoBERTa model are more meaningful than those from the VADER method. They are notably longer and often reflect the authors' happiness following certain events, such as meetings with voters or positive election results.
-  3. According to the VADER analysis, the top 5 politicians with the highest 90th percentile of negative sentiment in their tweets include 4 individuals from PIS and 1 from Konfederacja. In contrast, the RoBERTa model also includes 4 politicians from PIS but replaces one individual with a politician from PO. This indicates a difference in predictions made by the VADER and BERT models.
-  4. The 90th percentile Positive Sentiment scores are quite comparable among the top 5 politicians. However, there are some changes when comparing the VADER method to the RoBERTa model. Three politicians remain the same, while the top two positions have changed, confirming a difference in predictions made by the two models.
-  5. The party rankings for negative sentiment are quite similar between the VADER and RoBERTa methods. The top three positions remain unchanged, but the parties in the 4th and 5th positions have switched places.
-  6. The RoBERTa model indicates that the PSL party has the highest average positive sentiment, while the VADER method ranks PL2050 in the top position. In both cases, PO is predicted to be in second place, and the last three positions remain consistent between the two models.
+
+  3. According to the VADER analysis, the top 5 politicians with the highest 90th percentile of negative sentiment in their tweets include 2 individuals from NL and 1 from PO, PiS and Konfederacja. In contrast, the RoBERTa model also includes 2 politicians from NL and PO and 1 from PiS. This indicates a difference in predictions made by the VADER and BERT models. 
+
+  4. The 90th percentile Positive Sentiment scores are quite comparable among the top 5 politicians. However, there are significant changes when comparing the VADER method to the RoBERTa model. Only one politician stay the same. This discrepancy may be due to the similarity of scores, which can lead to shifts in ranking, especially among closely positioned candidates.
+
+  5. The party rankings for negative sentiment are similar between the VADER and RoBERTa methods.
+
+  6. The party rankings for average positive sentiment are also very similar between VADER and RoBERTa. The top two parties remain the same in both methods, while the parties ranked third and fourth, as well as fifth and sixth, switch places. 
+
   7. RoBERTa model is harder to interpret because it does not assign pure weights to each word as VADER does. However, it can better detect the most positive and negative tweets, making them more meaningful and truly expressive of positive or negative emotions.
 
 
