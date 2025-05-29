@@ -26,7 +26,7 @@ In our analysis we try to answer questions:
 ---
 
 ### 3. Exploratory Data Analysis (EDA)
-- **File:** [EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/3.%20EDA.ipynb) 
+- **File:** [EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/003.%20EDA.ipynb) 
 - **Description:** Visualizes and summarizes data trends, distributions, and relationships.
 - **Main Conclusions:**
   1. The three most active users are Marcin Kulasek (NL), Marcin Kierwiński (PO), and Krzysztof Śmieszek (NL). Each of them published around 2000 tweets in one year, averaging more than 2.5 tweets per day.  
