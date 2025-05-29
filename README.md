@@ -13,20 +13,20 @@ In our analysis we try to answer questions:
 ---
 
 ### 1. Data Downloader
-- **File:** [Downloader.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/1.%20Downloader.ipynb)  
+- **File:** [Downloader.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/001.Downloader.ipynb) 
 - **Description:** This notebook handles downloading raw data from X. 
 - **Main conclusions:** Retrieving data from the X platform API is not straightforward, even with a paid subscription. To ensure the retrieval of all tweets, a custom function was implemented to verify whether all tweets from a specified time period were successfully collected. If any were missing, the function automatically narrowed the time range to enforce complete data retrieval.
 
 ---
 
 ### 2. Basic Data Cleaning
-- **File:** [Basic Data Cleaning.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/2.%20Basic%20Data%20Cleaning.ipynb)  
+- **File:** [Basic Data Cleaning.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/002.Basic%20Data%20Cleaning.ipynb)  
 - **Description:** Performs preprocessing tasks such as adding party affiliation, handling duplicates, text translation and text normalization to prepare the data for analysis.  
 
 ---
 
 ### 3. Exploratory Data Analysis (EDA)
-- **File:** [EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/3.%20EDA.ipynb) 
+- **File:** [EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/003.%20EDA.ipynb) 
 - **Description:** Visualizes and summarizes data trends, distributions, and relationships.
 - **Main Conclusions:**
   1. The three most active users are Marcin Kulasek (NL), Marcin Kierwiński (PO), and Krzysztof Śmieszek (NL). Each of them published around 2000 tweets in one year, averaging more than 2.5 tweets per day.  
@@ -39,7 +39,7 @@ In our analysis we try to answer questions:
 ---
 
 ### 4. Sentiment Analysis
-- **File:** [Sentiment Analysis.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/4.%20Sentiment%20analysis.ipynb)  
+- **File:** [Sentiment Analysis.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/004.%20Sentiment%20analysis.ipynb)  
 - **Description:** This notebook implements sentiment classification using a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT.
 - **Main conclusions:**
   1. The RoBERTa model is able to identify more sophisticated negative tweets compared to VADER. While VADER often predicts that the most negative tweets are single negative words, RoBERTa captures the nuanced meaning of the tweets. There is no need to filter out short tweets with only one word (e.g., "NO") as was necessary with VADER. These tweets are mostly critical of the actions of other parties, with the majority coming from PIS.
@@ -83,7 +83,7 @@ In our analysis we try to answer questions:
 ---
 
 ### 7. Hate Speech Detection
-- **File:** [Hate Speech.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/7.%20Hate%20speech.ipynb)  
+- **File:** [Hate Speech.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/007.%20Hate%20speech.ipynb)  
 - **Description:** Identifies and filters hate speech using machine learning techniques. Includes fine-tuning of the model and data augmentation.  
 - **Main conclusions:** 
   1. Models like Detoxify, which is based on BERT, enables to identify toxic tweets effectively.
@@ -105,7 +105,7 @@ In our analysis we try to answer questions:
 
 
 ### 9. Economic words
-- **File:** [009. EconomicWords.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/009.%20EconomicWords.ipynb) 
+- **File:** [009. EconomicWords.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/009.EconomicWords.ipynb) 
 - **Description:** Identification and flag tweets discussing economic topics from English-translated Polish Twitter data, based on a predefined list of 56 economic keywords and multi-word expressions (MWEs), while minimizing false positives.
 - **Main conclusions:** 
 
