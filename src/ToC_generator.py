@@ -91,4 +91,4 @@ def generate_toc_from_jupyter_notebook(notebook_path):
 # 2. In a Python cell WITHIN THAT SAME NOTEBOOK (or another notebook/script), call the function, providing the path to the notebook file.
 # 3. Copy the Markdown output printed by the function.
 # 4. Create a new Markdown cell at the top of THE NOTEBOOK YOU ANALYZED.
-# 5. Paste the copied Markdown into it and run the cell. You should see a clickable Table of Contents.s
+# 5. Paste the copied Markdown into it and run the cell. You should see a clickable Table of Contents.
