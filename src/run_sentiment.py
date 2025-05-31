@@ -92,7 +92,7 @@ def run_sentiment_analysis(models, nicknames, text_cols, text_col_suffixes,
     if torch.cuda.is_available():
         gpu_name = torch.cuda.get_device_name()
         gpu_memory = torch.cuda.get_device_properties(0).total_memory / 1e9
-        print(f"  - GPU: {gpu_name}")
+        #print(f"  - GPU: {gpu_name}")
         print(f"  - Memory: {gpu_memory:.1f} GB")
     
     # Step 3: Load models
