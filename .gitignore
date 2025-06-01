@@ -23,6 +23,8 @@ BACKUP/
 data/**/*
 !data/**/
 !data/**/.gitkeep
+!data/00.init/
+!data/00.init/**
 
 # Archive folder: track structure, ignore files within
 archive/**/*
