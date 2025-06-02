@@ -26,7 +26,7 @@ In our analysis we try to answer questions:
 ---
 
 ### 3. Exploratory Data Analysis (EDA)
-- **File:** [EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/003.%20EDA.ipynb) 
+- **File:** [EDA.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/003.EDA.ipynb) 
 - **Description:** Visualizes and summarizes data trends, distributions, and relationships.
 - **Main Conclusions:**
   1. The three most active users are Marcin Kulasek (NL), Marcin Kierwiński (PO), and Krzysztof Śmieszek (NL). Each of them published around 2000 tweets in one year, averaging more than 2.5 tweets per day.  
@@ -39,7 +39,7 @@ In our analysis we try to answer questions:
 ---
 
 ### 4. Sentiment Analysis
-- **File:** [Sentiment Analysis.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/004.%20Sentiment%20analysis.ipynb)  
+- **File:** [Sentiment Analysis.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/004.Sentiment%20analysis.ipynb)  
 - **Description:** This notebook implements sentiment classification using a lexical approach using VADER with advanced natural language processing (NLP) models such as BERT.
 - **Main conclusions:**
   1. The RoBERTa model is able to identify more sophisticated negative tweets compared to VADER. While VADER often predicts that the most negative tweets are single negative words, RoBERTa captures the nuanced meaning of the tweets. There is no need to filter out short tweets with only one word (e.g., "NO") as was necessary with VADER. These tweets are mostly critical of the actions of other parties, with the majority coming from PIS.
@@ -71,7 +71,7 @@ In our analysis we try to answer questions:
 ---
 
 ### 6. Network Analysis
-- **File:** [Network.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/6.%20Network.ipynb)  
+- **File:** [Network.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/006.Network.ipynb)  
 - **Description:** Conducts network analysis of politicians based on who mentioned whom in tweets. 
 - **Main conclusions:**
   1. The highest number of mentions are attributed to political parties. However, notable accounts such as Donald Tusk, Szynon Hołownia, Mateusz Morawiecki and Grzegorz Braun are also frequently mentioned.
@@ -83,7 +83,7 @@ In our analysis we try to answer questions:
 ---
 
 ### 7. Hate Speech Detection
-- **File:** [Hate Speech.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/007.%20Hate%20speech.ipynb)  
+- **File:** [Hate Speech.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/007.Hate%20speech.ipynb)  
 - **Description:** Identifies and filters hate speech using machine learning techniques. Includes fine-tuning of the model and data augmentation.  
 - **Main conclusions:** 
   1. Models like Detoxify, which is based on BERT, enables to identify toxic tweets effectively.
@@ -116,10 +116,12 @@ The project uses **Python 3.12.10**.
 
 ## Usage 
 
+For some instances torch based based on build 2.7.0 was used.
+
 ```
 git clone https://github.com/MPKuchciak/Twitter && cd Twitter
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121  # specify correct cuda version
+pip install torch>=2.5.1 torchvision>=0.20.1 torchaudio>=2.5.1 --index-url https://download.pytorch.org/whl/cu121  # specify correct cuda version
 ```
