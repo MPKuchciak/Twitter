@@ -115,9 +115,6 @@ In our analysis we try to answer questions:
 The project uses **Python 3.12.10**.
 
 ## Usage 
-
-For some instances torch based based on build 2.7.0 was used.
-
 ```
 git clone https://github.com/MPKuchciak/Twitter && cd Twitter
 python -m venv .venv
