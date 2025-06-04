@@ -103,11 +103,18 @@ In our analysis we try to answer questions:
 
 ---
 
-
 ### 9. Economic words
 - **File:** [009. EconomicWords.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/009.EconomicWords.ipynb) 
 - **Description:** Identification and flag tweets discussing economic topics from English-translated Polish Twitter data, based on a predefined list of 56 economic keywords and multi-word expressions (MWEs), while minimizing false positives.
+- **Main conclusions:**
+
+---
+
+### 010.Affiliattions
+- **File:** [010.Affiliattions.ipynb]([https://github.com/MPKuchciak/Twitter/blob/main/notebooks/009.EconomicWords.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/010.Affiliattions.ipynb)) 
+- **Description:** This notebook presents affiliation analysis of precise polititians' position in structures in relation to tweets associated with economy.
 - **Main conclusions:** 
+
 
 ---
 
