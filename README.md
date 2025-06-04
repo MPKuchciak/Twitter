@@ -110,8 +110,8 @@ In our analysis we try to answer questions:
 
 ---
 
-### 010.Affiliattions
-- **File:** [010.Affiliattions.ipynb]([https://github.com/MPKuchciak/Twitter/blob/main/notebooks/009.EconomicWords.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/010.Affiliattions.ipynb)) 
+### 10. Affiliattions
+- **File:** [010.Affiliattions.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/010.Affiliattions.ipynb)
 - **Description:** This notebook presents affiliation analysis of precise polititians' position in structures in relation to tweets associated with economy.
 - **Main conclusions:** 
 
