@@ -323,37 +323,91 @@ def plot_party_ranks_over_time(df, flag_col, party_col='party', method_name='Eco
     
     # 4. Growth trends with improved label positioning
     ax4 = fig.add_subplot(gs[2, 1])
-    periods = sorted(ranks_df['Period'].unique())
-    available_years = set(p.split('-')[0] for p in periods)
-    
+    # periods = sorted(ranks_df['Period'].unique()) # This line can be kept if 'periods' is used elsewhere, or removed if not needed for this specific block anymore.
+    # available_years = set(p.split('-')[0] for p in periods) # Similarly, this specific check for 2023 & 2024 is replaced.
+
     growth_data = []
-    if '2024' in available_years and '2023' in available_years:
-        year_2023_periods = [p for p in periods if p.startswith('2023')]
-        year_2024_periods = [p for p in periods if p.startswith('2024') and int(p.split('-')[1]) <= 10]
-        year_2023_comparable = [p for p in year_2023_periods if int(p.split('-')[1]) <= 10]
-        
+
+    # Define your target period start and end strings
+    # Period 1: October 2022 to October 2023
+    period1_start_str = '2022-10'
+    period1_end_str = '2023-10'
+
+    # Period 2: October 2023 to October 2024
+    period2_start_str = '2023-10'
+    period2_end_str = '2024-10'
+
+    # --- New section to generate period lists ---
+    try:
+        # Generate list of 'YYYY-MM' strings for Period 1
+        target_periods1_list = pd.period_range(start=period1_start_str, end=period1_end_str, freq='M').strftime('%Y-%m').tolist()
+        # Generate list of 'YYYY-MM' strings for Period 2
+        target_periods2_list = pd.period_range(start=period2_start_str, end=period2_end_str, freq='M').strftime('%Y-%m').tolist()
+    except Exception as e:
+        print(f"Error generating pandas period ranges: {e}. Ensure pandas is imported.")
+        # If period ranges can't be generated, create an empty growth_df and plot an empty chart or error message
+        growth_df = pd.DataFrame(columns=['Party', 'Growth'])
+        ax4.text(0.5, 0.5, "Error: Could not define periods for growth calculation.",
+                 horizontalalignment='center', verticalalignment='center', transform=ax4.transAxes)
+        ax4.set_title(f'Activity Growth\n(Data Error)', fontsize=14, pad=15)
+        # Continue to the rest of the function to allow other plots to be generated if possible
+        # Or handle more gracefully depending on desired behavior
+    else:
+        # --- End of new section ---
+
         for party in top_parties:
             party_data = ranks_df[ranks_df['Party'] == party]
-            activity_2023 = party_data[party_data['Period'].isin(year_2023_comparable)]['Count'].sum()
-            activity_2024 = party_data[party_data['Period'].isin(year_2024_periods)]['Count'].sum()
-            
-            if activity_2023 > 0:
-                growth = ((activity_2024 - activity_2023) / activity_2023) * 100
-            else:
-                growth = 100 if activity_2024 > 0 else 0
+
+            # Sum counts for Period 1
+            activity_period1 = party_data[party_data['Period'].isin(target_periods1_list)]['Count'].sum()
+            # Sum counts for Period 2
+            activity_period2 = party_data[party_data['Period'].isin(target_periods2_list)]['Count'].sum()
+
+            if activity_period1 > 0:
+                growth = ((activity_period2 - activity_period1) / activity_period1) * 100
+            elif activity_period2 > 0: # If activity_period1 is 0, but activity_period2 is positive
+                growth = 100.0 # Representing growth from a zero base, can be adjusted (e.g., np.inf or a large number)
+            else: # Both activity_period1 and activity_period2 are 0
+                growth = 0.0
             growth_data.append({'Party': party, 'Growth': growth})
-    
+
     growth_df = pd.DataFrame(growth_data).sort_values('Growth')
-    colors_growth = [party_colors.get(p, 'gray') for p in growth_df['Party']]
-    bars = ax4.barh(range(len(growth_df)), growth_df['Growth'], 
-                   color=colors_growth, alpha=0.7, height=0.7)
     
-    ax4.set_yticks(range(len(growth_df)))
-    ax4.set_yticklabels(growth_df['Party'], fontsize=11)
-    ax4.set_xlabel('Growth Rate (%)', fontsize=12)
-    ax4.set_title('Activity Growth\n(2024 vs 2023)', fontsize=14, pad=15)
-    ax4.axvline(0, color='black', linewidth=0.8)
-    ax4.grid(axis='x', alpha=0.3)
+    # Check if growth_df is empty before proceeding with plotting
+    if not growth_df.empty:
+        colors_growth = [party_colors.get(p, 'gray') for p in growth_df['Party']]
+        bars = ax4.barh(range(len(growth_df)), growth_df['Growth'],
+                        color=colors_growth, alpha=0.7, height=0.7)
+
+        ax4.set_yticks(range(len(growth_df)))
+        ax4.set_yticklabels(growth_df['Party'], fontsize=11)
+        ax4.set_xlabel('Growth Rate (%)', fontsize=12)
+        # Update the title to reflect the new comparison periods
+        ax4.set_title(f'Activity Growth\n({period2_start_str}--{period2_end_str} vs {period1_start_str}--{period1_end_str})',
+                      fontsize=14, pad=15)
+        ax4.axvline(0, color='black', linewidth=0.8)
+        ax4.grid(axis='x', alpha=0.3)
+
+        for i, (bar, growth_value) in enumerate(zip(bars, growth_df['Growth'])): # Renamed 'growth' to 'growth_value'
+            bar_width = bar.get_width()
+            if bar_width >= 0:
+                label_x = bar_width + 1
+                ha = 'left'
+            else:
+                label_x = bar_width - 1
+                ha = 'right'
+            ax4.text(label_x, bar.get_y() + bar.get_height()/2,
+                     f'{growth_value:.0f}%', ha=ha, va='center', fontsize=11, weight='bold') # Use 'growth_value'
+
+        x_min, x_max = ax4.get_xlim()
+        # Increase padding slightly for labels that might be larger due to higher growth percentages
+        padding = max(5, abs(growth_df['Growth'].max() * 0.05 if not growth_df['Growth'].empty else 0), abs(growth_df['Growth'].min() * 0.05 if not growth_df['Growth'].empty else 0) )
+        ax4.set_xlim(x_min - padding, x_max + padding)
+
+    else: # Handle case where growth_df is empty (e.g. no data for specified periods)
+        ax4.text(0.5, 0.5, "No data available for these growth periods.",
+                 horizontalalignment='center', verticalalignment='center', transform=ax4.transAxes)
+        ax4.set_title(f'Activity Growth\n(No Data)', fontsize=14, pad=15)
     
     # Position percentage labels at the end of bars with proper spacing
     for i, (bar, growth) in enumerate(zip(bars, growth_df['Growth'])):
@@ -375,7 +429,7 @@ def plot_party_ranks_over_time(df, flag_col, party_col='party', method_name='Eco
     return fig, ranks_df
 
 
-def plot_top_contributors_ranks(df, flag_col, user_col='username', party_col='party',
+def plot_top_contributors_ranks(df, flag_col, user_col='name', party_col='party',
                                method_name='Economic Discourse', top_n=10,
                                period_freq='2M', min_tweets=3, date_col='created_at',
                                figsize=(24, 16)):
@@ -433,10 +487,10 @@ def plot_top_contributors_ranks(df, flag_col, user_col='username', party_col='pa
         if not user_data.empty:
             user_party = user_data['Party'].iloc[0]
             color = party_colors.get(user_party, 'gray')
-            clean_name = user.replace('@', '').split('_')[0][:8]
+            display_name_ax1 = str(user)[:20] if len(str(user)) > 20 else str(user) # Example: truncate if longer than 20 chars 
             ax1.plot(user_data['Period'], user_data['Rank'], 
                     marker='o', linewidth=2.5, markersize=6,
-                    label=f"{clean_name} ({user_party})", color=color, alpha=0.8)
+                    label=f"{display_name_ax1 } ({user_party})", color=color, alpha=0.8)
     
     ax1.set_ylim(16, 0)
     ax1.set_yticks(range(1, 16, 2))
@@ -675,7 +729,7 @@ def generate_all_rank_plots(df, method='Final_Refined', period_freq='M', date_co
         figures.append(('Party Rankings', fig))
     
     # 3. Contributors
-    if flag_col in df.columns and 'username' in df.columns:
+    if flag_col in df.columns and 'name' in df.columns:
         print(f"\n[3/4] Generating contributor rankings...")
         fig, data = plot_top_contributors_ranks(
             df, flag_col, method_name=method, period_freq='2M', date_col=date_col)
