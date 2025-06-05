@@ -103,10 +103,24 @@ In our analysis we try to answer questions:
 
 ---
 
-### 9. Economic words
-- **File:** [009. EconomicWords.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/009.EconomicWords.ipynb) 
-- **Description:** Identification and flag tweets discussing economic topics from English-translated Polish Twitter data, based on a predefined list of 56 economic keywords and multi-word expressions (MWEs), while minimizing false positives.
-- **Main conclusions:**
+### 9.a. Economic words extraction
+- **File:** [009a.EconomicWords_extraction.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/009a.EconomicWords_extraction.ipynb) 
+- **Description:** Identification and flagging tweets discussing economic topics from English-translated Polish Twitter data, based on a predefined list of 56 economic keywords and multi-word expressions (MWEs), while minimizing false positives.
+- **Main conclusions:** 6073 tweets were identified as economic tweets, which is 12.57% of the total number of tweets. The most frequently used economic words are "fund", "energy", "budget", and "taxes". Many methods were explored to extract economic tweets, including TF-IDF, BERT embeddings, and a custom dictionary-based approach. The dictionary-based method was chosen for effectiveness in identifying economic tweets and lower rate of false outcomes than other methods.
+
+---
+
+### 9.b. Economic words plot
+- **File:** [009b.EconomicWords_plots.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/009b.EconomicWords_plots.ipynb) 
+- **Description:** Some plots and functions related to plotting for the exploratory analysis on extracted economic tweets from 9.a. notebook.
+- **Main conclusions:** Konfederacja was ranked as first most active part in the economic tweets most of time of research period. The election dates (both parliamentary and European) are visible in the activity of politicians. So is Us Elections. Konfederacja increased its economic tweet activity by 38% after Polish Parliamentary elections, PiS by 23% and PL2050 by 11%. PSL, NL and PO dectreased their actibity by 23%, 25% and 29% respectively. 
+
+---
+
+### 9.c. Economic words sentiment
+- **File:** [009c.EconomicWords_sentiment.ipynb](https://github.com/MPKuchciak/Twitter/blob/main/notebooks/009c.EconomicWords_sentiment.ipynb)
+- **Description:** Notebook performs sentiment analysis on economic tweets extracted in 9.a. notebook using Bert based models. We perfomed sentiment analysis on tweets translated to English and in both demojized and non-demojized versions of tweets.
+- **Main conclusions:** 
 
 ---
 
