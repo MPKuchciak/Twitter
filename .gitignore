@@ -60,3 +60,4 @@ build/
 *.log
 *.tmp
 *.temp
+*.pdf
