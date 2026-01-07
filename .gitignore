@@ -28,6 +28,7 @@ data/**/*
 
 # Archive folder: track structure, ignore files within
 archive/**/*
+Archive/**/*
 !archive/**/.gitkeep
 
 # Python build artifacts & virtual environments
