@@ -20,7 +20,7 @@ emoji==2.14.1
 en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl#sha256=293e9547a655b25499198ab15a525b05b9407a75f10255e405e8c3854329ab63
 executing==2.2.0
 fastparquet==2024.11.0
-filelock==3.13.1
+filelock==3.20.3
 flashtext==2.7
 fonttools==4.60.2
 fsspec==2025.5.1
@@ -69,7 +69,7 @@ pyahocorasick==2.1.0
 pyarrow==20.0.0
 pydantic==2.11.5
 pydantic_core==2.33.2
-Pygments==2.19.1
+Pygments==2.20.0
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 pytz==2025.2
@@ -77,7 +77,7 @@ pywin32==310
 PyYAML==6.0.2
 pyzmq==26.4.0
 regex==2024.11.6
-requests==2.32.4
+requests==2.33.0
 requests-oauthlib==2.0.0
 rich==14.0.0
 safetensors==0.5.3
