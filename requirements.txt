@@ -27,7 +27,7 @@ fsspec==2025.5.1
 fuzzywuzzy==0.18.0
 hf-xet==1.1.2
 huggingface-hub==0.32.2
-idna==3.10
+idna==3.15
 ipykernel==6.29.5
 ipython==9.2.0
 ipython_pygments_lexers==1.1.1
